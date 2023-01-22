@@ -1098,7 +1098,7 @@ export const MUSICDIYCOLLECTIVESPHL = [
   },
   {
     title: "Save The Cat Touring",
-    summary: "“Supporting Bipoc, Femme, & LGBTQ+ artists. 📍East Coast | est. 2022. a resource & log of gigs / artists. seeking creatives!!”",
+    summary: "“Save The Cat is an artist management service and touring agency for lgbtq+ & bipoc artists. Devoted to booking at Safe spaces and ensuring quality DIY show practice, agents & organizers host and run Save The Cat affiliated concerts in Philadelphia, NYC, and upstate New York.”",
     mainLink: "https://linktr.ee/savethecattouring",
     insta: "https://www.instagram.com/savethecattouring/",
   },
