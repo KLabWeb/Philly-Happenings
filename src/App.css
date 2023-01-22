@@ -3,6 +3,7 @@
   background-color: black;
   font-family: monospace;
   width: 100vw;
+  word-wrap: break-word;
 }
 
 p {
@@ -51,12 +52,6 @@ p {
   width: 60%;
 }
 
-@media screen and (max-width: 950px){
-  .CardContainer{
-    width: 95%;
-  }
-}
-
 .hidingCardContaier {
   display: none;
 }
@@ -73,8 +68,6 @@ p {
 .dateCard li, .forageCard li {
   font-size: 1.2em;
 }
-
-
 
 @media screen and (min-width: 950px){
   .forageCard {
@@ -126,7 +119,7 @@ p {
 .card .link {
   color: #00ffff;
   margin: 0px;
-  margin-bottom: 4px;
+  margin-bottom: .6em;
   font-size: 1.2em;
 }
 
@@ -154,4 +147,10 @@ p {
   display: inline-block;
   position: relative;
   bottom: 2px;
+}
+
+@media screen and (max-width: 950px){
+  .CardContainer{
+    width: 95%;
+  }
 }
