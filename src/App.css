@@ -30,7 +30,7 @@ p {
 .aboutCard a {
   color: #00ffff;
   display: inline-block;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 .updateImage {
@@ -50,6 +50,12 @@ p {
   width: 60%;
 }
 
+@media screen and (max-width: 950px){
+  .CardContainer{
+    width: 95%;
+  }
+}
+
 .hidingCardContaier {
   display: none;
 }
@@ -67,21 +73,21 @@ p {
   font-size: 1.2em;
 }
 
-.aboutCard {
-  width: 50%;
-  margin-bottom: 50px;
+
+
+@media screen and (min-width: 950px){
+  .forageCard {
+    width: 70%;
+  }
+
+  .aboutCard {
+    width: 50%;
+    margin-bottom: 50px;
+  }
 }
 
 #updates {
   margin-top: 50px;
-}
-
-.forageCard {
-  width: 70%;
-}
-
-.indexImageCard {
-  width:
 }
 
 .imageIndexGrid{

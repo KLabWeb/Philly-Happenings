@@ -25,8 +25,10 @@ export const ImageIndex = () => {
           <img src={anime} alt="anime" title="Anime"/>
           <img src={cycling} alt="cycling" title="Cycling" />
           <img src={film} alt="film" title="Film"/>
+          <img src={general} alt="general" title="General"/>
           <img src={green} alt="green" title="Green"/>
           <img src={literature} alt="literature" title="Literature"/>
+          <img src={music} alt="music" title="Music"/>
           <img src={photography} alt="photography" title="Photography"/>
           <img src={theater} alt="theater" title="Theater"/>
         </div>

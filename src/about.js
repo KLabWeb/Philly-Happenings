@@ -1,8 +1,6 @@
 import React from "react";
 import "./App.css";
 
-import animeSociety from './images/animesociety.png'
-
 export const About = () => {
   return (
     <div key={Math.random()} >

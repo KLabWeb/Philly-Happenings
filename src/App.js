@@ -1,6 +1,5 @@
 import './App.css';
 import { Header } from "./header";
-import { ImageIndex } from "./imageIndex"
 import { EventsByDateCards } from "./eventsByDateContainer";
 import { Cards } from "./cardContainer";
 
