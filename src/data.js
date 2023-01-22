@@ -1938,8 +1938,8 @@ export const MUSICDIYWIP = [
     mainLink: "https://www.instagram.com/risingtidephl/",
   },
   {
-    title:" ",
-    mainLink: "Sweet Sixteen",
+    title:"Sweet Sixteen",
+    mainLink: "",
   },
   {
     title:" ",
