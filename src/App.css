@@ -1,0 +1,150 @@
+.App {
+  text-align: center;
+  background-color: black;
+  font-family: monospace;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+.header {
+  display: flex;
+  flex-flow: column;
+}
+
+.header .pageTitle {
+  color: #00cc00;
+  font-size: 55px;
+  margin-bottom: 50px;
+}
+
+.headerIndex a {
+  font-size: 1.4em;
+  color: #00ffff;
+  margin-top: 10px;
+  text-align: left;
+  display: block;
+}
+
+.aboutCard a {
+  color: #00ffff;
+  display: inline-block;
+  font-size: 1.2em;
+}
+
+.updateImage {
+  margin-top: 20px;
+  max-width: 100%;
+}
+
+.header .category {
+  margin-top: 0;
+}
+
+.CardContainer{
+  display: flex;
+  flex-flow: column;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.hidingCardContaier {
+  display: none;
+}
+
+.card, .dateCard, .headerIndex, .forageCard, .aboutCard, .indexImageCard {
+  padding: 0em 3em 1em 3em;
+  max-width: 100%;
+  margin: auto;
+  border: 2px solid white;
+  border-radius: 5px;
+  margin-bottom: 9px;
+}
+
+.dateCard li, .forageCard li {
+  font-size: 1.2em;
+}
+
+.aboutCard {
+  width: 50%;
+  margin-bottom: 50px;
+}
+
+#updates {
+  margin-top: 50px;
+}
+
+.forageCard {
+  width: 70%;
+}
+
+.indexImageCard {
+  width:
+}
+
+.imageIndexGrid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-row-gap: 30px;
+  grid-column-gap: 100px;
+  margin: 3em 3em 3em 3em;
+}
+
+.indexImageCard img {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+.indexImageCard img:hover {
+  transform: scale(1.2);
+}
+
+.card > * {
+  display: block;
+}
+
+.card .title, .dateTitle {
+  color: #00cc00;
+  margin-bottom: 5px;
+}
+
+.card .summary {
+  color: #ff00ff;
+  margin-bottom: 5px;
+}
+
+.card .link {
+  color: #00ffff;
+  margin: 0px;
+  margin-bottom: 4px;
+  font-size: 1.2em;
+}
+
+.card .suggestedFollow, .dateItem, .forageItem, .aboutCard p {
+  color: #ffff00;
+  margin-bottom: 2px;
+}
+
+.dateTitle, .dateItem, .forageItem, .aboutCard p {
+  text-align: left;
+}
+
+.periodList {
+  margin: 0;
+}
+
+.category {
+  color: rgb(170, 34, 249);
+  display: inline-block;
+  margin-top: 50px;
+}
+
+.wip {
+  color: #ffff00;
+  display: inline-block;
+  position: relative;
+  bottom: 2px;
+}
