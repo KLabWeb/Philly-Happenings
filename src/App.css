@@ -66,10 +66,11 @@ p {
   padding: 0em 3em 1em 3em;
   max-width: 100%;
   margin: auto;
-  border: 2px solid;
+  border-width: 2px;
+  border-style: solid;
   border-radius: 5px;
   margin-bottom: 9px;
-  border-color: rgb(255, 255, 255);
+  border-color: rgb(255, 255, 255) !important;
 }
 
 .dateCard li, .forageCard li {
