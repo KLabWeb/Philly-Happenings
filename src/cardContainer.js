@@ -7,7 +7,7 @@ import { ANARCHISTPHILLY, NYCANARCHIST, ANIMEPHILLY, ANIMENYC, ANIMEDC, CYCLING,
   GREENMARKETS, GREENFISHING, GREENFORAGINGGENERAL, GREENGENERAL, GREENHIKINGPARKS,
   LITERATURE, MUSICABOVEPHILLY, MUSICABOVEPITTS, MUSICABOVENJ, MUSICBLUEGRASS,
   MUSICCLASSICAL, MUSICDIYCOLLECTIVESPHL, MUSICDIYCOLLECTIVESSC,MUSICDIYCOLLECTIVESPITTS,
-  MUSICDIYCOLLECTIVESNYC, MUSICDIYGENPHL, MUSICDIYGENNJ, MUSICDIYGENNYC, MUSICDIYSPOTSPHL,
+  MUSICDIYGENPHL, MUSICDIYGENNJ, MUSICDIYGENNYC, MUSICDIYSPOTSPHL,
   MUSICDIYSPOTSSC, MUSICDIYSPOTSPITTS, MUSICDIYSPOTSNJ, MUSICELECTROINDUST,
   MUSICHIPHOPPHL, MUSICMETAL, MUSICREGIONAL, PHOTOGRAPHY, THEATER, MUSICDIYWIP} from "./data";
 import { FRUITBERRY, MUSHROOM, MUSHROOMPSY, GREENS } from "./foragingData"
@@ -205,13 +205,6 @@ export const Cards = () => {
 
     <h1 id="music-diy-coll-pitts" className="category">Music: DIY Collectives, Show Listings, & Labels - Pittsburgh</h1> <h2 className="wip"> (work in progress)</h2>
     {MUSICDIYCOLLECTIVESPITTS.map(data => {
-        return (
-          <DetailCard key={data.title} data={data}/>
-        );
-    })}
-
-    <h1 id="music-diy-coll-nyc" className="category">Music: DIY Collectives, Show Listings, & Labels - NYC</h1> <h2 className="wip"> (work in progress)</h2>
-    {MUSICDIYCOLLECTIVESNYC.map(data => {
         return (
           <DetailCard key={data.title} data={data}/>
         );

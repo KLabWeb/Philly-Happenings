@@ -55,7 +55,6 @@ export const Header = props => {
         <a href="#music-diy-coll-phl">Music: DIY Collectives, Show Listings, & Labels - Philly</a>
         <a href="#music-diy-coll-sc">Music: DIY Collectives, Show Listings, & Labels - State College</a>
         <a href="#music-diy-coll-pitts">Music: DIY Collectives, Show Listings, & Labels - Pittsburgh</a>
-        <a href="#music-diy-coll-nyc">Music: DIY Collectives, Show Listings, & Labels - NYC</a>
         <br/>
         <a href="#music-diy-gen-phl">Music: DIY General - Philly</a>
         <a href="#music-diy-gen-nj">Music: DIY General - NJ</a>
