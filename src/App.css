@@ -112,7 +112,7 @@ p {
   display: block;
 }
 
-.card .title, .dateTitle {
+.card .title, .dateTitle, .forageTitle {
   color: #00cc00;
   margin-bottom: 5px;
 }

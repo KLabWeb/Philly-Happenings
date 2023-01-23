@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import { DetailCard } from "./detailCard";
-import { ForagingByDateCard } from "./foragingByDateCard"
+import { ForagingByDateCards } from "./foragingCardContainer"
 import { ANARCHISTPHILLY, NYCANARCHIST, ANIMEPHILLY, ANIMENYC, ANIMEDC, CYCLING,
   FILMFESTIVALS, FILMGROUPS, FILMHORROR, FILMINDIE, GENERAL, GREENGARDENS,
   GREENMARKETS, GREENFISHING, GREENFORAGINGGENERAL, GREENGENERAL, GREENHIKINGPARKS,
@@ -10,7 +10,6 @@ import { ANARCHISTPHILLY, NYCANARCHIST, ANIMEPHILLY, ANIMENYC, ANIMEDC, CYCLING,
   MUSICDIYGENPHL, MUSICDIYGENNJ, MUSICDIYGENNYC, MUSICDIYSPOTSPHL,
   MUSICDIYSPOTSSC, MUSICDIYSPOTSPITTS, MUSICDIYSPOTSNJ, MUSICELECTROINDUST,
   MUSICHIPHOPPHL, MUSICMETAL, MUSICREGIONAL, PHOTOGRAPHY, THEATER, MUSICDIYWIP} from "./data";
-import { FRUITBERRY, MUSHROOM, MUSHROOMPSY, GREENS } from "./foragingData"
 
 export const Cards = () => {
   return (
@@ -121,17 +120,8 @@ export const Cards = () => {
         );
     })}
 
-    <h1 id="foraging-fruit-berry" className="category">Green: Foraging, Fruit and Berry</h1>
-    <ForagingByDateCard key={Math.random()} data={FRUITBERRY} />
-
-    <h1 id="foraging-mushroom" className="category">Green: Foraging, Mushroom</h1>
-    <ForagingByDateCard key={Math.random()} data={MUSHROOM} />
-
-    <h1 id="foraging-mushroom-psy" className="category">Green: Foraging, Mushroom, Psychedelic</h1>
-    <ForagingByDateCard key={Math.random()} data={MUSHROOMPSY} />
-
-    <h1 id="foraging-greens" className="category">Green: Foraging, Greens</h1> <h2 className="wip"> (work in progress)</h2>
-    <ForagingByDateCard key={Math.random()} data={GREENS} />
+    <h1 id="foraging-seasonal" className="category">Green: Foraging, Seasonal</h1> <h2 className="wip"> (work in progress)</h2>
+    < ForagingByDateCards />
 
     <h1 id="green-general" className="category">Green: General</h1>
     {GREENGENERAL.map(data => {

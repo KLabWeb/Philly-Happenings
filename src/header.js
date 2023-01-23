@@ -36,10 +36,7 @@ export const Header = props => {
         <a href="#green-markets">Green: Farmers’ Markets & Produce Shops</a>
         <a href="#green-fishing">Green: Fishing</a>
         <a href="#green-foraging-general">Green: Foraging, General</a>
-        <a href="#foraging-fruit-berry">Green: Foraging, Fruit and Berry</a>
-        <a href="#foraging-mushroom">Green: Foraging, Mushroom</a>
-        <a href="#foraging-mushroom-psy">Green: Foraging, Mushroom, Psychedelic</a>
-        <a href="#foraging-greens">Green: Foraging, Greens</a>
+        <a href="#foraging-seasonal">Green: Foraging, Seasonal</a>
         <a href="#green-general">Green: General</a>
         <a href="#green-hiking-parks">Green: Hiking & Parks</a>
         <br/>
