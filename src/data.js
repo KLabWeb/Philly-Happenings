@@ -86,6 +86,13 @@ export const NYCANARCHIST = [
     mainLink: "https://anarchistbookfair.net/",
     suggestedFollow: "Check site in mid-late summer to confirm date for that year.",
   },
+  {
+    title: "Woodbine",
+    summary: "“Woodbine is a volunteer-run experimental hub in Ridgewood, Queens for developing the practices, skills, and tools needed to build autonomy. We host workshops, lectures, discussions and serve as a meeting and organizing space.“",
+    mainLink: "https://www.woodbine.nyc/",
+    facebook: "https://www.facebook.com/woodbine.nyc/",
+    insta: "https://www.instagram.com/woodbine.nyc/",
+  },
 ];
 
 export const ANIMEPHILLY = [

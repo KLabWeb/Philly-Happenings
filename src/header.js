@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import { About } from "./about";
-import { Updates } from "./updates";
+import { Notices } from "./notices";
 
 export const Header = props => {
   return (
@@ -78,7 +78,7 @@ export const Header = props => {
         <a href="#music-diy-wip">Music: DIY Work in Progress</a>
       </div>
 
-      <Updates />
+      <Notices />
     </div>
   )
 };
