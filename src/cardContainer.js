@@ -9,7 +9,7 @@ import { ANARCHISTPHILLY, NYCANARCHIST, ANIMEPHILLY, ANIMENYC, ANIMEDC, CYCLING,
   MUSICCLASSICAL, MUSICDIYCOLLECTIVESPHL, MUSICDIYCOLLECTIVESSC,MUSICDIYCOLLECTIVESPITTS,
   MUSICDIYCOLLECTIVESNYC, MUSICDIYGENPHL, MUSICDIYGENNJ, MUSICDIYGENNYC, MUSICDIYSPOTSPHL,
   MUSICDIYSPOTSSC, MUSICDIYSPOTSPITTS, MUSICDIYSPOTSNJ, MUSICELECTROINDUST,
-  MUSICHIPHOPPHL, MUSICMETAL, PHOTOGRAPHY, THEATER, MUSICDIYWIP} from "./data";
+  MUSICHIPHOPPHL, MUSICMETAL, MUSICREGIONAL, PHOTOGRAPHY, THEATER, MUSICDIYWIP} from "./data";
 import { FRUITBERRY, MUSHROOM, MUSHROOMPSY, GREENS } from "./foragingData"
 
 export const Cards = () => {
@@ -282,6 +282,13 @@ export const Cards = () => {
 
     <h1 id="music-metal" className="category">Music: Metal</h1>
     {MUSICMETAL.map(data => {
+        return (
+          <DetailCard key={data.title} data={data}/>
+        );
+    })}
+
+    <h1 id="music-regional" className="category">Music: Regional Bands and Musicians</h1>
+    {MUSICREGIONAL.map(data => {
         return (
           <DetailCard key={data.title} data={data}/>
         );

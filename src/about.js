@@ -10,7 +10,7 @@ export const About = () => {
 
         <p>Want to add a spot, event, group, or resource to this site? Run a spot, event, group, or resource and don't like the description of it on here? Found an error on incorrect info? See something that is out of date and needs updating? Send an email to <a href="mailto: philly-happenings@protonmail.com">philly-happenings@protonmail.com</a> to have the site updated.</p>
 
-        <p>This site is a work in progress and some sections have not been built out or fully built out yet.</p>
+        <p>This site is a work in progress and some sections have not been fully built out yet.</p>
       </div>
     </div>
   )
