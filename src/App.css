@@ -161,4 +161,7 @@ p {
   .CardContainer{
     width: 95%;
   }
+  .aboutCard {
+    margin-bottom: 50px;
+  }
 }
