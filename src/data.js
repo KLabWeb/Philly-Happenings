@@ -355,7 +355,7 @@ export const FILMINDIE = [
   },
   {
     title: "Lightbox Film Center",
-    summary: "Film classics, foreign, and indie. Runs film series. Classy shit and not as arthouse.",
+    summary: "Film classics, foreign, indie, and arthouse. Runs a lot of film series, often by Director. Greats of cinema (ex. Godard, Kurosawa), as well as arthouse (ex. 'The Draughtsman's Contract' restoration).",
     mainLink: "https://lightboxfilmcenter.org/",
     facebook: "https://www.facebook.com/LightboxFilmCenter",
     insta: "https://www.instagram.com/lightboxfilmcenter/",
