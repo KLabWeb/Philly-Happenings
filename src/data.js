@@ -24,10 +24,31 @@ export const ANARCHISTPHILLY = [
   },
   {
     title: "West Philadelphia Food Not Bombs",
-    summary: "Cook at Ahimsa House Friday 3pm. Distro at 5pm.",
+    summary: "Cook at Ahimsa House Friday 3pm. Distro at 5pm at Malcom X Park.",
     facebook: "https://www.facebook.com/groups/westphillyfnb/",
     insta: "https://www.instagram.com/foodnotbombswestphilly/",
     suggestedFollow: "Instagram",
+  },
+  {
+    title: "South Philadelphia Food Not Bombs",
+    summary: "“Saturdays Hot Meals @ 3pm. Fridays Fresh Produce @ 8am. Mifflin Square Park (Ritner and 5th).“",
+    facebook: "https://www.facebook.com/groups/184708858232748/",
+    insta: "https://www.instagram.com/southphillyfoodnotbombs/",
+    suggestedFollow: "Insta (more updated)",
+  },
+  {
+    title: "Food Not Bombs Solidarity",
+    summary: "“FNB Solidarity chapter serving the West Philly Community. 5pm Fridays food distro @ 60th and Market El Stop.“",
+    facebook: "https://www.facebook.com/FoodNotBombsSolidarity/",
+    insta: "https://www.instagram.com/fnbsolidarity",
+    suggestedFollow: "Insta (more updated)",
+  },
+  {
+    title: "North Philly Food Not Bombs",
+    summary: "“ 🏴 We are North Philadelphia Food Not Bombs 🏴 Sundays! - relentlessly sharing resources, support, hot meals and spreading sweet Anarchy since 1999“",
+    facebook: "https://www.facebook.com/NPFNB/",
+    insta: "https://www.instagram.com/npfnb",
+    suggestedFollow: "Insta (much more updated)",
   },
   {
     title: "Hudson Valley Earth First",
@@ -85,6 +106,13 @@ export const NYCANARCHIST = [
     summary: "Early September, usually. No social media, but posted about on FB and have an official site also.",
     mainLink: "https://anarchistbookfair.net/",
     suggestedFollow: "Check site in mid-late summer to confirm date for that year.",
+  },
+  {
+    title: "Woodbine",
+    summary: "“Woodbine is a volunteer-run experimental hub in Ridgewood, Queens for developing the practices, skills, and tools needed to build autonomy. We host workshops, lectures, discussions and serve as a meeting and organizing space.“",
+    mainLink: "https://www.woodbine.nyc/",
+    facebook: "https://www.facebook.com/woodbine.nyc/",
+    insta: "https://www.instagram.com/woodbine.nyc/",
   },
 ];
 
@@ -1098,7 +1126,7 @@ export const MUSICDIYCOLLECTIVESPHL = [
   },
   {
     title: "Save The Cat Touring",
-    summary: "“Supporting Bipoc, Femme, & LGBTQ+ artists. 📍East Coast | est. 2022. a resource & log of gigs / artists. seeking creatives!!”",
+    summary: "“Save The Cat is an artist management service and touring agency for lgbtq+ & bipoc artists. Devoted to booking at Safe spaces and ensuring quality DIY show practice, agents & organizers host and run Save The Cat affiliated concerts in Philadelphia, NYC, and upstate New York.”",
     mainLink: "https://linktr.ee/savethecattouring",
     insta: "https://www.instagram.com/savethecattouring/",
   },
@@ -1780,6 +1808,15 @@ export const MUSICMETAL = [
   },
 ];
 
+export const MUSICREGIONAL = [
+  {
+    title: "'Philly Bands + South/Central NJ' List",
+    summary: "A list of over 200 local bands, compiled by DIYTourNetwork Philly",
+    mainLink: "https://docs.google.com/spreadsheets/d/1EixCZ6GOw4WPGODa2CDEPfbAXXyTeveD_qiCfqeLxgY/edit#gid=0",
+    subLink: "https://diytournetwork-philly.tumblr.com/"
+  }
+]
+
 export const MUSICARTISTS = [
   {
     title: "chemdoggmillionair",
@@ -1938,8 +1975,8 @@ export const MUSICDIYWIP = [
     mainLink: "https://www.instagram.com/risingtidephl/",
   },
   {
-    title:" ",
-    mainLink: "Sweet Sixteen",
+    title:"Sweet Sixteen",
+    mainLink: "",
   },
   {
     title:" ",
