@@ -98,6 +98,13 @@ export const ANARCHISTPHILLY = [
     facebook: "https://www.facebook.com/stmatfdr/",
     insta: "https://www.instagram.com/savethemeadowsfdr/",
   },
+  {
+    title: "The Wooden Shoe Books",
+    summary: "“Collectively run by volunteers since 1976. Anarchist & Radical Books | Periodicals | Records.“",
+    mainLink: "https://www.woodenshoebooks.org/home.html",
+    facebook: "https://www.instagram.com/thewoodenshoebooks/",
+    insta: "https://www.facebook.com/WoodenShoeBooks/",
+  },
 ]
 
 export const NYCANARCHIST = [
