@@ -24,10 +24,31 @@ export const ANARCHISTPHILLY = [
   },
   {
     title: "West Philadelphia Food Not Bombs",
-    summary: "Cook at Ahimsa House Friday 3pm. Distro at 5pm.",
+    summary: "Cook at Ahimsa House Friday 3pm. Distro at 5pm at Malcom X Park.",
     facebook: "https://www.facebook.com/groups/westphillyfnb/",
     insta: "https://www.instagram.com/foodnotbombswestphilly/",
     suggestedFollow: "Instagram",
+  },
+  {
+    title: "South Philadelphia Food Not Bombs",
+    summary: "“Saturdays Hot Meals @ 3pm. Fridays Fresh Produce @ 8am. Mifflin Square Park (Ritner and 5th).“",
+    facebook: "https://www.facebook.com/groups/184708858232748/",
+    insta: "https://www.instagram.com/southphillyfoodnotbombs/",
+    suggestedFollow: "Insta (more updated)",
+  },
+  {
+    title: "Food Not Bombs Solidarity",
+    summary: "“FNB Solidarity chapter serving the West Philly Community. 5pm Fridays food distro @ 60th and Market El Stop.“",
+    facebook: "https://www.facebook.com/FoodNotBombsSolidarity/",
+    insta: "https://www.instagram.com/fnbsolidarity",
+    suggestedFollow: "Insta (more updated)",
+  },
+  {
+    title: "North Philly Food Not Bombs",
+    summary: "“ 🏴 We are North Philadelphia Food Not Bombs 🏴 Sundays! - relentlessly sharing resources, support, hot meals and spreading sweet Anarchy since 1999“",
+    facebook: "https://www.facebook.com/NPFNB/",
+    insta: "https://www.instagram.com/npfnb",
+    suggestedFollow: "Insta (much more updated)",
   },
   {
     title: "Hudson Valley Earth First",
