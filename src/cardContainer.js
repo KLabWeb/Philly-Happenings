@@ -7,7 +7,7 @@ import { ANARCHISTPHILLY, ANIMEPHILLY, CYCLING, FILMFESTIVALS, FILMGROUPS,
   GREENFORAGINGGENERAL, GREENGENERAL, GREENHIKINGPARKS, LITERATURE,
   MUSICABOVEPHILLY, MUSICBLUEGRASS, MUSICCLASSICAL, MUSICDIYCOLLECTIVESPHL,
   MUSICDIYGENPHL, MUSICDIYSPOTSPHL, MUSICELECTROINDUST, MUSICHIPHOPPHL,
-  MUSICMETAL, MUSICREGIONAL, PHOTOGRAPHY, THEATER, MUSICDIYWIP} from "./data";
+  MUSICMETAL, MUSICREGIONAL, PHOTOGRAPHY, THEATER, MUSICDIYWIP, CLOSED} from "./data";
 
 export const Cards = () => {
   return (
@@ -207,6 +207,13 @@ export const Cards = () => {
 
     <h1 id="music-diy-wip" className="category">Music: DIY Work in Progress</h1>
     {MUSICDIYWIP.map(data => {
+        return (
+          <DetailCard key={data.title} data={data}/>
+        );
+    })}
+
+    <h1 id="closed-spaces-groups-events" className="category">Closed Spaces & Groups + Retired Events</h1>
+    {CLOSED.map(data => {
         return (
           <DetailCard key={data.title} data={data}/>
         );

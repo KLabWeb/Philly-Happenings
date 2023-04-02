@@ -15,14 +15,6 @@ export const ANARCHISTPHILLY = [
     suggestedFollow: "Twitter (for retweets, also)"
   },
   {
-    title: "A-Space Anarchist Community Center ",
-    summary: "“The building that holds the A-Space is part the Life Center Association (LCA), a land trust. “4722” was the second house to be bought by the LCA in 1973. It holds 2 apartments, the A-Space, and Books Through Bars.”",
-    mainLink: "https://phillyaspace.com/",
-    facebook: "https://www.facebook.com/A-Space-Anarchist-Community-Center-30987050865/",
-    twitter: "https://twitter.com/narchyf",
-    suggestedFollow: "Facebook (social media all pretty much dead, though)",
-  },
-  {
     title: "West Philadelphia Food Not Bombs",
     summary: "Cook at Ahimsa House Friday 3pm. Distro at 5pm at Malcom X Park.",
     facebook: "https://www.facebook.com/groups/westphillyfnb/",
@@ -106,6 +98,12 @@ export const ANARCHISTPHILLY = [
     insta: "https://www.facebook.com/WoodenShoeBooks/",
   },
   {
+    title: "Anathema",
+    summary: "“A Philadelphia Anarchist Periodical.“ Running almost 10 years, now.",
+    mainLink: "https://anathema.noblogs.org/",
+    suggestedFollow: "Check for print versions at Wooden Shoe Books.",
+  },
+  {
     title: "NYC Anarchist Bookfair",
     summary: "Early September, usually. No social media, but posted about on FB and have an official site also.",
     mainLink: "https://anarchistbookfair.net/",
@@ -160,6 +158,16 @@ export const ANIMEPHILLY = [
     suggestedFollow: "Check site in Nov year prior for badge sales date.",
   },
 ];
+
+export const CLOSED  = [
+  {
+    title: "A-Space Anarchist Community Center ",
+    summary: "Closed Winter 2023 (due to covid, then collective members moving away, now all Books Through Bars space). From when open: “The building that holds the A-Space is part the Life Center Association (LCA), a land trust. “4722” was the second house to be bought by the LCA in 1973. It holds 2 apartments, the A-Space, and Books Through Bars.”",
+    mainLink: "https://phillyaspace.com/",
+    facebook: "https://www.facebook.com/A-Space-Anarchist-Community-Center-30987050865/",
+    twitter: "https://twitter.com/narchyf",
+  },
+]
 
 export const CYCLING = [
   {
