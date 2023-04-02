@@ -16,12 +16,9 @@ export const Header = props => {
         <a href="#events-by-week">Monthly Events by Week</a>
         <a href="#events-by-day">Weekly Events by Day</a>
         <br/>
-        <a href="#anarchist-philly">Anarchist, Rad, & Adjacent - Philly</a>
-        <a href="#anarchist-nyc">Anarchist, Rad, & Adjacent - NYC</a>
+        <a href="#anarchist-philly">Anarchist, Rad, & Adjacent</a>
         <br/>
-        <a href="#anime-philly">Anime - Philly</a>
-        <a href="#anime-nyc">Anime - NYC</a>
-        <a href="#anime-dc">Anime - DC</a>
+        <a href="#anime-philly">Anime</a>
         <br/>
         <a href="#cycling">Cycling</a>
         <br/>
@@ -42,25 +39,12 @@ export const Header = props => {
         <br/>
         <a href="#literature">Literature</a>
         <br/>
-        <a href="#music-above-philly">Music: Above Ground Venues - Philly</a>
-        <a href="#music-above-pitts">Music: Above Ground Venues - Pittsburgh</a>
-        <a href="#music-above-nj">Music: Above Ground Venues - NJ</a>
-        <br/>
+        <a href="#music-above-philly">Music: Above Ground Venues</a>
         <a href="#music-bluegrass">Music: Bluegrass</a>
         <a href="#music-classical">Music: Classical</a>
-        <br/>
-        <a href="#music-diy-coll-phl">Music: DIY Collectives, Show Listings, & Labels - Philly</a>
-        <a href="#music-diy-coll-sc">Music: DIY Collectives, Show Listings, & Labels - State College</a>
-        <a href="#music-diy-coll-pitts">Music: DIY Collectives, Show Listings, & Labels - Pittsburgh</a>
-        <br/>
-        <a href="#music-diy-gen-phl">Music: DIY General - Philly</a>
-        <a href="#music-diy-gen-nj">Music: DIY General - NJ</a>
-        <a href="#music-diy-gen-nyc">Music: DIY General - NYC</a>
-        <br/>
-        <a href="#music-diy-spots-phl">Music: DIY Spots - Philly</a>
-        <a href="#music-diy-spots-sc">Music: DIY Spots - State College</a>
-        <a href="#music-diy-spots-pitts">Music: DIY Spots - Pittsburgh</a>
-        <a href="#music-diy-spots-nj">Music: DIY Spots - NJ</a>
+        <a href="#music-diy-coll-phl">Music: DIY Collectives, Show Listings, & Labels</a>
+        <a href="#music-diy-gen-phl">Music: DIY General</a>
+        <a href="#music-diy-spots-phl">Music: DIY Spots</a>
         <br/>
         <a href="#music-electro-indust">Music: Electronic & Industrial</a>
         <a href="#music-hiphop-phl">Music: Hip Hop, Popping, Breakdancing</a>

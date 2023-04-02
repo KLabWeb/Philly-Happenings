@@ -156,25 +156,5 @@ export const BYDAY = [
   {
     period: "Multiple Days",
     events: ["4pm to 9pm: Chibi Cafe – Various Events", "Varying: Hiking Around Philly – Hikes"]
-  },
-  {
-    period: "",
-    events: []
-  },
-  {
-    period: "",
-    events: []
-  },
-  {
-    period: "",
-    events: []
-  },
-  {
-    period: "",
-    events: []
-  },
-  {
-    period: "",
-    events: []
-  },
+  }
 ];
