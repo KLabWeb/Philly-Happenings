@@ -143,7 +143,7 @@ export const BYDAY = [
   },
   {
     period: "Sat",
-    events: ["9am to 12pm: Lancaster Avenue Autonomous Space – Really Really Free Market", "10am: Wild Foodies of Philly – Foraging Hike"]
+    events: ["9am to 12pm: Lancaster Avenue Autonomous Space – Really Really Free Market", "10am to 4pm: South Philly Food Not Bombs - Cook (People's Kitchen) & Serve (Mifflin Sqaure Park)", "10am: Wild Foodies of Philly – Foraging Hike"]
   },
   {
     period: "Sun",
