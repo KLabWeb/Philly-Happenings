@@ -104,6 +104,14 @@ export const ANARCHISTPHILLY = [
     suggestedFollow: "Check for print versions at Wooden Shoe Books.",
   },
   {
+    title: "Punk Rock Flea Market",
+    summary: "“The Punk Rock Flea Market is the place to shop for awesome clothing, records, crafts, art, and most of all old punk junk! 200 vendors per day.“ One market each season.",
+    mainLink: "https://www.phillyprfm.com/",
+    facebook: "https://www.facebook.com/PhillyPRFM/",
+    insta: "https://www.instagram.com/phillyprfm",
+    suggestedFollow: "Email newsletter. Join it on their site.",
+  },
+  {
     title: "NYC Anarchist Bookfair",
     summary: "Early September, usually. No social media, but posted about on FB and have an official site also.",
     mainLink: "https://anarchistbookfair.net/",
@@ -131,6 +139,29 @@ export const ANIMEPHILLY = [
     facebook: "https://www.facebook.com/FANEXPOPhiladelphia",
     insta: "https://www.instagram.com/fanexpophiladelphia/",
     suggestedFollow: "Check site for con date and early bird ticket sales date in start of Nov",
+  },
+  {
+    title: "Puchicon",
+    summary: "“Anime, Gaming, Comics Convention run by a Latina mom with ADHD.” Small con, about 1,000 attendees last con. Late spring in Atalantic City and mid fall in Camelback, PA. Atalantic City, May 13-14th, 2023. Camelback, Oct 21-22, 2023",
+    mainLink: "https://www.puchicon.com/",
+    facebook: "https://www.facebook.com/puchicon",
+    insta: "https://www.instagram.com/puchicon/",
+    suggestedFollow: "Check FB occasionally, for local events, but mute on timeline, if follow, due to high post frequency.",
+  },
+  {
+    title: "Philly Otaku",
+    summary: "Philly otaku group throwing events, meetups, etc.. Small conventions, sit and draws, cosplay photoshoots, dance parties, most often at Cherry Street Pier. OtakuCon @ Cherry Street Pier, April 14-16, 2023.",
+    facebook: "https://www.facebook.com/phillyotaku",
+    insta: "https://www.instagram.com/phillyotaku",
+    suggestedFollow: "Insta",
+  },
+  {
+    title: "J1-Con",
+    summary: "“Anime & Gaming Expo. Are you a fan of animation, cosplay, gaming (tabletop, card and console), artists, vendors, panels, and live music? You’ve come to the right convention! 10 YEARS! Longest running black owned anime convention in the USA!““ Usually first weekend of November. A few thousand attendees, generally.",
+    mainLink: "https://j1con.com/",
+    facebook: "https://www.facebook.com/j1con/",
+    insta: "https://www.instagram.com/j1con/",
+    suggestedFollow: "Insta + check site early fall for annual con date.",
   },
   {
     title: "Chibi Café",
@@ -234,7 +265,7 @@ export const FILMFESTIVALS = [
   },
   {
     title: "The Philadelphia Independent Film Festival",
-    summary: "Late April, annually. 10th year in 2022.",
+    summary: "Late spring, annually. May 15-20th, 2023. 16th year in 2023.",
     mainLink: "http://pifffilms.tv/",
     facebook: "https://www.facebook.com/PhillyFilm",
     insta: "https://www.instagram.com/philaindie/",
@@ -248,11 +279,11 @@ export const FILMFESTIVALS = [
   },
   {
     title: "Blackstar Film Festival",
-    summary: "“BlackStar Film Festival is an annual celebration of the visual and storytelling traditions of the African diaspora and of global Indigenous communities, showcasing films by Black, Brown and Indigenous artists from around the world.”",
+    summary: "Aug 2-6, 2023. “BlackStar Film Festival is an annual celebration of the visual and storytelling traditions of the African diaspora and of global Indigenous communities, showcasing films by Black, Brown and Indigenous artists from around the world.”",
     mainLink: "https://www.blackstarfest.org/festival/",
     facebook: "https://www.facebook.com/BlackStarFest",
     insta: "https://www.instagram.com/blackstarfest/",
-    suggestedFollow: "Check site for annual date in late winter",
+    suggestedFollow: "Check site for annual date in spring.",
   },
   {
     title: "The Secret Cinema",
@@ -262,7 +293,7 @@ export const FILMFESTIVALS = [
   },
   {
     title: "Philadelphia Latino Film Festival",
-    summary: "Late May, annually. 7 days long.",
+    summary: "May 28 thru June 9, 2023. Annual festival. “The Philadelphia Latino Film Festival (PHLAFF) celebrates the richness & diversity of Latino cinema.“",
     mainLink: "https://www.phlaff.org/",
     facebook: "https://www.facebook.com/PHLAFF",
     insta: "https://www.instagram.com/phlatinfilmfest/",
@@ -270,7 +301,7 @@ export const FILMFESTIVALS = [
   },
   {
     title: "Philadelphia Asian American Film Festival",
-    summary: "Early November, annually. 10 days long.",
+    summary: "Nov 2 thru Nov 12, 2023. Annual festival. “Dedicated to supporting and highlighting the experiences of Asian and Pacific Islander diaspora through creative community-focused programs.“",
     mainLink: "https://paaff.org/",
     facebook: "https://www.facebook.com/PAAFF",
     insta: "https://www.instagram.com/phillyaaff/",
@@ -279,7 +310,7 @@ export const FILMFESTIVALS = [
   {
     title: "Cinema in the Cemetery at Laurel Hill",
     summary: "Runs annually, each year, during summer. Family oriented.",
-    mainLink: "https://thelaurelhillcemetery.org/events/cinema-in-the-cemetery",
+    mainLink: "https://laurelhillphl.com/events/calendar/",
     insta: "https://www.instagram.com/friendsoflaurelhill/",
     suggestedFollow: "Check site early spring for summer dates",
   },
@@ -292,7 +323,7 @@ export const FILMFESTIVALS = [
   {
     title: "Philadelphia Environmental Film Festival",
     summary: "Usually held mid spring. Run by Philadelphia Film Society.",
-    mainLink: "www.philaenvirofilmfest.org",
+    mainLink: "https://www.philaenvirofilmfest.org",
     suggestedFollow: "check annual date in early spring",
   },
 ];
@@ -347,7 +378,7 @@ export const FILMHORROR = [
   },
   {
     title: "The Philadelphia Unnamed Film Festival (PUFF)",
-    summary: "“More than just a 'horror' film festival, each year PUFF includes an eclectic mix of features and shorts, including sci-fi, action, documentary, bizarre, drama and more. Shorts films submission selected.”",
+    summary: "Sept 27th thru Oct 1st, 2023. “More than just a 'horror' film festival, each year PUFF includes an eclectic mix of features and shorts, including sci-fi, action, documentary, bizarre, drama and more. Shorts films submission selected.”",
     mainLink: "https://filmfreeway.com/PhiladelphiaUnnamedFilmFestival",
     facebook: "https://www.facebook.com/phillyunnamed/",
     insta: "https://www.instagram.com/phillyunnamed/",
@@ -391,7 +422,7 @@ export const FILMINDIE = [
   },
   {
     title: "cinéSPEAK",
-    summary: "“The city’s premier art house theater and organization.” Pop-up showings all over Philly, sometimes outdoors. Focused on global independent cinema on radical topics.",
+    summary: "Under the Stars 2023 dates: Fridays May 26, June 2nd, June 9th, June 16th (rain days on Saturdays day after). “The city’s premier art house theater and organization.” Pop-up showings all over Philly, sometimes outdoors. Focused on global independent cinema on radical topics.",
     mainLink: "https://www.cinespeak.org/attend/",
     subLink: "https://www.instagram.com/cinespeak/",
     facebook: "https://www.facebook.com/cineSPEAKeasy",
