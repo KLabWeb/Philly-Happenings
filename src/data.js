@@ -601,7 +601,7 @@ export const GREENMARKETS = [
     summary: "News/blog site on food farms, farmers' markets, local food restaurants. Pretty 'green capitalism', too, though.",
     mainLink: "https://ediblephilly.ediblecommunities.com/",
     facebook: "https://www.facebook.com/EdiblePhilly",
-    insta: "https://www.instagram.com/ediblephilly/none, but check if looking for food stuff",
+    insta: "https://www.instagram.com/ediblephilly",
     suggestedFollow: "None, but check if looking for food stuff",
   },
   {
@@ -729,7 +729,7 @@ export const GREENGENERAL = [
   {
     title: "Philadelphia Environmental Film Festival",
     summary: "Usually held mid spring. Run by Philadelphia Film Society.",
-    mainLink: "www.philaenvirofilmfest.org",
+    mainLink: "https://www.philaenvirofilmfest.org",
     suggestedFollow: "check annual date in early spring",
   },
 ];
@@ -808,7 +808,7 @@ export const GREENHIKINGPARKS = [
     summary: "“Founded in 1965, the Schuylkill Center is one of the first urban environmental education centers in the country, with 340 acres of fields, forests, ponds, and streams in NW Phil.” Hikes, foraging, art, conservation projects, wildlife clinic, programs. Many volunteer options.",
     mainLink: "https://www.schuylkillcenter.org/ ",
     facebook: "https://www.facebook.com/schuylkillcenter",
-    insta: "https://www.instagram.com/schuylkillcenter/https://www.facebook.com/schuylkillcenter",
+    insta: "https://www.instagram.com/schuylkillcenter",
     suggestedFollow: "Check site calendar monthly",
   },
   {
@@ -843,14 +843,14 @@ export const LITERATURE = [
   },
   {
     title: "Bucks County Book Festival",
-    summary: "Doylestown, PA. Books, author events, small presses. End of Sept annually.",
+    summary: "Doylestown, PA. Books, author events, small presses. End of Sept annually. Sept 29th-30th, 2023.",
     mainLink: "https://www.bucksbookfest.org/",
     suggestedFollow: "Check site later summer for annual date",
   },
   {
     title: "Collingswood Book Festival",
-    summary: "Collingswood, NJ. Books, author events, small presses. Start of Oct annually.",
-    mainLink: "https://www.collingswoodbookfestival.com/ Check site early fall for annual date",
+    summary: "Collingswood, NJ. Books, author events, small presses. Start of Oct annually. October 7th, 2023.",
+    mainLink: "https://www.collingswoodbookfestival.com/",
     suggestedFollow: "Check site early fall for annual date",
   },
   {
@@ -866,6 +866,13 @@ export const LITERATURE = [
     facebook: "https://www.facebook.com/TheMadPoetsSociety",
     insta: "https://www.instagram.com/madpoetssocietypa/",
     suggestedFollow: "Insta",
+  },
+  {
+    title: "Lacaster Zine Fest",
+    summary: "April 22nd, 2023. “Zines, art, music, & workshops at the lovely southern market. 40+ tablers, workshops & djs spinning after party tunes!“",
+    mainLink: "https://lancasterzinefest.my.canva.site/",
+    insta: "https://www.instagram.com/lancasterzinefest/",
+    suggestedFollow: "Insta + check for annual date in late winter",
   },
 ];
 
@@ -1378,11 +1385,6 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/overyonder.phl/",
   },
   {
-    title: "The Crawlspace",
-    summary: "North Philly house venue. “AI generated mosh pit in north philly.” Active. Multiple shows a month in warmer months.",
-    insta: "https://www.instagram.com/thecrawlspacephl ",
-  },
-  {
     title: "Big Farma",
     summary: "“West Philly House Venue!” Started summer 2022. Run by 4333 Collective.",
     subLink: "https://www.instagram.com/4333collective/ ",
@@ -1573,6 +1575,11 @@ export const MUSICDIYSPOTSPHL = [
     summary: "“North Philly House Show Venue. Run by 1 hyperfem & 2 androgynous broads.” Show in late Aug ‘22, then early Oct, but nothing since. Dead?",
     insta: "https://www.instagram.com/hausdejadore/ ",
   },
+  {
+    title: "The Crawlspace",
+    summary: "North Philly house venue. On hiatus since Aug 2022. “AI generated mosh pit in north philly.” Active. Multiple shows a month in warmer months.",
+    insta: "https://www.instagram.com/thecrawlspacephl ",
+  },
 ];
 
 export const MUSICDIYSPOTSSC = [
@@ -1672,10 +1679,14 @@ export const MUSICELECTROINDUST = [
   },
 ];
 
-export const MUSICHIPHOPPHL = [
+export const MUSICHIPHOP = [
   {
-    title:" ",
-    summary: " "
+    title:"The Gathering",
+    summary: "(almost) every last Thursday. Established in 1996, The Gathering is the longest/strongest-running truly Hip Hop event in Philly. The Gathering IS b-boys/b-girls, pop-lockers, emcees, graffiti writers, DJs, men, women, and children of all ages enjoying an organic, community-based celebration of The struggle, the Love,and the culture of Hip Hop. DJs spin Hiphop, breaks, and funk all night, and there are open cyphas, a tag wall, and a featured performance and graffiti panel each month.",
+    mainLink: "https://www.therotunda.org/event_category/the-gathering",
+    facebook: "https://www.facebook.com/TheGathering215/",
+    insta: "https://www.instagram.com/thegathering215/",
+    suggestedFollow: "Insta"
   }
 ];
 
@@ -1734,7 +1745,7 @@ export const MUSICARTISTS = [
 export const PHOTOGRAPHY = [
   {
     title: "20/20 Photo Festival",
-    summary: "Late September, annually. Photo fest with exhibitions at a bunch of different galleries.",
+    summary: "Septh 30th, 2023. Annual photo fest with exhibitions at a bunch of different galleries.",
     mainLink: "https://www.2020photofestival.org/",
     facebook: "https://www.facebook.com/2020photofestival",
     insta: "https://www.instagram.com/2020photofest/",
@@ -1743,7 +1754,7 @@ export const PHOTOGRAPHY = [
   {
     title: "The Photographic Society of Philadelphia",
     summary: "“The oldest active photography society in the country, started in 1860.” Third Tuesday of each month featuring special guest speakers. Sadly, went from in person to Zoom after pandemic.",
-    mainLink: "https://phillyphotosociety.com/events https://www.facebook.com/PhotographicSocietyOfPhiladelphia",
+    mainLink: "https://phillyphotosociety.com/events",
     facebook: "https://www.facebook.com/PhotographicSocietyOfPhiladelphia",
     suggestedFollow: "Check site monthly for meeting info",
   },

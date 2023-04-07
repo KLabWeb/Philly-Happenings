@@ -115,6 +115,10 @@ export const BYWEEK = [
     events: ["3pm to 7pm: Lancaster Avenue Autonomous Space – Library Hours"]
   },
   {
+    period: "Last Thurs",
+    events: ["9:00pm: The Gathering - Hip Hop, Breaking, Popping, Graff (The Rotunda, since 1996)"]
+  },
+  {
     period: "Varying",
     events: ["varying: The Secret Cinema – Arthouse film showings"]
   },
