@@ -117,6 +117,14 @@ export const ANARCHISTPHILLY = [
     mainLink: "https://anarchistbookfair.net/",
     suggestedFollow: "Check site in mid-late summer to confirm date for that year.",
   },
+  {
+    title: "The Soapbox",
+    summary: "“The Soapbox is a nonprofit community print shop, book and zine making center, and library of 3,500 rare handmade publications.“ Throw zine fests, workshops, etc..",
+    mainLink: "https://www.phillysoapbox.org/",
+    facebook: "https://www.facebook.com/phillysoapbox",
+    insta: "https://www.instagram.com/phillysoapbox/",
+    suggestedFollow: "Site calendar",
+  },
 ]
 
 export const ANIMEPHILLY = [
@@ -134,7 +142,7 @@ export const ANIMEPHILLY = [
   },
   {
     title: "Fan Expo Philadelphia",
-    summary: "Convention. Mid-summer each year. Traveling con held in many cities. General con (no big anime con in Philly). “Join tens of thousands of fans who are just like you and experience the ultimate playground for comics, sci-fi, horror, anime, and gaming.”",
+    summary: "Convention. Mid-summer each year. June 2nd-4th, 2023. Traveling con held in many cities. General con (no big anime con in Philly). “Join tens of thousands of fans who are just like you and experience the ultimate playground for comics, sci-fi, horror, anime, and gaming.”",
     mainLink: "https://fanexpohq.com/fanexpophiladelphia/",
     facebook: "https://www.facebook.com/FANEXPOPhiladelphia",
     insta: "https://www.instagram.com/fanexpophiladelphia/",
@@ -323,7 +331,7 @@ export const FILMFESTIVALS = [
   {
     title: "Philadelphia Environmental Film Festival",
     summary: "Usually held mid spring. Run by Philadelphia Film Society.",
-    mainLink: "https://www.philaenvirofilmfest.org",
+    mainLink: "https://www.onelittleearth.org/peff/?fbclid=IwAR2QNQwZJYsCpqWIwY_DMmkjJkK7yCyB_3fCW2_JqcPCLIX3RcHdbwxv18Q",
     suggestedFollow: "check annual date in early spring",
   },
 ];
@@ -392,7 +400,15 @@ export const FILMHORROR = [
   },
   {
     title: "See also, 'Theaters' section below, as most of these theaters also show regular horror."
-  }
+  },
+  {
+    title: "Blobfest",
+    summary: "”A blobs and monsters themed take on the sci-fi/horror festival. Re-enact the famous Blob run out Scene. Experience a live Stage Show featuring Aurora Gorealis and Beach Creeper, and dance the night away to live music. Over 70 vendors. The Blob Run 5k run. A self-guided Driving Tour of Filming Locations featured in The Blob.”",
+    mainLink: "https://thecolonialtheatre.com/blobfest/",
+    facebook: "https://www.facebook.com/Blobfest",
+    insta: "https://www.instagram.com/blobfest/",
+    suggestedFollow: "Check for annual date in early summer",
+  },
 ];
 
 export const FILMINDIE = [
@@ -518,6 +534,12 @@ export const GENERAL = [
     summary: "A group run by the same organizer as who runs the Bourse Hall and Ladder 15 Game Nights. General nerd gatherings. A lot of regulars.",
     facebook: "https://www.facebook.com/groups/574330306077914/",
     suggestedFollow: "FB",
+  },
+  {
+    title: "South Street Fest",
+    summary: "May 6th, 2023. Mid spring, annually.“Spanning 2nd to 8th streets. Live music and performances, international food and drinks, crafts and vendors, Brauhaus Schmitz Manifest, framily friendly kid zones, free comics at Atomic City Comics.“",
+    insta: "https://www.instagram.com/southstreetphilly",
+    suggestedFollow: "Check annual date in early spring",
   },
 ];
 
@@ -836,7 +858,7 @@ export const LITERATURE = [
   },
   {
     title: "Book Corner",
-    summary: "Philly library used bookstore. Cheap and w/ good selection.",
+    summary: "Philly library used bookstore. Cheap and w/ good selection. Next book sale 06/08 to 06/10, 2023.",
     facebook: "https://www.facebook.com/bookcornerphilly",
     insta: "https://www.instagram.com/bookcornerphilly ",
     suggestedFollow: "None, but check EoY and mid summer for book sale dates",
@@ -872,7 +894,21 @@ export const LITERATURE = [
     summary: "April 22nd, 2023. “Zines, art, music, & workshops at the lovely southern market. 40+ tablers, workshops & djs spinning after party tunes!“",
     mainLink: "https://lancasterzinefest.my.canva.site/",
     insta: "https://www.instagram.com/lancasterzinefest/",
-    suggestedFollow: "Insta + check for annual date in late winter",
+    suggestedFollow: "Insta + check for annual date in early spring",
+  },
+  {
+    title: "West Philly Spring Zine Fest",
+    summary: "May 6th, 2023. “New Zine Show Incoming! Organized by Philly Soapbox, over 50 vendors, admission is FREE! Come out and Support the Philly Zine Community!“",
+    mainLink: "https://www.phillysoapbox.org/",
+    facebook: "https://www.facebook.com/phillysoapbox/",
+    insta: "https://www.instagram.com/phillyzinefest/",
+    suggestedFollow: "Philly Zine Fest Insta, for postings on all upcoming zine fests",
+  },
+  {
+    title: "Brown Brainy Brilliant Book Festival & Market",
+    summary: "May 7th, 2023. “An annual free literary event showcasing a diverse group of independently published authors from around the country—particularly those of color and from the LGBTQ community. Food, vendors, authors, activities, and more!“ 3rd annual as of 2023.",
+    mainLink: "https://www.bartramsgarden.org/?s=brown+brainy",
+    suggestedFollow: "Check Bartram's Garden Site Calendar mid spring for annual date",
   },
 ];
 
@@ -1695,7 +1731,7 @@ export const MUSICMETAL = [
     title: "Philly Metal",
     summary: "Very well updated. All you really need for metal in Philly. If join email list, will get weekly email with newly added shows. Local metal and big shows both posted.",
     mainLink: "https://phillymetal.net/",
-    facebook: "https://www.facebook.com/groups/120015764787707/|",
+    facebook: "https://www.facebook.com/groups/120015764787707",
     suggestedFollow: "Site calendar check weekly + email mailing list",
   },
 ];

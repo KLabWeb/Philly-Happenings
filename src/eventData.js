@@ -13,7 +13,7 @@ export const BYMONTH = [
   },
   {
     period: "May",
-    events: ["End: Philadelphia Latino Film Festival", "End: Hang Free Spring"]
+    events: ["Early: West Philly Zine Fest", "End: Philadelphia Latino Film Festival", "End: Hang Free Spring"]
   },
   {
     period: "Summer",
@@ -95,12 +95,12 @@ export const BYWEEK = [
     events: ["8pm: Philly Bike Party – Ride (Art Museum)", "9pm: Full Moon Bike Ride – Ride (Art Museum)"]
   },
   {
-    period: "Third Week",
-    events: ["8:30pm: Night Cycle – Ride (Art Museum)"]
-  },
-  {
     period: "Third Mon",
     events: ["7:30pm: Philadelphia Psychotronic Film Society – Film (PhilaMOCA)"]
+  },
+  {
+    period: "Third Fri",
+    events: ["8:00pm: Night Cycle – Ride (Varies)"]
   },
   {
     period: "Third Sat",
