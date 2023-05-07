@@ -108,7 +108,6 @@ export const Cards = () => {
         );
     })}
 
-    <VideoPlayer />
 
     <h1 id="green-hiking-parks" className="category">Green: Hiking & Parks</h1>
     {GREENHIKINGPARKS.map(data => {
@@ -116,6 +115,8 @@ export const Cards = () => {
           <DetailCard key={data.title} data={data}/>
         );
     })}
+
+    <VideoPlayer />
 
     <h1 id="literature" className="category">Literature</h1>
     {LITERATURE.map(data => {
