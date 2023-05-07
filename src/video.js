@@ -16,6 +16,7 @@ export const VideoPlayer = () => {
 
     setVideos(remainingVideos.filter(video => video !== videoName));
     setVideoSrc(videoName);
+    console.log(remainingVideos.length);
   }
 
   const [showImg, setShowImg] = useState(true);
