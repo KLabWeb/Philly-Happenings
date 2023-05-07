@@ -37,8 +37,6 @@ export const Header = props => {
         <a href="#green-general">Green: General</a>
         <a href="#green-hiking-parks">Green: Hiking & Parks</a>
         <br/>
-        <a href="#mid-page"><b><i>...The Mid Page...</i></b></a>
-        <br/>
         <a href="#literature">Literature</a>
         <br/>
         <a href="#music-above-philly">Music: Above Ground Venues</a>

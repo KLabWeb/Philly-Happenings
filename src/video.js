@@ -26,7 +26,7 @@ export const VideoPlayer = () => {
 
   return (
     <>
-      <h1 className="category" id="mid-page">You made it to the middle of the page!</h1>
+      <h1 className="category" id="mid-page">Ah, a weary traveller. Welcome to the mid page. Come, rest a moment.</h1>
       <div className="videoCard" key={Math.random()} >
         <div className="videoContainer">
             { !showImg && <button class="playText" onClick={() => loadNextVideo()}>Next</button>  }
