@@ -20,7 +20,6 @@ export const VideoPlayer = () => {
   }
 
   const [showImg, setShowImg] = useState(true);
-  const [videoWidth, setVideoWidth] = useState("")
 
   const onButtonClick = () => {
     setShowImg(false);
@@ -28,12 +27,12 @@ export const VideoPlayer = () => {
 
   return (
     <>
-      <h1 className="category">Are You Not Entertained?</h1>
+      <h1 className="category" id="mid-page">You made it to the middle of the page!</h1>
       <div className="videoCard" key={Math.random()} >
         <div className="videoContainer">
             { !showImg && <button class="playText" onClick={() => loadNextVideo()}>Next</button>  }
             { showImg && <img id="playButton" src="/images/play.gif" alt="play" onClick={() => onButtonClick()}/> }
-            { showImg && <button class="playText" onClick={() => onButtonClick()}>Click for stimulation</button>  }
+            { showImg && <button class="playText" onClick={() => onButtonClick()}>Click for dopamine</button>  }
             { !showImg && <video src={videoSrc} onEnded={() => loadNextVideo()} id="videoPlayer"controls autoPlay /> }
             { !showImg && <button class="playText" onClick={() => loadNextVideo()}>Next</button>  }
         </div>

@@ -8,6 +8,7 @@ import { ANARCHISTPHILLY, ANIMEPHILLY, CYCLING, FILMFESTIVALS, FILMGROUPS,
   MUSICABOVEPHILLY, MUSICBLUEGRASS, MUSICCLASSICAL, MUSICDIYCOLLECTIVESPHL,
   MUSICDIYGENPHL, MUSICDIYSPOTSPHL, MUSICELECTROINDUST, MUSICHIPHOP,
   MUSICMETAL, MUSICREGIONAL, PHOTOGRAPHY, THEATER, MUSICDIYWIP, CLOSED} from "./data";
+import { VideoPlayer } from "./video";
 
 export const Cards = () => {
   return (
@@ -106,6 +107,8 @@ export const Cards = () => {
           <DetailCard key={data.title} data={data}/>
         );
     })}
+
+    <VideoPlayer />
 
     <h1 id="green-hiking-parks" className="category">Green: Hiking & Parks</h1>
     {GREENHIKINGPARKS.map(data => {

@@ -42,7 +42,6 @@ export const VIDEOS = [
   "/videos/1681336023706725.webm",
   "/videos/¡ Cathy Don t Go !  '666'-lknW2mzXMMY.mp4",
   "/videos/Men And Women [ytgqap7l6bg].webm",
-  "/videos/Sb8IN3MvprM - fake_trailers - xbox.mp4",
   "/videos/clown town ｜ Memory Hole [fM5PJ_EDYEI].webm",
   "/videos/Neverending Hallowen [cNK31y-7QP0].webm",
   "/videos/THE DAWN OF THE PLANET OF THE POD PEOPLE-j0_TDPaUznw.mp4",
@@ -56,4 +55,6 @@ export const VIDEOS = [
   "/videos/McFelon [cVsQyRiGxsk].mp4",
   "/videos/rot [sDF4CXawz3w].webm",
   "/videos/Wrong Way-Memory Hole [cqv40vvx_rA].webm",
+  "/videos/1682738409080161.webm",
+  "/videos/1681116699576155.webm",
 ];
