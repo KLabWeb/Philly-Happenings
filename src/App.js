@@ -6,7 +6,7 @@ import { Cards } from "./cardContainer";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" >
       <div className="CardContainer">
         <Header />
         <EventsByDateCards />

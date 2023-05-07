@@ -11,7 +11,7 @@ import { ANARCHISTPHILLY, ANIMEPHILLY, CYCLING, FILMFESTIVALS, FILMGROUPS,
 
 export const Cards = () => {
   return (
-      <div>
+      <div key={Math.random()}>
         <h1 id="anarchist-philly" className="category">Anarchist, Rad, & Adjacent</h1> <h2 className="wip"> (work in progress)</h2>
         {ANARCHISTPHILLY.map(data => {
             return (

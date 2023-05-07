@@ -3,7 +3,7 @@ import "./App.css";
 
 export const ForagingByDateCard = props => {
   return (
-    <div key={props.key} className="forageCard">
+    <div key={Math.random()} className="forageCard">
       {props.data.type && <h2 className="forageTitle">{props.data.type}</h2>}
       <ul className="forageList">
         {props.data.items.map(data => {

@@ -2,10 +2,11 @@ import React from "react";
 import "./App.css";
 import { About } from "./about";
 import { Notices } from "./notices";
+import { VideoPlayer } from "./video";
 
 export const Header = props => {
   return (
-    <div key={props.key} className="header">
+    <div key={Math.random()} className="header">
       <h1 className="pageTitle">Philly Happenings</h1>
 
       <About />
@@ -61,6 +62,7 @@ export const Header = props => {
       </div>
 
       <Notices />
+      <VideoPlayer />
     </div>
   )
 };
