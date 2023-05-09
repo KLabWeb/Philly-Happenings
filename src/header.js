@@ -37,7 +37,7 @@ export const Header = props => {
         <a href="#green-general">Green: General</a>
         <a href="#green-hiking-parks">Green: Hiking & Parks</a>
         <br/>
-        <a href="#mid-page">Intermission: Middle of the Page Entertainment</a>
+        <a href="#mid-page">Intermission: Middle of the Page Dopamine</a>
         <br/>
         <a href="#literature">Literature</a>
         <br/>

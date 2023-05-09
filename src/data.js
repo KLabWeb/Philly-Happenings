@@ -125,6 +125,14 @@ export const ANARCHISTPHILLY = [
     insta: "https://www.instagram.com/phillysoapbox/",
     suggestedFollow: "Site calendar",
   },
+  {
+    title:"Rolling with the Homos",
+    summary: "“A queer exc. skate community for all wheels, skill levels, and ages to grow & bond in Philly. Come skate with us! 🏳️‍🌈🛹🛼“ Multiple events per month, year round: boarding basics, skate rink meetups, trail skates, trans skate, bipoc skate, etc..",
+    facebook: "https://www.facebook.com/rwthphilly/",
+    insta: "https://www.instagram.com/rwthphilly/",
+    suggestedFollow: "Insta"
+
+  },
 ]
 
 export const ANIMEPHILLY = [
@@ -205,6 +213,22 @@ export const CLOSED  = [
     mainLink: "https://phillyaspace.com/",
     facebook: "https://www.facebook.com/A-Space-Anarchist-Community-Center-30987050865/",
     twitter: "https://twitter.com/narchyf",
+  },
+  {
+    title: "Traitor Joe’s",
+    summary: "“West Philly house show vessel. 2019-2022.”",
+    facebook: "https://www.facebook.com/traitorjoesphl/",
+    insta: "https://www.instagram.com/traitorjoeswestphilly",
+  },
+  {
+    title: "The Alley",
+    summary: "“philly diy venue. literally an alley.” House venue with shows behind the house. Infrequent shows.",
+    insta: "https://www.instagram.com/thealleyphila/",
+  },
+  {
+    title: "The Mansion",
+    summary: "North Philly house venue near Temple. Rare shows. Also does collaborations with other venues. Final show 04/29/2023.",
+    insta: "https://www.instagram.com/wescansin/",
   },
 ]
 
@@ -926,6 +950,12 @@ export const MUSICABOVEPHILLY = [
     subLink: "https://www.songkick.com/venues/10848-first-unitarian-church",
   },
   {
+    title: "Cousin Danny’s Lounge",
+    summary: "“West Philly DIY.” A bar, but more DIY than bar. A two flat converted into a space. Lots of metal, hardcore, etc..",
+    facebook: "https://facebook.com/profile.php?id=1141323635907509",
+    insta: "https://www.instagram.com/cousindannyslounge/",
+  },
+  {
     title: "The Rotunda",
     summary: "“We are a live performing arts and a multi-cultural sober space designed to fit the needs of Philly curators and creatives.” Shows, but also poetry, film, speakers, workshops, etc.",
     mainLink: "https://therotunda.org/ ",
@@ -1126,6 +1156,11 @@ export const MUSICDIYCOLLECTIVESPHL = [
     title: "Dragon's Den",
     summary: "“Account made to promote house shows around Drexel University and in Philly.”",
     insta: "https://www.instagram.com/_drexeldragons_den/",
+  },
+  {
+    title: "Jersey Show Scene",
+    summary: "“Masterlist of jerseys music scene. Woman ran @gabbyice_.“ A New Jersey DIY show listing account, posting weekly DIY shows, similar to the style of houseshowphilly.",
+    insta: "https://www.instagram.com/jerseyshowscene/",
   },
   {
     title: "Big Hit",
@@ -1335,12 +1370,6 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/themeadowphl/",
   },
   {
-    title: "Traitor Joe’s",
-    summary: "“West Philly house show vessel. 2019-2022.”",
-    facebook: "https://www.facebook.com/traitorjoesphl/",
-    insta: "https://www.instagram.com/traitorjoeswestphilly",
-  },
-  {
     title: "Lucky Aide",
     summary: "West Philly house venue. “Multi purpose art empowerment space.” One of the most active spots in Philly.",
     facebook: "https://www.facebook.com/profile.php?id=100072599087251",
@@ -1350,17 +1379,6 @@ export const MUSICDIYSPOTSPHL = [
     title: "The Pouch",
     summary: "West Philly house venue. “Basement venue, down a flight of stairs.” Very active. Shows near every weekend, in summer.",
     insta: "https://www.instagram.com/thepouchphl",
-  },
-  {
-    title: "The Mansion",
-    summary: "North Philly house venue near Temple. Rare shows. Also does collaborations with other venues.",
-    insta: "https://www.instagram.com/wescansin/",
-  },
-  {
-    title: "The Palace Jawn",
-    summary: "Very active South Philly house venue.",
-    subLink: "https://plazeapp.co/blog/rethinking-the-philly-house-show-with-the-palace",
-    insta: "https://www.instagram.com/thepalacejawn",
   },
   {
     title: "Tralfamadore",
@@ -1395,17 +1413,6 @@ export const MUSICDIYSPOTSPHL = [
     summary: "N Philly venue. Doesn’t seem to have a social media profile. Watch houseshowphilly for shows there, instead.",
   },
   {
-    title: "Cousin Danny’s Lounge",
-    summary: "“West Philly DIY.”",
-    facebook: "https://facebook.com/profile.php?id=1141323635907509",
-    insta: "https://www.instagram.com/cousindannyslounge/",
-  },
-  {
-    title: "Cantaloupe Kingdom",
-    summary: "“Welcome to South Philly's newest house venue. We are an inclusive no hate space catering to diy musicians! Formerly JHQ.” Basement venue started late Aug ‘22.",
-    insta: "https://www.instagram.com/p/ChpeSPSOpzB/ ",
-  },
-  {
     title: "Grays Ferry Skatepark",
     summary: "Skatepark under bridge by Schuykill River, in between West and East Philly. Common gathering spot for punks and anarchists. Generator shows. Generator movies. Swap markets.",
     facebook: "https://www.facebook.com/pages/Grays-Ferry-Skatepark/500800656683053",
@@ -1426,11 +1433,6 @@ export const MUSICDIYSPOTSPHL = [
     subLink: "https://www.instagram.com/4333collective/ ",
     facebook: "https://www.facebook.com/4333collective/ ",
     insta: "https://www.instagram.com/p/CgCph7XL3Jm/",
-  },
-  {
-    title: "The Trashboat",
-    summary: "North Philly house venue. Music and arts. New, starting Nov '21. No shows since April 22.",
-    insta: "https://www.instagram.com/trashboatphl/",
   },
   {
     title: "The Stoop",
@@ -1461,12 +1463,6 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/legolandphl",
   },
   {
-    title: "Detour Philly",
-    summary: "“west philly house venue in west philly. we host cool bands and believe in being true to ourselves, beyond boundaries.” Started summer '21.",
-    twitter: "https://twitter.com/DetourPhilly",
-    insta: "https://www.instagram.com/DetourPhilly/",
-  },
-  {
     title: "Malcolm Street Basement",
     summary: "“West Philly house venue & practice space” Started spring ‘22.",
     insta: "https://www.instagram.com/malcolm_street_basement/ ",
@@ -1488,15 +1484,14 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/thehavenphilly/",
   },
   {
-    title: "The Trash Heap",
-    summary: "West philly house venue. A bit of an older spot. Shows on a stage in a fenced in backyard, or basement, in winter. On hiatus, with most recent show late May ‘22.",
-    subLink: "https://www.youtube.com/user/Ntwell718",
-    insta: "https://www.instagram.com/the.trash.heap/",
-  },
-  {
     title: "The Kitchenette",
     summary: "House venue. First show March '22. Fairly active.",
     insta: "https://www.instagram.com/kitchenette.phl/",
+  },
+  {
+    title: "Neon Jungle",
+    summary: "Cecil Records basement venue. Successor of The Sink, which closed Aug ‘22.",
+    insta: "https://www.instagram.com/neonjunglephilly/",
   },
   {
     title: "The Haw Den",
@@ -1510,12 +1505,7 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/etc.phl/",
   },
   {
-    title: "Neon Jungle",
-    summary: "Cecil Records basement venue. Successor of The Sink, which closed Aug ‘22.",
-    insta: "https://www.instagram.com/neonjunglephl/",
-  },
-  {
-    title: "The Sanctuary",
+    title: "The Location",
     summary: "South Philly 1891 built church turned into art lofts. Throw occasional shows. ",
     insta: "https://www.instagram.com/thelocationphl/",
   },
@@ -1523,11 +1513,6 @@ export const MUSICDIYSPOTSPHL = [
     title: "BBR Arts Loft",
     summary: "Huge arts loft building just north of Chinatown. DJ sets as well as shows.",
     facebook: "https://www.facebook.com/people/The-BBR-Arts-Loft/100067861881519/",
-  },
-  {
-    title: "The Alley",
-    summary: "“philly diy venue. literally an alley.” House venue with shows behind the house. Infrequent shows.",
-    insta: "https://www.instagram.com/thealleyphila/",
   },
   {
     title: "The Mosh Pit",
@@ -1542,14 +1527,14 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "The Snake Pit",
-    summary: "Anarchist and punk run house venue. Lots of hardcore, crossover, etc. “Ask a ghoul.”",
+    summary: "Anarchist and punk run house venue. Lots of hardcore, crossover, etc. “Ask a ghoul.” Insta vanished but still throwing shows.",
     subLink: "https://www.youtube.com/watch?v=ZX0YjeTEgbc",
     insta: "https://www.instagram.com/snakepit_philly/",
   },
   {
     title: "Orpheus’ Garden",
     summary: "“South Philly House Venue. Women/LGBT Owned.” Basement venue. First show Sept ‘22.",
-    insta: "https://www.instagram.com/robertsbasement/",
+    insta: "https://www.instagram.com/orpheus.garden/",
   },
   {
     title: "The Underworld",
@@ -1559,7 +1544,7 @@ export const MUSICDIYSPOTSPHL = [
   {
     title: "Grouvier Street",
     summary: "“DIY live music venue @ temple u.” Backyard venue. Started Sept’ 21.",
-    insta: "https://www.instagram.com/p/CixrqhLpEve/",
+    insta: "https://www.instagram.com/grouvierstreet/",
   },
   {
     title: "The Blood Bank",
@@ -1577,19 +1562,9 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/fearandloathingphilly/ ",
   },
   {
-    title: "The Pipeline",
-    summary: "“north philly diy music venue.” First show in Nov ‘22. ",
-    insta: "https://www.instagram.com/pipelinephl/",
-  },
-  {
     title: "Kame House",
     summary: "“Philadelphia D.I.Y. art initiative. music venue, documentaries, art organization and creative space.” Basement venue. Philly rave scene supporter.",
     insta: "https://www.instagram.com/kamehouse.phl/ ",
-  },
-  {
-    title: "The Echo House",
-    summary: "“We have house shows. Temple Area.”",
-    insta: "https://www.instagram.com/echohousephilly/",
   },
   {
     title: "Chapter House",
@@ -1613,8 +1588,67 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "The Crawlspace",
-    summary: "North Philly house venue. On hiatus since Aug 2022. “AI generated mosh pit in north philly.” Active. Multiple shows a month in warmer months.",
+    summary: "North Philly house venue. On hiatus since Aug 2022. “AI generated mosh pit in north philly.”",
     insta: "https://www.instagram.com/thecrawlspacephl ",
+  },
+  {
+    title: "The Wvrmhole",
+    summary: "West Philly house venue. ”Music and Dance in Filthadelphia” Since Oct '22. Has thrown other events also, such as 'pop up club and kink space.''",
+    insta: "https://www.instagram.com/wvrmhole.philly/",
+  },
+  {
+    title: "Homesick",
+    summary: "”north philly acoustic + multimedia shows welcome home ❤️🧡💛💚💙💜. all types of artists welcome.” Started Feb 2023. Poetry readings, in addition to music.",
+    insta: "https://www.instagram.com/homesickphl/",
+  },
+  {
+    title: "Top Floor Arts",
+    summary: "Northwest philly loft venue. ”1,000 sq ft Creative Space. Pop-up shops. Babyshowers. Private Events. Shows. Listening parties. Live food, vendors, tattoos, drinks.” Since Sept 2021. A lot of hip hop and DJ events.",
+    insta: "https://www.instagram.com/homesickphl/",
+  },
+  {
+    title: "The Sankofa House",
+    summary: "”Our historic Sankofa House is back! #WestPhilly’s safe/inclusive performing house for curators, performers, bands, DJs and community gatherers.” Hip hop, reggae, afrobeats, dancehall, soca, r&b, art making events, open mic, dance parties, workshops.",
+    facebook: "https://www.facebook.com/HouseOfSankofa/",
+    insta: "https://www.instagram.com/sankofahousephilly/",
+  },
+  {
+    title: "Our House",
+    summary: "”West Philly | NOT a Psy-op. Monthly Music. est. 2023.” Basement venue.",
+    insta: "https://www.instagram.com/ourhousephl/",
+  },
+  {
+    title: "The Roof",
+    summary: "”West Philly rooftop shows. The Roof is a west philly house venue featuring pristine views of the city coupled with some of the best music philly has to offer.” Started Spring 2023.",
+    insta: "https://www.instagram.com/theroof.phl/",
+  },
+  {
+    title: "The Palace Jawn",
+    summary: "Very active South Philly house venue.",
+    subLink: "https://plazeapp.co/blog/rethinking-the-philly-house-show-with-the-palace",
+    insta: "https://www.instagram.com/thepalacejawn",
+  },
+  {
+    title: "The Trashboat",
+    summary: "North Philly house venue. Music and arts. New, starting Nov '21. No shows since April 22.",
+    insta: "https://www.instagram.com/trashboatphl/",
+  },
+  {
+    title: "Detour Philly",
+    summary: "“west philly house venue in west philly. we host cool bands and believe in being true to ourselves, beyond boundaries.” Started summer '21. No shows since Oct '22.",
+    twitter: "https://twitter.com/DetourPhilly",
+    insta: "https://www.instagram.com/DetourPhilly/",
+  },
+  {
+    title: "The Trash Heap",
+    summary: "West philly house venue. A bit of an older spot. Shows on a stage in a fenced in backyard, or basement, in winter. On hiatus, with most recent show late May ‘22.",
+    subLink: "https://www.youtube.com/user/Ntwell718",
+    insta: "https://www.instagram.com/the.trash.heap/",
+  },
+  {
+    title: "The Echo House",
+    summary: "“We have house shows. Temple Area.” No shows since Nov '22.'",
+    insta: "https://www.instagram.com/echohousephilly/",
   },
 ];
 
@@ -1832,36 +1866,15 @@ export const MUSICDIYWIP = [
   },
   {
     title:" ",
-    mainLink: "https://www.instagram.com/theconvincingactor/ ",
-  },
-  {
-    title:"Flemington DIY",
-    mainLink: "https://www.instagram.com/flemingtondiy/",
-  },
-  {
-    title:" ",
     mainLink: "https://www.facebook.com/groups/1077371709097656",
-  },
-  {
-    title:"The Container",
-    mainLink: "https://www.instagram.com/p/B1UsLcCpB5z/",
   },
   {
     title:" ",
     mainLink: "https://phl-diymusic.weebly.com/diy-venue-booking-info.html",
   },
-
-  {
-    title:" ",
-    mainLink: "https://www.instagram.com/p/CdgdCOmOjEn/",
-  },
   {
     title:" ",
     mainLink: "https://www.facebook.com/groups/laplazacultural",
-  },
-  {
-    title:" ",
-    mainLink: "https://www.instagram.com/punkhouselv/",
   },
   {
     title:" ",
@@ -1870,10 +1883,6 @@ export const MUSICDIYWIP = [
   {
     title:" ",
     mainLink: "https://www.facebook.com/labyrinthproductions/events",
-  },
-  {
-    title:" ",
-    mainLink: "https://www.facebook.com/rwthphilly/",
   },
   {
     title:" ",
@@ -1893,7 +1902,9 @@ export const MUSICDIYWIP = [
   },
   {
     title:"Sweet Sixteen",
+    summary: "South Philly DIY venue",
     mainLink: "",
+    insta: "https://www.instagram.com/p/Coswd3upv6H/"
   },
   {
     title:" ",
@@ -1920,10 +1931,6 @@ export const MUSICDIYWIP = [
     summary: " ",
   },
   {
-    title:"Bohemian Grove",
-    summary: "Bushwick space",
-  },
-  {
     title:"Cecil Skatepark",
     summary: " ",
   },
@@ -1940,13 +1947,22 @@ export const MUSICDIYWIP = [
     summary: " ",
   },
   {
+    title:"The Dumpster Out Back",
+    summary: " ",
+  },
+  {
     title:"Titus’ Funeral Home",
     summary: " ",
+    insta: "https://www.instagram.com/titus.funeralhome/",
   },
   {
     title:"The Perch ",
     summary: "@ SJU Campus",
     mainLink: "https://www.instagram.com/p/CkwL-BkJZE1/"
+  },
+  {
+    title: "Cantaloupe Kingdom",
+    summary: "“Welcome to South Philly's newest house venue. We are an inclusive no hate space catering to diy musicians! Formerly JHQ.” Basement venue started late Aug ‘22.",
   },
 ];
 
