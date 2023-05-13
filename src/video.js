@@ -4,7 +4,7 @@ import { VIDEOS } from "./videoData"
 
 export const VideoPlayer = () => {
   const [remainingVideos, setVideos] = useState([...VIDEOS]);
-  const [videoSrc, setVideoSrc] = useState("/videos/1672886881423209.webm");
+  const [videoSrc, setVideoSrc] = useState("/videos/1682738409080161.webm");
 
   const loadNextVideo = () => {
     if(remainingVideos.length === 0){
@@ -12,7 +12,7 @@ export const VideoPlayer = () => {
     }
 
     const videoIndex = Math.floor(Math.random()*remainingVideos.length);
-    const videoName = remainingVideos[videoIndex];
+    const videoName = videoSrc === '/videos/1680999535039292.webm' ? '/videos/1680999598012070.webm' : remainingVideos[videoIndex];
 
     setVideos(remainingVideos.filter(video => video !== videoName));
     setVideoSrc(videoName);
@@ -30,11 +30,11 @@ export const VideoPlayer = () => {
       <h1 className="category" id="mid-page">Ah, a weary traveller. Welcome to the mid page. Come rest for a moment.</h1>
       <div className="videoCard" key={Math.random()} >
         <div className="videoContainer">
-            { !showImg && <button class="playText" onClick={() => loadNextVideo()}>Next</button>  }
+            { !showImg && <button className="playText" onClick={() => loadNextVideo()}>Next</button>  }
             { showImg && <img id="playButton" src="/images/play.gif" alt="play" onClick={() => onButtonClick()}/> }
-            { showImg && <button class="playText" onClick={() => onButtonClick()}>Click for dopamine</button>  }
+            { showImg && <button className="playText" onClick={() => onButtonClick()}>Click for dopamine</button>  }
             { !showImg && <video src={videoSrc} onEnded={() => loadNextVideo()} id="videoPlayer"controls autoPlay /> }
-            { !showImg && <button class="playText" onClick={() => loadNextVideo()}>Next</button>  }
+            { !showImg && <button className="playText" onClick={() => loadNextVideo()}>Next</button>  }
         </div>
       </div>
     </>

@@ -3,7 +3,6 @@ export const VIDEOS = [
   "/videos/1672484486295268.webm",
   "/videos/1672886949405656.webm",
   "/videos/1672484486295268.webm",
-  "/videos/1674661121791244.webm",
   "/videos/1675693367032483.webm",
   "/videos/1676331083776343.webm",
   "/videos/1676485111260617.webm",
@@ -169,4 +168,8 @@ export const VIDEOS = [
   "/videos/1545652717403.webm",
   "/videos/1575331141585.webm",
   "/videos/1602692722092.webm",
+  "/videos/1683393702542650.webm",
+  "/videos/1681220108283145.webm",
+  "/videos/1680658438907267.webm",
+  "/videos/1682658675375370.webm"
 ];
