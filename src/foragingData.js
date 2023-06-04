@@ -1,7 +1,7 @@
 export const FORAGINGBYDATE = [
   {
     type: "Fruit and Berry",
-    items: ["Strawberry - spring and early summer", "Serviceberry - late spring and early summer", "Spearmint - spring through fall", "Blackberries - summer", "Huckleberries - summer", "Raspberries – summer", "Mulberry – summer", "Dewberry - summer", "Wineberry - summer", "Blueberry - mid to late summer", "Black Cherry - summer and early fall", "Beach Plum - late summer and early fall", "Cornelian Cherry - late summer and early fall", "Elderberry - late summer and early fall"]
+    items: ["Strawberry - spring and early summer", "Serviceberry - late spring and early summer", "Spearmint - spring through fall", "Blackberries - summer", "Huckleberries - summer", "Raspberries – summer", "Mulberry – summer", "Juneberry – summer", "Dewberry - summer", "Wineberry - summer", "Blueberry - mid to late summer", "Black Cherry - summer and early fall", "Beach Plum - late summer and early fall", "Cornelian Cherry - late summer and early fall", "Elderberry - late summer and early fall"]
   },
   {
     type: "Mushroom",

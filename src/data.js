@@ -131,6 +131,13 @@ export const ANARCHISTPHILLY = [
     facebook: "https://www.facebook.com/rwthphilly/",
     insta: "https://www.instagram.com/rwthphilly/",
     suggestedFollow: "Insta"
+  },
+  {
+    title:"Autonomous Cinema Philly",
+    summary: "Shows regular radical cinema, at different venues and community spaces, usually once or twice a month. South Philly based. Started Dec, 2022.",
+    insta: "https://www.instagram.com/cinema_philly/",
+    twitter: "https://twitter.com/cinema_philly",
+    suggestedFollow: "Insta (update more)"
 
   },
 ]
@@ -198,7 +205,7 @@ export const ANIMEPHILLY = [
   },
   {
     title: "Otakon",
-    summary: "DC Convention, usually in late July. 3 hrs out of Philly. Old as hell, started in 1994. 40k+ attendance in 2022.",
+    summary: "DC Convention, usually in late July. July 28th-30th 2023. 3 hrs out of Philly. Old as hell, started in 1994. 40k+ attendance in 2022.",
     mainLink: "https://www.otakon.com/",
     facebook: "https://www.facebook.com/Otakon",
     insta: "https://www.instagram.com/otakonpics/",
@@ -235,7 +242,7 @@ export const CLOSED  = [
 export const CYCLING = [
   {
     title: "Night Cycle Philadelphia",
-    summary: "Monthly rides, 10 miles, at 8:30pm. Ride ends at a bar “chosen for both its vibe and reasonable prices.”",
+    summary: "Monthly rides, 10 miles, at late evening to early night start, usually third Friday of the Month. Ride ends at a bar “chosen for both its vibe and reasonable prices.”",
     facebook: "https://www.facebook.com/phillybikeride/",
     insta: "https://www.instagram.com/nightcycle_phl/",
     suggestedFollow: "FB (insta not often updated)",
@@ -386,6 +393,7 @@ export const FILMHORROR = [
   {
     title: "Exhumed Films",
     summary: "Runs regular retro horror movies at The Mahoning Drive-In Theater, which is 80 mins N of Center City, usually once or twice a week. Sometimes overnight camping. Also shows films more locally, at Phila Mausoleum of Contemporary Art.",
+    mainLink: "https://exhumedfilms.wordpress.com/",
     facebook: "https://www.facebook.com/ExhumedFilms/",
     insta: "https://www.instagram.com/exhumedfilms/",
     suggestedFollow: "FB (insta dead since 2019)",
@@ -398,7 +406,7 @@ export const FILMHORROR = [
   },
   {
     title: "Media Fright Fest",
-    summary: "Bi-annual indie horror film fest in early fall and mid spring. Encourages local selections to submit.",
+    summary: "Sept 30th, 2023. Bi-annual indie horror film fest in early fall and mid spring. Encourages local selections to submit.",
     mainLink: "https://www.facebook.com/groups/mediafrightfest/",
     suggestedFollow: "Check FB events monthly. Check also in early spring and early fall for bi-annual main festival dates.",
   },
@@ -423,15 +431,15 @@ export const FILMHORROR = [
     suggestedFollow: "FB",
   },
   {
-    title: "See also, 'Theaters' section below, as most of these theaters also show regular horror."
-  },
-  {
     title: "Blobfest",
-    summary: "”A blobs and monsters themed take on the sci-fi/horror festival. Re-enact the famous Blob run out Scene. Experience a live Stage Show featuring Aurora Gorealis and Beach Creeper, and dance the night away to live music. Over 70 vendors. The Blob Run 5k run. A self-guided Driving Tour of Filming Locations featured in The Blob.”",
+    summary: "July, 14-16th, 2023. ”A blobs and monsters themed take on the sci-fi/horror festival. Re-enact the famous Blob run out Scene. Experience a live Stage Show featuring Aurora Gorealis and Beach Creeper, and dance the night away to live music. Over 70 vendors. The Blob Run 5k run. A self-guided Driving Tour of Filming Locations featured in The Blob. 24th year in 2023.”",
     mainLink: "https://thecolonialtheatre.com/blobfest/",
     facebook: "https://www.facebook.com/Blobfest",
     insta: "https://www.instagram.com/blobfest/",
     suggestedFollow: "Check for annual date in early summer",
+  },
+  {
+    title: "See also, 'Theaters' section below, as most of these theaters also show regular horror."
   },
 ];
 
