@@ -4,11 +4,11 @@ import { VIDEOS } from "./videoData"
 
 export const VideoPlayer = () => {
   const [remainingVideos, setVideos] = useState([...VIDEOS]);
-  const [videoSrc, setVideoSrc] = useState("/videos/1682738409080161.webm");
+  const [videoSrc, setVideoSrc] = useState("/videos/1683393702542650.webm");
 
   const loadNextVideo = () => {
     if(remainingVideos.length === 0){
-      setVideos(remainingVideos.push("/videos/1672886881423209.webm", ...VIDEOS));
+      setVideos(remainingVideos.push(...VIDEOS));
     }
 
     const videoIndex = Math.floor(Math.random()*remainingVideos.length);
