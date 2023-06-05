@@ -61,8 +61,6 @@ export const Header = props => {
         <br/>
         <a href="#closed-spaces-groups-events">Closed Spaces & Groups + Retried Revents</a>
       </div>
-
-      <Notices />
     </div>
   )
 };
