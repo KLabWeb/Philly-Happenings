@@ -776,7 +776,7 @@ export const GREENGENERAL = [
   },
   {
     title: "Grid Philly",
-    summary: "General calendar of Philly nature, etc. events.",
+    summary: "Very extensive general calendar of Philly nature, green, etc. events. A really good resource.",
     mainLink: "https://gridphilly.com/events ",
     suggestedFollow: "Check site events calendar monthly",
   },
@@ -890,7 +890,7 @@ export const LITERATURE = [
   },
   {
     title: "Book Corner",
-    summary: "Philly library used bookstore. Cheap and w/ good selection. Next book sale 06/08 to 06/10, 2023.",
+    summary: "Philly library used bookstore. Cheap and w/ good selection. Next book sale 06/08 - 06/10, 2023.",
     facebook: "https://www.facebook.com/bookcornerphilly",
     insta: "https://www.instagram.com/bookcornerphilly ",
     suggestedFollow: "None, but check EoY and mid summer for book sale dates",
@@ -942,21 +942,16 @@ export const LITERATURE = [
     mainLink: "https://www.bartramsgarden.org/?s=brown+brainy",
     suggestedFollow: "Check Bartram's Garden Site Calendar mid spring for annual date",
   },
+  {
+    title: "Philly Queer Zine Fest",
+    summary: "June 24, 2023. Occurred first in 2018 and now again in 2023.",
+    mainLink: "https://www.queerzinefest.com/",
+    insta: "https://www.instagram.com/phillyzinefest/",
+    suggestedFollow: "No FB or Insta but Philly Zine Fest Insta is good for many zine fests",
+  },
 ];
 
 export const MUSICABOVEPHILLY = [
-  {
-    title: "Ukie Club",
-    summary: "Ukrainian American Citizens' Association. Has a bar and hosts local shows, mostly hardcore, though also indie/art rock.",
-    facebook: "https://www.facebook.com/pages/The-Ukie-Club/106810005342200",
-    insta: "https://www.instagram.com/ukrainianleagueofphiladelphia",
-  },
-  {
-    title: "FU Church",
-    summary: "First Unitarian Church of Philadelphia. Semi-frequent punk, hardcore, other, shows. Located in a busy spot in Center City to ride a bike unless you want to pay for expensive parking.",
-    mainLink: "https://philauu.org/",
-    subLink: "https://www.songkick.com/venues/10848-first-unitarian-church",
-  },
   {
     title: "Cousin Danny’s Lounge",
     summary: "“West Philly DIY.” A bar, but more DIY than bar. A two flat converted into a space. Lots of metal, hardcore, etc..",
@@ -1071,6 +1066,18 @@ export const MUSICABOVEPHILLY = [
     mainLink: "https://www.silkcityphilly.com/",
     facebook: "https://www.facebook.com/silkcityphilly/",
     insta: "https://www.instagram.com/silkcitydiner",
+  },
+  {
+    title: "Ukie Club",
+    summary: "Ukrainian American Citizens' Association. Has a bar and hosts local shows, mostly hardcore, though also indie/art rock.",
+    facebook: "https://www.facebook.com/pages/The-Ukie-Club/106810005342200",
+    insta: "https://www.instagram.com/ukrainianleagueofphiladelphia",
+  },
+  {
+    title: "FU Church",
+    summary: "First Unitarian Church of Philadelphia. Semi-frequent punk, hardcore, other, shows. Located in a busy spot in Center City to ride a bike unless you want to pay for expensive parking.",
+    mainLink: "https://philauu.org/",
+    subLink: "https://www.songkick.com/venues/10848-first-unitarian-church",
   },
   {
     title: "Ortlieb's",
