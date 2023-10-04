@@ -92,7 +92,7 @@ export const BYWEEK = [
   },
   {
     period: "Mid Month",
-    events: ["8pm: Philly Bike Party – Ride (Art Museum)", "9pm: Full Moon Bike Ride – Ride (Art Museum)"]
+    events: ["9pm: Full Moon Bike Ride – Ride (Art Museum)"]
   },
   {
     period: "Third Mon",

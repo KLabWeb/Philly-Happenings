@@ -237,6 +237,12 @@ export const CLOSED  = [
     summary: "North Philly house venue near Temple. Rare shows. Also does collaborations with other venues. Final show 04/29/2023.",
     insta: "https://www.instagram.com/wescansin/",
   },
+  {
+    title: "Philly Bike Party",
+    summary: "“Ride bikes! make friends! hop on! Monthly thematic slow cruisin' rides meet at the art museum and make frequent party breaks!”",
+    facebook: "https://www.facebook.com/philliebikeparte/",
+    insta: "https://www.instagram.com/phillybikeparty/",,
+  },
 ]
 
 export const CYCLING = [
@@ -246,13 +252,6 @@ export const CYCLING = [
     facebook: "https://www.facebook.com/phillybikeride/",
     insta: "https://www.instagram.com/nightcycle_phl/",
     suggestedFollow: "FB (insta not often updated)",
-  },
-  {
-    title: "Philly Bike Party",
-    summary: "“Ride bikes! make friends! hop on! Monthly thematic slow cruisin' rides meet at the art museum and make frequent party breaks!”",
-    facebook: "https://www.facebook.com/philliebikeparte/",
-    insta: "https://www.instagram.com/phillybikeparty/",
-    suggestedFollow: "FB (insta not as often updated)",
   },
   {
     title: "Philly Full Moon Bike Ride",
