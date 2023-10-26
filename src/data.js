@@ -561,13 +561,13 @@ export const GENERAL = [
   },
   {
     title: "SEPTA Transit Map",
-    summary: "Official SEPTA transit map, in PDF form, making it usual for saving on a smartphone or printing, if not wanting to feed your data to Google Maps.",
+    summary: "Official SEPTA transit map, in PDF form, making it useful for saving on a smartphone or printing, if not wanting to feed your data to Google Maps.",
     mainLink: "https://www5.septa.org/wp-content/uploads/travel/line-map-rr.pdf",
     suggestedFollow: "n/a",
   },
   {
     title: "Our Philly",
-    summary: "A huge 'project of love and obsession' Philly spaces and events site, similar to this one. Lists of local organizations, parks, markets, restaurants, bars, groups, tools, etc., where list items can be user ranked, by number of 'hearts.' Find a cool bar or restaurant here.",
+    summary: "A huge 'project of love and obsession' Philly spaces and events site, similar to this one. Lists of local organizations, parks, markets, restaurants, bars, groups, site tools, etc., where list items can be user ranked, by number of 'hearts.' Find a cool bar or restaurant here.",
     mainLink: "https://www.ourphilly.org/browse",
     subLink: "https://www.ourphilly.org/how-to-find-events-in-philly",
     suggestedFollow: "Check “hot and upcoming” page monthly",
@@ -582,7 +582,7 @@ export const GENERAL = [
   },
   {
     title: "Philly Social Adventures",
-    summary: "A group run by the same organizer as who runs the Bourse Hall and Ladder 15 Game Nights. General nerd gatherings. A lot of regulars.",
+    summary: "A group run by the same organizer who runs the Bourse Hall and Ladder 15 Game Nights. General nerd gatherings. A lot of regulars.",
     facebook: "https://www.facebook.com/groups/574330306077914/",
     suggestedFollow: "FB",
   },
