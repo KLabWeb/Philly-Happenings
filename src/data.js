@@ -130,7 +130,7 @@ export const ANARCHISTPHILLY = [
 export const ANIMEPHILLY = [
   {
     title: "Philadelphia Animation Society",
-    summary: "Monthly in-person meetings at FU church, 5pm to 10pm, every 2nd Saturday of the month. 41 years and running. Needs new members!",
+    summary: "Monthly in-person meetings at FU church, 5pm to 10pm, every 2nd Saturday of the month. 41 years and running. Needs new members! Please attend!",
     facebook: "https://www.facebook.com/PhiladelphiaAnimationSociety",
     suggestedFollow: "Facebook",
   },
@@ -142,15 +142,15 @@ export const ANIMEPHILLY = [
   },
   {
     title: "Fan Expo Philadelphia",
-    summary: "Convention. Mid-summer each year. Traveling con held in many cities. General con (no big anime con in Philly). “Join tens of thousands of fans who are just like you and experience the ultimate playground for comics, sci-fi, horror, anime, and gaming.”",
+    summary: "Convention. Late spring each year. Traveling con held in many cities. General con (no big anime con in Philly). “Join tens of thousands of fans who are just like you and experience the ultimate playground for comics, sci-fi, horror, anime, and gaming.”",
     mainLink: "https://fanexpohq.com/fanexpophiladelphia/",
     facebook: "https://www.facebook.com/FANEXPOPhiladelphia",
     insta: "https://www.instagram.com/fanexpophiladelphia/",
-    suggestedFollow: "Check site for con date and early bird ticket sales date in start of Nov",
+    suggestedFollow: "Check site for con date and early bird ticket sales date at start of Nov",
   },
   {
     title: "Puchicon",
-    summary: "“Anime, Gaming, Comics Convention run by a Latina mom with ADHD.” Small con, about 1,000 attendees last con. Late spring in Atalantic City and mid fall in Camelback, PA. Atalantic City, May 13-14th, 2023. Camelback, Oct 21-22, 2023",
+    summary: "“Anime, Gaming, Comics Convention run by a Latina mom with ADHD.” Small con, about 1,000 attendees last con. Late spring in Atalantic City and mid fall in Camelback, PA.",
     mainLink: "https://www.puchicon.com/",
     facebook: "https://www.facebook.com/puchicon",
     insta: "https://www.instagram.com/puchicon/",
@@ -158,7 +158,7 @@ export const ANIMEPHILLY = [
   },
   {
     title: "Philly Otaku",
-    summary: "Philly otaku group throwing events, meetups, etc.. Small conventions, sit and draws, cosplay photoshoots, dance parties, most often at Cherry Street Pier. OtakuCon @ Cherry Street Pier, April 14-16, 2023.",
+    summary: "Philly otaku group throwing events, meetups, etc.. Small conventions, sit and draws, cosplay photoshoots, dance parties, most often at Cherry Street Pier. OtakuCon @ Cherry Street Pier, mid spring, annually",
     facebook: "https://www.facebook.com/phillyotaku",
     insta: "https://www.instagram.com/phillyotaku",
     suggestedFollow: "Insta",
@@ -169,11 +169,11 @@ export const ANIMEPHILLY = [
     mainLink: "https://j1con.com/",
     facebook: "https://www.facebook.com/j1con/",
     insta: "https://www.instagram.com/j1con/",
-    suggestedFollow: "Insta + check site early fall for annual con date.",
+    suggestedFollow: "Check site early fall for annual con date.",
   },
   {
     title: "Chibi Café",
-    summary: "1 hour N of Philly. “Chibi Café is founded by otakus for otakus! We carry a variety of activities from old school arcades and table top gaming, to a manga library.” Hosts events (ex. D&D night, drawing classes, board game nights, “micro cons”.",
+    summary: "1 hour N of Philly. “Chibi Café is founded by otakus for otakus! We carry a variety of activities from old school arcades and table top gaming, to a manga library.” Hosts events (ex. D&D night, drawing classes, board game nights, “micro cons”).",
     mainLink: "https://www.chibicafeco.com/",
     facebook: "https://www.facebook.com/chibicafeco",
     insta: "https://www.instagram.com/chibi_cafe_co/",
@@ -190,7 +190,7 @@ export const ANIMEPHILLY = [
   },
   {
     title: "Otakon",
-    summary: "DC Convention, usually in late July. July 28th-30th 2023. 3 hrs out of Philly. Old as hell, started in 1994. 40k+ attendance in 2022.",
+    summary: "DC Convention, usually in late July. 3 hrs out of Philly. Old as hell, started in 1994. 40k+ attendance in 2022.",
     mainLink: "https://www.otakon.com/",
     facebook: "https://www.facebook.com/Otakon",
     insta: "https://www.instagram.com/otakonpics/",
@@ -477,7 +477,7 @@ export const FILMINDIE = [
   },
   {
     title: "cinéSPEAK",
-    summary: "Under the Stars 2023 dates: Fridays May 26, June 2nd, June 9th, June 16th (rain days on Saturdays day after). “The city’s premier art house theater and organization.” Pop-up showings all over Philly, sometimes outdoors. Focused on global independent cinema on radical topics.",
+    summary: "“The city’s premier art house theater and organization.” Pop-up showings all over Philly, sometimes outdoors, each summer. Focused on global independent cinema on radical topics.",
     mainLink: "https://www.cinespeak.org/attend/",
     subLink: "https://www.instagram.com/cinespeak/",
     facebook: "https://www.facebook.com/cineSPEAKeasy",
@@ -576,7 +576,7 @@ export const GENERAL = [
   },
   {
     title: "South Street Fest",
-    summary: "May 6th, 2023. Mid spring, annually.“Spanning 2nd to 8th streets. Live music and performances, international food and drinks, crafts and vendors, Brauhaus Schmitz Manifest, framily friendly kid zones, free comics at Atomic City Comics.“",
+    summary: "Mid spring, annually.“Spanning 2nd to 8th streets. Live music and performances, international food and drinks, crafts and vendors, Brauhaus Schmitz Manifest, framily friendly kid zones, free comics at Atomic City Comics.“",
     insta: "https://www.instagram.com/southstreetphilly",
     suggestedFollow: "Check annual date in early spring",
   },
@@ -897,20 +897,20 @@ export const LITERATURE = [
   },
   {
     title: "Book Corner",
-    summary: "Philly library used bookstore. Cheap and w/ good selection. Next book sale 06/08 - 06/10, 2023.",
+    summary: "Philly library used bookstore. Cheap and w/ good selection. Happens about once each season",
     facebook: "https://www.facebook.com/bookcornerphilly",
     insta: "https://www.instagram.com/bookcornerphilly ",
     suggestedFollow: "None, but check EoY and mid summer for book sale dates",
   },
   {
     title: "Bucks County Book Festival",
-    summary: "Doylestown, PA. Books, author events, small presses. End of Sept annually. Sept 29th-30th, 2023.",
+    summary: "Doylestown, PA. Books, author events, small presses. End of Sept annually.",
     mainLink: "https://www.bucksbookfest.org/",
     suggestedFollow: "Check site later summer for annual date",
   },
   {
     title: "Collingswood Book Festival",
-    summary: "Collingswood, NJ. Books, author events, small presses. Start of Oct annually. October 7th, 2023.",
+    summary: "Collingswood, NJ. Books, author events, small presses. Start of Oct annually.",
     mainLink: "https://www.collingswoodbookfestival.com/",
     suggestedFollow: "Check site early fall for annual date",
   },
@@ -930,14 +930,14 @@ export const LITERATURE = [
   },
   {
     title: "Lacaster Zine Fest",
-    summary: "April 22nd, 2023. “Zines, art, music, & workshops at the lovely southern market. 40+ tablers, workshops & djs spinning after party tunes!“",
+    summary: "Mid spring, annually. “Zines, art, music, & workshops at the lovely southern market. 40+ tablers, workshops & djs spinning after party tunes!“",
     mainLink: "https://lancasterzinefest.my.canva.site/",
     insta: "https://www.instagram.com/lancasterzinefest/",
     suggestedFollow: "Insta + check for annual date in early spring",
   },
   {
     title: "West Philly Spring Zine Fest",
-    summary: "May 6th, 2023. “New Zine Show Incoming! Organized by Philly Soapbox, over 50 vendors, admission is FREE! Come out and Support the Philly Zine Community!“",
+    summary: "Mid spring and mid winter, annually. “New Zine Show Incoming! Organized by Philly Soapbox, over 50 vendors, admission is FREE! Come out and Support the Philly Zine Community!“",
     mainLink: "https://www.phillysoapbox.org/",
     facebook: "https://www.facebook.com/phillysoapbox/",
     insta: "https://www.instagram.com/phillyzinefest/",
@@ -945,7 +945,7 @@ export const LITERATURE = [
   },
   {
     title: "Brown Brainy Brilliant Book Festival & Market",
-    summary: "May 7th, 2023. “An annual free literary event showcasing a diverse group of independently published authors from around the country—particularly those of color and from the LGBTQ community. Food, vendors, authors, activities, and more!“ 3rd annual as of 2023.",
+    summary: "“An annual (mid spring) free literary event showcasing a diverse group of independently published authors from around the country—particularly those of color and from the LGBTQ community. Food, vendors, authors, activities, and more!“ 3rd annual as of 2023.",
     mainLink: "https://www.bartramsgarden.org/?s=brown+brainy",
     suggestedFollow: "Check Bartram's Garden Site Calendar mid spring for annual date",
   },
@@ -1837,7 +1837,7 @@ export const MUSICARTISTS = [
 export const PHOTOGRAPHY = [
   {
     title: "20/20 Photo Festival",
-    summary: "Septh 30th, 2023. Annual photo fest with exhibitions at a bunch of different galleries.",
+    summary: "Annual mid-fall photo fest with exhibitions at a bunch of different galleries.",
     mainLink: "https://www.2020photofestival.org/",
     facebook: "https://www.facebook.com/2020photofestival",
     insta: "https://www.instagram.com/2020photofest/",
