@@ -247,24 +247,38 @@ export const CLOSED  = [
 
 export const CYCLING = [
   {
+    title: "Cycle Scene PHL",
+    summary: "General Philly bike group. Good for finding events, especially usual ride dates for Night Cyle, Full Moon Bike Ride, etc.",
+    facebook: "https://www.facebook.com/groups/cyclescenephl",
+    insta: "https://www.instagram.com/cyclescenephl/",
+    suggestedFollow: "Insta (more updated with less group member flood posting)",
+  },
+  {
+    title: "The Trellis",
+    summary: "“This site began in June 2023 and aims to document and elevate Philly biking culture.“ Blog. Posts on rides, news, routes, local cycling teams. Maintains a nice calendar of local rides.",
+    mainLink: "https://www.thetrellisphilly.com/",
+    facebook: "https://www.facebook.com/thetrellisphilly/",
+    insta: "https://www.instagram.com/thetrellisphilly/",
+    suggestedFollow: "Main blog site",
+  },
+  {
     title: "Night Cycle Philadelphia",
-    summary: "Monthly rides, 10 miles, at late evening to early night start, usually third Friday of the Month. Ride ends at a bar “chosen for both its vibe and reasonable prices.”",
+    summary: "Monthly rides, ~10 miles, at late evening to early night start, usually end of the month, often on a Friday. Ride route and end location vary. Rest & chill spot half-way, then ride to end point.",
     facebook: "https://www.facebook.com/phillybikeride/",
     insta: "https://www.instagram.com/nightcycle_phl/",
     suggestedFollow: "FB (insta not often updated)",
   },
   {
     title: "Philly Full Moon Bike Ride",
-    summary: "“A monthly ride and evening of fun, debauchery, and cycling solidarity as we take in the city streets under the full moon”",
+    summary: "“A monthly ride and evening of fun, debauchery, and cycling solidarity as we take in the city streets under the full moon.” Generally meets at art museum.",
     facebook: "https://www.facebook.com/groups/156618137847919/",
     suggestedFollow: "FB",
   },
   {
-    title: "Cycle Scene PHL",
-    summary: "General Philly bike group. Night cycles. Bike parties. Good for finding events.",
-    facebook: "https://www.facebook.com/groups/cyclescenephl",
-    insta: "https://www.instagram.com/cyclescenephl/",
-    suggestedFollow: "Insta (more updated with less group member flood posting)",
+    title: "Northwest Night Rides",
+    summary: "“Social bike rides in and around Northwest Philadelphia. Every other Wednesday at 7pm. All are welcome! 🌳🚲🚲🚲🌳“",
+    insta: "https://www.instagram.com/nwnightrides/",
+    suggestedFollow: "Insta",
   },
   {
     title: "Bicycle Club of Philadelphia",
@@ -274,16 +288,16 @@ export const CYCLING = [
   },
   {
     title: "Philadelphia Naked Bike Ride",
-    summary: "Happens later summer, each summer.",
+    summary: "Get naked and go on a bike ride with other naked and near naked folk. Happens later summer, each summer.",
     mainLink: "https://philadelphianakedbikeride.wordpress.com/",
     facebook: "https://www.facebook.com/groups/713317452096574/",
     insta: "https://www.instagram.com/philly_naked_bike_ride/",
     suggestedFollow: "Check site for ride date in late spring",
   },
   {
-    title: "Bicycle Coalition of Greater Philadelphia: Regional Bike Map",
-    summary: "Bike streets and trails in Philly.",
-    mainLink: "https://bicyclecoalition.org/resources/bike-maps/",
+    title: "Bicycle Coalition of Greater Philadelphia",
+    summary: "Bike streets and trails in Philly, regional bike map, Philly and regional cycling programs, local cycling resources, bike news.",
+    mainLink: "https://bicyclecoalition.org/",
     suggestedFollow: "n/a",
   },
 ];
