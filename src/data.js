@@ -130,19 +130,19 @@ export const ANARCHISTPHILLY = [
 export const ANIMEPHILLY = [
   {
     title: "Philadelphia Animation Society",
-    summary: "Monthly in-person meetings at FU church. 40 years and running. On hiatus until March 2023.",
+    summary: "Monthly in-person meetings at FU church, 5pm to 10pm, every 2nd Saturday of the month. 41 years and running. Needs new members!",
     facebook: "https://www.facebook.com/PhiladelphiaAnimationSociety",
     suggestedFollow: "Facebook",
   },
   {
     title: "Philadelphia Anime and Gaming Society",
-    summary: "General Philly Anime Group. Good for event posts.",
+    summary: "General Philly Anime FB group. Good for event posts.",
     facebook: "https://www.facebook.com/groups/PhiladelphiaAnimeAndGamingSociety/",
     suggestedFollow: "Facebook",
   },
   {
     title: "Fan Expo Philadelphia",
-    summary: "Convention. Mid-summer each year. June 2nd-4th, 2023. Traveling con held in many cities. General con (no big anime con in Philly). “Join tens of thousands of fans who are just like you and experience the ultimate playground for comics, sci-fi, horror, anime, and gaming.”",
+    summary: "Convention. Mid-summer each year. Traveling con held in many cities. General con (no big anime con in Philly). “Join tens of thousands of fans who are just like you and experience the ultimate playground for comics, sci-fi, horror, anime, and gaming.”",
     mainLink: "https://fanexpohq.com/fanexpophiladelphia/",
     facebook: "https://www.facebook.com/FANEXPOPhiladelphia",
     insta: "https://www.instagram.com/fanexpophiladelphia/",
@@ -303,7 +303,7 @@ export const FILMFESTIVALS = [
   },
   {
     title: "The Philadelphia Independent Film Festival",
-    summary: "Late spring, annually. May 15-20th, 2023. 16th year in 2023.",
+    summary: "Late spring, annually. 16th year in 2023.",
     mainLink: "http://pifffilms.tv/",
     facebook: "https://www.facebook.com/PhillyFilm",
     insta: "https://www.instagram.com/philaindie/",
@@ -317,7 +317,7 @@ export const FILMFESTIVALS = [
   },
   {
     title: "Blackstar Film Festival",
-    summary: "Aug 2-6, 2023. “BlackStar Film Festival is an annual celebration of the visual and storytelling traditions of the African diaspora and of global Indigenous communities, showcasing films by Black, Brown and Indigenous artists from around the world.”",
+    summary: "Late summer, annually. “BlackStar Film Festival is an annual celebration of the visual and storytelling traditions of the African diaspora and of global Indigenous communities, showcasing films by Black, Brown and Indigenous artists from around the world.”",
     mainLink: "https://www.blackstarfest.org/festival/",
     facebook: "https://www.facebook.com/BlackStarFest",
     insta: "https://www.instagram.com/blackstarfest/",
@@ -331,7 +331,7 @@ export const FILMFESTIVALS = [
   },
   {
     title: "Philadelphia Latino Film Festival",
-    summary: "May 28 thru June 9, 2023. Annual festival. “The Philadelphia Latino Film Festival (PHLAFF) celebrates the richness & diversity of Latino cinema.“",
+    summary: "Annual early summer festival. “The Philadelphia Latino Film Festival (PHLAFF) celebrates the richness & diversity of Latino cinema.“",
     mainLink: "https://www.phlaff.org/",
     facebook: "https://www.facebook.com/PHLAFF",
     insta: "https://www.instagram.com/phlatinfilmfest/",
@@ -339,7 +339,7 @@ export const FILMFESTIVALS = [
   },
   {
     title: "Philadelphia Asian American Film Festival",
-    summary: "Nov 2 thru Nov 12, 2023. Annual festival. “Dedicated to supporting and highlighting the experiences of Asian and Pacific Islander diaspora through creative community-focused programs.“",
+    summary: "Annual festival each fall. “Dedicated to supporting and highlighting the experiences of Asian and Pacific Islander diaspora through creative community-focused programs.“",
     mainLink: "https://paaff.org/",
     facebook: "https://www.facebook.com/PAAFF",
     insta: "https://www.instagram.com/phillyaaff/",
@@ -405,7 +405,7 @@ export const FILMHORROR = [
   },
   {
     title: "Media Fright Fest",
-    summary: "Sept 30th, 2023. Bi-annual indie horror film fest in early fall and mid spring. Encourages local selections to submit.",
+    summary: "Bi-annual indie horror film fest in early fall, usually the final weekend of September or first weekend of October, and mid spring. Encourages local selections to submit.",
     mainLink: "https://www.facebook.com/groups/mediafrightfest/",
     suggestedFollow: "Check FB events monthly. Check also in early spring and early fall for bi-annual main festival dates.",
   },
@@ -417,7 +417,7 @@ export const FILMHORROR = [
   },
   {
     title: "The Philadelphia Unnamed Film Festival (PUFF)",
-    summary: "Sept 27th thru Oct 1st, 2023. “More than just a 'horror' film festival, each year PUFF includes an eclectic mix of features and shorts, including sci-fi, action, documentary, bizarre, drama and more. Shorts films submission selected.”",
+    summary: "“More than just a 'horror' film festival, each year PUFF includes an eclectic mix of features and shorts, including sci-fi, action, documentary, bizarre, drama and more. Shorts films submission selected.” Really good shit. Largely local films. Start of October, annually.",
     mainLink: "https://filmfreeway.com/PhiladelphiaUnnamedFilmFestival",
     facebook: "https://www.facebook.com/phillyunnamed/",
     insta: "https://www.instagram.com/phillyunnamed/",
@@ -431,7 +431,7 @@ export const FILMHORROR = [
   },
   {
     title: "Blobfest",
-    summary: "July, 14-16th, 2023. ”A blobs and monsters themed take on the sci-fi/horror festival. Re-enact the famous Blob run out Scene. Experience a live Stage Show featuring Aurora Gorealis and Beach Creeper, and dance the night away to live music. Over 70 vendors. The Blob Run 5k run. A self-guided Driving Tour of Filming Locations featured in The Blob. 24th year in 2023.”",
+    summary: "Annual, each July. ”A blobs and monsters themed take on the sci-fi/horror festival. Re-enact the famous Blob run out Scene. Experience a live Stage Show featuring Aurora Gorealis and Beach Creeper, and dance the night away to live music. Over 70 vendors. The Blob Run 5k run. A self-guided Driving Tour of Filming Locations featured in The Blob. 24th year in 2023.”",
     mainLink: "https://thecolonialtheatre.com/blobfest/",
     facebook: "https://www.facebook.com/Blobfest",
     insta: "https://www.instagram.com/blobfest/",
