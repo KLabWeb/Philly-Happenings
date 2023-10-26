@@ -464,16 +464,8 @@ export const FILMHORROR = [
 
 export const FILMINDIE = [
   {
-    title: "The Philadelphia Mausoleum of Contemporary Art",
-    summary: "Many arthouse film events, with weird b movies, horror, film classics, etc.. Also shows, and other types of events.",
-    mainLink: "https://www.philamoca.org/",
-    facebook: "https://www.facebook.com/philamoca",
-    insta: "https://www.instagram.com/philamoca",
-    suggestedFollow: "Insta + check site calendar monthly",
-  },
-  {
     title: "Lightbox Film Center",
-    summary: "Film classics, foreign, indie, and arthouse. Runs a lot of film series, often by Director. Greats of cinema (ex. Godard, Kurosawa), as well as arthouse (ex. 'The Draughtsman's Contract' restoration).",
+    summary: "Film classics, foreign, indie, and arthouse. Run a lot of film series, often by director. Greats of cinema (ex. Godard, Kurosawa), as well as arthouse (ex. 'The Draughtsman's Contract' restoration).",
     mainLink: "https://lightboxfilmcenter.org/",
     facebook: "https://www.facebook.com/LightboxFilmCenter",
     insta: "https://www.instagram.com/lightboxfilmcenter/",
@@ -489,15 +481,23 @@ export const FILMINDIE = [
   },
   {
     title: "cinéSPEAK",
-    summary: "“The city’s premier art house theater and organization.” Pop-up showings all over Philly, sometimes outdoors, each summer. Focused on global independent cinema on radical topics.",
+    summary: "“The city’s premier art house theater and organization.” Pop-up showings all over Philly, sometimes outdoors, each summer and fall. Focused on global independent cinema on radical topics.",
     mainLink: "https://www.cinespeak.org/attend/",
     subLink: "https://www.instagram.com/cinespeak/",
     facebook: "https://www.facebook.com/cineSPEAKeasy",
     suggestedFollow: "Check site “attend” page monthly",
   },
   {
+    title: "The Philadelphia Mausoleum of Contemporary Art",
+    summary: "Mostly concerts, but also arthouse film screenings, with weird b movies, horror, film classics, etc..",
+    mainLink: "https://www.philamoca.org/",
+    facebook: "https://www.facebook.com/philamoca",
+    insta: "https://www.instagram.com/philamoca",
+    suggestedFollow: "Insta + check site calendar monthly",
+  },
+  {
     title: "The Highway",
-    summary: "Drive-in. 35 mins N of Philly. Owned by The Ambler (arthouse) theater. Lots of horror and cult.",
+    summary: "Old theater 35 mins N of Philly. Owned by The Ambler (arthouse) theater. Lots of horror and cult.",
     mainLink: "https://www.hiwaytheater.org/",
     facebook: "https://www.facebook.com/BlackRiverDriveIn",
     suggestedFollow: "Check site calendar monthly",
@@ -520,7 +520,7 @@ export const FILMINDIE = [
   },
   {
     title: "The Colonial Theatre",
-    summary: "55 mins NW of Philly. Arthouse, horror, cult, retro, classics, anime.",
+    summary: "55 mins NW of Philly. Arthouse, horror, cult, retro, classics, anime. Blobfest in July and a lot of other horror events.",
     mainLink: "https://thecolonialtheatre.com/",
     facebook: "https://www.facebook.com/thecolonialtheatre",
     insta: "https://www.instagram.com/thecolonialtheatre/",
@@ -536,7 +536,7 @@ export const FILMINDIE = [
   },
   {
     title: "The Mahoning Drive-In",
-    summary: "105 mins N of Philly. Arthouse, with lots of B movies, often doing three night campouts. Mostly cult, retro, scifi, and horror. For example, did a John Waters + David Cronenberg summer '22'.",
+    summary: "105 mins N of Philly. Arthouse, with lots of B movies, often doing three night campouts. Mostly cult, retro, scifi, and horror. For example, had John Waters there in person in summer 2023, for a John Waters festival.",
     mainLink: "https://www.mahoningdit.com/",
     facebook: "https://www.facebook.com/mahoningdriveintheater/",
     insta: "https://www.instagram.com/mahoningdriveintheater/",
