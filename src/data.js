@@ -234,7 +234,6 @@ export const CLOSED  = [
     mainLink: "https://hudsonvalleyearthfirst.wordpress.com/",
     subLink: "https://itsgoingdown.org/?s=%22Hudson+Valley%22+Earth+First",
     facebook: "https://www.facebook.com/HVEarthFirst/",
-    suggestedFollow: "Facebook",
   },
   {
     title: "Save the Meadows at FDR Park",
@@ -242,6 +241,11 @@ export const CLOSED  = [
     mainLink: "https://www.savethemeadows.com/",
     facebook: "https://www.facebook.com/stmatfdr/",
     insta: "https://www.instagram.com/savethemeadowsfdr/",
+  },
+  {
+    title: "Philadelphia Environmental Film Festival",
+    summary: "Usually was held mid spring. Was run by Philadelphia Film Society. Ran from 2017 to 2022, but then suddenly vanished in 2023.",
+    mainLink: "https://www.onelittleearth.org/peff/?fbclid=IwAR2QNQwZJYsCpqWIwY_DMmkjJkK7yCyB_3fCW2_JqcPCLIX3RcHdbwxv18Q",
   },
 ]
 
@@ -305,9 +309,9 @@ export const CYCLING = [
 export const FILMFESTIVALS = [
   {
     title: "Philadelphia Film Festival",
-    summary: "Mid October, annually. 11 days long. Hosted by The Philadelphia Film Society. 31st year in 2022.",
+    summary: "Mid October, annually. 11 days long. Hosted by The Philadelphia Film Society. 32nd year in 2023.",
     mainLink: "https://filmadelphia.org/festival/",
-    suggestedFollow: "Check site for annual date in late summer.",
+    suggestedFollow: "Check site for annual date at the start of fall.",
   },
   {
     title: "Big Picture Film Fest",
@@ -321,7 +325,7 @@ export const FILMFESTIVALS = [
     mainLink: "http://pifffilms.tv/",
     facebook: "https://www.facebook.com/PhillyFilm",
     insta: "https://www.instagram.com/philaindie/",
-    suggestedFollow: "FB + check site for annual date in late winter",
+    suggestedFollow: "Check site for annual date in late winter",
   },
   {
     title: "The Bright Bulb Screening Series",
@@ -339,9 +343,9 @@ export const FILMFESTIVALS = [
   },
   {
     title: "The Secret Cinema",
-    summary: "“Since 1992, the Secret Cinema has been the Philadelphia area’s premiere floating repertory cinema series to nightclubs, bars, coffee houses, museums, open fields, colleges, art galleries, bookstores, and sometimes even theaters and film festivals.” Arthouse as fuck.",
+    summary: "“Since 1992, the Secret Cinema has been the Philadelphia area’s premiere floating repertory cinema series to nightclubs, bars, coffee houses, museums, open fields, colleges, art galleries, bookstores, and sometimes even theaters and film festivals.” Mostly arthouse, strange, and retro.",
     mainLink: "http://www.thesecretcinema.com/",
-    suggestedFollow: "Check site monthly for screenings",
+    suggestedFollow: "Check site monthly for screening date.",
   },
   {
     title: "Philadelphia Latino Film Festival",
@@ -349,7 +353,7 @@ export const FILMFESTIVALS = [
     mainLink: "https://www.phlaff.org/",
     facebook: "https://www.facebook.com/PHLAFF",
     insta: "https://www.instagram.com/phlatinfilmfest/",
-    suggestedFollow: "Check site late winter for annual date.",
+    suggestedFollow: "Check site early winter for annual date.",
   },
   {
     title: "Philadelphia Asian American Film Festival",
@@ -371,12 +375,6 @@ export const FILMFESTIVALS = [
     summary: "“Free summer screenings designed to bring groundbreaking films to neighborhoods across Philadelphia.”",
     mainLink: "https://filmadelphia.org/movies-on-the-block/",
     suggestedFollow: "Check site early summer for annual dates",
-  },
-  {
-    title: "Philadelphia Environmental Film Festival",
-    summary: "Usually held mid spring. Run by Philadelphia Film Society.",
-    mainLink: "https://www.onelittleearth.org/peff/?fbclid=IwAR2QNQwZJYsCpqWIwY_DMmkjJkK7yCyB_3fCW2_JqcPCLIX3RcHdbwxv18Q",
-    suggestedFollow: "check annual date in early spring",
   },
 ];
 
@@ -418,6 +416,14 @@ export const FILMHORROR = [
     suggestedFollow: "Check Exhumed Films FB in late summer for annual date",
   },
   {
+    title: "The Philadelphia Unnamed Film Festival (PUFF)",
+    summary: "“More than just a 'horror' film festival, each year PUFF includes an eclectic mix of features and shorts, including sci-fi, action, documentary, bizarre, drama and more. Shorts films submission selected.” Really good shit. Largely local films. Start of October, annually.",
+    mainLink: "https://filmfreeway.com/PhiladelphiaUnnamedFilmFestival",
+    facebook: "https://www.facebook.com/phillyunnamed/",
+    insta: "https://www.instagram.com/phillyunnamed/",
+    suggestedFollow: "Check Insta or FB for annual date in late summer",
+  },
+  {
     title: "Media Fright Fest",
     summary: "Bi-annual indie horror film fest in early fall, usually the final weekend of September or first weekend of October, and mid spring. Encourages local selections to submit.",
     mainLink: "https://www.facebook.com/groups/mediafrightfest/",
@@ -428,14 +434,6 @@ export const FILMHORROR = [
     summary: "Good titles too. A lot of classics, cult, and B.",
     mainLink: "https://undergroundarts.org/",
     suggestedFollow: "Check site calendar monthly",
-  },
-  {
-    title: "The Philadelphia Unnamed Film Festival (PUFF)",
-    summary: "“More than just a 'horror' film festival, each year PUFF includes an eclectic mix of features and shorts, including sci-fi, action, documentary, bizarre, drama and more. Shorts films submission selected.” Really good shit. Largely local films. Start of October, annually.",
-    mainLink: "https://filmfreeway.com/PhiladelphiaUnnamedFilmFestival",
-    facebook: "https://www.facebook.com/phillyunnamed/",
-    insta: "https://www.instagram.com/phillyunnamed/",
-    suggestedFollow: "Check Insta or FB for annual date in late summer",
   },
   {
     title: "Philadelphia Horror group",
