@@ -1,7 +1,7 @@
 export const ANARCHISTPHILLY = [
   {
     title: "Philly Anti-Capitalist",
-    summary: "Philly Anti-authoritarian News since 2014. Post events, also.",
+    summary: "Philly Anti-authoritarian News since 2014. Post events, also. Nice list of Philly local groups and resources.",
     mainLink: "https://phlanticap.noblogs.org/",
     subLink: "https://phlanticap.noblogs.org/homies/",
     suggestedFollow: "Site check weekly"
@@ -12,21 +12,21 @@ export const ANARCHISTPHILLY = [
     mainLink: "https://lavazone.org/",
     twitter: "https://twitter.com/lavaspacephl",
     insta: "https://www.instagram.com/lavaspacephl",
-    suggestedFollow: "Twitter (for retweets, also)"
+    suggestedFollow: "Insta (more updated)"
   },
   {
     title: "West Philadelphia Food Not Bombs",
     summary: "Cook at Ahimsa House Friday 3pm. Distro at 5pm at Malcom X Park.",
     facebook: "https://www.facebook.com/groups/westphillyfnb/",
     insta: "https://www.instagram.com/foodnotbombswestphilly/",
-    suggestedFollow: "Instagram",
+    suggestedFollow: "Insta (more updated)",
   },
   {
     title: "South Philadelphia Food Not Bombs",
-    summary: "“Saturdays Hot Meals @ 3pm. Fridays Fresh Produce @ 8am. Mifflin Square Park (Ritner and 5th).“",
+    summary: "“Saturdays Hot Meals @ 3pm. Fridays Fresh Produce @ 8am. Mifflin Square Park (Ritner and 5th). Cooks at People's Kitchen. Very active.“",
     facebook: "https://www.facebook.com/groups/184708858232748/",
     insta: "https://www.instagram.com/southphillyfoodnotbombs/",
-    suggestedFollow: "Insta (more updated)",
+    suggestedFollow: "None (social media not updated but this FNB is very active, despite)",
   },
   {
     title: "Food Not Bombs Solidarity",
@@ -40,15 +40,7 @@ export const ANARCHISTPHILLY = [
     summary: "“ 🏴 We are North Philadelphia Food Not Bombs 🏴 Sundays! - relentlessly sharing resources, support, hot meals and spreading sweet Anarchy since 1999“",
     facebook: "https://www.facebook.com/NPFNB/",
     insta: "https://www.instagram.com/npfnb",
-    suggestedFollow: "Insta (much more updated)",
-  },
-  {
-    title: "Hudson Valley Earth First",
-    summary: "Hosted National EF! Rondy (RRR) in 2018. Seems dead since 2019?",
-    mainLink: "https://hudsonvalleyearthfirst.wordpress.com/",
-    subLink: "https://itsgoingdown.org/?s=%22Hudson+Valley%22+Earth+First",
-    facebook: "https://www.facebook.com/HVEarthFirst/",
-    suggestedFollow: "Facebook",
+    suggestedFollow: "Insta (FB not updated)",
   },
   {
     title: "Neighborhood Bike Works",
@@ -56,14 +48,15 @@ export const ANARCHISTPHILLY = [
     mainLink: "https://neighborhoodbikeworks.org/",
     facebook: "https://www.facebook.com/NBWPhilly",
     insta: "https://www.instagram.com/neighborhoodbikeworks/",
+    suggestedFollow: "Check site occasionally for events/classes"
   },
   {
     title: "Spiral Q",
-    summary: "Since 1996. Non-profit black lib group. “Spiral Q builds strong and equitable communities characterized by creativity, joy, can-do attitudes.” Community art builds, Annual Blankenburg Parade, workshops, protests, performances, etc. A lot of focus on black youth.",
+    summary: "Since 1996. Non-profit black lib group. “Spiral Q builds strong and equitable communities characterized by creativity, joy, can-do attitudes.” Community art builds, Annual Blankenburg Parade, Peoplehood Parade and Pageant, workshops, protests, performances, etc. A lot of focus on black youth.",
     mainLink: "https://www.spiralq.org/",
     facebook: "https://www.facebook.com/spiralq",
     insta: "https://www.instagram.com/spiralq/",
-    suggestedFollow: "Facebook (their post format works better in FB)",
+    suggestedFollow: "Insta (more updated)",
   },
   {
     title: "Iffy Books",
@@ -71,35 +64,27 @@ export const ANARCHISTPHILLY = [
     mainLink: "https://iffybooks.net/",
     insta: "https://www.instagram.com/iffybooks",
     twitter: "https://twitter.com/IffyBooks",
-    suggestedFollow: "Site calendar monthly check and Twitter (more updated than Insta)",
+    suggestedFollow: "Site calendar monthly check and Insta",
   },
   {
     title: "West Philly Tool Library",
-    summary: "$20 ann. Membership. Requires government issued ID to borrow. Spring tool sale. Classes (ex. DryWall Repair, Plumbing 101, How to Install a Prehung Door, etc.).",
+    summary: "$20 ann. membership. Requires government issued ID to borrow. Spring tool sale. Classes (ex. DryWall Repair, Plumbing 101, How to Install a Prehung Door).",
     mainLink: "https://westphillytools.org/",
-    subLink: "",
-    facebook: "https://www.facebook.com/westphillytools ",
+    facebook: "https://www.facebook.com/westphillytools",
     insta: "https://www.instagram.com/westphillytoollibrary/",
-    twitter: "",
-    suggestedFollow: "Site calendar monthly check and Insta (FB updated less)",
-  },
-  {
-    title: "Save the Meadows at FDR Park",
-    summary: "A movement that ran in 2022 to try and stop the FDR park meadows from being cut down and turned into a parking lot and tennis courts. Failed to stop the destruction, but still an active Philly enviro defense group. Some cool shit went on as part of this.",
-    mainLink: "https://www.savethemeadows.com/",
-    facebook: "https://www.facebook.com/stmatfdr/",
-    insta: "https://www.instagram.com/savethemeadowsfdr/",
+    suggestedFollow: "Site calendar monthly check and FB or Insta",
   },
   {
     title: "The Wooden Shoe Books",
-    summary: "“Collectively run by volunteers since 1976. Anarchist & Radical Books | Periodicals | Records.“",
+    summary: "“Collectively run by volunteers since 1976. Anarchist & Radical Books | Periodicals | Records.“ Good place for local zines and peeping flyers on their bulletin board. Volunteer run with shifts open.",
     mainLink: "https://www.woodenshoebooks.org/home.html",
     facebook: "https://www.instagram.com/thewoodenshoebooks/",
     insta: "https://www.facebook.com/WoodenShoeBooks/",
+    suggestedFollow: "FB + check site calendar monthly."
   },
   {
     title: "Anathema",
-    summary: "“A Philadelphia Anarchist Periodical.“ Running almost 10 years, now.",
+    summary: "“A Philadelphia Anarchist Periodical.“ Being published almost 10 years, now.",
     mainLink: "https://anathema.noblogs.org/",
     suggestedFollow: "Check for print versions at Wooden Shoe Books.",
   },
@@ -113,32 +98,32 @@ export const ANARCHISTPHILLY = [
   },
   {
     title: "NYC Anarchist Bookfair",
-    summary: "Early September, usually. No social media, but posted about on FB and have an official site also.",
+    summary: "Early September, usually.",
     mainLink: "https://anarchistbookfair.net/",
-    suggestedFollow: "Check site in mid-late summer to confirm date for that year.",
+    insta: "https://www.instagram.com/nycabf/",
+    suggestedFollow: "Insta + check site in mid-late summer to confirm date for that year.",
   },
   {
     title: "The Soapbox",
-    summary: "“The Soapbox is a nonprofit community print shop, book and zine making center, and library of 3,500 rare handmade publications.“ Throw zine fests, workshops, etc..",
+    summary: "“The Soapbox is a nonprofit community print shop, book and zine making center, and library of 3,500 rare handmade publications.“ Throw zine fests, workshops (ex. screen printing 101), etc..",
     mainLink: "https://www.phillysoapbox.org/",
     facebook: "https://www.facebook.com/phillysoapbox",
     insta: "https://www.instagram.com/phillysoapbox/",
     suggestedFollow: "Site calendar",
   },
   {
-    title:"Rolling with the Homos",
+    title: "Rolling with the Homos",
     summary: "“A queer exc. skate community for all wheels, skill levels, and ages to grow & bond in Philly. Come skate with us! 🏳️‍🌈🛹🛼“ Multiple events per month, year round: boarding basics, skate rink meetups, trail skates, trans skate, bipoc skate, etc..",
     facebook: "https://www.facebook.com/rwthphilly/",
     insta: "https://www.instagram.com/rwthphilly/",
     suggestedFollow: "Insta"
   },
   {
-    title:"Autonomous Cinema Philly",
-    summary: "Shows regular radical cinema, at different venues and community spaces, usually once or twice a month. South Philly based. Started Dec, 2022.",
+    title: "Autonomous Cinema Philly",
+    summary: "Shows regular radical cinema, at different venues and community spaces, usually once or twice a month. South Philly based. Started Dec, 2022. Also run Philm Club indie screenings newsletter.",
     insta: "https://www.instagram.com/cinema_philly/",
     twitter: "https://twitter.com/cinema_philly",
     suggestedFollow: "Insta (update more)"
-
   },
 ]
 
@@ -229,7 +214,7 @@ export const CLOSED  = [
   },
   {
     title: "The Alley",
-    summary: "“philly diy venue. literally an alley.” House venue with shows behind the house. Infrequent shows.",
+    summary: "“philly diy venue. literally an alley.” House venue with shows behind the house. Infrequent shows. Closed early 2023.",
     insta: "https://www.instagram.com/thealleyphila/",
   },
   {
@@ -239,9 +224,24 @@ export const CLOSED  = [
   },
   {
     title: "Philly Bike Party",
-    summary: "“Ride bikes! make friends! hop on! Monthly thematic slow cruisin' rides meet at the art museum and make frequent party breaks!”",
+    summary: "“Ride bikes! make friends! hop on! Monthly thematic slow cruisin' rides meet at the art museum and make frequent party breaks!” Last ride 09/15/2023.",
     facebook: "https://www.facebook.com/philliebikeparte/",
-    insta: "https://www.instagram.com/phillybikeparty/",,
+    insta: "https://www.instagram.com/phillybikeparty/",
+  },
+  {
+    title: "Hudson Valley Earth First",
+    summary: "Hosted National EF! Rondy (RRR) in 2018. Became innactive late 2019.",
+    mainLink: "https://hudsonvalleyearthfirst.wordpress.com/",
+    subLink: "https://itsgoingdown.org/?s=%22Hudson+Valley%22+Earth+First",
+    facebook: "https://www.facebook.com/HVEarthFirst/",
+    suggestedFollow: "Facebook",
+  },
+  {
+    title: "Save the Meadows at FDR Park",
+    summary: "A movement that ran in 2022 to try and stop the FDR park meadows from being cut down and turned into a parking lot and tennis courts. Failed to stop the destruction, but some cool shit went on as part of this.",
+    mainLink: "https://www.savethemeadows.com/",
+    facebook: "https://www.facebook.com/stmatfdr/",
+    insta: "https://www.instagram.com/savethemeadowsfdr/",
   },
 ]
 
@@ -443,6 +443,14 @@ export const FILMHORROR = [
 ];
 
 export const FILMINDIE = [
+  {
+    title: "Philm Club",
+    summary: "'Philm Club is a project by South Philly Autonomous Cinema that aims to share the events in Philadelphia's film community.' A listing site for Philly indie film screenings and festivals, in bi-monthly email newsletter and site update format. Can submit screens to.",
+    mainLink: "https://philmclub.com/",
+    insta: "https://www.instagram.com/cinema_philly/",
+    twitter: "https://twitter.com/cinema_philly",
+    suggestedFollow: "Subscribe to newsletter",
+  },
   {
     title: "The Philadelphia Mausoleum of Contemporary Art",
     summary: "Many arthouse film events, with weird b movies, horror, film classics, etc.. Also shows, and other types of events.",
