@@ -382,9 +382,17 @@ export const FILMGROUPS = [
   {
     title: "Philadelphia Psychotronic Film Society",
     summary: "“We carry on the proud tradition set forth by Psychotronic Film Societies around the globe by screening cult/weirdo/trash films for the locally like-minded. Every second and last Monday of the month we meet at 7:30 PM.”",
+    mainLink: "https://www.philamoca.org/",
     facebook: "https://www.facebook.com/philadelphiapsychotronicfilmsociety",
-    insta: "https://www.instagram.com/phillyfilmsociety/",
-    suggestedFollow: "FB (more updated)",
+    suggestedFollow: "FB + check PhilaMOCA (current venue) calendar monthly for dates",
+  },
+  {
+    title: "Philm Club",
+    summary: "'Philm Club is a project by South Philly Autonomous Cinema that aims to share the events in Philadelphia's film community.' A listing site for Philly indie film screenings and festivals, in bi-monthly email newsletter and site update format. Can submit screens to.",
+    mainLink: "https://philmclub.com/",
+    insta: "https://www.instagram.com/cinema_philly/",
+    twitter: "https://twitter.com/cinema_philly",
+    suggestedFollow: "Subscribe to newsletter",
   },
   {
     title: "Philadelphia Filmmakers Group",
@@ -403,7 +411,7 @@ export const FILMGROUPS = [
 export const FILMHORROR = [
   {
     title: "Exhumed Films",
-    summary: "Runs regular retro horror movies at The Mahoning Drive-In Theater, which is 80 mins N of Center City, usually once or twice a week. Sometimes overnight camping. Also shows films more locally, at Phila Mausoleum of Contemporary Art.",
+    summary: "Runs regular retro horror movies at The Mahoning Drive-In Theater, which is 80 mins N of Center City, usually once or twice a week. Sometimes overnight camping. Also shows films more locally, at Phila Mausoleum of Contemporary Art and other venues.",
     mainLink: "https://exhumedfilms.wordpress.com/",
     facebook: "https://www.facebook.com/ExhumedFilms/",
     insta: "https://www.instagram.com/exhumedfilms/",
@@ -411,9 +419,9 @@ export const FILMHORROR = [
   },
   {
     title: "24 Hour Horror-thon",
-    summary: "In October, run by Exhumed Films. 15 years running. “The biggest horror movie event on the east coast.”",
-    facebook: "https://www.facebook.com/events/779906383440676",
-    suggestedFollow: "Check Exhumed Films FB in late summer for annual date",
+    summary: "In October at the historic Colonial Theater, run by Exhumed Films. 16 years running. “The biggest horror movie event on the east coast.”",
+    facebook: "https://www.facebook.com/ExhumedFilms",
+    suggestedFollow: "Tickets sell out FAST. Usually on sale by mid July. Watch their FB in July.",
   },
   {
     title: "The Philadelphia Unnamed Film Festival (PUFF)",
@@ -425,15 +433,17 @@ export const FILMHORROR = [
   },
   {
     title: "Media Fright Fest",
-    summary: "Bi-annual indie horror film fest in early fall, usually the final weekend of September or first weekend of October, and mid spring. Encourages local selections to submit.",
+    summary: "“Horror has a home at Media Fright Fest! We present indie horror films and pop up events throughout the year.“ Run annual horror local film fest in early fall, usually the final weekend of September or first weekend of October.",
     mainLink: "https://www.facebook.com/groups/mediafrightfest/",
-    suggestedFollow: "Check FB events monthly. Check also in early spring and early fall for bi-annual main festival dates.",
+    suggestedFollow: "Check FB events monthly. Check also in later summer for bi-annual main festival dates.",
   },
   {
-    title: "Underground Arts Monthly Horror Movies",
-    summary: "Good titles too. A lot of classics, cult, and B.",
-    mainLink: "https://undergroundarts.org/",
-    suggestedFollow: "Check site calendar monthly",
+    title: "Blobfest",
+    summary: "Annual, each July. ”A blobs and monsters themed take on the sci-fi/horror festival. Re-enact the famous Blob run out scene. Experience a live Stage Show and dance the night away to live music. Over 70 vendors. The Blob Run 5k run. A self-guided Driving Tour of Filming Locations featured in The Blob. 24th year in 2023.”",
+    mainLink: "https://thecolonialtheatre.com/blobfest/",
+    facebook: "https://www.facebook.com/Blobfest",
+    insta: "https://www.instagram.com/blobfest/",
+    suggestedFollow: "Check for annual date in late spring. Tickets sell out fast.",
   },
   {
     title: "Philadelphia Horror group",
@@ -442,12 +452,10 @@ export const FILMHORROR = [
     suggestedFollow: "FB",
   },
   {
-    title: "Blobfest",
-    summary: "Annual, each July. ”A blobs and monsters themed take on the sci-fi/horror festival. Re-enact the famous Blob run out Scene. Experience a live Stage Show featuring Aurora Gorealis and Beach Creeper, and dance the night away to live music. Over 70 vendors. The Blob Run 5k run. A self-guided Driving Tour of Filming Locations featured in The Blob. 24th year in 2023.”",
-    mainLink: "https://thecolonialtheatre.com/blobfest/",
-    facebook: "https://www.facebook.com/Blobfest",
-    insta: "https://www.instagram.com/blobfest/",
-    suggestedFollow: "Check for annual date in early summer",
+    title: "Underground Arts Monthly Horror Movies",
+    summary: "Good titles. A lot of classics, cult, and B.",
+    mainLink: "https://undergroundarts.org/",
+    suggestedFollow: "Check site calendar monthly (seem to not be any upcoming new showings, as of Oct 2023. Dead or just taking a break?).",
   },
   {
     title: "See also, 'Theaters' section below, as most of these theaters also show regular horror."
@@ -455,14 +463,6 @@ export const FILMHORROR = [
 ];
 
 export const FILMINDIE = [
-  {
-    title: "Philm Club",
-    summary: "'Philm Club is a project by South Philly Autonomous Cinema that aims to share the events in Philadelphia's film community.' A listing site for Philly indie film screenings and festivals, in bi-monthly email newsletter and site update format. Can submit screens to.",
-    mainLink: "https://philmclub.com/",
-    insta: "https://www.instagram.com/cinema_philly/",
-    twitter: "https://twitter.com/cinema_philly",
-    suggestedFollow: "Subscribe to newsletter",
-  },
   {
     title: "The Philadelphia Mausoleum of Contemporary Art",
     summary: "Many arthouse film events, with weird b movies, horror, film classics, etc.. Also shows, and other types of events.",

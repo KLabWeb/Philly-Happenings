@@ -23,7 +23,7 @@ export const Header = props => {
         <a href="#cycling">Cycling</a>
         <br/>
         <a href="#film-festivals">Film: Festivals</a>
-        <a href="#film-groups">Film: Groups</a>
+        <a href="#film-groups">Film: Groups & Newsletters</a>
         <a href="#film-horror">Film: Horror</a>
         <a href="#film-indie">Film: Indie & Arthouse Theaters</a>
         <br/>

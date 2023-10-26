@@ -41,7 +41,7 @@ export const Cards = () => {
           );
       })}
 
-    <h1 id="film-groups" className="category">Film: Groups</h1>
+    <h1 id="film-groups" className="category">Film: Groups & Newsletters</h1>
     {FILMGROUPS.map(data => {
         return (
           <DetailCard key={data.title} data={data}/>
