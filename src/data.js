@@ -247,6 +247,12 @@ export const CLOSED  = [
     summary: "Usually was held mid spring. Was run by Philadelphia Film Society. Ran from 2017 to 2022, but then suddenly vanished in 2023.",
     mainLink: "https://www.onelittleearth.org/peff/?fbclid=IwAR2QNQwZJYsCpqWIwY_DMmkjJkK7yCyB_3fCW2_JqcPCLIX3RcHdbwxv18Q",
   },
+  {
+    title: "Permaculture Philadelphia",
+    summary: "General group for Philly permaculture events, resources, etc. Impossible to get approved memebership to. Do you need to be vetted to join?",
+    mainLink: "https://www.facebook.com/groups/permaculturephiladelphia/",
+    suggestedFollow: "Facebook",
+  },
 ]
 
 export const CYCLING = [
@@ -786,37 +792,25 @@ export const GREENFORAGINGGENERAL = [
 
 export const GREENGENERAL = [
   {
+    title: "Grid Philly Events",
+    summary: "Very extensive general calendar of Philly nature, green, etc. events. A really good event resource. Local enviro news articles also posted once a month.",
+    mainLink: "https://gridphilly.com/events ",
+    suggestedFollow: "Check site events calendar + articles monthly",
+  },
+  {
     title: "North Philly Peace Park",
     summary: "“An open, fence-free, charitable, intergenerational, neighborhood-managed ecology campus championing food, education and community.” Example events: Black August Garden Party, Black Land Futures Weekend, Community Health and Wellness Fair.",
     mainLink: "https://www.phillypeacepark.org/",
     facebook: "https://www.facebook.com/NorthPhillyPeacePark",
     insta: "https://www.instagram.com/northphillypeacepark/",
-    suggestedFollow: "Facebook",
-  },
-  {
-    title: "Permaculture Philadelphia",
-    summary: "General group for Philly permaculture events, resources, etc.",
-    mainLink: "https://www.facebook.com/groups/permaculturephiladelphia/",
-    suggestedFollow: "Facebook (hard to get approved to join group, though)",
-  },
-  {
-    title: "Grid Philly",
-    summary: "Very extensive general calendar of Philly nature, green, etc. events. A really good resource.",
-    mainLink: "https://gridphilly.com/events ",
-    suggestedFollow: "Check site events calendar monthly",
-  },
-  {
-    title: "Philadelphia Environmental Film Festival",
-    summary: "Usually held mid spring. Run by Philadelphia Film Society.",
-    mainLink: "https://www.philaenvirofilmfest.org",
-    suggestedFollow: "check annual date in early spring",
+    suggestedFollow: "Facebook (more updated)",
   },
 ];
 
 export const GREENHIKINGPARKS = [
   {
     title: "Hiking Around Philly",
-    summary: "Public hike group. Frequent Hikes. Multiple per week. A few cooler, larger hikes every other weekend or so. Has seasonal foraging hikes.",
+    summary: "Public hike group. Frequent Hikes. Multiple per week, often 1.5 to 4 hours long. Longer hikes every other weekend or so. Has seasonal foraging hikes.",
     mainLink: "https://www.meetup.com/HikingAroundPhilly/",
     suggestedFollow: "meetup",
   },
@@ -827,39 +821,9 @@ export const GREENHIKINGPARKS = [
     suggestedFollow: "meetup",
   },
   {
-    title: "Wissahickon Valley Park Trails",
-    summary: "A nice list of all major trails in Wissahickon and directions to get to them.",
-    mainLink: "https://fow.org/visit-the-park/maps/#trail-descriptions",
-    suggestedFollow: "n/a",
-  },
-  {
     title: "Alltrails: Top Hikes Near Philadelphia",
     summary: "Best way to find and filter hiking trails by distance, elevation change, etc.. Social app. People rank trails, take photos, leave notes (ex. “Careful, area is extremely buggy in August.”).",
     mainLink: "https://www.alltrails.com/us/pennsylvania/philadelphia",
-    suggestedFollow: "n/a",
-  },
-  {
-    title: "Philly Optimized Walking Tour Map",
-    summary: "A 12 mile walking tour of Philly passing through 25 notable spots and attractions.",
-    mainLink: "https://randalolson.com/2015/03/25/optimized-walking-tours-of-new-york-city-and-philadelphia",
-    suggestedFollow: "n/a",
-  },
-  {
-    title: "Fairmount Park Trails",
-    summary: "“Your guide to discovering the unknown in Philadelphia's largest park.”",
-    mainLink: "https://storymaps.arcgis.com/stories/4c160765a50541a4b77b45957ce77ea9",
-    suggestedFollow: "n/a",
-  },
-  {
-    title: "Philly Trails",
-    summary: "Someone’s covid project page mapping out and providing trail descriptions of all trails in Philly.",
-    mainLink: "https://www.phillytrails.com/",
-    suggestedFollow: "n/a",
-  },
-  {
-    title: "Visit Philly: Best Parks in Philadelphia",
-    summary: "“The 24 Best Parks in Philadelphia. Explore Philly’s incredible outdoor spaces.”",
-    mainLink: "https://www.visitphilly.com/articles/philadelphia/best-parks-in-philadelphia/",
     suggestedFollow: "n/a",
   },
   {
@@ -870,8 +834,38 @@ export const GREENHIKINGPARKS = [
   },
   {
     title: "Philly Day Hiker",
-    summary: "A nice collection of parks and trails suitable for day hikes on an interactive map.",
+    summary: "A nice collection of parks and trails suitable for day hikes on an interactive map of Philly and the surrounding area.",
     mainLink: "https://phillydayhiker.com/",
+    suggestedFollow: "n/a",
+  },
+  {
+    title: "Wissahickon Valley Park Trails",
+    summary: "A nice list of all major trails in Wissahickon and directions to get to them.",
+    mainLink: "https://fow.org/visit-the-park/maps/#trail-descriptions",
+    suggestedFollow: "n/a",
+  },
+  {
+    title: "Philly Optimized Walking Tour Map",
+    summary: "A 12 mile walking tour of Philly passing through 25 notable spots and attractions.",
+    mainLink: "https://randalolson.com/2015/03/25/optimized-walking-tours-of-new-york-city-and-philadelphia",
+    ssuggestedFollow: "n/a",
+  },
+  {
+    title: "Fairmount Park Trails",
+    summary: "“Your guide to discovering the unknown in Philadelphia's largest park.” Did you know Fairmount Park is 10x the size of Central Park? Full of old growth, too.",
+    mainLink: "https://storymaps.arcgis.com/stories/4c160765a50541a4b77b45957ce77ea9",
+    suggestedFollow: "n/a",
+  },
+  {
+    title: "Philly Trails",
+    summary: "Someone’s covid project page mapping out and providing trail descriptions of all trails in Philly. Also has a smaller number of trails for down the shore.",
+    mainLink: "https://www.phillytrails.com/",
+    suggestedFollow: "n/a",
+  },
+  {
+    title: "Visit Philly: Best Parks in Philadelphia",
+    summary: "“The 26 Best Parks in Philadelphia. Explore Philly’s incredible outdoor spaces.” Includes urban as well as forested parks.",
+    mainLink: "https://www.visitphilly.com/articles/philadelphia/best-parks-in-philadelphia/",
     suggestedFollow: "n/a",
   },
   {
@@ -892,7 +886,7 @@ export const GREENHIKINGPARKS = [
   },
   {
     title: "Green Philly: Delaware Watershed Resource Directory",
-    summary: "“Explore your Delaware Watershed.” An interactive map of non-profits, education centers, trails, parks, museums, etc., related to the Delaware Watershed.",
+    summary: "“Explore your Delaware Watershed.” An interactive map of non-profits, education centers, trails, parks, museums, etc., related to and located in the Delaware Watershed.",
     mainLink: "https://www.thegreencities.com/watershed-directory/",
     suggestedFollow: "n/a",
   },
