@@ -751,7 +751,7 @@ export const GREENFISHING = [
 export const GREENFORAGINGGENERAL = [
   {
     title: "Wild Foodies of Philly",
-    summary: "General foraging hikes and walks, often foraging for specific foods (ex. berries).. Multiple hikes and walks per week, in warm seasons. Some surrounding area hikes.",
+    summary: "General foraging hikes and walks, often foraging for specific foods (ex. berries) . Multiple hikes and walks per week, in warm seasons. Some surrounding area hikes.",
     mainLink: "https://www.meetup.com/Wild-Foodies-of-Philly/",
     suggestedFollow: "meetup",
   },
@@ -770,7 +770,7 @@ export const GREENFORAGINGGENERAL = [
   },
   {
     title: "NJ Mycological Association",
-    summary: "Very frequent mushroom hunts, weekly, in warm seasons. Special events (ex. “Fluorescent Fungus Night). Speakers. Films. Used book sales at events.",
+    summary: "Very frequent mushroom hunts, weekly, in warm seasons. Special events (ex. “Fluorescent Fungus Night“). Speakers. Films. Annual potluck. Used book sales at foraging.",
     mainLink: "https://www.njmyco.org/forays.html",
     facebook: "https://www.facebook.com/groups/NewJerseyMycologicalAssociation/",
     insta: "https://www.instagram.com/nj.myco/",
