@@ -174,7 +174,7 @@ export const Cards = () => {
         );
     })}
 
-    <h1 id="music-hiphop-phl" className="category">Music: Hip Hop, Popping, Breakdancing</h1> <h2 className="wip"> (work in progress)</h2>
+    <h1 id="music-hiphop-phl" className="category">Music: Hip Hop, Popping, Breaking</h1> <h2 className="wip"> (work in progress)</h2>
     {MUSICHIPHOP.map(data => {
         return (
           <DetailCard key={data.title} data={data}/>

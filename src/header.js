@@ -49,7 +49,7 @@ export const Header = props => {
         <a href="#music-diy-spots-phl">Music: DIY Spots</a>
         <br/>
         <a href="#music-electro-indust">Music: Electronic & Industrial</a>
-        <a href="#music-hiphop-phl">Music: Hip Hop, Popping, Breakdancing</a>
+        <a href="#music-hiphop-phl">Music: Hip Hop, Popping, Breaking</a>
         <a href="#music-metal">Music: Metal</a>
         <a href="#music-regional">Music: Regional Bands and Musicians</a>
         <br/>
