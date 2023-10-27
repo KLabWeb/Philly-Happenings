@@ -102,6 +102,14 @@ p {
   font-size: 1.2em;
 }
 
+.closedGrave {
+  max-width: 3%;
+  margin-left: 1%;
+  margin-right: 1%;
+  position: relative;
+  bottom: -10px;
+}
+
 @media screen and (min-width: 950px){
   .forageCard {
     width: 70%;
@@ -231,5 +239,8 @@ video {
   }
   .videoCard  {
     width: 80%;
+  }
+  .closedGrave {
+    display: None;
   }
 }
