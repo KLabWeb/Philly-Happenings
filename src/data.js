@@ -1798,10 +1798,10 @@ export const MUSICHIPHOP = [
 export const MUSICMETAL = [
   {
     title: "Philly Metal",
-    summary: "Very well updated. All you really need for metal in Philly. If join email list, will get weekly email with newly added shows. Local metal and big shows both posted.",
+    summary: "Email newsletter + website. Very well updated. All you really need for metal shows in Philly. If join email list, will get weekly email with newly added shows. Local metal and big shows both posted.",
     mainLink: "https://phillymetal.net/",
     facebook: "https://www.facebook.com/groups/120015764787707",
-    suggestedFollow: "Site calendar check weekly + email mailing list",
+    suggestedFollow: "Email mailing list",
   },
 ];
 
