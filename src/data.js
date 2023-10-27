@@ -1851,7 +1851,7 @@ export const PHOTOGRAPHY = [
     mainLink: "https://www.2020photofestival.org/",
     facebook: "https://www.facebook.com/2020photofestival",
     insta: "https://www.instagram.com/2020photofest/",
-    suggestedFollow: "Check site early fall for annual date",
+    suggestedFollow: "Check site late summer for annual date",
   },
   {
     title: "The Photographic Society of Philadelphia",
@@ -1862,11 +1862,11 @@ export const PHOTOGRAPHY = [
   },
   {
     title: "TILT Institute for the Contemporary Image",
-    summary: "Photography classes, exhibitions, other events, etc.",
+    summary: "Photography classes, exhibitions, other events, fine art printing & framing, youth outreach, etc.",
     mainLink: "https://tiltinstitute.org/",
     facebook: "https://www.facebook.com/TILTInstitute/",
     insta: "https://www.instagram.com/tiltinstitute/",
-    suggestedFollow: "None"
+    suggestedFollow: "Insta"
   },
 ];
 
