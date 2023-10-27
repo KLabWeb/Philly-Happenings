@@ -251,7 +251,11 @@ export const CLOSED  = [
     title: "Permaculture Philadelphia",
     summary: "General group for Philly permaculture events, resources, etc. Impossible to get approved memebership to. Do you need to be vetted to join?",
     mainLink: "https://www.facebook.com/groups/permaculturephiladelphia/",
-    suggestedFollow: "Facebook",
+  },
+  {
+    title: "Literary Philly",
+    summary: "General literature and writing events calendar. No longer maintained with events no longer really posted to it.",
+    mainLink: "https://literaryphilly.org/events/list/",
   },
 ]
 
@@ -894,14 +898,8 @@ export const GREENHIKINGPARKS = [
 
 export const LITERATURE = [
   {
-    title: "Literary Philly",
-    summary: "General literature and writing events calendar.",
-    mainLink: "https://literaryphilly.org/events/list/",
-    suggestedFollow: "Check site calendar monthly",
-  },
-  {
     title: "Philadelphia Zine Fest",
-    summary: "First or second week of November, usually.",
+    summary: "Typically a spring fest and a winter fest. Over 150 exhibitors, after moving to a much larger venue. Check on insta once a month to make sure you catch them. Next one is Dec 2nd, 2023. Check their insta for other local zine fests, also.",
     mainLink: "https://www.phillyzinefest.org/",
     facebook: "https://www.facebook.com/phillyzinefest",
     insta: "https://www.instagram.com/phillyzinefest/",
@@ -909,10 +907,10 @@ export const LITERATURE = [
   },
   {
     title: "Book Corner",
-    summary: "Philly library used bookstore. Cheap and w/ good selection. Happens about once each season",
+    summary: "Philly library used bookstore. Cheap and w/ good selection. Hold book sales a few times a year, with fall sales being the most common season.",
     facebook: "https://www.facebook.com/bookcornerphilly",
     insta: "https://www.instagram.com/bookcornerphilly ",
-    suggestedFollow: "None, but check EoY and mid summer for book sale dates",
+    suggestedFollow: "None, but check their FB monthly for book sale dates",
   },
   {
     title: "Bucks County Book Festival",
@@ -928,7 +926,7 @@ export const LITERATURE = [
   },
   {
     title: "HippoCamp: Conference for Creative Nonfiction Writers",
-    summary: "Lancaster, PA. Second week of August. A “three-day creative writing conference in PA typically features 40+ notable speakers, engaging sessions in four tracks, interactive panels, readings, social activities, networking opps, and optional, intimate pre-conference workshops. All of this, plus meals and snacks.”",
+    summary: "Lancaster, PA. Late summer. A “three-day creative writing conference in PA. Typically features 40+ notable speakers, engaging sessions in four tracks, interactive panels, readings, social activities, networking opps, and optional, intimate pre-conference workshops. All of this, plus meals and snacks.”",
     mainLink: "https://hippocampusmagazine.com/conference/",
     suggestedFollow: "Check site early summer for annual date",
   },
@@ -938,7 +936,7 @@ export const LITERATURE = [
     mainLink: "http://www.madpoetssociety.com",
     facebook: "https://www.facebook.com/TheMadPoetsSociety",
     insta: "https://www.instagram.com/madpoetssocietypa/",
-    suggestedFollow: "Insta",
+    suggestedFollow: "Insta + check site calendar monthly",
   },
   {
     title: "Lacaster Zine Fest",
@@ -963,7 +961,7 @@ export const LITERATURE = [
   },
   {
     title: "Philly Queer Zine Fest",
-    summary: "June 24, 2023. Occurred first in 2018 and now again in 2023.",
+    summary: "June 24, 2023. Occurred first in 2018 and now again in 2023. 2024 incoming?",
     mainLink: "https://www.queerzinefest.com/",
     insta: "https://www.instagram.com/phillyzinefest/",
     suggestedFollow: "No FB or Insta but Philly Zine Fest Insta is good for many zine fests",
