@@ -1738,27 +1738,12 @@ export const MUSICDIYSPOTSPITTS = [
 
 export const MUSICELECTROINDUST = [
   {
-    title: "Sanctorium Philly",
-    summary: "”A Goth/Industrial club event @ The Fire. It takes place monthly, every second Thursday, 9pm-2am.”",
-    facebook: "https://www.facebook.com/SanctoriumPhilly/",
-    suggestedFollow: "Facebook",
-  },
-  {
     title: "Phillygoth",
-    summary: "A nice goth events calendar, venue list, and local bands. ",
+    summary: "A nice goth events calendar, plus local venue list and bands/DJs list.",
     mainLink: "https://phillygoth.net/",
     facebook: "https://www.facebook.com/groups/phillygoth",
     insta: "https://www.instagram.com/phillygoth/",
     suggestedFollow: "Site Calendar + Facebook",
-  },
-  {
-    title: "Dancing Ferrit Concerts",
-    summary: "Announcements for Dancing Ferrit produced shows (ex. Front 242, Nitzer Ebb).",
-    mainLink: "",
-    subLink: "",
-    facebook: "https://www.facebook.com/groups/1746297245598673",
-    insta: "https://www.instagram.com/dfconcerts/",
-    suggestedFollow: "Insta",
   },
   {
     title: "NJ Gothic",
@@ -1767,21 +1752,34 @@ export const MUSICELECTROINDUST = [
     suggestedFollow: "Check calendar monthly",
   },
   {
-    title: "EDM Train",
-    summary: "Above ground EDM calendar",
-    mainLink: "https://edmtrain.com/philadelphia-paCheck site calendar month",
-    suggestedFollow: "Check site calendar month",
-  },
-  {
-    title: "Philadelphia Techno Movement",
-    summary: "Above and underground electronic music events group.",
-    facebook: "https://www.facebook.com/groups/philadelphiatechnomovement/",
+    title: "Sanctorium Philly",
+    summary: "”A Goth/Industrial club event @ The Fire. It takes place tri-annually.” Throw additional goth/industrial shows, as well.",
+    facebook: "https://www.facebook.com/SanctoriumPhilly/",
     suggestedFollow: "Facebook",
   },
   {
     title: "Philadelphia Underground Techno",
     summary: "“Let's support the advancement of all techno, industrial and EBM warehouse parties, along with regular venues in this city.”",
     facebook: "https://www.facebook.com/groups/2030812043858866/",
+    suggestedFollow: "Facebook",
+  },
+  {
+    title: "Dancing Ferrit Concerts",
+    summary: "Announcements for Dancing Ferrit promoted shows (ex. Front 242, Nitzer Ebb) and dance parties.",
+    facebook: "https://www.facebook.com/groups/1746297245598673",
+    insta: "https://www.instagram.com/dfconcerts/",
+    suggestedFollow: "Insta",
+  },
+  {
+    title: "EDM Train",
+    summary: "Above ground EDM calendar",
+    mainLink: "https://edmtrain.com/philadelphia-pa",
+    suggestedFollow: "Check site calendar month",
+  },
+  {
+    title: "Philadelphia Techno Movement",
+    summary: "Above and underground electronic music events group.",
+    facebook: "https://www.facebook.com/groups/philadelphiatechnomovement/",
     suggestedFollow: "Facebook",
   },
 ];
