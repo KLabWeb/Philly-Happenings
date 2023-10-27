@@ -291,6 +291,11 @@ export const CLOSED  = [
     summary: "May and September. “Free Biannual Parties held in Philadelphia's Fairmount Park with DJ's spinning Electronic Music!” Some old fam shit, going on since 1998. Last one was in May 2021, with no Hang Free in 2022 or 2023.",
     mainLink: "http://www.hangfree.org/",
   },
+  {
+    title:"Titus’ Funeral Home",
+    summary: "“south philly’s #1 gig-funeral-fish emporium.“ Flat venue. Short lived spot with a few shows in 2022 and early 2023.",
+    insta: "https://www.instagram.com/titus.funeralhome/",
+  },
 ]
 
 export const CYCLING = [
@@ -1169,6 +1174,13 @@ export const MUSICABOVEPHILLY = [
     facebook: "https://www.facebook.com/The-Rusty-Nail-199449793458045/",
   },
   {
+    title:"Warehouse on Watts",
+    summary: "Warehouse turned nightclub. “A series of club nights spanning genres, subcultures, and overall vibe.“",
+    mainLink: "https://wowphilly.com/",
+    facebook: "https://www.facebook.com/wowphilly/",
+    insta: "https://www.instagram.com/wowphilly/",
+  },
+  {
     title: "Black Cat Tavern",
     summary: "“A tiny ‘Mom & Pop’ Tavern, located in beautiful, deep South Philly, at the corner of 12th Street & Oregon Avenue.”  Another historic dive. Serves Polish food. Comedy nights. Announced closure Feb 2023, but then in May 2023 said ”on hiatus,” so may re-open.",
     mainLink: "http://www.blackcattavernphilly.com/",
@@ -1688,6 +1700,11 @@ export const MUSICDIYSPOTSPHL = [
     summary: "“We have house shows. Temple Area.” No shows since Nov '22.'",
     insta: "https://www.instagram.com/echohousephilly/",
   },
+  {
+    title: "Cantaloupe Kingdom",
+    summary: "“Welcome to South Philly's newest house venue. We are an inclusive no hate space catering to diy musicians! Formerly JHQ.” Basement venue started late Aug ‘22.",
+    insta: "https://www.instagram.com/cantaloupekingdom/",
+  },
 ];
 
 export const MUSICDIYSPOTSSC = [
@@ -1897,10 +1914,6 @@ export const THEATER = [
 
 export const MUSICDIYWIP = [
   {
-    title:"Hazel House",
-    mainLink: "",
-  },
-  {
     title:" ",
     mainLink: "https://www.facebook.com/groups/1077371709097656",
   },
@@ -1910,19 +1923,11 @@ export const MUSICDIYWIP = [
   },
   {
     title:" ",
-    mainLink: "https://www.facebook.com/groups/laplazacultural",
-  },
-  {
-    title:" ",
     mainLink: "https://www.instagram.com/wkdu/",
   },
   {
     title:" ",
     mainLink: "https://www.facebook.com/labyrinthproductions/events",
-  },
-  {
-    title:" ",
-    mainLink: "https://www.instagram.com/wowphilly/",
   },
   {
     title:" ",
@@ -1956,10 +1961,6 @@ export const MUSICDIYWIP = [
   },
   {
     title:" ",
-    mainLink: "https://www.instagram.com/laylaloune/ ",
-  },
-  {
-    title:" ",
     mainLink: "https://www.instagram.com/air_lock.phl/ ",
   },
   {
@@ -1975,10 +1976,6 @@ export const MUSICDIYWIP = [
     summary: " ",
   },
   {
-    title:"Webster’s Bookstore Cafe",
-    summary: " ",
-  },
-  {
     title:"The Zoo",
     summary: " ",
   },
@@ -1987,18 +1984,9 @@ export const MUSICDIYWIP = [
     summary: " ",
   },
   {
-    title:"Titus’ Funeral Home",
-    summary: " ",
-    insta: "https://www.instagram.com/titus.funeralhome/",
-  },
-  {
     title:"The Perch ",
     summary: "@ SJU Campus",
     mainLink: "https://www.instagram.com/p/CkwL-BkJZE1/"
-  },
-  {
-    title: "Cantaloupe Kingdom",
-    summary: "“Welcome to South Philly's newest house venue. We are an inclusive no hate space catering to diy musicians! Formerly JHQ.” Basement venue started late Aug ‘22.",
   },
 ];
 

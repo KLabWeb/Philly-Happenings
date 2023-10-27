@@ -216,9 +216,7 @@ export const Cards = () => {
         );
     })}
 
-    <img class='closedGrave' src='/images/gravestone.png' alt='gravestone.png'/>
     <h1 id="closed-spaces-groups-events" className="category">Closed Spaces & Groups + Retired Events</h1>
-    <img class='closedGrave' src='/images/gravestone.png' alt='gravestone.png'/>
     {CLOSED.map(data => {
         return (
           <DetailCard key={data.title} data={data}/>
