@@ -1159,8 +1159,12 @@ export const MUSICABOVEPHILLY = [
 
 export const MUSICBLUEGRASS = [
   {
-    title:" ",
+    title: "Philly Bluegrass",
+    summary: "“Philly Bluegrass’ mission is to promote the creation, performance, and appreciation of bluegrass and roots music in Philadelphia and its surrounding regions.“ Run event calendar, news posts, local band/arist directory, email newsletter.",
     mainLink: "https://phillybluegrass.com/",
+    facebook: "https://www.facebook.com/PhillyBluegrass/",
+    insta: "https://www.instagram.com/phillybluegrass/",
+    suggestedFollow: "FB + check site calendar monthly",
   },
 ];
 
