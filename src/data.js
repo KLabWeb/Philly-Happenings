@@ -1787,7 +1787,7 @@ export const MUSICELECTROINDUST = [
 export const MUSICHIPHOP = [
   {
     title:"The Gathering",
-    summary: "(almost) every last Thursday. Established in 1996, The Gathering is the longest/strongest-running truly Hip Hop event in Philly. The Gathering IS b-boys/b-girls, pop-lockers, emcees, graffiti writers, DJs, men, women, and children of all ages enjoying an organic, community-based celebration of The struggle, the Love,and the culture of Hip Hop. DJs spin Hiphop, breaks, and funk all night, and there are open cyphas, a tag wall, and a featured performance and graffiti panel each month.",
+    summary: "”(almost) every last Thursday. Established in 1996, The Gathering is the longest/strongest-running truly Hip Hop event in Philly. The Gathering IS b-boys/b-girls, pop-lockers, emcees, graffiti writers, DJs, men, women, and children of all ages enjoying an organic, community-based celebration of the struggle, the Love, and the culture of Hip Hop. DJs spin Hiphop, breaks, and funk all night, and there are open cyphas, a tag wall, and a featured performance and graffiti panel each month.”",
     mainLink: "https://www.therotunda.org/event_category/the-gathering",
     facebook: "https://www.facebook.com/TheGathering215/",
     insta: "https://www.instagram.com/thegathering215/",
