@@ -286,6 +286,11 @@ export const CLOSED  = [
     summary: "“women led music & arts collective.” Throws rare shows with local venues. Vanished mid fall 2023.",
     insta: "https://www.instagram.com/toothfairycollective/",
   },
+  {
+    title: "Hang Free",
+    summary: "May and September. “Free Biannual Parties held in Philadelphia's Fairmount Park with DJ's spinning Electronic Music!” Some old fam shit, going on since 1998. Last one was in May 2021, with no Hang Free in 2022 or 2023.",
+    mainLink: "http://www.hangfree.org/",
+  },
 ]
 
 export const CYCLING = [
@@ -1344,20 +1349,21 @@ export const MUSICDIYGENPHL = [
   {
     title: "hate5six",
     summary: "“Live music archivist. Tape liberator. Ex-data scientist. Don't stand on a silent platform. Free Mumia Abu Jamal and Leonard Peltier.” Hundreds of videos of local bands at local spots.",
-    mainLink: "https://www.youtube.com/user/hate5six/videos",
+    mainLink: "https://hate5six.com/",
+    subLink: "https://www.youtube.com/user/hate5six/videos",
     facebook: "https://www.facebook.com/hate5six",
     insta: "https://www.instagram.com/hate5six/",
     suggestedFollow: "Check their youtube to find good local bands",
   },
   {
     title: "mid-atlantic underground Discord",
-    summary: "House and venue shows posted, general chat, newsfeed, etc.. Seems pretty active. Good place to meet people online, before in person, if a shy person. Philly, NJ, NYC region.",
+    summary: "House and venue shows posted, general chat, newsfeed, etc.. Pretty active. Good place to meet people online, before in person, if a shy person. Philly, NJ, NYC region.",
     mainLink: "https://discord.com/invite/8mkvVYw48z",
     suggestedFollow: "Discord",
   },
   {
-    title: "Porch Fest",
-    summary: "“An annual do-it-yourself music festival featuring musicians of all kinds playing free shows on porches throughout the neighborhood. Created by and for West Philadelphia residents, and to celebrate the community’s broad musical and cultural diversity.” Running since 2016. Over 100 spots in 2022! Typically first week of June.",
+    title: "West Philly Porchfest",
+    summary: "“An annual do-it-yourself music festival featuring musicians of all kinds playing free shows on porches throughout the neighborhood. Created by and for West Philadelphia residents, and to celebrate the community’s broad musical and cultural diversity.” Running since 2016. Over 100 spots in 2023! Typically first Saturday of June.",
     mainLink: "https://westphillyporchfest.com/",
     facebook: "https://www.facebook.com/westphillyporchfest",
     insta: "https://www.instagram.com/westphillyporchfest",
@@ -1373,11 +1379,6 @@ export const MUSICDIYGENPHL = [
     suggestedFollow: "Insta + site for zines",
   },
   {
-    title: "Hang Free",
-    summary: "May and September. “Free Biannual Parties held in Philadelphia's Fairmount Park with DJ's spinning Electronic Music!” Some old fam shit, going on since 1998.",
-    mainLink: "http://www.hangfree.org/",
-  },
-  {
     title: "Global Rock Underground",
     summary: "“Booking Coordinator. Promoter. Session Drummer. Photographer.” Philly. Put together multiple 200+ artist “Philly’s Best” mixes on Spotify.",
     mainLink: "https://open.spotify.com/playlist/1jkoqs2bZo3mY1RmY6VYG4",
@@ -1385,7 +1386,7 @@ export const MUSICDIYGENPHL = [
     insta: "https://www.instagram.com/globalrockunderground/",
   },
   {
-    title: "Do DIY News",
+    title: "DoDIY",
     summary: "“A catalog of DIY event spaces & organizers from around the world + resources on the DIY ethos. Since 2007.” Does monthly “site report” from some spot. A lot of PNW spots, but also Philly (about ½ as much as PNW).",
     mainLink: "http://www.dodiy.org/ ",
     facebook: "https://www.facebook.com/dodiynews",
