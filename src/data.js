@@ -1808,7 +1808,7 @@ export const MUSICMETAL = [
 export const MUSICREGIONAL = [
   {
     title: "'Philly Bands + South/Central NJ' List",
-    summary: "A list of over 200 local bands, compiled by DIYTourNetwork Philly",
+    summary: "A list of over 250 local bands, compiled by DIYTourNetwork Philly",
     mainLink: "https://docs.google.com/spreadsheets/d/1EixCZ6GOw4WPGODa2CDEPfbAXXyTeveD_qiCfqeLxgY/edit#gid=0",
     subLink: "https://diytournetwork-philly.tumblr.com/"
   }
