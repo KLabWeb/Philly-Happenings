@@ -257,6 +257,13 @@ export const CLOSED  = [
     summary: "General literature and writing events calendar. No longer maintained with events no longer really posted to it.",
     mainLink: "https://literaryphilly.org/events/list/",
   },
+  {
+    title: "The Room at Harper’s Pub.",
+    summary: "“Music venue in Clementon NJ.” Lots of local bands. Metal, punk, hardcore, alt. Closed Oct' 22 and turned into Harper’s Discount Liquors, under new owners.",
+    mainLink: "https://harperspubnj.com",
+    facebook: "https://www.facebook.com/TheRoomatHarpers/",
+    insta: "https://www.instagram.com/theroomatharpers/",
+  },
 ]
 
 export const CYCLING = [
@@ -313,6 +320,12 @@ export const CYCLING = [
     summary: "Bike streets and trails in Philly, regional bike map, Philly and regional cycling programs, local cycling resources, bike news.",
     mainLink: "https://bicyclecoalition.org/",
     suggestedFollow: "n/a",
+  },
+  {
+    title: "Dobb’s on South",
+    summary: "South Philly dive bar. Local music. Open mic weds. Jam nights. Closed early 2023.",
+    facebook: "https://www.facebook.com/dobbsonsouth/ ",
+    insta: "https://www.instagram.com/dobbsonsouth/",
   },
 ];
 
@@ -972,19 +985,18 @@ export const MUSICABOVEPHILLY = [
   {
     title: "Cousin Danny’s Lounge",
     summary: "“West Philly DIY.” A bar, but more DIY than bar. A two flat converted into a space. Lots of metal, hardcore, etc..",
-    facebook: "https://facebook.com/profile.php?id=1141323635907509",
     insta: "https://www.instagram.com/cousindannyslounge/",
   },
   {
     title: "The Rotunda",
-    summary: "“We are a live performing arts and a multi-cultural sober space designed to fit the needs of Philly curators and creatives.” Shows, but also poetry, film, speakers, workshops, etc.",
+    summary: "“We are a live performing arts and a multi-cultural sober space designed to fit the needs of Philly curators and creatives.” Shows, but also poetry, dance events, film, speakers, workshops, etc.",
     mainLink: "https://therotunda.org/ ",
     facebook: "https://www.facebook.com/therotundaphilly ",
     insta: "https://www.instagram.com/the_rotunda_philly/",
   },
   {
     title: "Bar XIII Delaware",
-    summary: "“Delaware's Home for alternative nightlife”. 40 mins out of Philly. Gothy place with punk, metal, industrial, etc. shows, burlesque, karaoke, sexy bingo, comedy nights.",
+    summary: "“We are Delaware’s Home for Unique entertainment, Strange people and Live Music”. 40 mins out of Philly. Gothy place with punk, metal, industrial, etc. shows, burlesque, karaoke, sexy bingo, comedy nights. Home of Asylum 13, a “weekly 21+ kinky dark alternative dance party“.",
     mainLink: "http://barxiii.com/",
     facebook: "https://www.facebook.com/BarXIIIDelaware",
     insta: "https://www.instagram.com/barxiiidelaware/",
@@ -1008,12 +1020,6 @@ export const MUSICABOVEPHILLY = [
     summary: "Philly rock and roll bar with a lot of local bands. Center Philly. “We feature live music, burlesque, art shows and rock and roll djs.”",
     facebook: "https://www.facebook.com/TheTuskPhilly/",
     insta: "https://www.instagram.com/explore/tags/thetuskphilly/",
-  },
-  {
-    title: "Dobb’s on South",
-    summary: "South Philly dive bar. Local music. Open mic weds. Jam nights.",
-    facebook: "https://www.facebook.com/dobbsonsouth/ ",
-    insta: "https://www.instagram.com/dobbsonsouth/",
   },
   {
     title: "MilkBoy",
@@ -1040,7 +1046,7 @@ export const MUSICABOVEPHILLY = [
   },
   {
     title: "Century",
-    summary: "The main above ground spot for metal shows. Also, noise, post-punk, punk, hardcore, emo, shoegaze, etc.",
+    summary: "The main above ground spot for metal shows along with Cousin Danny's. Also, noise, post-punk, punk, hardcore, emo, shoegaze, etc.",
     facebook: "https://www.facebook.com/centuryphila/",
   },
   {
@@ -1060,7 +1066,7 @@ export const MUSICABOVEPHILLY = [
   {
     title: "Union Transfer",
     summary: "Larger small size venue. All types of music.",
-    mainLink: "https://utphilly.com/events/",
+    mainLink: "https://utphilly.com/",
     facebook: "https://www.facebook.com/UnionTransfer/",
     insta: "https://www.instagram.com/uniontransfer/",
   },
@@ -1073,7 +1079,8 @@ export const MUSICABOVEPHILLY = [
   },
   {
     title: "The Pharmacy",
-    summary: "Coffee shop and gallery with shows. Punk, hardcore, metal, electronic.",
+    summary: "Coffee shop and gallery with shows. Indie, punk, hardcore, metal, electronic.",
+    mainLink: "https://www.thepharmacyphilly.org/",
     facebook: "https://www.facebook.com/thepharmacycoffee/",
     insta: "https://www.instagram.com/thepharmacycoffee/",
   },
@@ -1092,7 +1099,7 @@ export const MUSICABOVEPHILLY = [
   },
   {
     title: "FU Church",
-    summary: "First Unitarian Church of Philadelphia. Semi-frequent punk, hardcore, other, shows. Located in a busy spot in Center City to ride a bike unless you want to pay for expensive parking.",
+    summary: "First Unitarian Church of Philadelphia. Semi-frequent punk, hardcore, other, shows. Also home of the Philadelphia Animation Society. Located in a busy spot in Center City so ride a bike to avoid paying for expensive parking.",
     mainLink: "https://philauu.org/",
     subLink: "https://www.songkick.com/venues/10848-first-unitarian-church",
   },
@@ -1110,16 +1117,8 @@ export const MUSICABOVEPHILLY = [
     insta: "https://www.instagram.com/rayshappybirthdaybar",
   },
   {
-    title: "Black Cat Tavern",
-    summary: "“A tiny ‘Mom & Pop’ Tavern, located in beautiful, deep South Philly, at the corner of 12th Street & Oregon Avenue.”  Another historic dive. Serves Polish food.",
-    mainLink: "http://www.blackcattavernphilly.com/",
-    facebook: "https://www.facebook.com/BlackCatTavernPhilly/",
-    insta: "https://www.instagram.com/blackcattavernphilly",
-    suggestedFollow: "",
-  },
-  {
     title: "Theater of Living Arts",
-    summary: "Hole in the wall venue, built 1908. Indie and pop, mostly. Good for larger name indie artists.",
+    summary: "Hole in the wall venue, built 1908. Indie and pop, mostly. Good for larger name indie artists, pop, & hip hop.",
     mainLink: "https://venue.tlaphilly.com/ ",
     facebook: "https://www.facebook.com/TLAPhilly/",
     insta: "https://www.instagram.com/tlaphilly",
@@ -1138,16 +1137,16 @@ export const MUSICABOVEPHILLY = [
   },
   {
     title: "The Rusty Nail",
-    summary: "Dive bar about 45 mins away from S Philly in Ardmore. Does a lot of local metal shows.",
+    summary: "Dive bar about 45 mins away from Center City in Ardmore. Hosts a lot of local metal, harcore, and alt shows.",
     mainLink: "http://www.thenail1.com",
     facebook: "https://www.facebook.com/The-Rusty-Nail-199449793458045/",
   },
   {
-    title: "The Room at Harper’s Pub.",
-    summary: "“Music venue in Clementon NJ.” Lots of local bands. Metal, punk, hardcore, alt.",
-    mainLink: "https://harperspubnj.com",
-    facebook: "https://www.facebook.com/TheRoomatHarpers/",
-    insta: "https://www.instagram.com/theroomatharpers/",
+    title: "Black Cat Tavern",
+    summary: "“A tiny ‘Mom & Pop’ Tavern, located in beautiful, deep South Philly, at the corner of 12th Street & Oregon Avenue.”  Another historic dive. Serves Polish food. Comedy nights. Announced closure Feb 2023, but then in May 2023 said ”on hiatus,” so may re-open.",
+    mainLink: "http://www.blackcattavernphilly.com/",
+    facebook: "https://www.facebook.com/BlackCatTavernPhilly/",
+    insta: "https://www.instagram.com/blackcattavernphilly",
   },
   {
     title: "Saint Vitus Bar",
