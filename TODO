@@ -1,8 +1,9 @@
 1) Review all existing cards to ensure they are up to date + edit as required
 2) Update DIY Space list w/ newer venues
 3) Finish WIP sections
-4) Update existing sections w/ more cards, in part through further "deep dive" into resources listed on existing cards, sites linked to on cards, etc.
-
+4) Ensure all cards are included in monthly/weekly schedule cards
+5) Update existing sections w/ more cards, in part through further "deep dive" into resources listed on existing cards, sites linked to on cards, etc.
+6) Add unique keys on react elements to clear browser console errors + clear other console errors
 
 Existing Card Details
 ----------------------

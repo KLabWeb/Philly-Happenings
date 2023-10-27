@@ -664,18 +664,16 @@ export const GREENGARDENS = [
 
 export const GREENMARKETS = [
   {
-    title: "Philadelphia Farmers’ Market List",
-    summary: "A list of Philadelphia farmers' markets",
+    title: "Philadelphia + Surrounding Area Farmers’ Market List",
+    summary: "A list of 60+ Philadelphia + surrounding area farmers' markets",
     mainLink: "https://www.thegreencities.com/food/2021-farmers-market-guide/",
     suggestedFollow: "n/a",
   },
   {
-    title: "Edible Philly",
-    summary: "News/blog site on food farms, farmers' markets, local food restaurants. Pretty 'green capitalism', too, though.",
-    mainLink: "https://ediblephilly.ediblecommunities.com/",
-    facebook: "https://www.facebook.com/EdiblePhilly",
-    insta: "https://www.instagram.com/ediblephilly",
-    suggestedFollow: "None, but check if looking for food stuff",
+    title: "Philadelphia + Surrounding Area CSA List",
+    summary: "A list of 20 Philadelphia + surrounding area CSA",
+    mainLink: "https://www.phillymag.com/be-well-philly/csa-farm-share/",
+    suggestedFollow: "n/a",
   },
   {
     title: "Mariposa Co-op",
@@ -683,11 +681,11 @@ export const GREENMARKETS = [
     mainLink: "https://mariposa.coop/",
     facebook: "https://www.facebook.com/MariposaCoop/",
     insta: "https://www.instagram.com/mariposacoop/",
-    suggestedFollow: "None",
+    suggestedFollow: "None (FB more updated, for ref)",
   },
   {
     title: "Weavers Way Food Coop",
-    summary: "Two philly locations and one in nearby Amlber, PA.",
+    summary: "Two grocery locations, one in Mt. Airy and one in Chestnut Hill, w/ a vintage & 'local goods' shop also in Mt. Airy and 'health, wellness, and beauty products' stores in Mt. Airy and Chestnut, also. A final grocery in nearby Amlber, PA.",
     mainLink: "https://weaversway.coop/ ",
     facebook: "https://www.facebook.com/weaversway",
     insta: "https://www.instagram.com/weaversway/",
@@ -695,7 +693,7 @@ export const GREENMARKETS = [
   },
   {
     title: "South Philly Food Coop",
-    summary: "Since 2010",
+    summary: "“South Philly Food Co-op is South Philly’s only community-owned grocery store. It offers fresh, local foods at fair prices and serves as a hub for our South Philly community.“",
     mainLink: "https://www.southphillyfood.coop/",
     facebook: "https://www.facebook.com/SouthPhillyFoodCoop",
     insta: "https://www.instagram.com/spfoodcoop/",
@@ -711,7 +709,7 @@ export const GREENMARKETS = [
   },
   {
     title: "Sprouts Farmers Market",
-    summary: "Health foods store with a lot of produce. A ton of bulk food. South Philly location opening soon.",
+    summary: "National health foods store chain with a lot of produce. A ton of bulk food. Northeast Philly, Penn's Landing, and South Philly location opening soon.",
     mainLink: "https://www.sprouts.com/",
     facebook: "https://www.facebook.com/SproutsFarmersMarket",
     insta: "https://www.instagram.com/sprouts/",
@@ -727,11 +725,19 @@ export const GREENMARKETS = [
   },
   {
     title: "Italian Market",
-    summary: "Another big open air market, with a lot of street vendors in South Philly, running down 9th street. Began late 1880’s. Tons of cheap produce.",
+    summary: "Another big open air market with many street vendors running down 9th street in South Philly. Began late 1880’s. Tons of cheap produce. Old school.",
     mainLink: "https://www.italianmarketphilly.org/",
     facebook: "https://www.facebook.com/italianmarketphilly/",
     insta: "https://www.instagram.com/italianmarketphilly/",
     suggestedFollow: "None, but check for events around holidays",
+  },
+  {
+    title: "Edible Philly",
+    summary: "News/blog site on food farms, farmers' markets, local food restaurants. Pretty 'green capitalism' and pricey 'foodie', though.",
+    mainLink: "https://ediblephilly.ediblecommunities.com/",
+    facebook: "https://www.facebook.com/EdiblePhilly",
+    insta: "https://www.instagram.com/ediblephilly",
+    suggestedFollow: "None, but check if looking for vegan/organic restaurants.",
   },
 ];
 

@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import { About } from "./about";
-import { Notices } from "./notices";
+// import { Notices } from "./notices";
 
 export const Header = props => {
   return (
