@@ -1170,8 +1170,10 @@ export const MUSICBLUEGRASS = [
 
 export const MUSICCLASSICAL = [
   {
-    title:" ",
+    title: "Our Philly: How to Get into Classical Music in Philly",
+    summary: "A quick guide put together by Our Philly. Lists some Philly classical music halls, radio stations, podcasts, music streams, and organizations.",
     mainLink: "https://www.ourphilly.org/how-to-get-into-classical-music-in-philly",
+    suggestedFollow: "Check the page as an intro.",
   },
 ];
 
