@@ -264,6 +264,28 @@ export const CLOSED  = [
     facebook: "https://www.facebook.com/TheRoomatHarpers/",
     insta: "https://www.instagram.com/theroomatharpers/",
   },
+  {
+    title: "Big Hit",
+    summary: "Philly show organizer. Puts together shows at DIY spaces around Philly. No posts from Oct 2022 to Oct 2023.",
+    insta: "https://www.instagram.com/bighitphilly/",
+  },
+  {
+    title: "Adonis Shows",
+    summary: "Booker and organizer. First show and last show was July 2022.",
+    insta: "https://www.instagram.com/adonis_shows/",
+  },
+  {
+    title: "Sunflower Philly",
+    summary: "“community-based organization focused on providing access to art, music & sustainable resources through a curated series of events and programs in North Philadelphia.” Community garden. Graffiti walls. Shows and events outside....Gentrified into non-existence in 2023 by apartment developers, upon which the historic graffiti walls were demolished to make room for more Kensington yuppies.",
+    mainLink: "https://www.sunflowerphilly.org/",
+    facebook: "https://www.facebook.com/sunflowerphilly",
+    insta: "https://www.instagram.com/sunflowerphilly/",
+  },
+  {
+    title: "The Tooth Fairy Collective",
+    summary: "“women led music & arts collective.” Throws rare shows with local venues. Vanished mid fall 2023.",
+    insta: "https://www.instagram.com/toothfairycollective/",
+  },
 ]
 
 export const CYCLING = [
@@ -1179,30 +1201,25 @@ export const MUSICCLASSICAL = [
 
 export const MUSICDIYCOLLECTIVESPHL = [
   {
-    title: "houseshowphilly",
-    summary: "Philly collective, promoting, organizing, and listing shows. THE place for checking upcoming shows. “new account to compile every single house show in the philly area in one place.” Posts shows occuring by date, fliers, show reports, etc.. This is a great testament to how active Philly DIY is.",
+    title: "House Show Philly",
+    summary: "“Upcoming philly house show masterlist, woman owned (she/her), updated every wednesday.“ Philly collective. Also organizes shows. THE place for checking upcoming DIY shows. A great testament to how active Philly DIY is.",
     insta: "https://www.instagram.com/houseshowphilly/",
   },
   {
     title: "Ratpie",
-    summary: "“all things philly music scene related. posting organized house show dates, artist showcases, + moreヽ(･ω･｡)ﾉ” Show aggregator.",
+    summary: "“all things philly music scene related. interviews, film dumps, montages, artist showcases, + moreヽ(･ω･｡)ﾉ”",
     mainLink: "https://www.ratpiefriends.com/",
     insta: "https://www.instagram.com/ratpiefriends/",
   },
   {
     title: "Dragon's Den",
-    summary: "“Account made to promote house shows around Drexel University and in Philly.”",
+    summary: "“Account made to promote house shows around Drexel University and in Philly.” Show aggregator.",
     insta: "https://www.instagram.com/_drexeldragons_den/",
   },
   {
     title: "Jersey Show Scene",
-    summary: "“Masterlist of jerseys music scene. Woman ran @gabbyice_.“ A New Jersey DIY show listing account, posting weekly DIY shows, similar to the style of houseshowphilly.",
+    summary: "“Masterlist of jerseys music scene. notaflof - Woman ran @gabbyice_.“ A New Jersey DIY show listing account, posting weekly DIY show lists, similar to the style of House Show Philly.",
     insta: "https://www.instagram.com/jerseyshowscene/",
-  },
-  {
-    title: "Big Hit",
-    summary: "Philly show organizer. Puts together shows at DIY spaces around Philly.",
-    insta: "https://www.instagram.com/bighitphilly/",
   },
   {
     title: "The Courtyard",
@@ -1218,41 +1235,37 @@ export const MUSICDIYCOLLECTIVESPHL = [
     insta: "https://www.instagram.com/phillyhcshows",
   },
   {
-    title: "Adonis Shows",
-    summary: "Booker. Infrequently posts shows, always DIY, sometimes at new venues.",
-    insta: "https://www.instagram.com/adonis_shows/",
-  },
-  {
     title: "DIY Music Philly!",
-    summary: "House shows, open mics, local bands, seeking “some instrument player” posts, festivals. Well moderated and is very much DIY only.",
+    summary: "House shows, open mics, local bands, seeking “some instrument player” posts, festivals. Well moderated and is very much DIY only. “For all Philly area musicians to share your music, promote shows, network with other musicians, and get help booking shows or finding bands in and around Philadelphia.“",
     facebook: "https://www.facebook.com/groups/72086746717/",
   },
   {
     title: "MD/DC/PA/NY/NJ/VA/DE Metal, Hardcore, Punk & More SHOWS",
-    summary: "“A group collective for upcoming shows in the MD, DC, PA, NY, NJ, VA, DE area's. Please try to keep ALL posts SHOW related.” Above and underground shows. Low-key 1.9k person group, but very active.",
+    summary: "“A group collective for upcoming shows in the MD, DC, PA, NY, NJ, VA, DE area's. Please try to keep ALL posts SHOW related.” Above and underground shows. Very active and relatively low-key at 2.9k memebers.",
     facebook: "https://www.facebook.com/groups/147504269138636/",
   },
   {
     title: "würmhole produktions",
-    summary: "Philly music group. Throw events. Often throw shows at Walmart Beach.",
+    summary: "Philly DIY music production group. Throw shows and events at Gray's Ferry Skatepark, Walmart Beach, and other DIY spots.",
     insta: "https://www.instagram.com/wurmhole_produktions/",
   },
   {
     title: "Save The Cat Touring",
     summary: "“Save The Cat is an artist management service and touring agency for lgbtq+ & bipoc artists. Devoted to booking at Safe spaces and ensuring quality DIY show practice, agents & organizers host and run Save The Cat affiliated concerts in Philadelphia, NYC, and upstate New York.”",
     mainLink: "https://linktr.ee/savethecattouring",
+    facebook: "https://www.facebook.com/people/Save-The-Cat/100086974999093/",
     insta: "https://www.instagram.com/savethecattouring/",
   },
   {
     title: "Couple Ghouls",
-    summary: "“booking shows in philadelphia pa.” DIY and pubs, etc.",
-    mainLink: "https://linktr.ee/coupleghouls",
+    summary: "“booking shows in Philadelphia PA and helping friends with shows all over the east coast since like 2013.” DIY and pubs, etc.",
+    mainLink: "https://www.coupleghouls.com/",
     facebook: "https://www.facebook.com/CoupleGhouls ",
-    insta: "https://www.instagram.com/coupleghouls",
+    insta: "https://www.instagram.com/coupleghouls_/",
   },
   {
     title: "Pillow Princess Productions",
-    summary: "“Booking. Recording. Releases. Formerly Paper Scissors Media.” Booked a lot of shows in 2022.",
+    summary: "“Booking. Recording. Releases. Formerly Paper Scissors Media.” Very active show booking.",
     insta: "https://www.instagram.com/pillow.princess.productions/ ",
   },
   {
@@ -1264,27 +1277,20 @@ export const MUSICDIYCOLLECTIVESPHL = [
   },
   {
     title: "Rubbish Records",
-    summary: "Philly local label. Punk, ska, folk punk, indie punk, garage punk, skate punk, etc. Posts lots of shows, mostly not at DIY spaces.",
+    summary: "Philly local label. Punk, ska, folk punk, indie punk, garage punk, skate punk, etc. Posts lots of shows at a mix of DIY and above ground spots.",
     mainLink: "https://rubbishrecords.com/ ",
     facebook: "https://www.facebook.com/RubbishRecordsSPP/",
     insta: "https://www.instagram.com/rubbish.records/",
   },
   {
     title: "Rat Milk Collective",
-    summary: "“DIY Punk Rock booking collective, Eastern PA, Est. 2011. DIY Tape Label, Est. 2015.” “punk / grind / thrash / fastcore / pv / death.” Show postings, mostly. Sometimes new albums, etc.",
+    summary: "“DIY punk, grind, thrash, fastcore, pv, death, etc. booking collective, Eastern PA, Est. 2011. DIY Tape Label, Est. 2015.” “punk / grind / thrash / fastcore / pv / death.” Show postings, mostly. Sometimes new albums, etc.",
     facebook: "https://www.facebook.com/ratmilkcollective/",
     insta: "https://www.instagram.com/ratmilkcollective/ ",
   },
   {
-    title: "Sunflower Philly",
-    summary: "“community-based organization focused on providing access to art, music & sustainable resources through a curated series of events and programs in North Philadelphia.” Community garden. Graffiti walls. Shows and events outside.",
-    mainLink: "https://www.sunflowerphilly.org/",
-    facebook: "https://www.facebook.com/sunflowerphilly",
-    insta: "https://www.instagram.com/sunflowerphilly/",
-  },
-  {
     title: "Virtua94",
-    summary: "Local electronic label. Vaporwave, Synthwave, Chillwave, D&B, Chiptune, Jungle, Rave, etc.. Throws dance events now and then. Their artists often mix at LegoLand.",
+    summary: "Local electronic label. Vaporwave, Synthwave, Chillwave, D&B, Chiptune, Jungle, Rave, etc.. Throws dance events and raves. Social media not updated. Check their site.",
     mainLink: "https://virtua94.com/",
     facebook: "https://www.facebook.com/virtua94",
     insta: "https://www.instagram.com/virtua94",
@@ -1296,13 +1302,8 @@ export const MUSICDIYCOLLECTIVESPHL = [
     insta: "https://www.instagram.com/tuna.collective/",
   },
   {
-    title: "The Tooth Fairy Collective",
-    summary: "“women led music & arts collective.” Throws rare shows with local venues",
-    insta: "https://www.instagram.com/toothfairycollective/",
-  },
-  {
     title: "UArts Radio",
-    summary: "“UARTS Radio is an online radio station and blog bringing you the latest in music, culture and events. This site is supported by the University of the Arts”",
+    summary: "“UARTS Radio is an online radio station and blog bringing you the latest in music, culture and events. Supported by the University of the Arts”",
     mainLink: "http://www.uartsradio.com/",
     facebook: "https://www.facebook.com/uartsradioblog",
     insta: "https://www.instagram.com/uartsradio/",
@@ -1311,13 +1312,12 @@ export const MUSICDIYCOLLECTIVESPHL = [
     title: "Cosmic Art Studios",
     summary: "“Creative Community Space in Pottstown, Pa.” (1 hr out of Philly). Tea bar. Dance events. Local markets. Lounge. Balcony with bar. Another event space on second floor. Art nights. Monthly “shindigs.” Local music. Yoga, sound healing, art classes, open mic, drum circles.",
     mainLink: "https://www.cosmicarts.org/",
-    subLink: "",
     facebook: "https://www.facebook.com/cosmicartspa",
     insta: "https://www.instagram.com/cosmic_art_studio/",
   },
   {
     title: "Eclectica Division",
-    summary: "“We are a women-led DIY management collective + record label.” Play local shows, occasionally.",
+    summary: "“We are a women-led DIY management collective + record label. We manage artists, book & curate shows, coordinate album & single releases, develop press plans, provide consultation, and tour manage.”",
     mainLink: "https://www.eclecticadivision.com/",
     facebook: "https://www.facebook.com/eclecticadivision",
     insta: "https://www.instagram.com/eclecticadivision/",
