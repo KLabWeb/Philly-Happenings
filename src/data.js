@@ -510,7 +510,7 @@ export const FILMHORROR = [
     title: "Underground Arts Monthly Horror Movies",
     summary: "Good titles. A lot of classics, cult, and B.",
     mainLink: "https://undergroundarts.org/",
-    suggestedFollow: "Check site calendar monthly (seem to not be any upcoming new showings, as of Oct 2023. Dead or just taking a break?).",
+    suggestedFollow: "Check site calendar monthly screenings, most often first Monday of the month.",
   },
   {
     title: "See also, 'Theaters' section below, as most of these theaters also show regular horror."
