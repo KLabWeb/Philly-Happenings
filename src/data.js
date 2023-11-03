@@ -487,6 +487,12 @@ export const FILMHORROR = [
     suggestedFollow: "Check Insta or FB for annual date in late summer",
   },
   {
+    title: "Underground Arts Monthly Horror Movies",
+    summary: "Good titles. A lot of classics, cult, and B.",
+    mainLink: "https://undergroundarts.org/",
+    suggestedFollow: "Check site calendar monthly screenings, most often first Monday of the month.",
+  },
+  {
     title: "Media Fright Fest",
     summary: "“Horror has a home at Media Fright Fest! We present indie horror films and pop up events throughout the year.“ Run annual horror local film fest in early fall, usually the final weekend of September or first weekend of October.",
     mainLink: "https://www.facebook.com/groups/mediafrightfest/",
@@ -505,12 +511,6 @@ export const FILMHORROR = [
     summary: "Good for finding playing horror movies, festivals, etc..",
     mainLink: "https://www.facebook.com/groups/phillyhorror/",
     suggestedFollow: "FB",
-  },
-  {
-    title: "Underground Arts Monthly Horror Movies",
-    summary: "Good titles. A lot of classics, cult, and B.",
-    mainLink: "https://undergroundarts.org/",
-    suggestedFollow: "Check site calendar monthly screenings, most often first Monday of the month.",
   },
   {
     title: "See also, 'Theaters' section below, as most of these theaters also show regular horror."
