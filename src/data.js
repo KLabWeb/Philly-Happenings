@@ -296,6 +296,12 @@ export const CLOSED  = [
     summary: "“south philly’s #1 gig-funeral-fish emporium.“ Flat venue. Short lived spot with a few shows in 2022 and early 2023.",
     insta: "https://www.instagram.com/titus.funeralhome/",
   },
+  {
+    title: "Dobb’s on South",
+    summary: "South Philly dive bar. Local music. Open mic weds. Jam nights. Closed early 2023.",
+    facebook: "https://www.facebook.com/dobbsonsouth/ ",
+    insta: "https://www.instagram.com/dobbsonsouth/",
+  },
 ]
 
 export const CYCLING = [
@@ -352,12 +358,6 @@ export const CYCLING = [
     summary: "Bike streets and trails in Philly, regional bike map, Philly and regional cycling programs, local cycling resources, bike news.",
     mainLink: "https://bicyclecoalition.org/",
     suggestedFollow: "n/a",
-  },
-  {
-    title: "Dobb’s on South",
-    summary: "South Philly dive bar. Local music. Open mic weds. Jam nights. Closed early 2023.",
-    facebook: "https://www.facebook.com/dobbsonsouth/ ",
-    insta: "https://www.instagram.com/dobbsonsouth/",
   },
 ];
 
@@ -435,19 +435,19 @@ export const FILMFESTIVALS = [
 
 export const FILMGROUPS = [
   {
-    title: "Philadelphia Psychotronic Film Society",
-    summary: "“We carry on the proud tradition set forth by Psychotronic Film Societies around the globe by screening cult/weirdo/trash films for the locally like-minded. Every second and last Monday of the month we meet at 7:30 PM.”",
-    mainLink: "https://www.philamoca.org/",
-    facebook: "https://www.facebook.com/philadelphiapsychotronicfilmsociety",
-    suggestedFollow: "FB + check PhilaMOCA (current venue) calendar monthly for dates",
-  },
-  {
     title: "Philm Club",
     summary: "'Philm Club is a project by South Philly Autonomous Cinema that aims to share the events in Philadelphia's film community.' A listing site for Philly indie film screenings and festivals, in bi-monthly email newsletter and site update format. Can submit screens to.",
     mainLink: "https://philmclub.com/",
     insta: "https://www.instagram.com/cinema_philly/",
     twitter: "https://twitter.com/cinema_philly",
     suggestedFollow: "Subscribe to newsletter",
+  },
+  {
+    title: "Philadelphia Psychotronic Film Society",
+    summary: "“We carry on the proud tradition set forth by Psychotronic Film Societies around the globe by screening cult/weirdo/trash films for the locally like-minded. Every second and last Monday of the month we meet at 7:30 PM.”",
+    mainLink: "https://www.philamoca.org/",
+    facebook: "https://www.facebook.com/philadelphiapsychotronicfilmsociety",
+    suggestedFollow: "FB + check PhilaMOCA (current venue) calendar monthly for dates",
   },
   {
     title: "Philadelphia Filmmakers Group",
@@ -1914,27 +1914,28 @@ export const THEATER = [
 
 export const MUSICDIYWIP = [
   {
-    title:" ",
+    title:"DelCo Punk Shows!",
     mainLink: "https://www.facebook.com/groups/1077371709097656",
   },
   {
-    title:" ",
+    title:"Philly DIY Venue Booking Info",
     mainLink: "https://phl-diymusic.weebly.com/diy-venue-booking-info.html",
+    summary: "outdated"
   },
   {
-    title:" ",
+    title:"WKDU Philadelphia 91.7 FM",
     mainLink: "https://www.instagram.com/wkdu/",
   },
   {
-    title:" ",
+    title:"Labyrinth Productions",
     mainLink: "https://www.facebook.com/labyrinthproductions/events",
   },
   {
-    title:" ",
+    title:"anti flower show movement",
     mainLink: "https://www.instagram.com/antiflowershowmovement/",
   },
   {
-    title:" ",
+    title:"Philadelphia Psychedelic",
     mainLink: "https://www.instagram.com/philadelphiapsychedelic/",
   },
   {
@@ -1948,11 +1949,12 @@ export const MUSICDIYWIP = [
     insta: "https://www.instagram.com/p/Coswd3upv6H/"
   },
   {
-    title:" ",
+    title:"Rising Tide Collective",
     mainLink: "https://www.instagram.com/p/Cj6ZVYpO2Tb/",
+    summary: "not to be confused with Rising Tide, the originally EF! offshoot climate group"
   },
   {
-    title:" ",
+    title:"Big Nation Movement",
     mainLink: "https://www.instagram.com/bignationmovement/",
   },
   {
@@ -1960,33 +1962,66 @@ export const MUSICDIYWIP = [
     mainLink: "https://www.instagram.com/p/CkLu18PJjNj/",
   },
   {
-    title:" ",
-    mainLink: "https://www.instagram.com/air_lock.phl/ ",
+    title:"Air Lock Philly",
+    mainLink: "https://www.instagram.com/air_lock.phl/",
   },
   {
-    title:"Fieldy’s in West",
-    summary: " ",
+    title:"Angies’s in West",
+    mainLink: "https://www.instagram.com/angieswestphilly/",
+    summary: "West Philly DIY music venue (f.k.a. Fieldy's), 2 shows a month, Friday & Saturday nights only, DM for address",
   },
   {
     title:"Cecil Skatepark",
-    summary: " ",
+    summary: "https://www.tclf.org/landscapes/cecil-b-moore-station-plaza",
   },
   {
     title:"Temple Community Garden",
-    summary: " ",
-  },
-  {
-    title:"The Zoo",
-    summary: " ",
-  },
-  {
-    title:"The Dumpster Out Back",
-    summary: " ",
+    summary: "https://www.templecommunitygarden.com/",
   },
   {
     title:"The Perch ",
     summary: "@ SJU Campus",
     mainLink: "https://www.instagram.com/p/CkwL-BkJZE1/"
+  },
+];
+
+export const OTHERWIP = [
+  {
+    title:"Berkman (Anti)School of Anarchy",
+    mainLink: "https://berkmananarchy.noblogs.org/",
+  },
+  {
+    title:"Parade of Spirits",
+    mainLink: "https://www.explorenorthernliberties.org/event/parade-of-spirits/",
+    facebook: "https://www.facebook.com/paradeofspiritsll/",
+  },
+  {
+    title:"Krampus Fest and Night Market",
+    mainLink: "https://www.mediaartscouncil.org/calendar/h479ms7eeu510ims4szwuz6yupgysa",
+  },
+  {
+    title:"Julboard Dinner",
+    mainLink: "https://www.americanswedish.org/events/julbord-dinner",
+  },
+  {
+    title:"Santa Lucia & Christmas Market",
+    mainLink: "https://www.americanswedish.org/events/lucia-christmas-market-2",
+  },
+  {
+    title:"The Mummers Parade",
+    mainLink: "https://www.phlvisitorcenter.com/Mummers",
+  },
+  {
+    title:"Fishtown Freeze Weekend",
+    mainLink: "https://phillyfunguide.com/free/5th-annual-fishtown-freeze-weekend-december-9-10",
+  },
+  {
+    title:"The Resource Exchange",
+    mainLink: "https://theresourceexchange.org/",
+  },
+  {
+    title:"Trans Art Market",
+    mainLink: "https://www.instagram.com/transartmart/",
   },
 ];
 

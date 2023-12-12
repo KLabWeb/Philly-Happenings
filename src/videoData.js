@@ -169,5 +169,6 @@ export const VIDEOS = [
   "/videos/1682658675375370.webm",
   "/videos/1685390101277878.webm",
   "/videos/1685466002432144.webm",
-  "/videos/1684107993492093.webm"
+  "/videos/1684107993492093.webm",
+  "videos/A day in the life of a Japanese alcoholic [pO484lp33q8].webm"
 ];

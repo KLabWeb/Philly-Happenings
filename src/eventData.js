@@ -9,7 +9,7 @@ export const BYMONTH = [
   },
   {
     period: "April",
-    events: ["Early: Media Fright Fest Spring", "Early: Shofuso Cherry Blossom Festival", "End: Book Corner Spring Book Sale"]
+    events: ["Early: Media Fright Fest Spring", "Early: Lancaster Zine Fest", "Early: Shofuso Cherry Blossom Festival", "End: Book Corner Spring Book Sale"]
   },
   {
     period: "May",
@@ -25,7 +25,7 @@ export const BYMONTH = [
   },
   {
     period: "July",
-    events: ["Mid: Book Corner Summer Book Sale", "End: Otakon (DC)"]
+    events: ["Mid: Book Corner Summer Book Sale", "Mid: Blobfest", "End: Otakon (DC)"]
   },
   {
     period: "August",
@@ -49,7 +49,7 @@ export const BYMONTH = [
   },
   {
     period: "December",
-    events: ["Mid: Santa Lucia Festival, Glogg Tasting, & Market"]
+    events: ["Early: Philly Zine Fest", "Early: Krampus Fest & Night Market", "Mid: Santa Lucia & Market + Julbord Dinner", "Mid: Fishtown Freeze Weekend"]
   }
 ];
 
