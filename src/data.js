@@ -43,6 +43,14 @@ export const ANARCHISTPHILLY = [
     suggestedFollow: "Insta (FB not updated)",
   },
   {
+    title: "South Philly Punks With Lunch",
+    summary: "“Punks With Lunch is a non-profit organization run by volunteers dedicated to building a community by providing life-saving services, along with harm reduction resources to underserved and marginalized individuals.“ Serves food @ Broad/Snyder @ 1:30pm Sundays & Wednesdays, plus 1:30pm Friday @ Miffle Square Park. Also, narcan, testing strips, hygiene supplies, clothes, etc..",
+    mainLink: "https://punkswithlunch.com/",
+    facebook: "https://www.facebook.com/PunxisSupport",
+    insta: "https://www.instagram.com/south.philly.punkswithlunch/",
+    suggestedFollow: "Insta or FB (slightly more updated than FB)",
+  },
+  {
     title: "Neighborhood Bike Works",
     summary: "Bike coop. “Learn to repair” shop nights, cheap used bikes, bike wheels and parts, youth programs, etc..",
     mainLink: "https://neighborhoodbikeworks.org/",
