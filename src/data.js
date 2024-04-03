@@ -138,7 +138,7 @@ export const ANARCHISTPHILLY = [
 export const ANIMEPHILLY = [
   {
     title: "Philadelphia Animation Society",
-    summary: "Monthly in-person meetings at FU church, 5pm to 10pm, every 2nd Saturday of the month. 41 years and running. Needs new members! Please attend!",
+    summary: "Monthly in-person meetings at FU church, 5pm to 10pm, every 2nd Saturday of the month. 42 years and running. Needs new members! Please attend!",
     facebook: "https://www.facebook.com/PhiladelphiaAnimationSociety",
     suggestedFollow: "Facebook",
   },
@@ -173,7 +173,7 @@ export const ANIMEPHILLY = [
   },
   {
     title: "J1-Con",
-    summary: "“Anime & Gaming Expo. Are you a fan of animation, cosplay, gaming (tabletop, card and console), artists, vendors, panels, and live music? You’ve come to the right convention! 10 YEARS! Longest running black owned anime convention in the USA!““ Usually first weekend of November. A few thousand attendees, generally.",
+    summary: "“Anime & Gaming Expo. Are you a fan of animation, cosplay, gaming (tabletop, card and console), artists, vendors, panels, and live music? You’ve come to the right convention! 11 YEARS! Longest running black owned anime convention in the USA!““ Usually first weekend of November. A few thousand attendees, generally.",
     mainLink: "https://j1con.com/",
     facebook: "https://www.facebook.com/j1con/",
     insta: "https://www.instagram.com/j1con/",
@@ -232,7 +232,7 @@ export const CLOSED  = [
   },
   {
     title: "Philly Bike Party",
-    summary: "“Ride bikes! make friends! hop on! Monthly thematic slow cruisin' rides meet at the art museum and make frequent party breaks!” Last ride 09/15/2023.",
+    summary: "“Ride bikes! make friends! hop on! Monthly thematic slow cruisin' rides meet at the art museum and make frequent party breaks!”",
     facebook: "https://www.facebook.com/philliebikeparte/",
     insta: "https://www.instagram.com/phillybikeparty/",
   },
@@ -249,11 +249,6 @@ export const CLOSED  = [
     mainLink: "https://www.savethemeadows.com/",
     facebook: "https://www.facebook.com/stmatfdr/",
     insta: "https://www.instagram.com/savethemeadowsfdr/",
-  },
-  {
-    title: "Philadelphia Environmental Film Festival",
-    summary: "Usually was held mid spring. Was run by Philadelphia Film Society. Ran from 2017 to 2022, but then suddenly vanished in 2023.",
-    mainLink: "https://www.onelittleearth.org/peff/?fbclid=IwAR2QNQwZJYsCpqWIwY_DMmkjJkK7yCyB_3fCW2_JqcPCLIX3RcHdbwxv18Q",
   },
   {
     title: "Permaculture Philadelphia",
@@ -309,6 +304,27 @@ export const CLOSED  = [
     summary: "South Philly dive bar. Local music. Open mic weds. Jam nights. Closed early 2023.",
     facebook: "https://www.facebook.com/dobbsonsouth/ ",
     insta: "https://www.instagram.com/dobbsonsouth/",
+  },
+  {
+    title: "Philadelphia Environmental Film Festival",
+    summary: "Usually was held mid spring. Was run by Philadelphia Film Society. Ran from 2017 to 2022, but then suddenly vanished in 2023.",
+    mainLink: "https://www.onelittleearth.org/peff/?fbclid=IwAR2QNQwZJYsCpqWIwY_DMmkjJkK7yCyB_3fCW2_JqcPCLIX3RcHdbwxv18Q",
+  },
+  {
+    title: "The Trash Heap",
+    summary: "On what seems to be indefinite 'hiatus'...West philly house venue. A bit of an older spot. Shows on a stage in a fenced in backyard, or basement, in winter. On hiatus, with most recent show late May ‘22.",
+    subLink: "https://www.youtube.com/user/Ntwell718",
+    insta: "https://www.instagram.com/the.trash.heap/",
+  },
+  {
+    title: "The Trashboat",
+    summary: "North Philly house venue. Music and arts. New, starting Nov '21. No shows since April 22.",
+    insta: "https://www.instagram.com/trashboatphl/",
+  },
+  {
+    title: "The Haw Den",
+    summary: "“West philly house venue and art space.” Also throws warehouse events. Opened late '21. Final show Aug '23. Were going to open a larger venue (MERCURY7), in 11/2023, but it never went through)",
+    insta: "https://www.instagram.com/haw_den.phl/",
   },
 ]
 
@@ -367,12 +383,27 @@ export const CYCLING = [
     mainLink: "https://bicyclecoalition.org/",
     suggestedFollow: "n/a",
   },
+  {
+    title: "Philly Bike Action!",
+    summary: "“Safe, protected bike lanes for Philly. We’re committed to the safety, dignity, and convenience of people who ride bicycles in Philadelphia. Visit our website to sign up for our newsletter and our Discord server.“ ",
+    mainLink: "https://bikeaction.org/",
+    insta: "https://www.instagram.com/phlbikeaction",
+    suggestedFollow: "Insta",
+  },
+  {
+    title: "Keystone Bicycle Co.",
+    summary: "“Keystone Bicycle Co. is a full-service bicycle shop serving a variety of cycling groups in Philadelphia, from adventure and distance cyclists to everyday commuters and casual riders. As a worker-owned cooperative, we practice democratic decision making, collective ownership, and community engagement. KBC aims to be a hub for cycling advocacy and inspiration in Philadelphia.“ Host events such as bike swaps, overnight bike camping trips, etc.",
+    mainLink: "https://keystone.bike/",
+    facebook: "https://www.facebook.com/keystone.bike/",
+    insta: "https://www.instagram.com/keystone.bike/",
+    suggestedFollow: "Check their site calender monthly for events",
+  },
 ];
 
 export const FILMFESTIVALS = [
   {
     title: "Philadelphia Film Festival",
-    summary: "Mid October, annually. 11 days long. Hosted by The Philadelphia Film Society. 32nd year in 2023.",
+    summary: "Mid October, annually. 11 days long. Hosted by The Philadelphia Film Society. 33rd year in 2024.",
     mainLink: "https://filmadelphia.org/festival/",
     suggestedFollow: "Check site for annual date at the start of fall.",
   },
@@ -384,7 +415,7 @@ export const FILMFESTIVALS = [
   },
   {
     title: "The Philadelphia Independent Film Festival",
-    summary: "Late spring, annually. 16th year in 2023.",
+    summary: "Late spring, annually. 17th year in 2024.",
     mainLink: "http://pifffilms.tv/",
     facebook: "https://www.facebook.com/PhillyFilm",
     insta: "https://www.instagram.com/philaindie/",
@@ -439,6 +470,14 @@ export const FILMFESTIVALS = [
     mainLink: "https://filmadelphia.org/movies-on-the-block/",
     suggestedFollow: "Check site early summer for annual dates",
   },
+  {
+    title: "Media Film Festival",
+    summary: "“Our first festival was in 2008 and we continue to get bigger and better. Join us in celebrating the art of the short film! Generally a five day film fest running across two weekends at end of March + start of April. Second weekend contains a horror short block.“",
+    mainLink: "https://www.mediaartscouncil.org/mediafilmfestival",
+    facebook: "https://www.facebook.com/MediaFilmFestival/",
+    insta: "https://www.instagram.com/mediafilmfestival/",
+    suggestedFollow: "Check site early summer for annual date",
+  },
 ];
 
 export const FILMGROUPS = [
@@ -482,9 +521,15 @@ export const FILMHORROR = [
   },
   {
     title: "24 Hour Horror-thon",
-    summary: "In October at the historic Colonial Theater, run by Exhumed Films. 16 years running. “The biggest horror movie event on the east coast.”",
+    summary: "In October at the historic Colonial Theater, run by Exhumed Films. 17 years running. “The biggest horror movie event on the east coast.”",
     facebook: "https://www.facebook.com/ExhumedFilms",
     suggestedFollow: "Tickets sell out FAST. Usually on sale by mid July. Watch their FB in July.",
+  },
+  {
+    title: "Delco Horror Haven",
+    summary: "“We Welcome the Weird! We support the horror community with various pop up events and a film festival.” Media, PA based. Lectures, movie premieres, book clubs and book fairs, indie media resource events, film expos and festivals, and more.",
+    facebook: "https://www.facebook.com/delcohorrorhaven",
+    suggestedFollow: "Check Insta or FB for annual date in late summer",
   },
   {
     title: "The Philadelphia Unnamed Film Festival (PUFF)",
@@ -508,7 +553,7 @@ export const FILMHORROR = [
   },
   {
     title: "Blobfest",
-    summary: "Annual, each July. ”A blobs and monsters themed take on the sci-fi/horror festival. Re-enact the famous Blob run out scene. Experience a live Stage Show and dance the night away to live music. Over 70 vendors. The Blob Run 5k run. A self-guided Driving Tour of Filming Locations featured in The Blob. 24th year in 2023.”",
+    summary: "Annual, each July. ”A blobs and monsters themed take on the sci-fi/horror festival. Re-enact the famous Blob run out scene. Experience a live Stage Show and dance the night away to live music. Over 70 vendors. The Blob Run 5k run. A self-guided Driving Tour of Filming Locations featured in The Blob. 25th year in 2024.”",
     mainLink: "https://thecolonialtheatre.com/blobfest/",
     facebook: "https://www.facebook.com/Blobfest",
     insta: "https://www.instagram.com/blobfest/",
@@ -519,6 +564,26 @@ export const FILMHORROR = [
     summary: "Good for finding playing horror movies, festivals, etc..",
     mainLink: "https://www.facebook.com/groups/phillyhorror/",
     suggestedFollow: "FB",
+  },
+  {
+    title: "Delco Horror Haven Presents: Annual Ghoulastic Book Fair",
+    summary: "“Join Delco Horror Haven's 1st Annual Ghoulastic Book Fair! Discover indie horror authors and Isten to their stories in an historic setting.“ Glen Mills, PA.",
+    facebook: "https://www.facebook.com/delcohorrorhaven",
+    suggestedFollow: "Check Delco Horror Haven FB early summer for annual date",
+  },
+  {
+    title: "Horror Haven Film Expo",
+    summary: "“Experience the spine-chilling allure of Horror Haven Film Expo, a dynamic virtual platform spotlighting terror-inducing films worldwide. Embrace the horror enthusiast community by submitting films of diverse lengths, subgenres, and styles.“ Annual spring online film fest run by folk who do Media Fright Fest.",
+    mainLink: "https://hhfilmexpo.com/",
+    facebook: "https://www.facebook.com/HorrorHavenExpo",
+    suggestedFollow: "Check FB early spring for annual date",
+  },
+  {
+    title: "Space Melt Cinema",
+    summary: "“Movies that ooze! Only at Space1026. Ok, sometimes at Cartesian Brewing too.“ Horror, sci-fi, B flicks, etc. shown now and then." ,
+    mainLink: "https://www.store1026.com/collections/workshops",
+    insta: "https://www.instagram.com/space_melt_cinema/",
+    suggestedFollow: "Insta",
   },
   {
     title: "See also, 'Theaters' section below, as most of these theaters also show regular horror."
@@ -629,6 +694,23 @@ export const GENERAL = [
     suggestedFollow: "n/a",
   },
   {
+    title: "Grays Ferry Skatepark",
+    summary: "Skatepark under bridge by Schuykill River, in between West and East Philly. Common gathering spot for punks and anarchists. Generator shows. Generator movies. Swap markets.",
+    facebook: "https://www.facebook.com/pages/Grays-Ferry-Skatepark/500800656683053",
+  },
+  {
+    title: "9th and Poplar Skatepark",
+    summary: "North Philly DIY skate park under a bridge. Cool spot. Really long park, full of DIY ramps, rails, quarter pipes, smaller bowls, etc. Covered in graff. Opened 2008. ",
+    insta: "https://www.instagram.com/9thandpoplar",
+  },
+  {
+    title: "FDR Skatepark",
+    summary: "Located beneath the overpass of I-95, this world-renowned skatepark was created by skaters, for skaters. The park has several regions, including the core park that lies under the aforementioned overpass, the neighboring and connecting pool section, a mini ramp, and a vert ramp. It is adorned with an ever-changing collection of tags and art that make for an engaging visual experience.",
+    mainLink: "https://www.fdrparkphilly.org/skatepark",
+    facebook: "https://www.facebook.com/groups/FDRSKATEPARK/",
+    insta: "https://www.instagram.com/fdrskatepark",
+  },
+  {
     title: "Our Philly",
     summary: "A huge 'project of love and obsession' Philly spaces and events site, similar to this one. Lists of local organizations, parks, markets, restaurants, bars, groups, site tools, etc., where list items can be user ranked, by number of 'hearts.' Find a cool bar or restaurant here.",
     mainLink: "https://www.ourphilly.org/browse",
@@ -654,6 +736,30 @@ export const GENERAL = [
     summary: "Mid spring, annually.“Spanning 2nd to 8th streets. Live music and performances, international food and drinks, crafts and vendors, Brauhaus Schmitz Manifest, framily friendly kid zones, free comics at Atomic City Comics.“",
     insta: "https://www.instagram.com/southstreetphilly",
     suggestedFollow: "Check annual date in early spring",
+  },
+  {
+    title: "Italian Market Festival",
+    summary: "Late spring, annually. “For seven city blocks, a celebration of culture, gastronomy, art and music. Featuring over 100 area vendors showcasing a range of cuisine and beverages. In addition to the food, the Festival features a wide range of music, services, souvenirs, jewelry, artists, and crafters.“",
+    mainLink: "https://italianmarketphilly.org",
+    facebook: "https://www.facebook.com/italianmarketphilly/",
+    insta: "https://www.instagram.com/italianmarketphilly/",
+    suggestedFollow: "Check early spring for annual date",
+  },
+  {
+    title: "Space 1026",
+    summary: "“ASpace 1026 has been a 18 year experiment and is two floors of a building at 11th and Arch. It is a network of dozens of artists who‘ve had studios at the Space, past and present. Space 1026 is a community – a creative community – not an institution.“",
+    mainLink: "https://space1026.com/",
+    facebook: "https://www.instagram.com/space1026/",
+    insta: "https://www.facebook.com/space1026/",
+    suggestedFollow: "Check their site calender monthly",
+  },
+  {
+    title: "Old City First Friday",
+    summary: "“On the First Friday of the every month, Old City comes alive in celebration as the galleries open new exhibits, design showrooms display their new lines, and businesses stay open late with special programs.“ Your typical First Friday; tour galleries, look at art, enjoy some free wine and cheese.",
+    mainLink: "https://www.oldcitydistrict.org/first-friday",
+    facebook: "https://www.facebook.com/OldCityDistrict/",
+    insta: "https://www.instagram.com/phillyfirstfriday/",
+    suggestedFollow: "Check it out some Friday",
   },
 ];
 
@@ -862,6 +968,22 @@ export const GREENGENERAL = [
     insta: "https://www.instagram.com/northphillypeacepark/",
     suggestedFollow: "Facebook (more updated)",
   },
+  {
+    title: "Everyday Futures Fest",
+    summary: "“An annual, free, arts, science, and culture festival, towards Self-Sufficiency And Collective Resilience.” Programs and events running all through April each year. Workshops, exhibitions, panels, family day, letter writing, presentations, etc. (more workshops than anything else). Held at locations all around Philly.",
+    mainLink: "https://everydayfuturesfest.org/",
+    facebook: "https://www.facebook.com/davinciartalliance",
+    insta: "https://www.instagram.com/davinciartalliance",
+    suggestedFollow: "Check site early spring for annual event details",
+  },
+  {
+    title: "Rutabaga Toy Library",
+    summary: "“At Rutabaga, we believe that sharing instead of buying new, is not only good for the environment, it also helps us build strong communities. We're your resource for sustainable parenting: Toy Lending Library Memberships // Zero-Waste Birthday Parties // Playdates and Gathering Space // Nature Arts Afterschool & Camp Program. Established in 2019.“",
+    mainLink: "https://www.rutabagatoylibrary.com/",
+    facebook: "https://www.facebook.com/RutabagaPhilly",
+    insta: "https://www.instagram.com/rutabagaphilly/",
+    suggestedFollow: "Facebook, for events and announcements",
+  },
 ];
 
 export const GREENHIKINGPARKS = [
@@ -952,7 +1074,7 @@ export const GREENHIKINGPARKS = [
 export const LITERATURE = [
   {
     title: "Philadelphia Zine Fest",
-    summary: "Typically a spring fest and a winter fest. Over 150 exhibitors, after moving to a much larger venue. Check on insta once a month to make sure you catch them. Next one is Dec 2nd, 2023. Check their insta for other local zine fests, also.",
+    summary: "Typically a spring fest and a winter fest. Over 150 exhibitors, after moving to a much larger venue. Check on insta once a month to make sure you catch them. Check their insta for other local zine fests, also.",
     mainLink: "https://www.phillyzinefest.org/",
     facebook: "https://www.facebook.com/phillyzinefest",
     insta: "https://www.instagram.com/phillyzinefest/",
@@ -992,7 +1114,7 @@ export const LITERATURE = [
     suggestedFollow: "Insta + check site calendar monthly",
   },
   {
-    title: "Lacaster Zine Fest",
+    title: "Lancaster Zine Fest",
     summary: "Mid spring, annually. “Zines, art, music, & workshops at the lovely southern market. 40+ tablers, workshops & djs spinning after party tunes!“",
     mainLink: "https://lancasterzinefest.my.canva.site/",
     insta: "https://www.instagram.com/lancasterzinefest/",
@@ -1008,7 +1130,7 @@ export const LITERATURE = [
   },
   {
     title: "Brown Brainy Brilliant Book Festival & Market",
-    summary: "“An annual (mid spring) free literary event showcasing a diverse group of independently published authors from around the country—particularly those of color and from the LGBTQ community. Food, vendors, authors, activities, and more!“ 3rd annual as of 2023.",
+    summary: "“An annual (mid spring) free literary event showcasing a diverse group of independently published authors from around the country—particularly those of color and from the LGBTQ community. Food, vendors, authors, activities, and more!“ 4th annual as of 2024.",
     mainLink: "https://www.bartramsgarden.org/?s=brown+brainy",
     suggestedFollow: "Check Bartram's Garden Site Calendar mid spring for annual date",
   },
@@ -1190,7 +1312,7 @@ export const MUSICABOVEPHILLY = [
   },
   {
     title: "Black Cat Tavern",
-    summary: "“A tiny ‘Mom & Pop’ Tavern, located in beautiful, deep South Philly, at the corner of 12th Street & Oregon Avenue.”  Another historic dive. Serves Polish food. Comedy nights. Announced closure Feb 2023, but then in May 2023 said ”on hiatus,” so may re-open.",
+    summary: "Temporarily closed as of 2024. “A tiny ‘Mom & Pop’ Tavern, located in beautiful, deep South Philly, at the corner of 12th Street & Oregon Avenue.”  Another historic dive. Serves Polish food. Comedy nights. Announced closure Feb 2023, but then in May 2023 said ”on hiatus,” so may re-open.",
     mainLink: "http://www.blackcattavernphilly.com/",
     facebook: "https://www.facebook.com/BlackCatTavernPhilly/",
     insta: "https://www.instagram.com/blackcattavernphilly",
@@ -1471,16 +1593,6 @@ export const MUSICDIYSPOTSPHL = [
     summary: "N Philly venue. Doesn’t seem to have a social media profile. Watch houseshowphilly for shows there, instead.",
   },
   {
-    title: "Grays Ferry Skatepark",
-    summary: "Skatepark under bridge by Schuykill River, in between West and East Philly. Common gathering spot for punks and anarchists. Generator shows. Generator movies. Swap markets.",
-    facebook: "https://www.facebook.com/pages/Grays-Ferry-Skatepark/500800656683053",
-  },
-  {
-    title: "9th and Poplar Skate Park",
-    summary: "North Philly DIY skate park under a bridge. Cool spot. Really long park, full of DIY ramps, rails, quarter pipes, smaller bowls, etc. Covered in graff. Opened 2008. ",
-    insta: "https://www.instagram.com/9thandpoplar",
-  },
-  {
     title: "Over Yonder",
     summary: "North Philly house venue. Used to be Blacklight. Started in Oct’ 22, following Blacklight close.",
     insta: "https://www.instagram.com/overyonder.phl/",
@@ -1550,11 +1662,6 @@ export const MUSICDIYSPOTSPHL = [
     title: "Neon Jungle",
     summary: "Cecil Records basement venue. Successor of The Sink, which closed Aug ‘22.",
     insta: "https://www.instagram.com/neonjunglephilly/",
-  },
-  {
-    title: "The Haw Den",
-    summary: "“West philly house venue and art space.” Also throws warehouse events. Opened late '21.",
-    insta: "https://www.instagram.com/haw_den.phl/",
   },
   {
     title: "The Cabin",
@@ -1687,21 +1794,10 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/thepalacejawn",
   },
   {
-    title: "The Trashboat",
-    summary: "North Philly house venue. Music and arts. New, starting Nov '21. No shows since April 22.",
-    insta: "https://www.instagram.com/trashboatphl/",
-  },
-  {
     title: "Detour Philly",
     summary: "“west philly house venue in west philly. we host cool bands and believe in being true to ourselves, beyond boundaries.” Started summer '21. No shows since Oct '22.",
     twitter: "https://twitter.com/DetourPhilly",
     insta: "https://www.instagram.com/DetourPhilly/",
-  },
-  {
-    title: "The Trash Heap",
-    summary: "West philly house venue. A bit of an older spot. Shows on a stage in a fenced in backyard, or basement, in winter. On hiatus, with most recent show late May ‘22.",
-    subLink: "https://www.youtube.com/user/Ntwell718",
-    insta: "https://www.instagram.com/the.trash.heap/",
   },
   {
     title: "The Echo House",

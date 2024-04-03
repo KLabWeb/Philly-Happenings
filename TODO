@@ -1,10 +1,17 @@
-1) Review all existing cards to ensure they are up to date + edit as required (remaining: "Events by ...", "Intermission", "DIY Spots")
-2) Update DIY Space list w/ newer venues
-3) Finish WIP sections
-4) Ensure all cards are included in monthly/weekly schedule cards
-5) update new Intermission videos
-6) Update existing sections w/ more cards, in part through further "deep dive" into resources listed on existing cards, sites linked to on cards, etc.
-7) Add unique keys on react elements to clear browser console errors + clear other console errors
+DO
+--
+-Review all existing cards to ensure they are up to date + edit as required (remaining: "Events by ...", "Intermission", "DIY Spots")
+-Update DIY Space list w/ newer venues
+-Finish WIP sections
+-Ensure all cards are included in monthly/weekly schedule cards
+-update new Intermission videos
+-Update existing sections w/ more cards, in part through further "deep dive" into resources listed on existing cards, sites linked to on cards, etc.
+-Add unique keys on react elements to clear browser console errors + clear other console errors
+-Add missing skateparks
+
+DONE
+----
+
 
 Existing Card Details
 ----------------------
