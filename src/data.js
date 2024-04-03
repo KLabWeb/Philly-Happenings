@@ -8,7 +8,7 @@ export const ANARCHISTPHILLY = [
   },
   {
     title: "Lancaster Avenue Autonomous Space",
-    summary: "“A community center for radical media and organizing located in the Belmont neighborhood of West Philadelphia.” Weekly free market, food distro, food share, and hoagie distro. Workshops, rooftop shows, zine/book library, art, peoples’ fridge.",
+    summary: "“A community center for radical media and organizing located in the Belmont neighborhood of West Philadelphia.” Bi-monthly free market, food distro, food share, hoagie distro, workshops, rooftop shows, zine/book library, art, peoples’ fridge.",
     mainLink: "https://lavazone.org/",
     twitter: "https://twitter.com/lavaspacephl",
     insta: "https://www.instagram.com/lavaspacephl",
@@ -16,21 +16,21 @@ export const ANARCHISTPHILLY = [
   },
   {
     title: "West Philadelphia Food Not Bombs",
-    summary: "Cook at Ahimsa House Friday 3pm. Distro at 5pm at Malcom X Park.",
+    summary: "Serve Fridays 4:30pm at Malcolm X Park. Cook at Ahimsa House at 3:00pm. Food pickup for cook 8-9am (drivers needed).",
     facebook: "https://www.facebook.com/groups/westphillyfnb/",
     insta: "https://www.instagram.com/foodnotbombswestphilly/",
     suggestedFollow: "Insta (more updated)",
   },
   {
     title: "South Philadelphia Food Not Bombs",
-    summary: "“Saturdays Hot Meals @ 3pm. Fridays Fresh Produce @ 8am. Mifflin Square Park (Ritner and 5th). Cooks at People's Kitchen. Very active.“",
+    summary: "“Saturdays Hot Meals @ 3pm. Fridays Fresh Produce @ 8am. Mifflin Square Park (Ritner and 5th).“ Cook at People's Kitchen. Very active.",
     facebook: "https://www.facebook.com/groups/184708858232748/",
     insta: "https://www.instagram.com/southphillyfoodnotbombs/",
     suggestedFollow: "None (social media not updated but this FNB is very active, despite)",
   },
   {
     title: "Food Not Bombs Solidarity",
-    summary: "“FNB Solidarity chapter serving the West Philly Community. 5pm Fridays food distro @ 60th and Market El Stop.“",
+    summary: "“FNB Solidarity chapter serving the West Philly Community. 5pm Fridays food distro @ 60th and Market El Stop.“ Also distros to Community Frig at 52/Sansom, St. Columba Mens Shelter, and Nizeh Morris Trans Home,",
     facebook: "https://www.facebook.com/FoodNotBombsSolidarity/",
     insta: "https://www.instagram.com/fnbsolidarity",
     suggestedFollow: "Insta (more updated)",
@@ -44,15 +44,15 @@ export const ANARCHISTPHILLY = [
   },
   {
     title: "South Philly Punks With Lunch",
-    summary: "“Punks With Lunch is a non-profit organization run by volunteers dedicated to building a community by providing life-saving services, along with harm reduction resources to underserved and marginalized individuals.“ Serves food @ Broad/Snyder @ 1:30pm Sundays & Wednesdays, plus 1:30pm Friday @ Miffle Square Park. Also, narcan, testing strips, hygiene supplies, clothes, etc..",
+    summary: "“Punks With Lunch is a non-profit organization run by volunteers dedicated to building a community by providing life-saving services, along with harm reduction resources to underserved and marginalized individuals.“ Serves food @ Broad/Snyder @ 1:30pm Sundays & Wednesdays, plus 1:30pm Friday @ Mifflen Square Park. Also, narcan, testing strips, hygiene supplies, clothes, etc..",
     mainLink: "https://punkswithlunch.com/",
     facebook: "https://www.facebook.com/PunxisSupport",
     insta: "https://www.instagram.com/south.philly.punkswithlunch/",
-    suggestedFollow: "Insta or FB (slightly more updated than FB)",
+    suggestedFollow: "Insta (slightly more updated than FB)",
   },
   {
     title: "Neighborhood Bike Works",
-    summary: "Bike coop. “Learn to repair” shop nights, cheap used bikes, bike wheels and parts, youth programs, etc..",
+    summary: "Community bike shop. “Learn to repair” shop nights, cheap used bikes, cheap bike wheels and parts, youth and adult bike repair programs, bike drives, group rides, etc..",
     mainLink: "https://neighborhoodbikeworks.org/",
     facebook: "https://www.facebook.com/NBWPhilly",
     insta: "https://www.instagram.com/neighborhoodbikeworks/",
@@ -60,7 +60,7 @@ export const ANARCHISTPHILLY = [
   },
   {
     title: "Spiral Q",
-    summary: "Since 1996. Non-profit black lib group. “Spiral Q builds strong and equitable communities characterized by creativity, joy, can-do attitudes.” Community art builds, Annual Blankenburg Parade, Peoplehood Parade and Pageant, workshops, protests, performances, etc. A lot of focus on black youth.",
+    summary: "Since 1996. Non-profit PoC lib group. “Spiral Q builds strong and equitable communities characterized by creativity, joy, can-do attitudes.” Community art builds, puppet shows, gallery tours, Annual Blankenburg Parade, Peoplehood Parade and Pageant, workshops, protests, performances, etc. A lot of focus is on black youth.",
     mainLink: "https://www.spiralq.org/",
     facebook: "https://www.facebook.com/spiralq",
     insta: "https://www.instagram.com/spiralq/",
@@ -68,7 +68,7 @@ export const ANARCHISTPHILLY = [
   },
   {
     title: "Iffy Books",
-    summary: "“Iffy Books offers a small selection of books and zines on hacking, free culture, gardening, and adjacent topics.” Workshops (ex. ffmpeg Basics, Bleeding Control Basics), meetups (ex. 2600), maker fairs, speakers, etc.",
+    summary: "“Iffy Books offers a small selection of books and zines on hacking, free culture, gardening, and adjacent topics.” Workshops (ex. ffmpeg Basics, Bleeding Control Basics), meetups (ex. 2600), maker fairs, open mic, speakers, etc.",
     mainLink: "https://iffybooks.net/",
     insta: "https://www.instagram.com/iffybooks",
     twitter: "https://twitter.com/IffyBooks",
@@ -76,7 +76,7 @@ export const ANARCHISTPHILLY = [
   },
   {
     title: "West Philly Tool Library",
-    summary: "$20 ann. membership. Requires government issued ID to borrow. Spring tool sale. Classes (ex. DryWall Repair, Plumbing 101, How to Install a Prehung Door).",
+    summary: "A library...for tools. Spring tool sale. Classes (ex. DryWall Repair, Plumbing 101, How to Install a Prehung Door). $20 ann. membership. Requires government issued ID to borrow.",
     mainLink: "https://westphillytools.org/",
     facebook: "https://www.facebook.com/westphillytools",
     insta: "https://www.instagram.com/westphillytoollibrary/",
@@ -132,6 +132,12 @@ export const ANARCHISTPHILLY = [
     insta: "https://www.instagram.com/cinema_philly/",
     twitter: "https://twitter.com/cinema_philly",
     suggestedFollow: "Insta (update more)"
+  },
+  {
+    title: "Community Fridges in Philadelphia",
+    summary: "A list of community fridges in Philadelphia, as update in February 2024",
+    mainLink: "https://www.inquirer.com/food/community-fridges-philadelphia-locations.html",
+    suggestedFollow: "n/a"
   },
 ]
 
