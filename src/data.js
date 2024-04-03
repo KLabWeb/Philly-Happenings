@@ -4,7 +4,7 @@ export const ANARCHISTPHILLY = [
     summary: "Philly Anti-authoritarian News since 2014. Post events, also. Nice list of Philly local groups and resources.",
     mainLink: "https://phlanticap.noblogs.org/",
     subLink: "https://phlanticap.noblogs.org/homies/",
-    suggestedFollow: "Site check weekly"
+    suggestedFollow: "Check site weekly"
   },
   {
     title: "Lancaster Avenue Autonomous Space",
@@ -26,7 +26,7 @@ export const ANARCHISTPHILLY = [
     summary: "“Saturdays Hot Meals @ 3pm. Fridays Fresh Produce @ 8am. Mifflin Square Park (Ritner and 5th).“ Cook at People's Kitchen. Very active.",
     facebook: "https://www.facebook.com/groups/184708858232748/",
     insta: "https://www.instagram.com/southphillyfoodnotbombs/",
-    suggestedFollow: "None (social media not updated but this FNB is very active, despite)",
+    suggestedFollow: "None (social media not updated but this FnB is very active, despite)",
   },
   {
     title: "Food Not Bombs Solidarity",
@@ -37,7 +37,7 @@ export const ANARCHISTPHILLY = [
   },
   {
     title: "North Philly Food Not Bombs",
-    summary: "“ 🏴 We are North Philadelphia Food Not Bombs 🏴 Sundays! - relentlessly sharing resources, support, hot meals and spreading sweet Anarchy since 1999“",
+    summary: "“🏴 We are North Philadelphia Food Not Bombs 🏴 Sundays! - relentlessly sharing resources, support, hot meals and spreading sweet Anarchy since 1999“",
     facebook: "https://www.facebook.com/NPFNB/",
     insta: "https://www.instagram.com/npfnb",
     suggestedFollow: "Insta (FB not updated)",
@@ -83,22 +83,23 @@ export const ANARCHISTPHILLY = [
     suggestedFollow: "Site calendar monthly check and FB or Insta",
   },
   {
-    title: "The Wooden Shoe Books",
+    title: "Wooden Shoe Books & Records",
     summary: "“Collectively run by volunteers since 1976. Anarchist & Radical Books | Periodicals | Records.“ Good place for local zines and peeping flyers on their bulletin board. Volunteer run with shifts open.",
     mainLink: "https://www.woodenshoebooks.org/home.html",
     facebook: "https://www.instagram.com/thewoodenshoebooks/",
     insta: "https://www.facebook.com/WoodenShoeBooks/",
-    suggestedFollow: "FB + check site calendar monthly."
+    suggestedFollow: "FB + check site calendar monthly"
   },
   {
     title: "Anathema",
-    summary: "“A Philadelphia Anarchist Periodical.“ Being published almost 10 years, now.",
+    summary: "“A Philadelphia Anarchist Periodical.“ Since 2012!",
     mainLink: "https://anathema.noblogs.org/",
-    suggestedFollow: "Check for print versions at Wooden Shoe Books.",
+    subLink: "https://anathema.noblogs.org/old-issues/",
+    suggestedFollow: "Check for print versions at Wooden Shoe Books",
   },
   {
     title: "Punk Rock Flea Market",
-    summary: "“The Punk Rock Flea Market is the place to shop for awesome clothing, records, crafts, art, and most of all old punk junk! 200 vendors per day.“ One market each season.",
+    summary: "“The Punk Rock Flea Market is the place to shop for awesome clothing, records, crafts, art, and most of all old punk junk! 200 vendors per day, different vendors each day.“ One market each season.",
     mainLink: "https://www.phillyprfm.com/",
     facebook: "https://www.facebook.com/PhillyPRFM/",
     insta: "https://www.instagram.com/phillyprfm",
@@ -106,14 +107,14 @@ export const ANARCHISTPHILLY = [
   },
   {
     title: "NYC Anarchist Bookfair",
-    summary: "Early September, usually.",
+    summary: "“The NYC Anarchist Book Fair was founded in 2007. It brings around two thousand anarchists, anarchy supporters and curious together in New York City (on Lenape land) every year since its foundation.“ In September, usually.",
     mainLink: "https://anarchistbookfair.net/",
     insta: "https://www.instagram.com/nycabf/",
-    suggestedFollow: "Insta + check site in mid-late summer to confirm date for that year.",
+    suggestedFollow: "Insta + check site in mid-late summer to confirm annual event date",
   },
   {
     title: "The Soapbox",
-    summary: "“The Soapbox is a nonprofit community print shop, book and zine making center, and library of 3,500 rare handmade publications.“ Throw zine fests, workshops (ex. screen printing 101), etc..",
+    summary: "“The Soapbox is a nonprofit community print shop, book and zine making center, and library of 3,500 rare handmade publications.“ Throws zine fests, holds workshops (ex. screen printing 101), etc..",
     mainLink: "https://www.phillysoapbox.org/",
     facebook: "https://www.facebook.com/phillysoapbox",
     insta: "https://www.instagram.com/phillysoapbox/",
@@ -121,7 +122,7 @@ export const ANARCHISTPHILLY = [
   },
   {
     title: "Rolling with the Homos",
-    summary: "“A queer exc. skate community for all wheels, skill levels, and ages to grow & bond in Philly. Come skate with us! 🏳️‍🌈🛹🛼“ Multiple events per month, year round: boarding basics, skate rink meetups, trail skates, trans skate, bipoc skate, etc..",
+    summary: "“A queer exc. skate community for all wheels, skill levels, and ages to grow & bond in Philly. Come skate with us! 🏳️‍🌈🛹🛼“ Multiple events per month, sans cold/wet winter months: boarding basics, skate rink meetups, group trail skates, trans skate, bipoc skate, etc..",
     facebook: "https://www.facebook.com/rwthphilly/",
     insta: "https://www.instagram.com/rwthphilly/",
     suggestedFollow: "Insta"
@@ -131,7 +132,7 @@ export const ANARCHISTPHILLY = [
     summary: "Shows regular radical cinema, at different venues and community spaces, usually once or twice a month. South Philly based. Started Dec, 2022. Also run Philm Club indie screenings newsletter.",
     insta: "https://www.instagram.com/cinema_philly/",
     twitter: "https://twitter.com/cinema_philly",
-    suggestedFollow: "Insta (update more)"
+    suggestedFollow: "Insta (updated more)"
   },
   {
     title: "Community Fridges in Philadelphia",
@@ -144,13 +145,13 @@ export const ANARCHISTPHILLY = [
 export const ANIMEPHILLY = [
   {
     title: "Philadelphia Animation Society",
-    summary: "Monthly in-person meetings at FU church, 5pm to 10pm, every 2nd Saturday of the month. 42 years and running. Needs new members! Please attend!",
+    summary: "Monthly in-person meetings at FU church, 5pm to 10pm, every 2nd Saturday of the month. 41 years and running!!! Needs new members! Please attend!",
     facebook: "https://www.facebook.com/PhiladelphiaAnimationSociety",
     suggestedFollow: "Facebook",
   },
   {
     title: "Philadelphia Anime and Gaming Society",
-    summary: "General Philly Anime FB group. Good for event posts.",
+    summary: "General Philly Anime and table top gaming FB group. Hosts a lot of events, especially table top meetups.",
     facebook: "https://www.facebook.com/groups/PhiladelphiaAnimeAndGamingSociety/",
     suggestedFollow: "Facebook",
   },
@@ -164,11 +165,11 @@ export const ANIMEPHILLY = [
   },
   {
     title: "Puchicon",
-    summary: "“Anime, Gaming, Comics Convention run by a Latina mom with ADHD.” Small con, about 1,000 attendees last con. Late spring in Atalantic City and mid fall in Camelback, PA.",
+    summary: "“Anime, Gaming, Comics Convention run by a Latina mom with ADHD.” Small con, about 1,500 attendees. Spring con in NJ and fall con in the Poconos. Hosts pop-up anime events, also.",
     mainLink: "https://www.puchicon.com/",
     facebook: "https://www.facebook.com/puchicon",
     insta: "https://www.instagram.com/puchicon/",
-    suggestedFollow: "Check FB occasionally, for local events, but mute on timeline, if follow, due to high post frequency.",
+    suggestedFollow: "Check FB occasionally, for local events and con dates",
   },
   {
     title: "Philly Otaku",
@@ -179,7 +180,7 @@ export const ANIMEPHILLY = [
   },
   {
     title: "J1-Con",
-    summary: "“Anime & Gaming Expo. Are you a fan of animation, cosplay, gaming (tabletop, card and console), artists, vendors, panels, and live music? You’ve come to the right convention! 11 YEARS! Longest running black owned anime convention in the USA!““ Usually first weekend of November. A few thousand attendees, generally.",
+    summary: "“Anime & Gaming Expo. Are you a fan of animation, cosplay, gaming (tabletop, card and console), artists, vendors, panels, and live music? You’ve come to the right convention! 13 YEARS! Longest running black owned anime convention in the USA!“ Usually first weekend of November. A few thousand attendees, generally.",
     mainLink: "https://j1con.com/",
     facebook: "https://www.facebook.com/j1con/",
     insta: "https://www.instagram.com/j1con/",
@@ -187,7 +188,7 @@ export const ANIMEPHILLY = [
   },
   {
     title: "Chibi Café",
-    summary: "1 hour N of Philly. “Chibi Café is founded by otakus for otakus! We carry a variety of activities from old school arcades and table top gaming, to a manga library.” Hosts events (ex. D&D night, drawing classes, board game nights, “micro cons”).",
+    summary: "1 hour N of Philly. “Chibi Café is founded by otakus for otakus! We carry a variety of activities from old school arcades and table top gaming, to a manga library.” Hosts events (ex. D&D night, drawing classes, board game nights, micro cons).",
     mainLink: "https://www.chibicafeco.com/",
     facebook: "https://www.facebook.com/chibicafeco",
     insta: "https://www.instagram.com/chibi_cafe_co/",
@@ -195,7 +196,7 @@ export const ANIMEPHILLY = [
   },
   {
     title: "Anime NYC",
-    summary: "NYC Convention, usually in November. Huge attendance, with 53k people in 2022. Newer con (only since 2017), but still had 20k at first con, too. Seems to have a lot of “new con” problems.",
+    summary: "NYC Convention, usually in November. Huge attendance, with 60k people in 2023, makign it one of the largest cons in America. Newer con (only since 2017), but still had 20k at first con, too. Seems to have a lot of “new con” problems. Weekend badges sell out FAST.",
     mainLink: "https://animenyc.com/",
     subLink: "https://www.facebook.com/animenyc",
     facebook: "https://www.facebook.com/groups/animenycon/",
@@ -204,11 +205,11 @@ export const ANIMEPHILLY = [
   },
   {
     title: "Otakon",
-    summary: "DC Convention, usually in late July. 3 hrs out of Philly. Old as hell, started in 1994. 40k+ attendance in 2022.",
+    summary: "DC Convention (3 hrs out of Philly), usually in late July or early August. Old as hell, started in 1994. 42k attendance in 2022. A good con for older anime fans as many attendees been attending for many years.",
     mainLink: "https://www.otakon.com/",
     facebook: "https://www.facebook.com/Otakon",
     insta: "https://www.instagram.com/otakonpics/",
-    suggestedFollow: "Check site in Nov year prior for badge sales date.",
+    suggestedFollow: "Check site in late Nov year prior for badge sales date.",
   },
 ];
 
@@ -1146,6 +1147,13 @@ export const LITERATURE = [
     mainLink: "https://www.queerzinefest.com/",
     insta: "https://www.instagram.com/phillyzinefest/",
     suggestedFollow: "No FB or Insta but Philly Zine Fest Insta is good for many zine fests",
+  },
+  {
+    title: "printPHILLY!",
+    summary: "Run by the Philadelphia Print Consortium, the fair features local individual printmakers, community and private print studios, educational programs, art institutions, museums, and galleries. Second year in 2024. Typically occurs mid spring.",
+    mainLink: "https://printphilly.org/fair/",
+    insta: "https://www.instagram.com/philly.print.consortium/",
+    suggestedFollow: "Check fair site in early spring for annual date",
   },
 ];
 
