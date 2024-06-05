@@ -85,7 +85,7 @@ export const ANARCHISTPHILLY = [
   {
     title: "The Wooden Shoe Books",
     summary: "“Collectively run by volunteers since 1976. Anarchist & Radical Books | Periodicals | Records.“ Good place for local zines and peeping flyers on their bulletin board. Volunteer run with shifts open.",
-    mainLink: "https://www.woodenshoebooks.org/home.html",
+    mainLink: "https://woodenshoebooks.org/",
     facebook: "https://www.instagram.com/thewoodenshoebooks/",
     insta: "https://www.facebook.com/WoodenShoeBooks/",
     suggestedFollow: "FB + check site calendar monthly."
@@ -124,14 +124,25 @@ export const ANARCHISTPHILLY = [
     summary: "“A queer exc. skate community for all wheels, skill levels, and ages to grow & bond in Philly. Come skate with us! 🏳️‍🌈🛹🛼“ Multiple events per month, year round: boarding basics, skate rink meetups, trail skates, trans skate, bipoc skate, etc..",
     facebook: "https://www.facebook.com/rwthphilly/",
     insta: "https://www.instagram.com/rwthphilly/",
-    suggestedFollow: "Insta"
+    suggestedFollow: "Insta",
   },
   {
     title: "Autonomous Cinema Philly",
     summary: "Shows regular radical cinema, at different venues and community spaces, usually once or twice a month. South Philly based. Started Dec, 2022. Also run Philm Club indie screenings newsletter.",
     insta: "https://www.instagram.com/cinema_philly/",
     twitter: "https://twitter.com/cinema_philly",
-    suggestedFollow: "Insta (update more)"
+    suggestedFollow: "Insta (update more)",
+  },
+  {
+    title: "Hudson Valley Earth First!",
+    summary: "Hosting National EF! National Rody (RRR) July 2-9, 2024 in so-called northeastern Pennsylvania. Also hosted EF! RRR in 2018 in so-called Ohio. Not very active online, but active on the ground.",
+    mainLink: "https://earthfirstjournal.news/",
+    subLink: "https://itsgoingdown.org/?s=%22Hudson+Valley%22+Earth+First",
+  },
+  {
+    title: "It's Going Down: Upcoming Events",
+    summary: "Anarchist events nationwide, such as June 11th events, Earth First! Rondy, anarchist bookfairs, anarchist tech conferences, etc., including events in so-called Philly and Philly region.",
+    mainLink: "https://itsgoingdown.org/upcomingevents/",
   },
 ]
 
@@ -235,13 +246,6 @@ export const CLOSED  = [
     summary: "“Ride bikes! make friends! hop on! Monthly thematic slow cruisin' rides meet at the art museum and make frequent party breaks!” Last ride 09/15/2023.",
     facebook: "https://www.facebook.com/philliebikeparte/",
     insta: "https://www.instagram.com/phillybikeparty/",
-  },
-  {
-    title: "Hudson Valley Earth First",
-    summary: "Hosted National EF! Rondy (RRR) in 2018. Became innactive late 2019.",
-    mainLink: "https://hudsonvalleyearthfirst.wordpress.com/",
-    subLink: "https://itsgoingdown.org/?s=%22Hudson+Valley%22+Earth+First",
-    facebook: "https://www.facebook.com/HVEarthFirst/",
   },
   {
     title: "Save the Meadows at FDR Park",
@@ -365,6 +369,12 @@ export const CYCLING = [
     title: "Bicycle Coalition of Greater Philadelphia",
     summary: "Bike streets and trails in Philly, regional bike map, Philly and regional cycling programs, local cycling resources, bike news.",
     mainLink: "https://bicyclecoalition.org/",
+    suggestedFollow: "n/a",
+  },
+  {
+    title: "Kensington Derby and Arts Festival",
+    summary: "“The Kensington Derby and Arts Fest celebrates the East Kensington neighborhood in Philadelphia, with art, food, music, drinks, and a parade of homemade human-powered sculptures.“ Includes Kinetic Sculpture Derby: DIY constructed human-powered vehicles of all sorts run a 3-mile obstacle laden course through Fishtown and East Kensington, with a final mud pit obstacle at race end.",
+    mainLink: "https://www.kensingtonkineticarts.org/",
     suggestedFollow: "n/a",
   },
 ];

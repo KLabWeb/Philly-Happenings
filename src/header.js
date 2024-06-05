@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import { About } from "./about";
+import { HappeningNow } from "./happeningNow"
 // import { Notices } from "./notices";
 
 export const Header = props => {
