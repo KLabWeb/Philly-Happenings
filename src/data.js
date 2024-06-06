@@ -396,12 +396,6 @@ export const CYCLING = [
     suggestedFollow: "n/a",
   },
   {
-    title: "Kensington Derby and Arts Festival",
-    summary: "“The Kensington Derby and Arts Fest celebrates the East Kensington neighborhood in Philadelphia, with art, food, music, drinks, and a parade of homemade human-powered sculptures.“ Includes Kinetic Sculpture Derby: DIY constructed human-powered vehicles of all sorts run a 3-mile obstacle laden course through Fishtown and East Kensington, with a final mud pit obstacle at race end.",
-    mainLink: "https://www.kensingtonkineticarts.org/",
-    suggestedFollow: "n/a",
-  },
-  {
     title: "Philly Bike Action!",
     summary: "“Safe, protected bike lanes for Philly. We’re committed to the safety, dignity, and convenience of people who ride bicycles in Philadelphia. Visit our website to sign up for our newsletter and our Discord server.“ ",
     mainLink: "https://bikeaction.org/",
@@ -415,6 +409,12 @@ export const CYCLING = [
     facebook: "https://www.facebook.com/keystone.bike/",
     insta: "https://www.instagram.com/keystone.bike/",
     suggestedFollow: "Check their site calender monthly for events",
+  },
+  {
+    title: "Kensington Derby and Arts Festival",
+    summary: "“The Kensington Derby and Arts Fest celebrates the East Kensington neighborhood in Philadelphia, with art, food, music, drinks, and a parade of homemade human-powered sculptures.“ Includes Kinetic Sculpture Derby: DIY constructed human-powered vehicles of all sorts run a 3-mile obstacle laden course through Fishtown and East Kensington, with a final mud pit obstacle at race end.",
+    mainLink: "https://www.kensingtonkineticarts.org/",
+    suggestedFollow: "n/a",
   },
 ];
 
@@ -500,14 +500,6 @@ export const FILMFESTIVALS = [
 
 export const FILMGROUPS = [
   {
-    title: "Philm Club",
-    summary: "'Philm Club is a project by South Philly Autonomous Cinema that aims to share the events in Philadelphia's film community.' A listing site for Philly indie film screenings and festivals, in bi-monthly email newsletter and site update format. Can submit screens to.",
-    mainLink: "https://philmclub.com/",
-    insta: "https://www.instagram.com/cinema_philly/",
-    twitter: "https://twitter.com/cinema_philly",
-    suggestedFollow: "Subscribe to newsletter",
-  },
-  {
     title: "Philadelphia Psychotronic Film Society",
     summary: "“We carry on the proud tradition set forth by Psychotronic Film Societies around the globe by screening cult/weirdo/trash films for the locally like-minded. Every second and last Monday of the month we meet at 7:30 PM.”",
     mainLink: "https://www.philamoca.org/",
@@ -525,6 +517,14 @@ export const FILMGROUPS = [
     summary: "Good list, mostly a collection of stuff going on at different arthouse theaters.",
     mainLink: "https://phillyfunguide.com/film",
     suggestedFollow: "Check monthly for cool films.",
+  },
+  {
+    title: "Philm Club",
+    summary: "'Philm Club is a project by South Philly Autonomous Cinema that aims to share the events in Philadelphia's film community.' A listing site for Philly indie film screenings and festivals, in bi-monthly email newsletter and site update format. Can submit screens to.",
+    mainLink: "https://philmclub.com/",
+    insta: "https://www.instagram.com/cinema_philly/",
+    twitter: "https://twitter.com/cinema_philly",
+    suggestedFollow: "Subscribe to newsletter",
   },
 ];
 
@@ -566,8 +566,10 @@ export const FILMHORROR = [
   {
     title: "Media Fright Fest",
     summary: "“Horror has a home at Media Fright Fest! We present indie horror films and pop up events throughout the year.“ Run annual horror local film fest in early fall, usually the final weekend of September or first weekend of October.",
-    mainLink: "https://www.facebook.com/groups/mediafrightfest/",
-    suggestedFollow: "Check FB events monthly. Check also in later summer for bi-annual main festival dates.",
+    mainLink: "https://www.facebook.com/MediaArtsCouncil/",
+    facebook: "https://www.mediaartscouncil.org/",
+    insta: "https://www.instagram.com/mediaartscouncil",
+    suggestedFollow: "Check in later summer for festival date.",
   },
   {
     title: "Blobfest",
