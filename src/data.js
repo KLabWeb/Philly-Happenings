@@ -338,6 +338,12 @@ export const CLOSED  = [
     summary: "“West philly house venue and art space.” Also throws warehouse events. Opened late '21. Final show Aug '23. Were going to open a larger venue (MERCURY7), in 11/2023, but it never went through)",
     insta: "https://www.instagram.com/haw_den.phl/",
   },
+  {
+    title: "The Tusk",
+    summary: "Philly rock and roll bar with a lot of local bands. Center Philly. “We feature live music, burlesque, art shows and rock and roll djs.”",
+    facebook: "https://www.facebook.com/TheTuskPhilly/",
+    insta: "https://www.instagram.com/explore/tags/thetuskphilly/",
+  },
 ]
 
 export const CYCLING = [
@@ -612,14 +618,6 @@ export const FILMHORROR = [
 
 export const FILMINDIE = [
   {
-    title: "Lightbox Film Center",
-    summary: "Film classics, foreign, indie, and arthouse. Run a lot of film series, often by director. Greats of cinema (ex. Godard, Kurosawa), as well as arthouse (ex. 'The Draughtsman's Contract' restoration).",
-    mainLink: "https://lightboxfilmcenter.org/",
-    facebook: "https://www.facebook.com/LightboxFilmCenter",
-    insta: "https://www.instagram.com/lightboxfilmcenter/",
-    suggestedFollow: "Check site calendar monthly",
-  },
-  {
     title: "Philadelphia Film Society",
     summary: "Multiple theaters, mostly well regarded not-so-recent films. Not as arthouse.",
     mainLink: "https://filmadelphia.org/nowshowing/",
@@ -651,8 +649,8 @@ export const FILMINDIE = [
     suggestedFollow: "Check site calendar monthly",
   },
   {
-    title: "Marcus Theater",
-    summary: "40 mins N of Philly. Retro, cult, indie, horror, classics.",
+    title: "Flourtown Cinema",
+    summary: "40 mins N of Philly. Occasional retro, cult, indie, horror, anime, and classics.",
     mainLink: "https://www.marcustheatres.com/",
     facebook: "https://www.facebook.com/MarcusTheatres",
     insta: "https://www.instagram.com/marcustheatres/",
@@ -696,6 +694,14 @@ export const FILMINDIE = [
     mainLink: "https://phillycam.org/watch",
     facebook: "https://www.facebook.com/phillycam",
     insta: "https://www.instagram.com/phillycam/",
+    suggestedFollow: "Check site calendar monthly",
+  },
+  {
+    title: "Hiatus: Lightbox Film Center",
+    summary: "On hiatus due to sudden closure of University of Arts, where they hosted their films...Film classics, foreign, indie, and arthouse. Run a lot of film series, often by director. Greats of cinema (ex. Godard, Kurosawa), as well as arthouse (ex. 'The Draughtsman's Contract' restoration).",
+    mainLink: "https://lightboxfilmcenter.org/",
+    facebook: "https://www.facebook.com/LightboxFilmCenter",
+    insta: "https://www.instagram.com/lightboxfilmcenter/",
     suggestedFollow: "Check site calendar monthly",
   },
 ];
@@ -922,7 +928,7 @@ export const GREENMARKETS = [
   },
   {
     title: "Edible Philly",
-    summary: "News/blog site on food farms, farmers' markets, local food restaurants. Pretty 'green capitalism' and pricey 'foodie', though.",
+    summary: "News/blog site on food farms, farmers' markets, local food restaurants.",
     mainLink: "https://ediblephilly.ediblecommunities.com/",
     facebook: "https://www.facebook.com/EdiblePhilly",
     insta: "https://www.instagram.com/ediblephilly",
@@ -951,7 +957,7 @@ export const GREENFORAGINGGENERAL = [
     suggestedFollow: "Facebook, but mute/limit on timeline, due to many posts",
   },
   {
-    title: "Philadelphia Mycology Club Mushroom hunts",
+    title: "Philadelphia Mycology Club",
     summary: "Mushroom hunts. Wild food foraging walks. Cobb’s Creek monthly cleanups. Speakers. Camping trips.",
     mainLink: "https://www.facebook.com/phillymycoclub/",
     facebook: "https://www.facebook.com/groups/phillymycoclub/",
@@ -970,6 +976,13 @@ export const GREENFORAGINGGENERAL = [
     summary: "An interactive map with over 59k trees listed. Can filter by species, search by loction, and export search results.",
     mainLink: "https://www.opentreemap.org/phillytreemap/map/",
     suggestedFollow: "n/a",
+  },
+  {
+    title: "The Northeast Mycological Federation Samuel Ristich Foray",
+    summary: "47th annual, in 2024. “The Northeast Mycological Federation (NEMF) coordinates between 24+ mycology clubs from Pennsylvania to Quebec. Each year a rotating group of clubs co-hosts NEMF's main activity, the Sam Ristich Foray. This is three days of fungus collection and identification, lectures and workshops, mycophagy, medicinal uses, textile dyeing, papermaking & photography.“",
+    mainLink: "https://www.nemf.org/",
+    facebook: "https://www.facebook.com/groups/1502966589998892/",
+    suggestedFollow: "",
   },
 ];
 
@@ -1205,16 +1218,9 @@ export const MUSICABOVEPHILLY = [
     insta: "https://www.instagram.com/dolphinphilly",
   },
   {
-    title: "The Tusk",
-    summary: "Philly rock and roll bar with a lot of local bands. Center Philly. “We feature live music, burlesque, art shows and rock and roll djs.”",
-    facebook: "https://www.facebook.com/TheTuskPhilly/",
-    insta: "https://www.instagram.com/explore/tags/thetuskphilly/",
-  },
-  {
     title: "MilkBoy",
     summary: "Bar and restaurant with an area for shows in the back. Local and non-local bands. South street location also does open mic, video game nights, etc..",
     mainLink: "https://milkboyphilly.com/",
-    subLink: "https://www.milkboysouthstreet.com/",
     facebook: "https://www.facebook.com/MilkBoyPhilly/",
     insta: "https://www.instagram.com/milkboyphilly/",
   },
@@ -2154,6 +2160,14 @@ export const OTHERWIP = [
     title:"Trans Art Market",
     mainLink: "https://www.instagram.com/transartmart/",
   },
+  {
+    title: "The Mann",
+    mainLink: "https://manncenter.org/events"
+  },
+  {
+    title: "Sourland Mountain Festival",
+    mainLink: "https://sourlandmountainfest.com/",
+  }
 ];
 
 export const TEMP = [

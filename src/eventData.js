@@ -135,7 +135,7 @@ export const BYDAY = [
   },
   {
     period: "Weds",
-    events: ["5:30pm to 7:30pm: Lancaster Avenue Autonomous Space – Skill Share"]
+    events: ["5:00 to 9:00pm: Philly Social Adventures Happy Hour"]
   },
   {
     period: "Thurs",
