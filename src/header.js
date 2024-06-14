@@ -31,7 +31,6 @@ export const Header = props => {
         <br/>
         <a href="#green-gardens">Green: Community & Guerrilla Gardens</a>
         <a href="#green-markets">Green: Farmers’ Markets & Produce Shops</a>
-        <a href="#green-fishing">Green: Fishing</a>
         <a href="#green-foraging-general">Green: Foraging, General</a>
         <a href="#foraging-seasonal">Green: Foraging, Seasonal</a>
         <a href="#green-general">Green: General</a>

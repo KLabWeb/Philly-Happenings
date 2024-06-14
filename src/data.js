@@ -1098,13 +1098,6 @@ export const GREENMARKETS = [
   },
 ];
 
-export const GREENFISHING = [
-  {
-    title:" ",
-    summary: " "
-  }
-];
-
 export const GREENFORAGINGGENERAL = [
   {
     title: "Wild Foodies of Philly",

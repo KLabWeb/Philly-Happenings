@@ -8,7 +8,7 @@ export const About = () => {
       <div className="aboutCard">
         <p>This site is a collection of DIY, art, music, anarchist, and nature groups, spaces, and events in Philadelphia and the surrounding area. It gives a special focus to underground spaces, counter culture happenings, earthy events, and music.</p>
 
-        <p>DM me your flier on <a href="https://www.instagram.com/phillyhappenings.phl/" alt="Insta" target="_blank" rel="noreferrer">Insta</a> and I'll promo your event, space, or group.</p>
+        <p>DM me your flier on <a href="https://www.instagram.com/philly.happenings" alt="Insta" target="_blank" rel="noreferrer">Insta</a> and I'll promo your event, space, or group.</p>
 
         <p>Want to add a spot, event, group, or resource to this site? Run a spot, event, group, or resource and want to change the description of it on here? Found an error or incorrect info? See something that is out of date and needs updating? Send an email to <a href="mailto: philly-happenings@protonmail.com">philly-happenings@protonmail.com</a> to have the site updated.</p>
 

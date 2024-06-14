@@ -3,7 +3,7 @@ import "./App.css";
 import { DetailCard } from "./detailCard";
 import { ForagingByDateCards } from "./foragingCardContainer"
 import { ANARCHISTPHILLY, ANIMEPHILLY, CYCLING, FILMFESTIVALS, FILMGROUPS,
-  FILMHORROR, FILMINDIE, GENERAL, GREENGARDENS, GREENMARKETS, GREENFISHING,
+  FILMHORROR, FILMINDIE, GENERAL, GREENGARDENS, GREENMARKETS,
   GREENFORAGINGGENERAL, GREENGENERAL, GREENHIKINGPARKS, LITERATURE,
   MUSICABOVEPHILLY, MUSICBLUEGRASS, MUSICCLASSICAL, MUSICDIYCOLLECTIVESPHL,
   MUSICDIYGENPHL, MUSICDIYSPOTSPHL, MUSICELECTROINDUST, MUSICHIPHOP,
@@ -82,14 +82,6 @@ export const Cards = () => {
           <DetailCard key={data.title} data={data}/>
         );
     })}
-
-    <h1 id="green-fishing" className="category">Green: Fishing</h1> <h2 className="wip"> (work in progress)</h2>
-    {GREENFISHING.map(data => {
-        return (
-          <DetailCard key={data.title} data={data}/>
-        );
-    })}
-    <br/>
 
     <h1 id="green-foraging-general" className="category">Green: Foraging, General</h1> <h2 className="wip"> (work in progress)</h2>
     {GREENFORAGINGGENERAL.map(data => {
