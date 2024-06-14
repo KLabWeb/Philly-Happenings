@@ -2374,16 +2374,21 @@ export const THEATER = [
     suggestedFollow: "Check site calendar monthly",
   },
   {
-    title:" ",
+    title:"Philadelphia Theater",
+    summary: "“Your independent guide to the best shows in Philadelphia.“ An indie show guide that covers musicals, plays, stand-up, family shows, dance, and more. Show listings, reviews, previews, highlights by month, etc.",
     mainLink: "https://www.philadelphia-theater.com/",
   },
   {
-    title:" ",
+    title: "FringeArts",
+    summary:"“FringeArts is Philadelphia’s home for contemporary performance, presenting progressive, world-class art that expands the imagination and boldly defies expectations. Our programming exposes audiences to genre-defying performances and installations by accomplished and emerging innovators.“ Holds the Fringe Arts Fest each fall. Has a bar as part of building.",
     mainLink: "https://fringearts.com/",
+    insta: "https://www.instagram.com/fringearts/",
+    facebook: "https://www.facebook.com/phillyfringe/",
   },
   {
-    title:" ",
-    mainLink: "https://www.theatrephiladelphia.org/whats-on-stage/2023-philly-theatre-week",
+    title:"Philly Theater Week",
+    mainLink: "https://theatrephiladelphia.org/whats-on-stage/2024-philly-theatre-week",
+    summary: "“A celebration of the artists, organizations, and audiences that have made Greater Philadelphia one of the most vibrant theatre regions in the nation.“ Most theaters have 'pay what you can pricing'. Mostly small theater groups, but some large theaters, sometimes, too. An annual blast of theater on the discount. Typically end of March of start of April."
   },
 ];
 
