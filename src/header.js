@@ -1,7 +1,6 @@
 import React from "react";
 import "./App.css";
 import { About } from "./about";
-import { HappeningNow } from "./happeningNow"
 // import { Notices } from "./notices";
 
 export const Header = props => {
@@ -45,6 +44,7 @@ export const Header = props => {
         <a href="#music-above-philly">Music: Above Ground Venues</a>
         <a href="#music-bluegrass">Music: Bluegrass</a>
         <a href="#music-classical">Music: Classical</a>
+        <br/>
         <a href="#music-diy-coll-phl">Music: DIY Collectives, Show Listings, & Labels</a>
         <a href="#music-diy-gen-phl">Music: DIY General</a>
         <a href="#music-diy-spots-phl">Music: DIY Spots</a>
@@ -58,10 +58,7 @@ export const Header = props => {
         <br/>
         <a href="#theater">Theater</a>
         <br/>
-        <a href="#music-diy-wip">Music: DIY Work in Progress</a>
-        <a href="#other-wip">Other: Work in Progress</a>
-        <br/>
-        <a href="#closed-spaces-groups-events">Closed Spaces & Groups + Retried Revents</a>
+        <a href="#closed-spaces-groups-events">Closed Spaces, Ended Groups, & Retried Revents</a>
       </div>
     </div>
   )
