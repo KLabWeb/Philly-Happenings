@@ -6,7 +6,7 @@ export const About = () => {
     <div key={Math.random()} >
       <h1 id="about" className="category">Site Info</h1>
       <div className="aboutCard">
-        <p>This site is a collection of DIY, art, music, anarchist, and nature groups, spaces, and events in Philadelphia and the surrounding area. It gives a special focus to underground spaces, counter culture happenings, earthy events, and music.</p>
+        <p>A Yellow Pages for DIY, art, music, anarchist, and nature groups, spaces, and events in Philadelphia and the surrounding area. It gives a special focus to underground spaces, counter culture happenings, wild earth, and music.</p>
 
         <p>DM me your flier on <a href="https://www.instagram.com/philly.happenings" alt="Insta" target="_blank" rel="noreferrer">Insta</a> and I'll promo your event, space, or group.</p>
 
