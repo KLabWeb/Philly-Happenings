@@ -205,7 +205,7 @@ export const ANARCHISTPHILLY = [
     title: "Firefly Action Medical",
     summary: "“Philly street medics. Collective since 2014. Provide medical support at free health clinics, direct actions, activist camps, street protests, and disaster relief mobilizations.“ Give 20 hour street medic training courses.",
     mainLink: "https://fireflyactionmedical.wordpress.com/",
-    insta: "https://www.instagram.com/fireflyactionmedical/?hl=en",
+    insta: "https://www.instagram.com/fireflyactionmedical/",
   },
   {
     title: "fragments.215",
@@ -1525,7 +1525,7 @@ export const MUSICABOVEPHILLY = [
   },
   {
     title: "Upstairs Abyssinia",
-    summary: "A bar above Abyssinia, an Ethopian restaurant in West Philly. Cocktails, craft beer, ciders, lots of local band shows, comedy nights, karaoke, chess nights, drink and draw, craft nights, etc.",
+    summary: "A bar above Abyssinia, an Ethopian restaurant in West Philly. Cocktails, craft beer, ciders, lots of local band shows, comedy nights, karaoke, chess nights, drink and draw, craft nights, etc. A good spot for bluegrass bands.",
     mainLink: "https://www.abyssiniabarandrestaurant.com/bar",
     insta: "https://www.instagram.com/upstairsabyss/",
   },
@@ -1588,6 +1588,65 @@ export const MUSICBLUEGRASS = [
     facebook: "https://www.facebook.com/beardfestmusicfestival/",
     insta: "https://www.instagram.com/beardfestnj/",
     suggestedFollow: "Check mid spring for ann. date"
+  },
+  {
+    title: "Wind Gap Bluegrass Festival",
+    summary: "“In the southeastern frontier of Pennsylvania’s Pocono Mountain Range lies the small town of Wind Gap. each June, just up a winding tree-lined road from the town proper, magic fills the air!  It’s the magic of the annual Wind Gap Bluegrass Festival.“ 43rd annual in 2024. Free camping + showers, workshops. jamming, food and drink. Typically 2nd week of June.",
+    mainLink: "https://www.windgapbluegrass.com/",
+    facebook: "https://www.facebook.com/windgapbluegrass/",
+    insta: "https://www.instagram.com/windgapbluegrass/",
+  },
+  {
+    title: "Kelly Center Bluegrass Jam",
+    summary: "“Twice a month, fans of bluegrass music can enjoy – and participate in making – this traditional acoustic music. The Kelly Center Bluegrass Jam is hosted by Alfred Poor and scheduled for the first and third Tuesday of each month from 7 to 9 PM, and all are welcome.“",
+    mainLink: "https://kellycenter.ticketleap.com/bluegrass-jam/details",
+    facebook: "https://www.facebook.com/KellyCenterMusicArtsCommunity/",
+    insta: "https://www.instagram.com/kellymusicforlife/",
+  },
+  {
+    title: "Bluegrass Jams at Tin Can Bar",
+    summary: "Every 3rd Wednesday, at the Tin Can Bar in Port Richmond. Hosted by Pat Farrell (guitar).",
+    mainLink: "https://www.tincanphilly.com/",
+    insta: "https://www.instagram.com/fatparrell/",
+  },
+  {
+    title: "Society Hill Bluegrass Jam",
+    summary: "“Every other Thursday. Beginners welcome--and encouraged. RSVP to vbralow@comcast.net for location.“",
+    mainLink: "vbralow@comcast.net",
+  },
+  {
+    title: "Old Time Jam at Gojjo",
+    summary: "Every other Wednesday, meet on the second floor, out back if it is warm.",
+    mainLink: "http://www.gojjos.us/",
+  },
+  {
+    title: "Philadelphia Folksong Society",
+    summary: "A non-profit organization, we present the Philadelphia Folk Festival, one of the oldest and best known outdoor music festivals in North America! Dedicated to preserving the past, promoting the present, and securing the future of folk music and related forms of expression through education, presentation, and participation. 61st Ann in 2024. Mid August, annually.",
+    mainLink: "https://pfs.org/",
+    facebook: "https://www.facebook.com/PFSOfficialPage/",
+    insta: "https://www.instagram.com/folksongsociety/",
+    suggestedFollow: "Insta, which is mostly show listings",
+  },
+  {
+    title: "Sellersville Theate",
+    summary: "“Live music, comedy and more at Sellersville Theater.“ 45 mins out of philly. Hosts a lot of bluegrass bands.",
+    mainLink: "https://www.st94.com/",
+    facebook: "https://www.facebook.com/SellersvilleTheater/",
+    insta: "https://www.instagram.com/sellersvilletheater/",
+    suggestedFollow: "Check site calendar",
+  },
+  {
+    title: "World Cafe Live",
+    summary: "“World Cafe Live is a nonprofit independent venue, typically open Tuesday through Saturday with a unique mix of concerts and events.“ Lots of bluegrass shows. Near UPenn.",
+    mainLink: "https://worldcafelive.org/",
+    facebook: "https://www.facebook.com/worldcafelive/",
+    insta: "https://www.instagram.com/worldcafelive/",
+    suggestedFollow: "Check site calender",
+  },
+  {
+    title: "Honkey Tonk on Hazel",
+    summary: "Honky Tonk on Hazel House Shows. West Philly DIY house venue that hosts mostly bluegrass shows, plus occasional folk, country, etc. Indoor and outdoor shows. Seated venue.",
+    insta: "https://www.instagram.com/honkytonkonhazel/",
   },
 ];
 
