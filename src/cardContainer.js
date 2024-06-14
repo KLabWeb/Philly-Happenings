@@ -83,7 +83,7 @@ export const Cards = () => {
         );
     })}
 
-    <h1 id="green-foraging-general" className="category">Green: Foraging, General</h1> <h2 className="wip"> (work in progress)</h2>
+    <h1 id="green-foraging-general" className="category">Green: Foraging, General</h1>
     {GREENFORAGINGGENERAL.map(data => {
         return (
           <DetailCard key={data.title} data={data}/>

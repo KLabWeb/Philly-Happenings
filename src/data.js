@@ -1100,12 +1100,6 @@ export const GREENMARKETS = [
 
 export const GREENFORAGINGGENERAL = [
   {
-    title: "Wild Foodies of Philly",
-    summary: "General foraging hikes and walks, often foraging for specific foods (ex. berries) . Multiple hikes and walks per week, in warm seasons. Some surrounding area hikes.",
-    mainLink: "https://www.meetup.com/Wild-Foodies-of-Philly/",
-    suggestedFollow: "meetup",
-  },
-  {
     title: "Pennsylvania Wild Mushroom Gathering Group",
     summary: "Foraging events, mushroom ID posts, plant walks, meet and greets, general group.",
     facebook: "https://www.facebook.com/groups/317282268813938/",
@@ -1125,6 +1119,12 @@ export const GREENFORAGINGGENERAL = [
     facebook: "https://www.facebook.com/groups/NewJerseyMycologicalAssociation/",
     insta: "https://www.instagram.com/nj.myco/",
     suggestedFollow: "Insta (for official posts) and Facebook, for discussion, but mute/limit FB timeline, due to many group user posts",
+  },
+  {
+    title: "Wild Foodies of Philly",
+    summary: "General foraging hikes and walks, often foraging for specific foods (ex. berries) . Multiple hikes and walks per week, in warm seasons. Some surrounding area hikes.",
+    mainLink: "https://www.meetup.com/Wild-Foodies-of-Philly/",
+    suggestedFollow: "meetup",
   },
   {
     title: "Philadelphia Foraging Map",
@@ -1573,6 +1573,21 @@ export const MUSICBLUEGRASS = [
     facebook: "https://www.facebook.com/PhillyBluegrass/",
     insta: "https://www.instagram.com/phillybluegrass/",
     suggestedFollow: "FB + check site calendar monthly",
+  },
+  {
+    title: "NEPA Bluegrass Festival",
+    summary: "A four day bluegrass fest in Lazybrook Park, 17 years running as of 2024. The festival features family fun, two stages (traditional and progressive), food and craft vendors, a jam tent, workshops, and more. Free camping with weekend ticket. Generaly first long weekend of June.",
+    mainLink: "https://nepabluegrass.com/index.html",
+    facebook: "https://www.facebook.com/nepabluegrassfestival/",
+    suggestedFollow: "Check for festi date in mid spring",
+  },
+  {
+    title: "Beardfest",
+    summary: "“South Jersey's participatory celebration of creative energies, hosted by Out of the Beardspace.“ Three day music + camping fest in clearing in the woods, with a pond nearby. 12th annual as of 2024. Bluegrass, folk, blues, psychedelic rock, psychedelic pop, electronic, reggae, jazz, etc. Late June, annually.",
+    mainLink: "https://www.facebook.com/beardfestmusicfestival/",
+    facebook: "https://www.facebook.com/beardfestmusicfestival/",
+    insta: "https://www.instagram.com/beardfestnj/",
+    suggestedFollow: "Check mid spring for ann. date"
   },
 ];
 
