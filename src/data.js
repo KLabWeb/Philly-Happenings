@@ -113,14 +113,6 @@ export const ANARCHISTPHILLY = [
     suggestedFollow: "Insta + check site in mid-late summer to confirm annual event date",
   },
   {
-    title: "The Soapbox",
-    summary: "“The Soapbox is a nonprofit community print shop, book and zine making center, and library of 3,500 rare handmade publications.“ Throws zine fests, holds workshops (ex. screen printing 101), etc..",
-    mainLink: "https://www.phillysoapbox.org/",
-    facebook: "https://www.facebook.com/phillysoapbox",
-    insta: "https://www.instagram.com/phillysoapbox/",
-    suggestedFollow: "Site calendar",
-  },
-  {
     title: "Rolling with the Homos",
     summary: "“A queer exc. skate community for all wheels, skill levels, and ages to grow & bond in Philly. Come skate with us! 🏳️‍🌈🛹🛼“ Multiple events per month, sans cold/wet winter months: boarding basics, skate rink meetups, group trail skates, trans skate, bipoc skate, etc..",
     facebook: "https://www.facebook.com/rwthphilly/",
@@ -147,10 +139,113 @@ export const ANARCHISTPHILLY = [
     suggestedFollow: "n/a"
   },
   {
+    title: "Making Worlds Cooperative Bookstore and Social Center",
+    summary: "“We are a nonprofit cooperative movement-based bookstore and social center located in West Philadelphia with roots in independent book publishing, education, community media and journalism, and organizing. “ Documentaries, speakers, reading groups, teach-ins, mixers, open mic, etc.",
+    mainLink: "https://www.makingworldsbooks.org/",
+    subLink: "",
+    facebook: "https://www.facebook.com/makingworldsbooks/",
+    insta: "https://www.instagram.com/makingworldsbooks/",
+    suggestedFollow: "Check site now and then for events",
+  },
+  {
+    title: "O.R.C.A.",
+    summary: "“Social space in SW Philly for anarchists and their radical friends. Film screenings, discussion groups, workshops, book talks, available as a meeting space for rads groups. Born from a desire to see more physical spaces for radicals from a variety of tendencies to collide and scheme with one another.“ Opened Feb 2024.",
+    mainLink: "https://orcaphilly.noblogs.org/",
+    twitter: "https://twitter.com/orcaphilly",
+    suggestedFollow: "Twtter, or occassional check site for events.",
+  },
+  {
+    title: "Philly Antifa",
+    summary: "“An independent Anti-Fascist crew operating in Philadelphia, PA and the surrounding area.  In direct conflict with Racism, Homophobia, Sexism, Anti-Semitism, Islamophobia, Transphobia, and all flavors of Fascism. Anti-authoritarians and anti-nationalist.“ Does not work with the police, state, compromising NGOs, etc.",
+    mainLink: "https://phillyantifa.org/",
+    facebook: "https://www.facebook.com/phillyantifa",
+    twitter: "https://x.com/phillyantifa",
+    suggestedFollow: "Twitter",
+  },
+  {
+    title: "Books Through Bars Philadelphia",
+    summary: "“Books Through Bars has been sending free books to incarcerated people in six mid-Atlantic states for over 30 years. All books donated. One of the most important tasks our volunteers do is carefully reading the letters we receive, picking books for each request from our library, and invoicing and packing the books.“",
+    mainLink: "https://www.booksthroughbars.org/",
+    facebook: "https://www.facebook.com/booksthroughbars",
+    twitter: "https://x.com/btbphilly",
+    suggestedFollow: "Facebook",
+  },
+  {
+    title: "Anarchist Black Cross Philadelphia",
+    summary: "“ABC chapters around the world autonomously support people who are imprisoned for their thoughts and actions for justice and freedom from oppression. Philly ABC reformed in August of 2017.“ Letter writing, book releases, ann. Running Down the Walls, etc.",
+    mainLink: "https://phillyabc.org/",
+    facebook: "https://kolektiva.social/@phillyabc",
+
+    suggestedFollow: "Twitter or Mastadon",
+  },
+  {
+    title: "Running Down the Walls",
+    summary: "“Since 1999, prisoners and supporters throughout North America have participated in the annual event known as Running Down the Walls. This is a non-competitive 5K run/jog/walk/roll to raise awareness and funds for political prisoners. Over the years, we have raised thousands of dollars and lots of awareness.“ September 15th, 2024",
+    mainLink: "https://www.abcf.net/rdtw/",
+    twitter: "https://twitter.com/phillyabc",
+    suggestedFollow: "Watch Philly ABC Twitter for ann. date",
+  },
+  {
+    title: "Free Food & Meal Finder",
+    summary: "“Get free food, nutrition services, and public benefits.“ A big Philly dot marker map of spots for free food sites, general meal sites, older adult meal sites, student meal sites, and food assistance and benefits sites. Everything from churches, to schools, to libraries, to rad kitchens.",
+    mainLink: "https://www.phila.gov/food",
+  },
+  {
+    title: "Really Really Free Market",
+    summary: "“Happening every last Saturday of the Month @ Malcolm X Park, corner of Larchwood & 52nd Street, promoting a gift economy through mutual aid 🖤“",
+    facebook: "https://www.facebook.com/groups/MXParkNeighbors",
+    insta: "https://www.instagram.com/philly.freemarket/",
+  },
+  {
+    title: "West Philly Free Resources Map",
+    summary: "A map of free stuff across West Philly. Free piles, free tables, food fridges, food pantries, etc.",
+    mainLink: "https://www.google.com/maps/d/viewer?mid=1c1X8gigZGPn1MhBXBEVYjX6oGgGKV3Xg",
+  },
+  {
+    title: "Firefly Action Medical",
+    summary: "“Philly street medics. Collective since 2014. Provide medical support at free health clinics, direct actions, activist camps, street protests, and disaster relief mobilizations.“ Give 20 hour street medic training courses.",
+    mainLink: "https://fireflyactionmedical.wordpress.com/",
+    insta: "https://www.instagram.com/fireflyactionmedical/?hl=en",
+  },
+  {
+    title: "fragments.215",
+    summary: "The Philly branch of Spirirt of May 28th, a more incendiary anarchist faction working to keep the flames and passion of the 2020 uprisings still burning. Posts mostly related to ongoing anarchist struggles; Cop City, political prisoner support, local anarchist events, etc.",
+    mainLink: "https://www.sm28.org/",
+    insta: "https://www.instagram.com/fragments.215/",
+  },
+  {
+    title: "Here & Now Zines",
+    summary: "Used to be a zine distro, that would distro at events like Anarchist Skill Share, now an “Anarchist news media and happenings hype account.“ Posts on Philly anarchist news, film screenings, events, discussion groups, teach-ins, fundraisers, calls for action, solidarity vigals, local anarchist struggles, action report backs, etc.",
+    mainLink: "",
+    insta: "https://www.instagram.com/hereandnowzines/",
+  },
+  {
+    title: "Up Against the Law Legal Collective",
+    summary: "“A Philadelphia based collective of volunteers who support activists by helping them know their rights, providing Legal Observers at protests, ensuring protesters don’t get lost in the legal system during actions, and connecting them with free legal support after actions.“ Arrest hotline: (484) 758-0338.",
+    mainLink: "https://upagainstthelaw.org/",
+    facebook: "https://www.facebook.com/UpAgainstTheLaw/",
+    insta: "https://www.instagram.com/upagainstthelaw/",
+    twitter: "https://twitter.com/UpAgainstTheLaw",
+  },
+  {
+    title: "Philly Anti-Repression Fund",
+    summary: "“A resource for people facing state repression and for fighting against systemic oppression and exploitation. We support those the state criminalizes for activities performed that threaten to change the status quo.“ Bonds and legal fee assistance for political prisoners.",
+    mainLink: "https://phillyantirepression.wordpress.com/",
+    twitter: "https://twitter.com/phlbailfund",
+  },
+  {
+    title: "Viscera Print Goods and Ephemera",
+    summary: "“Roving anarchist distro and bazaar now based in Philadelphia (formerly Providence, RI). Seller of anarchist print goods and ephemera – books, pamphlets, oddities and more.“ Also, book readings and zine discussions, documentaries, etc.. A new reading each month since 2017.",
+    mainLink: "https://viscerapvd.wordpress.com/",
+    subLink: "https://ni.hil.ist/@Viscera",
+    facebook: "https://www.facebook.com/viscerapvd",
+    insta: "https://www.instagram.com/viscera_pvd/",
+  },
+  {
     title: "It's Going Down: Upcoming Events",
     summary: "Anarchist events nationwide, such as June 11th events, Earth First! Rondy, anarchist bookfairs, anarchist tech conferences, etc., including events in so-called Philly and Philly region.",
     mainLink: "https://itsgoingdown.org/upcomingevents/",
-    suggestedFollow: "Insta (updated more)"
+    suggestedFollow: "Check now and then for new events"
   },
 ]
 
@@ -235,7 +330,7 @@ export const CLOSED  = [
   },
   {
     title: "Traitor Joe’s",
-    summary: "“West Philly house show vessel. 2019-2022.”",
+    summary: "“West Philly house show vessel. 2019-2022. 🏴‍☠️We appreciate your interest but we are a DEAD VENUE 🏴‍☠️”",
     facebook: "https://www.facebook.com/traitorjoesphl/",
     insta: "https://www.instagram.com/traitorjoeswestphilly",
   },
@@ -378,6 +473,24 @@ export const CLOSED  = [
     title: "Treehouse of Horror",
     summary: "“South Philadelphia’s only DIY venue. DM to book.“ Started May 2023. Short lived, doing about 6 shows, before it stopped September 2023.",
     insta: "https://www.instagram.com/treehouseofhorrorphl/",
+  },
+  {
+    title: "GRRRLCLIQUE Collective",
+    summary: "Short lived electronic music collective that threw raves around Philly in 2023.“held our largest and most successful event on Friday. Hundreds of ravers showed up. The spirit is alive.” Jungle, house, breakbeat, techno, trance, hardcore, footwork, nightwork, etc.",
+    insta: "https://www.instagram.com/12.15.15.11/",
+  },
+  {
+    title: "Rats Den",
+    summary: "Relatively older DIY spot, opened Jan 2020, indoor and outdoor shows, mini music festivals, big Halloween shows. No shows since since Oct. 2023.",
+    insta: "https://www.instagram.com/rats_den_official/",
+  },
+  {
+    title: "Gilbert's Shoes",
+    summary: "“Gilbert's Shoe's is a collectively-run, not-for-profit, community center located at 1652 Ridge Avenue in Francisville, Philadelphia. We are a grassroots, entirely volunteer, project dedicated to both building community and to community organizing, by supporting youth, education, art, culture and other forms of self-determination and self-defense. The community center hosts classes, screenings, music, meetings, performances, workshops, skill-shares and other events.“ Never recovered after covid + surrounding gentrification.",
+    mainLink: "http://gilbertshoes.info/",
+    subLink: "https://www.instagram.com/p/CzZYUQLOmb1/?igshid=MXY3MG5wMzgwdHZtdQ%3D%3D",
+    facebook: "https://www.facebook.com/profile.php?id=100079240824087",
+    insta: "https://www.instagram.com/explore/locations/270231111/gilberts-shoes/",
   },
 ]
 
@@ -594,7 +707,6 @@ export const FILMHORROR = [
     title: "Delco Horror Haven",
     summary: "“We Welcome the Weird! We support the horror community with various pop up events and a film festival.” Media, PA based. Lectures, movie premieres, book clubs and book fairs, indie media resource events, film expos and festivals, and more.",
     facebook: "https://www.facebook.com/delcohorrorhaven",
-    suggestedFollow: "Check Insta or FB for annual date in late summer",
   },
   {
     title: "The Philadelphia Unnamed Film Festival (PUFF)",
@@ -827,6 +939,15 @@ export const GENERAL = [
     facebook: "https://www.facebook.com/OldCityDistrict/",
     insta: "https://www.instagram.com/phillyfirstfriday/",
     suggestedFollow: "Check it out some Friday",
+  },
+  {
+    title: "praise dobler",
+    summary: "The most recognizable graff arist in Philadelphia, praise dobler, in recognition of Lord Conrad Dobler and the Transcendent True-Faith Church of dobler.",
+    mainLink: "https://praisedobler.bigcartel.com/",
+    subLink: "https://streetsdept.com/2023/09/26/philly-street-art-interviews-praise-dobler-means-more-than-you-think-to-more-people-than-youd-expect/",
+    subSubLink: "https://southstreetartmart.com/collections/praise-dobler",
+    insta: "https://www.instagram.com/praisedobler/",
+    suggestedFollow: "Look for him ",
   },
 ];
 
@@ -1289,6 +1410,7 @@ export const MUSICABOVEPHILLY = [
     title: "Century",
     summary: "The main above ground spot for metal shows along with Cousin Danny's. Also, noise, post-punk, punk, hardcore, emo, shoegaze, etc.",
     facebook: "https://www.facebook.com/centuryphila/",
+    insta: "https://www.instagram.com/centuryphila/",
   },
   {
     title: "Franklin Music Hall",
@@ -1415,6 +1537,26 @@ export const MUSICABOVEPHILLY = [
     insta: "https://www.instagram.com/upstairsabyss/",
   },
   {
+    title: "Pentridge Station",
+    summary: "“West Philly Community Beer Garden Partnered w/ Dahlak Paradise. An exciting and ever-changing lineup of live music, local food vendors, and community events.“ Voted Philly's Favorite Beer Garden in 2024. Open May through Sept, annually.",
+    mainLink: "https://www.pentridgestation.com/",
+    insta: "https://www.instagram.com/pentridgestation/",
+    facebook: "https://www.facebook.com/PentridgeStation/",
+  },
+  {
+    title: "Philly Style Pizza & Grill",
+    summary: "Temple area Pizza, hoagie, and burger shop opened 2021. Host local bands. Phat slices.",
+    mainLink: "http://www.phillystylepizza.net/",
+    insta: "https://www.instagram.com/phillystyle_pizza/",
+  },
+  {
+    title: "Bonk's Bar",
+    summary: "Port Richmond. Bar & crabhouse. Local bands, karaoke, car shows, bingo, Quizzo, Christmas toy drive. A solid place for delicious and reasonably priced seafood.",
+    mainLink: "https://bonksbar.com/",
+    insta: "https://www.instagram.com/bonksbarphl/",
+    facebook: "https://www.facebook.com/bonkscrabs",
+  },
+  {
     title: "Black Cat Tavern",
     summary: "Temporarily closed as of 2024. “A tiny ‘Mom & Pop’ Tavern, located in beautiful, deep South Philly, at the corner of 12th Street & Oregon Avenue.”  Another historic dive. Serves Polish food. Comedy nights. Announced closure Feb 2023, but then in May 2023 said ”on hiatus,” so may re-open.",
     mainLink: "http://www.blackcattavernphilly.com/",
@@ -1453,8 +1595,9 @@ export const MUSICCLASSICAL = [
 export const MUSICDIYCOLLECTIVESPHL = [
   {
     title: "House Show Philly",
-    summary: "“Upcoming philly house show masterlist, woman owned (she/her), updated every wednesday.“ Philly collective. Also organizes shows. THE place for checking upcoming DIY shows. A great testament to how active Philly DIY is.",
+    summary: "“Upcoming philly house show masterlist, woman owned (she/her), updated every wednesday.“ Run by Kissfit Collective. Also organizes shows. THE place for checking upcoming DIY shows. A great testament to how active Philly DIY is.",
     insta: "https://www.instagram.com/houseshowphilly/",
+    subLink: "https://www.instagram.com/kissfitcollective/",
   },
   {
     title: "Ratpie",
@@ -1598,14 +1741,22 @@ export const MUSICDIYCOLLECTIVESPHL = [
     summary: "“Art Gallery, music venue, and event space” of summer 2023 turned DIY venue booking following space lease termination.",
     insta: "https://www.instagram.com/breadboxphilly/",
   },
+  {
+    title: "Born Loser Records",
+    summary: "“A label from Philly. Something for everyone.” Small label with about 50 artists. Artist management. US distribution. ",
+    mainLink: "https://bornlosersrecords.com/",
+    subLink: "https://bornlosersrecords.bandcamp.com/",
+    insta: "https://www.instagram.com/bornlosersrecords/",
+  },
+  {
+    title: "House Show State College",
+    summary: "“state college diy shows, updated every wednesday, band interest form in linktree.” Run by the same folk as houseshowphilly, the Kissfit Collective.",
+    insta: "https://www.instagram.com/houseshowstatecollege/",
+    subLink: "https://www.instagram.com/kissfitcollective/",
+  },
 ];
 
 export const MUSICDIYCOLLECTIVESSC = [
-  {
-    title: "houseshowstatecollege",
-    summary: "“state college diy shows, updated every wednesday, band interest form in linktree.” Run by the same folk as houseshowphilly. ",
-    insta: "https://www.instagram.com/houseshowstatecollege/",
-  },
 ];
 
 export const MUSICDIYGENPHL = [
@@ -1654,6 +1805,26 @@ export const MUSICDIYGENPHL = [
     mainLink: "http://www.dodiy.org/ ",
     facebook: "https://www.facebook.com/dodiynews",
     insta: "https://www.instagram.com/dodiynews/",
+  },
+  {
+    title: "Airlock",
+    summary: "“love pressure atmosphere ⚧️🪩💌“ A re-occuring electronic event. 10am to sunrise deals w/ DJs all night. Outdoor events, also.",
+    insta: "https://www.instagram.com/airlock.phl/",
+  },
+  {
+    title: "Break Free Fest",
+    summary: "“Hardcore and Punk fest creating space for POC communities in Philly (Lenape land)“ Annual fest, usually in early summer or late spring. Also has done art market fundraisers, Ukie Club shows.",
+    facebook: "https://www.facebook.com/breakfreefest/",
+    insta: "https://www.instagram.com/breakfreefest/",
+    suggestedFollow: "Check insta in mid spring for ann. date.",
+  },
+  {
+    title: "The Soapbox",
+    summary: "“The Soapbox is a nonprofit community print shop, book and zine making center, and library of 3,500 rare handmade publications.“ Throws zine fests, holds workshops (ex. screen printing 101), etc..",
+    mainLink: "https://www.phillysoapbox.org/",
+    facebook: "https://www.facebook.com/phillysoapbox",
+    insta: "https://www.instagram.com/phillysoapbox/",
+    suggestedFollow: "Site calendar",
   },
 ];
 
@@ -1926,11 +2097,6 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/theanklepit/",
   },
   {
-    title: "Airlock",
-    summary: "“love pressure atmosphere ⚧️🪩💌“ A re-occuring electronic event. 10am to sunrise deals w/ DJs all night. Outdoor events, also.",
-    insta: "https://www.instagram.com/airlock.phl/",
-  },
-  {
     title: "Our House",
     summary: "“West Philly | NOT a Psy-op. Monthly Music.“ Basement spot started spring 2023. Primal emo noises and post-hardcore cacophony, amongst other sounds.",
     insta: "https://www.instagram.com/ourhousephl/",
@@ -1974,6 +2140,37 @@ export const MUSICDIYSPOTSPHL = [
     title: "LittleBigPlanet",
     summary: "“a south philly basement venue hidden in plain sight. limited capacity special engagements. no cops, no terfs, no guns, no creeps.“ Est. Feb 2023.",
     insta: "https://www.instagram.com/lbp.phl/",
+  },
+  {
+    title: "God's Automatic Body & Spa",
+    summary: "“The mysteries of the universe unvieled through the creation of and sharing of art. DIY arts and events in west philly.“ Shows, DJs, dance parties, karaoke, line dancing, game shows, bingo, haircuts, Philly Black Workers Project, Palestinian Refugee, and other solidarity fundraising shows, Pee Wee's Gay House Costume Contenst. Started 2023.",
+    mainLink: "https://gods.gay/",
+    insta: "https://www.instagram.com/gods.automatic.body/",
+  },
+  {
+    title: "The Litterbox",
+    summary: "“brewerytown house venue.“ New venue in 2024, first show in April.",
+    insta: "https://www.instagram.com/litterbox.phl/",
+  },
+  {
+    title: "Kinda Pink",
+    summary: "“North Philly House Venue“ Opened Sept 2023. All types of genres, including rap. Jam sessions.",
+    insta: "https://www.instagram.com/kindapink.phl/",
+  },
+  {
+    title: "The Shire",
+    summary: "“North Philly House Show Venue 🧙‍♂️ 🌳“ New venue stated April 2024.",
+    insta: "https://www.instagram.com/theshire.phl/",
+  },
+  {
+    title: "Nightmair and Percy’s",
+    summary: "“south philly folk venue. no zionists. no bigots. no bullshit. “ New venue started April 2024.",
+    insta: "https://www.instagram.com/nightmairandpercysphl/",
+  },
+  {
+    title: "The Caf",
+    summary: "“New DIY venue in South Philly“ Started March 2024 with a Star Wars Costume May the 4th show.",
+    insta: "https://www.instagram.com/thecafphilly/",
   },
 ];
 
@@ -2209,10 +2406,6 @@ export const MUSICDIYWIP = [
     mainLink: "https://www.instagram.com/philadelphiapsychedelic/",
   },
   {
-    title:" ",
-    mainLink: "https://www.instagram.com/risingtidephl/",
-  },
-  {
     title:"Rising Tide Collective",
     mainLink: "https://www.instagram.com/risingtidephl/",
     summary: "not to be confused with Rising Tide, the originally Earth First! offshoot climate group"
@@ -2294,6 +2487,320 @@ export const MUSICDIYWIP = [
     title: "Bonehaus",
     insta: "https://www.instagram.com/p/CsWZ3A0L9SO/?img_index=3",
   },
+  {
+    title: "The Gutter",
+    insta: "https://www.instagram.com/p/C2Nxuesp0mO/?img_index=2, https://www.instagram.com/p/C17sUm3JSks/?img_index=3",
+  },
+  {
+    title: "The Pink House",
+    insta: "https://www.instagram.com/p/CwSzGMlurR5/?img_index=8",
+  },
+  {
+    title: "funhouse philadelphia",
+    summary: "“diy comedy show hosted by lauren ellis. at “the tiny desk of south philly”“",
+    insta: "https://www.instagram.com/funhousephl/",
+  },
+  {
+    title: "Flux",
+    insta: "https://www.instagram.com/drexelflux/",
+  },
+  {
+    title: "Collision",
+    insta: "https://www.instagram.com/collisionpgh/",
+  },
+  {
+    title: "Camp Punksylvania",
+    insta: "https://www.instagram.com/camppunksylvania/",
+  },
+  {
+    title: "Bell Tower Music",
+    insta: "https://www.instagram.com/belltowermusic/",
+  },
+  {
+    title: "Punk Island",
+    insta: "https://www.instagram.com/punkislandnyc/",
+  },
+  {
+    title: "Stoop Sounds Philly",
+    insta: "https://www.instagram.com/stoop_sounds/",
+  },
+  {
+    title: "The Coach Room",
+    insta: "https://www.instagram.com/thecoachroomphilly/",
+  },
+  {
+    title: "Dave Kiss Presents",
+    insta: "https://www.instagram.com/davekisspresents/",
+  },
+  {
+    title: "Free Fringe Philly",
+    insta: "https://www.instagram.com/freefringephilly/",
+  },
+  {
+    title: "Creature Cave",
+    insta: "https://www.instagram.com/creaturecave.phl/",
+  },
+  {
+    title: "Penn Treaty Park",
+    insta: "https://www.instagram.com/penntreatypark/",
+  },
+  {
+    title: "Vox Populi",
+    insta: "https://www.instagram.com/voxpopuligallery/",
+  },
+  {
+    title: "Flowerz Mag",
+    insta: "https://www.instagram.com/flowerz_mag/",
+  },
+  {
+    title: "Scorpion Cult",
+    insta: "https://www.instagram.com/scorpion.cult/",
+  },
+  {
+    title: "Kiss Fit Collective",
+    insta: "https://www.instagram.com/kissfitcollective/",
+  },
+  {
+    title: "Pink House",
+    insta: "https://www.instagram.com/pink_house_philly/",
+  },
+  {
+    title: "The Secret Garden",
+    insta: "https://www.instagram.com/secretgardenphl/",
+  },
+  {
+    title: "Philly Music Fest",
+    insta: "https://www.instagram.com/phillymusicfest/",
+  },
+  {
+    title: "Mother of Worlds",
+    insta: "https://www.instagram.com/motherofworlds/",
+  },
+  {
+    title: "hardcoretoday777",
+    insta: "https://www.instagram.com/hardcoretoday777/",
+  },
+  {
+    title: "Big Chair",
+    insta: "https://www.instagram.com/showsfromthebigchair/",
+  },
+  {
+    title: "Philly XXX",
+    insta: "https://www.instagram.com/wilsonswar/",
+  },
+  {
+    title: "Refresh",
+    insta: "https://www.instagram.com/refresh.phl/",
+  },
+  {
+    title: "The Bungalow",
+    insta: "https://www.instagram.com/bungalowmusichouse/",
+  },
+  {
+    title: "Death Sculpted Productions",
+    insta: "https://www.instagram.com/deathsculptedpros/",
+  },
+  {
+    title: "Harmonie Hall",
+    insta: "https://www.instagram.com/harmoniehall_1891/",
+  },
+  {
+    title: "The Philly Goth Scene",
+    insta: "https://www.instagram.com/thephillygothscene/",
+  },
+  {
+    title: "Tattooed Mom",
+    insta: "https://www.instagram.com/tmoms/",
+  },
+  {
+    title: "Moth House",
+    insta: "https://www.instagram.com/welcometomouthhouse/",
+  },
+  {
+    title: "The Groove",
+    insta: "https://www.instagram.com/_the_groove_/",
+  },
+  {
+    title: "The El Bar",
+    insta: "https://www.instagram.com/theelbarphilly/",
+  },
+  {
+    title: "Riot Nerd",
+    insta: "https://www.instagram.com/riotnerdphilly/",
+  },
+  {
+    title: "Grassstains Festival",
+    insta: "https://www.instagram.com/grassstainsfestival/",
+  },
+  {
+    title: "Johnny Brenda's",
+    insta: "https://www.instagram.com/johnnybrendas/",
+  },
+  {
+    title: "Emo Night Philly",
+    insta: "https://www.instagram.com/emonightphilly/",
+  },
+  {
+    title: "Goodstone Records",
+    insta: "https://www.instagram.com/goodstonerecords/",
+  },
+  {
+    title: "The Rocker",
+    insta: "https://www.instagram.com/therockershow/",
+  },
+  {
+    title: "Asylum Music Social Club",
+    insta: "https://www.instagram.com/asylummusicclub.psu/",
+  },
+  {
+    title: "antiflowershowmovement",
+    insta: "https://www.instagram.com/antiflowershowmovement/",
+  },
+  {
+    title: "Zook Productions",
+    insta: "https://www.instagram.com/zookproductions/",
+  },
+  {
+    title: "Kulture Cru",
+    insta: "https://www.instagram.com/kulture_cru/",
+  },
+  {
+    title: "Toxic Femme",
+    insta: "https://www.instagram.com/toxicfemme666/",
+  },
+  {
+    title: "T4THC",
+    insta: "https://www.instagram.com/t4thcbakery/",
+  },
+  {
+    title: "Philly Music Scene",
+    insta: "https://www.instagram.com/phillymusicscene/",
+  },
+  {
+    title: "Coalition for Black Trans Economic Liberation",
+    insta: "the Transcendent True-Faith Church of dobler",
+  },
+  {
+    title: "Vine Collective",
+    insta: "https://www.instagram.com/vinecollectivephl/",
+  },
+  {
+    title: "Plaze Music",
+    insta: "https://www.instagram.com/plaze_music/",
+  },
+  {
+    title: "The Baltic Hall,",
+    insta: "https://www.instagram.com/p/C72PWizJYc2/?img_index=3, https://www.instagram.com/p/C7VKkTEJcfx/?img_index=6",
+  },
+  {
+    title: "2444 W. Ritner",
+    insta: "https://www.instagram.com/p/C72OpfFp6MB/?img_index=6",
+  },
+  {
+    title: "Ulana's",
+    insta: "https://www.yelp.com/biz/ulanas-philadelphia",
+  },
+  {
+    title: "Brittany's House",
+    insta: "https://www.instagram.com/p/C54Io36JWC6/?img_index=3",
+  },
+  {
+    title: "Bilge Water Productions",
+    insta: "https://www.instagram.com/bilgewaterproductions/",
+  },
+  {
+    title: "JM Sound and Audio",
+    insta: "https://www.instagram.com/bilgewaterproductions/",
+  },
+  {
+    title: "",
+    insta: "https://www.instagram.com/hematoid_dm/",
+  },
+  {
+    title: "Limit.Nine",
+    insta: "https://www.instagram.com/p/C1X2vOmJgev/?img_index=1",
+  },
+  {
+    title: "Paine's Park",
+    insta: "https://skatephilly.org/parks/paines-park/",
+  },
+  {
+    title: "4811 Chester Ave.",
+    insta: "https://www.instagram.com/p/Cwkx0m4Lmli/?img_index=1",
+  },
+  {
+    title: "Philly Trans Clothing Swap",
+    insta: "https://www.instagram.com/phillytswap/",
+  },
+  {
+    title: "Launderette Records",
+    insta: "https://www.instagram.com/launderette.records/",
+  },
+  {
+    title: "Fortess Records",
+    insta: "https://www.instagram.com/fortress.records/",
+  },
+  {
+    title: "SANCTUA xr",
+    insta: "https://www.instagram.com/sanctuaxr/",
+  },
+  {
+    title: "Dahlak Paradise",
+    insta: "https://www.instagram.com/dahlak_paradise/",
+  },
+  {
+    title: "In•dex",
+    insta: "https://www.instagram.com/index.0001/",
+  },
+  {
+    title: "The Silver Age",
+    insta: "https://www.instagram.com/p/C7vTTdLubME/",
+  },
+  {
+    title: "Zembo Temple of Skate & Design",
+    insta: "https://www.instagram.com/zemboskatedesign/",
+  },
+  {
+    title: "Tape and C.D. Records",
+    insta: "https://www.instagram.com/tapeandcdrecords/",
+  },
+  {
+    title: "Festival Events List",
+    insta: "https://www.instagram.com/foodieflavors101/",
+  },
+  {
+    title: "Rittenhouse Filmworks",
+    insta: "https://rittenhousefilmworks.com/",
+  },
+  {
+    title: "Philly-shows.org",
+    insta: "https://www.instagram.com/phillyshowsdotorg/",
+  },
+  {
+    title: "Headroom Studios",
+    insta: "https://www.instagram.com/headroomphiladelphia/",
+  },
+  {
+    title: "Hidden City Philadelphia",
+    insta: "",
+  },
+  {
+    title: "Penn Food and Wellness Collaborative farm",
+    insta: "https://www.facebook.com/share/p/p4iyYwTc4TAEy2o4/",
+  },
+  {
+    title: "Neighborhood Food Farms",
+    insta: "https://www.facebook.com/share/p/BixDSBGKhLxqE8hE/",
+  },
+  {
+    title: "",
+    insta: "",
+  },
+  {
+    title: "",
+    insta: "",
+  },
+
 ];
 
 export const OTHERWIP = [

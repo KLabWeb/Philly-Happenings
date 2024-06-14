@@ -8,6 +8,7 @@ export const DetailCard = props => {
       {props.data.summary && <p className="summary">{props.data.summary}</p>}
       {props.data.mainLink && <a className="link" target="_blank" rel="noreferrer" href={props.data.mainLink}>{props.data.mainLink}</a>}
       {props.data.subLink && <a className="link" target="_blank" rel="noreferrer" href={props.data.subLink}>{props.data.subLink}</a>}
+      {props.data.subSubLink && <a className="link" target="_blank" rel="noreferrer" href={props.data.subSubLink}>{props.data.subSubLink}</a>}
       {props.data.insta && <a className="link" target="_blank" rel="noreferrer" href={props.data.insta}>{props.data.insta}</a>}
       {props.data.facebook && <a className="link" target="_blank" rel="noreferrer" href={props.data.facebook}>{props.data.facebook}</a>}
       {props.data.twitter && <a className="link" target="_blank" rel="noreferrer" href={props.data.twitter}>{props.data.twitter}</a>}

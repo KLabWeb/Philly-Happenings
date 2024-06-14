@@ -13,7 +13,7 @@ import { VideoPlayer } from "./video";
 export const Cards = () => {
   return (
       <div key={Math.random()}>
-        <h1 id="anarchist-philly" className="category">Anarchist, Rad, & Adjacent</h1> <h2 className="wip"> (work in progress)</h2>
+        <h1 id="anarchist-philly" className="category">Anarchist, Rad, & Adjacent</h1>
         {ANARCHISTPHILLY.map(data => {
             return (
               <DetailCard key={data.title} data={data}/>
