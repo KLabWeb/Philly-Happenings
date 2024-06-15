@@ -173,6 +173,10 @@ export const Cards = () => {
         );
     })}
 
+    <h1 id="music-jazz-blues" className="category">Music: Jazz & Blues</h1> <h2 className="wip"> (work in progress)</h2>
+      <div className="card" style={{height: "100px"}}></div>
+    })}
+
     <h1 id="music-metal" className="category">Music: Metal</h1>
     {MUSICMETAL.map(data => {
         return (
