@@ -1575,15 +1575,22 @@ export const MUSICBLUEGRASS = [
     suggestedFollow: "FB + check site calendar monthly",
   },
   {
+    title: "Grateful Shed Studios",
+    summary: "Maintains a list of applachia region musicians, bands, artists, vendors, and venues to follow and support. Also, a large music and arts festival list, for multi day camping festivals across the applachia region  , including festivals such as Dark Star Jubilee, Pocono 420 PA Cannabis Festival, and Weekend at Bertha's.",
+    mainLink: "https://www.gratefulshedstudios.com/",
+    facebook: "https://www.facebook.com/gratefulshedstudios/",
+    suggestedFollow: "Check the festival list",
+  },
+  {
     title: "NEPA Bluegrass Festival",
-    summary: "A four day bluegrass fest in Lazybrook Park, 17 years running as of 2024. The festival features family fun, two stages (traditional and progressive), food and craft vendors, a jam tent, workshops, and more. Free camping with weekend ticket. Generaly first long weekend of June.",
+    summary: "A four day bluegrass fest in Lazybrook Park, 17 years running as of 2024. The festival features family fun, two stages (traditional and progressive), food and craft vendors, a jam tent, workshops, and more. Free camping with weekend ticket. Generaly first long weekend of June. Tunkhannock, PA (2.5 hours out of Philly).",
     mainLink: "https://nepabluegrass.com/index.html",
     facebook: "https://www.facebook.com/nepabluegrassfestival/",
     suggestedFollow: "Check for festi date in mid spring",
   },
   {
     title: "Beardfest",
-    summary: "“South Jersey's participatory celebration of creative energies, hosted by Out of the Beardspace.“ Three day music + camping fest in clearing in the woods, with a pond nearby. 12th annual as of 2024. Bluegrass, folk, blues, psychedelic rock, psychedelic pop, electronic, reggae, jazz, etc. Late June, annually.",
+    summary: "“South Jersey's participatory celebration of creative energies, hosted by Out of the Beardspace.“ Three day music + camping fest in clearing in the woods, with a pond nearby. 12th annual as of 2024. Bluegrass, folk, blues, psychedelic rock, psychedelic pop, electronic, reggae, jazz, etc. Late June, annually. Hammonton, NJ (55 mins out of Philly).",
     mainLink: "https://www.facebook.com/beardfestmusicfestival/",
     facebook: "https://www.facebook.com/beardfestmusicfestival/",
     insta: "https://www.instagram.com/beardfestnj/",
@@ -1591,7 +1598,7 @@ export const MUSICBLUEGRASS = [
   },
   {
     title: "Wind Gap Bluegrass Festival",
-    summary: "“In the southeastern frontier of Pennsylvania’s Pocono Mountain Range lies the small town of Wind Gap. each June, just up a winding tree-lined road from the town proper, magic fills the air!  It’s the magic of the annual Wind Gap Bluegrass Festival.“ 43rd annual in 2024. Free camping + showers, workshops. jamming, food and drink. Typically 2nd week of June.",
+    summary: "“In the southeastern frontier of Pennsylvania’s Pocono Mountain Range lies the small town of Wind Gap. each June, just up a winding tree-lined road from the town proper, magic fills the air!  It’s the magic of the annual Wind Gap Bluegrass Festival.“ 43rd annual in 2024. Free camping + showers, workshops. jamming, food and drink. Typically 2nd week of June. Wind Gap, Pennsylvania (1 hr 41 mins out of Philly)",
     mainLink: "https://www.windgapbluegrass.com/",
     facebook: "https://www.facebook.com/windgapbluegrass/",
     insta: "https://www.instagram.com/windgapbluegrass/",
@@ -1621,7 +1628,7 @@ export const MUSICBLUEGRASS = [
   },
   {
     title: "Philadelphia Folksong Society",
-    summary: "A non-profit organization, we present the Philadelphia Folk Festival, one of the oldest and best known outdoor music festivals in North America! Dedicated to preserving the past, promoting the present, and securing the future of folk music and related forms of expression through education, presentation, and participation. 61st Ann in 2024. Mid August, annually.",
+    summary: "61st Ann in 2024.A non-profit organization, we present the Philadelphia Folk Festival, one of the oldest and best known outdoor music festivals in North America! Dedicated to preserving the past, promoting the present, and securing the future of folk music and related forms of expression through education, presentation, and participation.  Folk Fest is mid August, annually, in Upper Salford Township (1 hr out of Philly)",
     mainLink: "https://pfs.org/",
     facebook: "https://www.facebook.com/PFSOfficialPage/",
     insta: "https://www.instagram.com/folksongsociety/",
@@ -1647,6 +1654,20 @@ export const MUSICBLUEGRASS = [
     title: "Honkey Tonk on Hazel",
     summary: "Honky Tonk on Hazel House Shows. West Philly DIY house venue that hosts mostly bluegrass shows, plus occasional folk, country, etc. Indoor and outdoor shows. Seated venue.",
     insta: "https://www.instagram.com/honkytonkonhazel/",
+  },
+  {
+    title: "Into the Pines",
+    summary: "2nd annual in 2024. “A diverse set of musicians, from bluegrass to brass. Focused on emerging bands and local musicians, combined with national touring talent, and well Established artists. Free workshops, local food vendors, artisans, open mic nite, lakeside camping, kid & pet friendly. Hammonton, NJ (55 mins out of Philly).“",
+    mainLink: "https://intothepinesfestival.com/",
+    facebook: "https://www.facebook.com/p/Into-the-Pines-Music-Festival-100093847680408/",
+    insta: "https://www.instagram.com/intothepinesmusicfestival/",
+  },
+  {
+    title: "Haverford Music Festival",
+    summary: "A single day music festival running it's 12 year (in 2024), usually end of August or start of September. Typically about a dozen acts, “plus great food, beer and wine garden, activities for the kids and fun for the entire family.“ Haverford, PA (40 mins out of Philly)",
+    mainLink: "https://haverfordmusicfestival.org/",
+    facebook: "https://www.facebook.com/profile.php?id=100063596379072",
+    insta: "https://www.instagram.com/haverfordmusicfestival/",
   },
 ];
 
