@@ -1883,7 +1883,8 @@ export const MUSICDIYGENPHL = [
   {
     title: "Global Rock Underground",
     summary: "“Booking Coordinator. Promoter. Session Drummer. Photographer.” Philly. Put together multiple 200+ artist “Philly’s Best” mixes on Spotify.",
-    mainLink: "https://open.spotify.com/playlist/1jkoqs2bZo3mY1RmY6VYG4",
+    mainLink: "https://www.globalrockunderground.com/",
+    subLink: "https://open.spotify.com/playlist/1jkoqs2bZo3mY1RmY6VYG4",
     facebook: "https://www.facebook.com/globalrockunderground",
     insta: "https://www.instagram.com/globalrockunderground/",
   },
@@ -2384,7 +2385,18 @@ export const MUSICREGIONAL = [
     summary: "A list of over 250 local bands, compiled by DIYTourNetwork Philly",
     mainLink: "https://docs.google.com/spreadsheets/d/1EixCZ6GOw4WPGODa2CDEPfbAXXyTeveD_qiCfqeLxgY/edit#gid=0",
     subLink: "https://diytournetwork-philly.tumblr.com/"
-  }
+  },
+  {
+    title: "Philadelphia Bandcamp Albums",
+    summary: "Check out local Philadelphia artists on bandcamp. Sort by 'best selling', 'new arrivals', or 'suprise me'.",
+    mainLink: "https://bandcamp.com/discover/philadelphia-pa",
+  },
+  {
+    title: "Global Rock Underground:  Best of Philly & NJ Playlists",
+    summary: "“Active artists from the Philadelphia area. Updated quarterly. Submission form on globalrockunderground.com. 150 songs, 8.5 hours long for Philly. 100 songs, 5 hours long for NJ.“",
+    mainLink: "https://open.spotify.com/playlist/1jkoqs2bZo3mY1RmY6VYG4",
+    subLink: "https://open.spotify.com/playlist/1pzez2L3QiQJPQumJEvfLr",
+  },
 ]
 
 export const MUSICARTISTS = [
