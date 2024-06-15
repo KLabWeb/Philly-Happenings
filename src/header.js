@@ -57,7 +57,7 @@ export const Header = props => {
         <br/>
         <a href="#theater">Theater</a>
         <br/>
-        <a href="#closed-spaces-groups-events">Closed Spaces, Ended Groups, & Retried Events</a>
+        <a href="#closed-spaces-groups-events">Closed Spaces, Ended Groups, & Retired Events</a>
       </div>
     </div>
   )
