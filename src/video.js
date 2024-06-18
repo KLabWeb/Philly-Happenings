@@ -25,13 +25,10 @@ export const VideoPlayer = () => {
         setLocalInfo(localInfo);
       }
       setShowLocalInfo(true);
-      console.log(localInfo);
     }
 
     setVideos(remainingVideos.filter(video => video !== videoName));
     setVideoSrc(videoName);
-
-    console.log(`length: ${remainingVideos.length}`)
   }
 
   const [showImg, setShowImg] = useState(true);
