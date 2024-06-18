@@ -1582,28 +1582,6 @@ export const MUSICBLUEGRASS = [
     suggestedFollow: "Check the festival list",
   },
   {
-    title: "NEPA Bluegrass Festival",
-    summary: "A four day bluegrass fest in Lazybrook Park, 17 years running as of 2024. The festival features family fun, two stages (traditional and progressive), food and craft vendors, a jam tent, workshops, and more. Free camping with weekend ticket. Generaly first long weekend of June. Tunkhannock, PA (2.5 hours out of Philly).",
-    mainLink: "https://nepabluegrass.com/index.html",
-    facebook: "https://www.facebook.com/nepabluegrassfestival/",
-    suggestedFollow: "Check for festi date in mid spring",
-  },
-  {
-    title: "Beardfest",
-    summary: "“South Jersey's participatory celebration of creative energies, hosted by Out of the Beardspace.“ Three day music + camping fest in clearing in the woods, with a pond nearby. 12th annual as of 2024. Bluegrass, folk, blues, psychedelic rock, psychedelic pop, electronic, reggae, jazz, etc. Late June, annually. Hammonton, NJ (55 mins out of Philly).",
-    mainLink: "https://www.facebook.com/beardfestmusicfestival/",
-    facebook: "https://www.facebook.com/beardfestmusicfestival/",
-    insta: "https://www.instagram.com/beardfestnj/",
-    suggestedFollow: "Check mid spring for ann. date"
-  },
-  {
-    title: "Wind Gap Bluegrass Festival",
-    summary: "“In the southeastern frontier of Pennsylvania’s Pocono Mountain Range lies the small town of Wind Gap. each June, just up a winding tree-lined road from the town proper, magic fills the air!  It’s the magic of the annual Wind Gap Bluegrass Festival.“ 43rd annual in 2024. Free camping + showers, workshops. jamming, food and drink. Typically 2nd week of June. Wind Gap, Pennsylvania (1 hr 41 mins out of Philly)",
-    mainLink: "https://www.windgapbluegrass.com/",
-    facebook: "https://www.facebook.com/windgapbluegrass/",
-    insta: "https://www.instagram.com/windgapbluegrass/",
-  },
-  {
     title: "Kelly Center Bluegrass Jam",
     summary: "“Twice a month, fans of bluegrass music can enjoy – and participate in making – this traditional acoustic music. The Kelly Center Bluegrass Jam is hosted by Alfred Poor and scheduled for the first and third Tuesday of each month from 7 to 9 PM, and all are welcome.“",
     mainLink: "https://kellycenter.ticketleap.com/bluegrass-jam/details",
@@ -1627,20 +1605,9 @@ export const MUSICBLUEGRASS = [
     mainLink: "http://www.gojjos.us/",
   },
   {
-    title: "Philadelphia Folksong Society",
-    summary: "61st Ann in 2024.A non-profit organization, we present the Philadelphia Folk Festival, one of the oldest and best known outdoor music festivals in North America! Dedicated to preserving the past, promoting the present, and securing the future of folk music and related forms of expression through education, presentation, and participation.  Folk Fest is mid August, annually, in Upper Salford Township (1 hr out of Philly)",
-    mainLink: "https://pfs.org/",
-    facebook: "https://www.facebook.com/PFSOfficialPage/",
-    insta: "https://www.instagram.com/folksongsociety/",
-    suggestedFollow: "Insta, which is mostly show listings",
-  },
-  {
-    title: "Sellersville Theate",
-    summary: "“Live music, comedy and more at Sellersville Theater.“ 45 mins out of philly. Hosts a lot of bluegrass bands.",
-    mainLink: "https://www.st94.com/",
-    facebook: "https://www.facebook.com/SellersvilleTheater/",
-    insta: "https://www.instagram.com/sellersvilletheater/",
-    suggestedFollow: "Check site calendar",
+    title: "Honkey Tonk on Hazel",
+    summary: "Honky Tonk on Hazel House Shows. West Philly DIY house venue that hosts mostly bluegrass shows, plus occasional folk, country, etc. Indoor and outdoor shows. Seated venue.",
+    insta: "https://www.instagram.com/honkytonkonhazel/",
   },
   {
     title: "World Cafe Live",
@@ -1651,24 +1618,81 @@ export const MUSICBLUEGRASS = [
     suggestedFollow: "Check site calender",
   },
   {
-    title: "Honkey Tonk on Hazel",
-    summary: "Honky Tonk on Hazel House Shows. West Philly DIY house venue that hosts mostly bluegrass shows, plus occasional folk, country, etc. Indoor and outdoor shows. Seated venue.",
-    insta: "https://www.instagram.com/honkytonkonhazel/",
-  },
-  {
-    title: "Into the Pines",
-    summary: "2nd annual in 2024. “A diverse set of musicians, from bluegrass to brass. Focused on emerging bands and local musicians, combined with national touring talent, and well Established artists. Free workshops, local food vendors, artisans, open mic nite, lakeside camping, kid & pet friendly. Hammonton, NJ (55 mins out of Philly).“",
-    mainLink: "https://intothepinesfestival.com/",
-    facebook: "https://www.facebook.com/p/Into-the-Pines-Music-Festival-100093847680408/",
-    insta: "https://www.instagram.com/intothepinesmusicfestival/",
-  },
-  {
     title: "Haverford Music Festival",
     summary: "A single day music festival running it's 12 year (in 2024), usually end of August or start of September. Typically about a dozen acts, “plus great food, beer and wine garden, activities for the kids and fun for the entire family.“ Haverford, PA (40 mins out of Philly)",
     mainLink: "https://haverfordmusicfestival.org/",
     facebook: "https://www.facebook.com/profile.php?id=100063596379072",
     insta: "https://www.instagram.com/haverfordmusicfestival/",
   },
+  {
+    title: "Sellersville Theate",
+    summary: "“Live music, comedy and more at Sellersville Theater.“ 45 mins out of philly. Hosts a lot of bluegrass bands.",
+    mainLink: "https://www.st94.com/",
+    facebook: "https://www.facebook.com/SellersvilleTheater/",
+    insta: "https://www.instagram.com/sellersvilletheater/",
+    suggestedFollow: "Check site calendar",
+  },
+  {
+    title: "Philadelphia Folksong Society",
+    summary: "61st Ann in 2024.A non-profit organization, we present the Philadelphia Folk Festival, one of the oldest and best known outdoor music festivals in North America! Dedicated to preserving the past, promoting the present, and securing the future of folk music and related forms of expression through education, presentation, and participation.  Folk Fest is mid August, annually, in Upper Salford Township (1 hr out of Philly)",
+    mainLink: "https://pfs.org/",
+    facebook: "https://www.facebook.com/PFSOfficialPage/",
+    insta: "https://www.instagram.com/folksongsociety/",
+    suggestedFollow: "Insta, which is mostly show listings",
+  },
+  {
+    title: "Beardfest",
+    summary: "“South Jersey's participatory celebration of creative energies, hosted by Out of the Beardspace.“ Three day music + camping fest in clearing in the woods, with a pond nearby. 12th annual as of 2024. Bluegrass, folk, blues, psychedelic rock, psychedelic pop, electronic, reggae, jazz, etc. Late June, annually. Hammonton, NJ (1 hr out of Philly).",
+    mainLink: "https://www.facebook.com/beardfestmusicfestival/",
+    facebook: "https://www.facebook.com/beardfestmusicfestival/",
+    insta: "https://www.instagram.com/beardfestnj/",
+    suggestedFollow: "Check mid spring for ann. date"
+  },
+  {
+    title: "Into the Pines",
+    summary: "2nd annual in 2024. “A diverse set of musicians, from bluegrass to brass. Focused on emerging bands and local musicians, combined with national touring talent, and well Established artists. Free workshops, local food vendors, artisans, open mic nite, lakeside camping, kid & pet friendly. Hammonton, NJ (1 hr out of Philly).“",
+    mainLink: "https://intothepinesfestival.com/",
+    facebook: "https://www.facebook.com/p/Into-the-Pines-Music-Festival-100093847680408/",
+    insta: "https://www.instagram.com/intothepinesmusicfestival/",
+  },
+  {
+    title: "Berks Fiddle Fest",
+    summary: "“Bring your instruments the 3rd Sunday of each September for the biggest and best music festival.“ Fleetwood, PA (1.5 hrs out of Philly).",
+    mainLink: "https://www.fleetwoodboro.com/fiddlefest/",
+    facebook: "https://www.facebook.com/berksfiddlefest/",
+    insta: "https://www.instagram.com/berksfiddle/",
+    suggestedFollow: "",
+  },
+  {
+    title: "Wind Gap Bluegrass Festival",
+    summary: "“In the southeastern frontier of Pennsylvania’s Pocono Mountain Range lies the small town of Wind Gap. each June, just up a winding tree-lined road from the town proper, magic fills the air!  It’s the magic of the annual Wind Gap Bluegrass Festival.“ 43rd annual in 2024. Free camping + showers, workshops. jamming, food and drink. Typically 2nd week of June. Wind Gap, Pennsylvania (1 hr 41 mins out of Philly)",
+    mainLink: "https://www.windgapbluegrass.com/",
+    facebook: "https://www.facebook.com/windgapbluegrass/",
+    insta: "https://www.instagram.com/windgapbluegrass/",
+  },
+  {
+    title: "Appalachian Fiddle & Bluegrass Association Festival",
+    summary: "“Every summer a group of people come together in Wind Gap, Pennsylvania to create special moments reconnecting with old friends and making new ones. Every night campsites come alive with folks around a fire telling stories, singing and jamming. Across two stages nearly 30 bands will perform.“ 36th annual in 2024, generally 1st week of August. Wind Gap, Pennsylvania (1 hr 41 mins out of Philly).",
+    mainLink: "https://www.afbawindgap.org/",
+    facebook: "https://www.facebook.com/groups/462397237174208/",
+    suggestedFollow: "Check early summer for festival date",
+  },
+  {
+    title: "NEPA Bluegrass Festival",
+    summary: "A four day bluegrass fest in Lazybrook Park, 17 years running as of 2024. The festival features family fun, two stages (traditional and progressive), food and craft vendors, a jam tent, workshops, and more. Free camping with weekend ticket. Generaly first long weekend of June. Tunkhannock, PA (2.5 hours out of Philly).",
+    mainLink: "https://nepabluegrass.com/index.html",
+    facebook: "https://www.facebook.com/nepabluegrassfestival/",
+    suggestedFollow: "Check for festi date in mid spring",
+  },
+  {
+    title: "Gettysburg Bluegrass Festival",
+    summary: "“Founded in 1979, the historic Gettysburg Bluegrass Festival consists of a May & August festival each year and features the best names in bluegrass music! 4 days | 2 stages. Bluegrass, Camping, Vendors, Food Trucks, Beer, Wine & Good Times!“ Gettysburg, PA (2.5 hours out of Philly)",
+    mainLink: "https://www.gettysburgbluegrass.com/",
+    facebook: "https://www.facebook.com/gettysburgbluegrassfestival",
+    insta: "https://www.instagram.com/gettysburgbluegrass/",
+    suggestedFollow: "Check for dates in early spring and summer",
+  },
+
 ];
 
 export const MUSICCLASSICAL = [
@@ -1975,7 +1999,7 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "Walmart Beach",
-    summary: "“Big abandoned pier by your friendly local Walmart where people throw shows, dance parties, raves, eat rotisserie chickens, etc.“",
+    summary: "Big abandoned pier by your friendly local Walmart where people throw shows, dance parties, raves, eat rotisserie chickens, etc.",
     mainLink: "https://www.youtube.com/watch?v=tPvTyEov2ZE",
   },
   {
@@ -1996,8 +2020,8 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/philly.stoop/",
   },
   {
-    title: "Fumblin’ Perkins’ Underpass",
-    summary: "NE Philly spot. Shows once or twice a month, in warmer months. New venue. First show March 2022.",
+    title: "Fumblin’ Perkins",
+    summary: "NE Philly spot. Accoustic, indie rock, psy rock, conscious hip-hop, math rock, synthwave, etc. First show March 2022.",
     insta: "https://www.instagram.com/fumblinperksphl/",
   },
   {
@@ -2008,7 +2032,7 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "Luigi’s Mansion",
-    summary: "Newer W Philly house venue. Dance parties, punk, indie, noise pop, etc. More art rock than anything else. Lots of shows. Insta more updated than FB.",
+    summary: "W Philly house venue. Dance parties, punk, indie, noise pop, etc. Lots of art rock, but metal and hardcore, too. “suffer in the basement...“",
     subLink: "https://www.youtube.com/channel/UC5fxGTTkZwBkIygnNdx0hQA",
     facebook: "https://www.facebook.com/LuigisMansionPHL",
     insta: "https://www.instagram.com/luigismansionphl",
@@ -2046,18 +2070,18 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title:"Titus’ Funeral Home",
-    summary: "“south philly’s #1 gig-funeral-fish emporium.“ Flat venue. First show Dec '22 and only throws about one show a year, so far.",
+    summary: "“south philly’s #1 gig-funeral-fish emporium.“ Flat venue. First show Dec '22, and only throws about one or two shows a year, so far.",
     insta: "https://www.instagram.com/titus.funeralhome/",
   },
   {
     title: "The Cabin",
-    summary: "W Philly house venue. New venue, started in '22.",
+    summary: "W Philly house venue. “We hope to be a collaborative effort in making / sharing creative events: yard sales, themed events, art swaps, shows, zine fairs, etc (get it?!), we are elated for this new era.“ Started in '22. ",
     twitter: "https://twitter.com/etcphl",
     insta: "https://www.instagram.com/etc.phl/",
   },
   {
     title: "The Location",
-    summary: "South Philly 1891 built church turned into art lofts. Throw occasional shows. ",
+    summary: "South Philly 1891 built church turned rehabbed into art lofts. Throw occasional shows. ",
     insta: "https://www.instagram.com/thelocationphl/",
   },
   {
@@ -2078,7 +2102,7 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "The Snake Pit",
-    summary: "Anarchist and punk run house venue. Lots of hardcore, crossover, etc. “Ask a ghoul.” Insta vanished but still throwing shows.",
+    summary: "Anarchist and punk run house venue. Lots of hardcore, crossover, etc. “Ask a ghoul.” Insta vanieshed, but till throwing shows.",
     subLink: "https://www.youtube.com/watch?v=ZX0YjeTEgbc",
     insta: "https://www.instagram.com/snakepit_philly/",
   },
@@ -2089,7 +2113,7 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "The Underworld",
-    summary: "“just a couple of wet rats in charge of a philly diy house venue!!!” Basement venue. Uses show cover costs as donations for groups like Treehouse Books and Abortion Lib Fund of PA. First show Sept ‘22. Mixes it up, with things like art mart, masquerade ball, etc..",
+    summary: "“just a couple of wet rats in charge of a philly diy house venue!!!” Basement venue. Somtimes uses show cover as donations for groups like Treehouse Books and Abortion Lib Fund of PA. First show Sept ‘22. Mixes it up, with things like art mart, masquerade ball, etc..",
     insta: "https://www.instagram.com/theunderworldphilly/",
   },
   {
@@ -2388,8 +2412,8 @@ export const MUSICREGIONAL = [
   },
   {
     title: "Philadelphia Bandcamp Albums",
-    summary: "Check out local Philadelphia artists on bandcamp. Sort by 'best selling', 'new arrivals', or 'suprise me'.",
-    mainLink: "https://bandcamp.com/discover/philadelphia-pa",
+    summary: "Check out local Philadelphia artists on bandcamp. Sort by 'best selling', 'new arrivals', or 'suprise me'.  ",
+    mainLink: "https://bandcamp.com/discover?loc=4560349",
   },
   {
     title: "Global Rock Underground:  Best of Philly & NJ Playlists",

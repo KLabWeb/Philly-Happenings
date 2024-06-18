@@ -73,7 +73,7 @@ p {
   display: block;
 }
 
-.aboutCard a {
+.aboutCard a, .videoCard a {
   color: rgb(0, 255, 255);
   display: inline-block;
   font-size: 1.1em;
@@ -241,7 +241,20 @@ p {
 }
 
 video {
-  max-height: 90vh;
+  max-height: 60vh;
+}
+
+.localInfo {
+  color: rgb(255, 255, 0);
+  font-size: 1.4em;
+  margin: .1em 0 .1em 0;
+}
+
+.localInfoBand {
+  color: rgb(255, 255, 0);
+  font-size: 1.9em;
+  margin: .1em 0 .1em 0;
+  animation: blinker 1.5s linear infinite;
 }
 
 @media screen and (max-width: 950px){
@@ -256,5 +269,11 @@ video {
   }
   .closedGrave {
     display: None;
+  }
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
   }
 }
