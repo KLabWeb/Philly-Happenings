@@ -2231,7 +2231,7 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "The Junction",
-    summary: "Basement venue started August 2023. Shows as well as dance parties. NOTAFLOF. Student run and on hiatus during summer.",
+    summary: "Basement venue started August 2023. Shows as well as dance parties. Student run and on hiatus during summer.",
     insta: "https://www.instagram.com/junctionphl/",
   },
   {
