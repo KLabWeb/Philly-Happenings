@@ -100,7 +100,7 @@ export const BYWEEK = [
   },
   {
     period: "Third Fri",
-    events: ["8:00pm: Night Cycle – Ride (Varies)"]
+    events: ["8pm: Night Cycle – Ride (Varies)"]
   },
   {
     period: "Third Sat",
@@ -116,7 +116,11 @@ export const BYWEEK = [
   },
   {
     period: "Last Thurs",
-    events: ["9:00pm: The Gathering - Hip Hop, Breaking, Popping, Graff (The Rotunda, since 1996)"]
+    events: ["9pm: The Gathering - Hip Hop, Breaking, Popping, Graff (The Rotunda, since 1996)"]
+  },
+  {
+    period: "Last Sat",
+    events: ["10am to 12:30am: Philly Free Market - Free Market (Malcom X Park)"]
   },
   {
     period: "Varying",
@@ -135,7 +139,7 @@ export const BYDAY = [
   },
   {
     period: "Weds",
-    events: ["5:00 to 9:00pm: Philly Social Adventures Happy Hour"]
+    events: ["5pm to 9pm: Philly Social Adventures Happy Hour", "5pm to 9:30pm O.R.C.A. Open Hours"]
   },
   {
     period: "Thurs",

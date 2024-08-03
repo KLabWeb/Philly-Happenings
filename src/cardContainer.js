@@ -132,11 +132,7 @@ export const Cards = () => {
     })}
 
     <h1 id="music-classical" className="category">Music: Classical</h1> <h2 className="wip"> (work in progress)</h2>
-    {MUSICCLASSICAL.map(data => {
-        return (
-          <DetailCard key={data.title} data={data}/>
-        );
-    })}
+    <div className="card" style={{height: "100px"}}></div>
 
     <h1 id="music-diy-coll-phl" className="category">Music: DIY Collectives, Show Listings, & Labels</h1>
     {MUSICDIYCOLLECTIVESPHL.map(data => {

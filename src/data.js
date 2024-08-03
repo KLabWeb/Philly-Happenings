@@ -320,7 +320,7 @@ export const ANIMEPHILLY = [
   },
 ];
 
-export const CLOSED  = [
+export const CLOSED = [
   {
     title: "A-Space Anarchist Community Center ",
     summary: "Closed Winter 2023 (due to covid, then collective members moving away, now all Books Through Bars space). From when open: “The building that holds the A-Space is part the Life Center Association (LCA), a land trust. “4722” was the second house to be bought by the LCA in 1973. It holds 2 apartments, the A-Space, and Books Through Bars.”",
@@ -492,6 +492,37 @@ export const CLOSED  = [
     facebook: "https://www.facebook.com/profile.php?id=100079240824087",
     insta: "https://www.instagram.com/explore/locations/270231111/gilberts-shoes/",
   },
+  {
+    title: "Our Philly",
+    summary: "A huge 'project of love and obsession' Philly spaces and events site, similar to this one. Lists of local organizations, parks, markets, restaurants, bars, groups, site tools, etc., where list items can be user ranked, by number of 'hearts.' Find a cool bar or restaurant here. Went offline in early 2024.",
+    mainLink: "https://www.ourphilly.org/browse",
+    subLink: "https://www.ourphilly.org/how-to-find-events-in-philly",
+    suggestedFollow: "Check “hot and upcoming” page monthly",
+  },
+  {
+    title: "UArts Radio",
+    summary: "“UARTS Radio is an online radio station and blog bringing you the latest in music, culture and events. Supported by the University of the Arts” Shut down with the sudden and unexpected closure of U Arts in summer 2024.",
+    mainLink: "http://www.uartsradio.com/",
+    facebook: "https://www.facebook.com/uartsradioblog",
+    insta: "https://www.instagram.com/uartsradio/",
+  },
+  {
+    title: "The Palace Jawn",
+    summary: "Was a very active South Philly house venue. Closed early 2024.",
+    subLink: "https://plazeapp.co/blog/rethinking-the-philly-house-show-with-the-palace",
+    insta: "https://www.instagram.com/thepalacejawn",
+  },
+  {
+    title: "The Sankofa House",
+    summary: "”Our historic Sankofa House is back! #WestPhilly’s safe/inclusive performing house for curators, performers, bands, DJs and community gatherers.” Hip hop, reggae, afrobeats, dancehall, soca, r&b, art making events, open mic, dance parties, workshops. Shut down by the city spring 2023.",
+    facebook: "https://www.facebook.com/HouseOfSankofa/",
+    insta: "https://www.instagram.com/sankofahousephilly/",
+  },
+  {
+    title: "Haus de Jadore",
+    summary: "“North Philly House Show Venue. Run by 1 hyperfem & 2 androgynous broads.” Show in late Aug ‘22, then early Oct, but nothing since.",
+    insta: "https://www.instagram.com/hausdejadore/ ",
+  },
 ]
 
 export const CYCLING = [
@@ -575,6 +606,14 @@ export const CYCLING = [
     summary: "“The Kensington Derby and Arts Fest celebrates the East Kensington neighborhood in Philadelphia, with art, food, music, drinks, and a parade of homemade human-powered sculptures.“ Includes Kinetic Sculpture Derby: DIY constructed human-powered vehicles of all sorts run a 3-mile obstacle laden course through Fishtown and East Kensington, with a final mud pit obstacle at race end.",
     mainLink: "https://www.kensingtonkineticarts.org/",
     suggestedFollow: "n/a",
+  },
+  {
+    title: "PMA Bike Ride",
+    summary: "“The PMA bike ride was started in Philadelphia, PA on June 24th, 2016. We deliver pizza and smiles to the hungry on the streets (bike not needed).“ Join the ride and give some hungry folks some pie.",
+    mainLink: "http://www.thepmabikeride.com/",
+    facebook: "https://www.facebook.com/pmabikeride",
+    insta: "https://www.instagram.com/thepmabikeride/",
+    suggestedFollow: "Insta or FB",
   },
 ];
 
@@ -765,6 +804,14 @@ export const FILMHORROR = [
     suggestedFollow: "Insta",
   },
   {
+    title: "Market of the Macabre",
+    summary: "Early september, annually. “The magical and morbidly curious 2024 Market of the Macabre. Peruse amongst historic tombstones for handmade items, assorted oddities and taxidermy, antiques, jewelry, spiritual goods, clothing, original artwork, and more. Featuring 80+ local and regional artists and vendors.“" ,
+    mainLink: "https://laurelhillphl.com/events/annual-events/market-of-the-macabre/",
+    facebook: "https://www.facebook.com/Friendsoflaurelhill/",
+    insta: "https://www.instagram.com/marketofthemacabre",
+    suggestedFollow: "Check for annual date in late summer",
+  },
+  {
     title: "See also, 'Theaters' section below, as most of these theaters also show regular horror."
   },
 ];
@@ -890,13 +937,6 @@ export const GENERAL = [
     insta: "https://www.instagram.com/fdrskatepark",
   },
   {
-    title: "Our Philly",
-    summary: "A huge 'project of love and obsession' Philly spaces and events site, similar to this one. Lists of local organizations, parks, markets, restaurants, bars, groups, site tools, etc., where list items can be user ranked, by number of 'hearts.' Find a cool bar or restaurant here.",
-    mainLink: "https://www.ourphilly.org/browse",
-    subLink: "https://www.ourphilly.org/how-to-find-events-in-philly",
-    suggestedFollow: "Check “hot and upcoming” page monthly",
-  },
-  {
     title: "Cherry Blossom Festival",
     summary: "April, annually. Horticulture Center in West Fairmount Park.",
     mainLink: "https://japanphilly.org/programs/festivals/cherryblossom/",
@@ -918,7 +958,7 @@ export const GENERAL = [
   },
   {
     title: "Italian Market Festival",
-    summary: "Late spring, annually. “For seven city blocks, a celebration of culture, gastronomy, art and music. Featuring over 100 area vendors showcasing a range of cuisine and beverages. In addition to the food, the Festival features a wide range of music, services, souvenirs, jewelry, artists, and crafters.“",
+    summary: "Late spring, annually. “For seven city blocks, a celebration of culture, gastronomy, art and music. Featuring over 100 area vendors showcasing a range of cuisine and beverages. In addition to the food, the Festival features a wide range of music, services, souvenirs, jewelry, artists, and crafters.“ Greased pole climbing competition.f",
     mainLink: "https://italianmarketphilly.org",
     facebook: "https://www.facebook.com/italianmarketphilly/",
     insta: "https://www.instagram.com/italianmarketphilly/",
@@ -949,6 +989,23 @@ export const GENERAL = [
     insta: "https://www.instagram.com/praisedobler/",
     suggestedFollow: "Look for him ",
   },
+  {
+    title: "Annual Classic Hearse Show",
+    summary: "Late summer, annually. “If you’re dying for a truly unique experience, the Classic Hearse and Ambulance Show at Laurel Hill East has you covered! Check out coffin cruisers from across the decades and talk shop with fellow car buffs.“",
+    mainLink: "https://laurelhillphl.com/event/hearse-show/",
+    facebook: "https://www.facebook.com/mohntonprocars",
+    insta: "https://www.instagram.com/mohntonprofessionalcarclub/",
+    suggestedFollow: "Check FB or Insta mid summer for annual date",
+  },
+  {
+    title: "Hidden City Philadelphia",
+    summary: "“Hidden City Philadelphia of CultureTrust is dedicated to exploring Philadelphia’s urban landscape in all its complexity through journalism and public history.“ A nifty page to explore and learn about hidden and historic Philly, like Devil's Pool, Pier 68, and The Dead Fleet.",
+    mainLink: "https://hiddencityphila.org/",
+    facebook: "https://www.facebook.com/hiddencityphila/",
+    insta: "https://www.instagram.com/hiddencityphila/",
+    twitter: "https://twitter.com/HiddenCityPhila",
+    suggestedFollow: "Check their site for cool articles",
+  },
 ];
 
 export const GREENGARDENS = [
@@ -961,9 +1018,9 @@ export const GREENGARDENS = [
   },
   {
     title: "The People’s Kitchen",
-    summary: "“A collaborative of chefs, students, and community members growing and cooking free, delicious meals in Philly.” Works with Grounded in Philly for food source. S Philly Food Not Bombs kitchen.",
+    summary: "“A collaborative of chefs, students, and community members growing and cooking free, delicious meals in Philly.” Works with Grounded in Philly for food source. S Philly Food Not Bombs kitchen. Free hot meals, outside the kitchen, every day, 3:00pm.",
     mainLink: "https://www.peopleskitchenphilly.com/",
-    facebook: "https://www.facebook.com/pkonlinden/",
+    facebook: "https://www.facebook.com/profile.php?id=100090422833314",
     insta: "https://www.instagram.com/peopleskitchenphilly",
     suggestedFollow: "Instagram, with main site to sign up for cook shift, food delivery, etc.",
   },
@@ -1016,6 +1073,14 @@ export const GREENGARDENS = [
     facebook: "https://www.facebook.com/ngtrust",
     insta: "https://www.instagram.com/ngtrust/",
     suggestedFollow: "Facebook (more event posts)",
+  },
+  {
+    title: "FarmerJawn",
+    summary: "“A 128-acre working farm, building a model of regenerative organic food production by and for underserved communities. The largest Black-woman owned regenerative organic produce farm in America. Education is offered through on-farm and in-class school-based programming and adult agri-business training.“",
+    mainLink: "https://www.farmerjawn.co/",
+    facebook: "https://www.facebook.com/farmerjawncsa",
+    insta: "https://www.instagram.com/farmerjawn_",
+    suggestedFollow: "Insta",
   },
 ];
 
@@ -1261,6 +1326,11 @@ export const GREENHIKINGPARKS = [
     summary: "“Explore your Delaware Watershed.” An interactive map of non-profits, education centers, trails, parks, museums, etc., related to and located in the Delaware Watershed.",
     mainLink: "https://www.thegreencities.com/watershed-directory/",
     suggestedFollow: "n/a",
+  },
+  {
+    title: "Devil's Pool",
+    summary: "Devil’s Pool has been a popular spot for sunbathing and swimming in the Wissahickon for centuries. In the past few decades the site has become the focus of much handwringing, endless op-eds, neighborhood organizing, & trash pick-ups. Devil’s Pool is often described as suffering from overuse, so tred with care.",
+    mainLink: "https://hiddencityphila.org/2022/06/photographer-captures-heaven-on-earth-at-devils-pool/",
   },
 ];
 
@@ -1695,14 +1765,7 @@ export const MUSICBLUEGRASS = [
 
 ];
 
-export const MUSICCLASSICAL = [
-  {
-    title: "Our Philly: How to Get into Classical Music in Philly",
-    summary: "A quick guide put together by Our Philly. Lists some Philly classical music halls, radio stations, podcasts, music streams, and organizations.",
-    mainLink: "https://www.ourphilly.org/how-to-get-into-classical-music-in-philly",
-    suggestedFollow: "Check the page as an intro.",
-  },
-];
+export const MUSICCLASSICAL = [ {} ];
 
 export const MUSICDIYCOLLECTIVESPHL = [
   {
@@ -1806,13 +1869,6 @@ export const MUSICDIYCOLLECTIVESPHL = [
     summary: "“Record label. up to no good. handmade in philly.” Musicians/bands play DIY venues.",
     subLink: "https://www.youtube.com/watch?v=0Lal5Ss_InM",
     insta: "https://www.instagram.com/tuna.collective/",
-  },
-  {
-    title: "UArts Radio",
-    summary: "“UARTS Radio is an online radio station and blog bringing you the latest in music, culture and events. Supported by the University of the Arts”",
-    mainLink: "http://www.uartsradio.com/",
-    facebook: "https://www.facebook.com/uartsradioblog",
-    insta: "https://www.instagram.com/uartsradio/",
   },
   {
     title: "Cosmic Art Studios",
@@ -2137,11 +2193,6 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/gspotphilly/",
   },
   {
-    title: "Haus de Jadore",
-    summary: "“North Philly House Show Venue. Run by 1 hyperfem & 2 androgynous broads.” Show in late Aug ‘22, then early Oct, but nothing since. Dead?",
-    insta: "https://www.instagram.com/hausdejadore/ ",
-  },
-  {
     title: "The Wvrmhole",
     summary: "West Philly house venue. ”Music and Dance in Filthadelphia” Since Oct '22. Has thrown other events also, such as 'pop up club and kink space.''",
     insta: "https://www.instagram.com/wvrmhole.philly/",
@@ -2157,12 +2208,6 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/homesickphl/",
   },
   {
-    title: "The Sankofa House",
-    summary: "”Our historic Sankofa House is back! #WestPhilly’s safe/inclusive performing house for curators, performers, bands, DJs and community gatherers.” Hip hop, reggae, afrobeats, dancehall, soca, r&b, art making events, open mic, dance parties, workshops.",
-    facebook: "https://www.facebook.com/HouseOfSankofa/",
-    insta: "https://www.instagram.com/sankofahousephilly/",
-  },
-  {
     title: "Our House",
     summary: "”West Philly | NOT a Psy-op. Monthly Music. est. 2023.” Basement venue.",
     insta: "https://www.instagram.com/ourhousephl/",
@@ -2171,12 +2216,6 @@ export const MUSICDIYSPOTSPHL = [
     title: "The Roof",
     summary: "”West Philly rooftop shows. The Roof is a west philly house venue featuring pristine views of the city coupled with some of the best music philly has to offer.” Started Spring 2023.",
     insta: "https://www.instagram.com/theroof.phl/",
-  },
-  {
-    title: "The Palace Jawn",
-    summary: "Very active South Philly house venue.",
-    subLink: "https://plazeapp.co/blog/rethinking-the-philly-house-show-with-the-palace",
-    insta: "https://www.instagram.com/thepalacejawn",
   },
   {
     title: "Detour Philly",
