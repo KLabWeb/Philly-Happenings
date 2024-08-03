@@ -16,7 +16,7 @@ export const About = () => {
 
         <p>This site is a work in progress and some sections have not been fully built out yet.</p>
 
-        <p>This site is zero-profit project of love, free of ads and trackers. Last updated 07/30/2024</p>
+        <p>This site is zero-profit project of love, free of ads and trackers. Last updated 07/30/2024.</p>
       </div>
     </div>
   )
