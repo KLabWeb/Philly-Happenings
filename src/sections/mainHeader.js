@@ -11,6 +11,7 @@ export const Header = props => {
       <div className="headerIndex">
         <Link to="/"><a href="#events-by-month">Annual Events by Date</a></Link>
         <a href="#about">Site Info</a>
+        <a href="updates">Updates</a>
         <a href="#anarchist-philly">Anarchist</a>
         <a href="#anime-philly">Anime</a>
         <a href="#cycling">Cycling</a>

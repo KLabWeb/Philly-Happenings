@@ -812,6 +812,49 @@ export const FILMHORROR = [
     suggestedFollow: "Check for annual date in late summer",
   },
   {
+    title: "Blood Sick Productions",
+    summary: "Philadelphia underground horror punks producting a consistant stream of cult classics, with films on grindhouse loners, queer romances, and collaborations with local legends Spiter and Devil Master. Lead by director Brewce Longo, “Ed Wood of the 21st century.”",
+    mainLink: "https://bloodsickproductions.bigcartel.com/",
+    subLink: "https://www.youtube.com/@brewcelongo/videos",
+    insta: "https://www.instagram.com/bloodsickproductions/",
+    suggestedFollow: "Insta, plus see their films online, at PhilaMOCA, and The Mahoning Drive-in",
+  },
+  {
+    title: "Sick Slice Studios",
+    summary: "Creator of 70's/80's style Halloween TV special VHS shot web series Luther Mid's Mid-Fright Snack, which is filmed in front of 'dead studio audiences.' Also recently released their first feature length film, Pizza Party Massacre, which premiered at The Mahoning-Drive in. Has also done music videos for Devil Master and Spiter, album covers, and commissions original artwork.",
+    mainLink: "https://www.sickslicestudios.com/",
+    subLink: "https://www.youtube.com/@sickslicestudios/videos",
+    insta: "https://www.instagram.com/luthersmidfrightsnack/",
+    suggestedFollow: "Insta",
+  },
+  {
+    title: "Knucklehead's Films",
+    summary: "Queer horror punk films by local Lancaster film maker Jake McClellan. “DIY to the core goofy horror hijinks and high camp queer shenanigans. Check out Knucklehead's first wide release feature length horror film, HeBGB TV online.“",
+    mainLink: "https://www.hebgbtv.com/",
+    subLink: "https://www.youtube.com/@hebgbtv/videos",
+    insta: "https://www.instagram.com/birthdayjake/?hl=en",
+    suggestedFollow: "Insta",
+  },
+  {
+    title: "Lunchmeat VHS",
+    summary: "“Your number one destination for the appreciation, celebration and preservation of VHS and video store culture.“ Publish Lunchmeat Magazine, perform screenings, sell groovy merch, hold tape swaps, hold VHS Fest anually, at The Mahoning Drive-In, and run Video Vortex, which hosts 70,000 titles online, free.",
+    mainLink: "https://lunchmeatvhs.com/",
+    subLink: "https://videovortex.com/raleigh/",
+    facebook: "https://www.facebook.com/LunchmeatVHS/",
+    insta: "https://www.instagram.com/lunchmeatvhs/",
+    twitter: "https://x.com/lunchmeatvhs",
+    suggestedFollow: "Insta",
+  },
+  {
+    title: "Bufallo Bill's House",
+    summary: "Bufallo Bill's House, from the original The Silence of the Lambs, largely unchanged in the 30 years since the movie was filmed, open for overnight vacation rental stays and tours. Just south of Pittsburgh",
+    mainLink: "https://buffalobillshouse.com/",
+    facebook: "https://www.facebook.com/%40buffalobillshouse/",
+    insta: "https://www.instagram.com/buffalobillshouse",
+    twitter: "https://x.com/buffbillshouse",
+    suggestedFollow: "Visit the house...if you dare",
+  },
+  {
     title: "See also, 'Theaters' section below, as most of these theaters also show regular horror."
   },
 ];
@@ -882,7 +925,7 @@ export const FILMINDIE = [
   },
   {
     title: "The Mahoning Drive-In",
-    summary: "105 mins N of Philly. Arthouse, with lots of B movies, often doing three night campouts. Mostly cult, retro, scifi, and horror. For example, had John Waters there in person in summer 2023, for a John Waters festival.",
+    summary: "105 mins N of Philly. Retro, horror, schlock, and b-movies, providing 'extended pass' camping at the back of their lot. Has had John Waters and Lucio Fulci live. Holds the annual VHS Fest (8 years running). The best drive-in theater in North America?",
     mainLink: "https://www.mahoningdit.com/",
     facebook: "https://www.facebook.com/mahoningdriveintheater/",
     insta: "https://www.instagram.com/mahoningdriveintheater/",

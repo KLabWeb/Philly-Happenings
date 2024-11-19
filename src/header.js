@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import { About } from "./about";
+import Updates from "./updates";
 // import { Notices } from "./notices";
 
 export const Header = props => {
@@ -9,6 +10,8 @@ export const Header = props => {
       <h1 className="pageTitle">Philly Happenings</h1>
 
       <About />
+
+      <Updates />
 
       <h1 className="category">Site Index</h1>
       <div className="headerIndex">

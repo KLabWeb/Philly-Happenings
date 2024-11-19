@@ -73,7 +73,7 @@ p {
   display: block;
 }
 
-.aboutCard a, .videoCard a {
+.aboutCard a, .videoCard a, .updatesCard a {
   color: rgb(0, 255, 255);
   display: inline-block;
   font-size: 1.1em;
@@ -101,7 +101,7 @@ p {
   display: none;
 }
 
-.card, .dateCard, .headerIndex, .forageCard, .aboutCard, .indexImageCard, .videoCard {
+.card, .dateCard, .headerIndex, .forageCard, .aboutCard, .indexImageCard, .videoCard, .updatesCard {
   padding: 0em 3em 1em 3em;
   max-width: 100%;
   margin: auto;
@@ -129,7 +129,7 @@ p {
     width: 70%;
   }
 
-  .aboutCard {
+  .aboutCard, .updatesCard {
     width: 50%;
     margin-bottom: 50px;
   }
@@ -185,12 +185,12 @@ p {
   font-size: 1.2em;
 }
 
-.card .suggestedFollow, .dateItem, .forageItem, .aboutCard p {
+.card .suggestedFollow, .dateItem, .forageItem, .aboutCard p, .updatesCard p {
   color: rgb(255, 255, 0);
   margin-bottom: 2px;
 }
 
-.dateTitle, .dateItem, .forageItem, .aboutCard p {
+.dateTitle, .dateItem, .forageItem, .aboutCard p, .updatesCard p {
   text-align: left;
 }
 
@@ -261,7 +261,7 @@ video {
   .CardContainer{
     width: 95%;
   }
-  .aboutCard {
+  .aboutCard, .updatesCard {
     margin-bottom: 50px;
   }
   .videoCard  {
