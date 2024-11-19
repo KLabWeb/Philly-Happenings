@@ -1,4 +1,7 @@
 export const VIDEOS = [
+  "/videos/LOCAL_BAND_Blank Spell (Live in Philadelphia, PA @ The First Unitarian Church - 02.24.2024) [hJtkdjXw41k].mp4",
+  "/videos/LOCAL_BAND_Skullpresser - Positions of Power (Official Video) [W3itMsjiXzs].webm",
+  "/videos/LOCAL_FESTIVAL_PUFF9 Official Trailer (2024) [1TdslrZI64Y].mp4",
   "/videos/LOCAL_FILM_CADDY HACK  - OFFICIAL TRAILER [r5ekIlimxxw].mp4",
   "/videos/LOCAL_FILM_Coven of the Black Cube - 2024 Trailer - from Blood Sick Productions [8PvuhB5ii9g].mp4",
   "/videos/LOCAL_FILM_A Corpse For Christmas - Nice Trailer (blurred) - by Brewce Longo, starring Kasper Meltedhair [4LQETGyt5b4].mp4",
