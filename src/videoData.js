@@ -1,7 +1,8 @@
 export const VIDEOS = [
-  "/videos/LOCAL_FILM_Coven of the Black Cube - 2024 Trailer - from Blood Sick Productions [8PvuhB5ii9g].mkv",
-  "/videos/LOCAL_FILM_A Corpse For Christmas - Nice Trailer (blurred) - by Brewce Longo, starring Kasper Meltedhair [4LQETGyt5b4].mkv",
-  "/videos/LOCAL_FILM_HeBGB TV OFFICIAL TRAILER [xcYsf_g8ju8].mkv",
+  "/videos/LOCAL_FILM_CADDY HACK  - OFFICIAL TRAILER [r5ekIlimxxw].mp4",
+  "/videos/LOCAL_FILM_Coven of the Black Cube - 2024 Trailer - from Blood Sick Productions [8PvuhB5ii9g].mp4",
+  "/videos/LOCAL_FILM_A Corpse For Christmas - Nice Trailer (blurred) - by Brewce Longo, starring Kasper Meltedhair [4LQETGyt5b4].mp4",
+  "/videos/LOCAL_FILM_HeBGB TV OFFICIAL TRAILER [xcYsf_g8ju8].mp4",
   "/videos/LOCAL_FILM_PIZZA PARTY MASSACRE - Official Trailer [93QAvv8mzJ4].webm",
   "/videos/LOCAL_BAND_Zorn_Michief_Devils_Night_outdoor_local_10_30_2017_ewyG1lIOQOA.mp4",
   "/videos/LOCAL_BAND_Skullovich (St. Thrashricks Festival, Metro Gallery, Baltimore, Maryland, March 9th, 2024) [prRMf48IqO0].webm",

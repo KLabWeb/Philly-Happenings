@@ -95,4 +95,10 @@ export const VIDEOSLOCALINFO = [
     "mainLink": "https://bloodsickproductions.bigcartel.com/",
     "social": "https://www.instagram.com/bloodsickproductions/",
   },  
+  {
+    "filename": "LOCAL_FILM_CADDY HACK  - OFFICIAL TRAILER [r5ekIlimxxw]",
+    "film": "Caddy Hack (2023)",
+    "mainLink": "https://www.wildeyereleasing.com/",
+    "social": "https://www.instagram.com/wildeyemovies/",
+  },  
 ]
