@@ -71,4 +71,28 @@ export const VIDEOSLOCALINFO = [
     "bandcamp": "https://knuckledeep.bandcamp.com/music",
     "social": "https://www.instagram.com/knuckledeeptv/",
   },
+  {
+    "filename": "LOCAL_FILM_PIZZA PARTY MASSACRE - Official Trailer [93QAvv8mzJ4]",
+    "film": "Pizza Party Massacre (2024)",
+    "mainLink": "https://www.sickslicestudios.com/",
+    "social": "https://www.instagram.com/luthersmidfrightsnack/",
+  },
+  {
+    "filename": "LOCAL_FILM_HeBGB TV OFFICIAL TRAILER [xcYsf_g8ju8]",
+    "film": "HeBGB TV (2022)",
+    "mainLink": "https://www.hebgbtv.com/",
+    "social": "https://www.instagram.com/birthdayjake/",
+  },
+  {
+    "filename": "LOCAL_FILM_A Corpse For Christmas - Nice Trailer (blurred) - by Brewce Longo, starring Kasper Meltedhair [4LQETGyt5b4]",
+    "film": "A Corpse for Christmas (2023)",
+    "mainLink": "https://bloodsickproductions.bigcartel.com/",
+    "social": "https://www.instagram.com/bloodsickproductions/",
+  },
+  {
+    "filename": "LOCAL_FILM_Coven of the Black Cube - 2024 Trailer - from Blood Sick Productions [8PvuhB5ii9g]",
+    "film": "Coven of the Black Cube (2024)",
+    "mainLink": "https://bloodsickproductions.bigcartel.com/",
+    "social": "https://www.instagram.com/bloodsickproductions/",
+  },  
 ]
