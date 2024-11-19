@@ -523,6 +523,17 @@ export const CLOSED = [
     summary: "“North Philly House Show Venue. Run by 1 hyperfem & 2 androgynous broads.” Show in late Aug ‘22, then early Oct, but nothing since.",
     insta: "https://www.instagram.com/hausdejadore/ ",
   },
+  {
+    title: "Haus of Yarga",
+    summary: "“Haus venue in west philly”. NOTAFLOF. Basement venue. Lots of punk, hardcore, metal. Closed 'Oct 2024. A terrible loss.",
+    facebook: "https://www.facebook.com/hausofyarga",
+    insta: "https://www.instagram.com/hausofyarga/",
+  },
+  {
+    title: "The Tabernacle (venue)",
+    summary: "N Philly house venue. “community based, queer run booking collective and acoustic venue.” Has also hosted DIY Flea Markets. Still books shows, but no longer throws them at house.",
+    insta: "https://www.instagram.com/tabernaclephilly",
+  },
 ]
 
 export const CYCLING = [
@@ -832,7 +843,7 @@ export const FILMHORROR = [
     summary: "Queer horror punk films by local Lancaster film maker Jake McClellan. “DIY to the core goofy horror hijinks and high camp queer shenanigans. Check out Knucklehead's first wide release feature length horror film, HeBGB TV online.“",
     mainLink: "https://www.hebgbtv.com/",
     subLink: "https://www.youtube.com/@hebgbtv/videos",
-    insta: "https://www.instagram.com/birthdayjake/?hl=en",
+    insta: "https://www.instagram.com/birthdayjake/",
     suggestedFollow: "Insta",
   },
   {
@@ -1965,6 +1976,11 @@ export const MUSICDIYCOLLECTIVESPHL = [
     insta: "https://www.instagram.com/houseshowstatecollege/",
     subLink: "https://www.instagram.com/kissfitcollective/",
   },
+  {
+    title: "The Tabernacle",
+    summary: "Books shows and makes flyers. Used to also be a N Philly house venue, but not longer throws shows at house.",
+    insta: "https://www.instagram.com/tabernaclebooking/",
+  },
 ];
 
 export const MUSICDIYCOLLECTIVESSC = [
@@ -2054,10 +2070,10 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/themeadowphl/",
   },
   {
-    title: "Lucky Aide",
-    summary: "West Philly house venue. “Multi purpose art empowerment space.",
+    title: "Union Transfer 2",
+    summary: "West Philly house venue. Formerly Lucky Aide, Couchtown, Hole Foods, Cosmos, etc.. “Multi purpose art empowerment space.",
     facebook: "https://www.facebook.com/profile.php?id=100072599087251",
-    insta: "https://www.instagram.com/luckyaidephilly",
+    insta: "https://www.instagram.com/onion.transfer/",
   },
   {
     title: "The Pouch",
@@ -2069,17 +2085,6 @@ export const MUSICDIYSPOTSPHL = [
     summary: "South Philly house venue. “Performance and Recording Space since 2015”.",
     facebook: "https://www.facebook.com/tralfamadorezoo/",
     insta: "https://www.instagram.com/tralfamadore.southphilly/",
-  },
-  {
-    title: "Haus of Yarga",
-    summary: "“Haus venue in west philly”. NOTAFLOF. Basement venue. Lots of punk, hardcore, metal",
-    facebook: "https://www.facebook.com/hausofyarga",
-    insta: "https://www.instagram.com/hausofyarga/",
-  },
-  {
-    title: "The Tabernacle",
-    summary: "N Philly house venue. “community based, queer run booking collective and acoustic venue.” Has also hosted DIY Flea Markets.",
-    insta: "https://www.instagram.com/tabernaclephilly",
   },
   {
     title: "The Machine",
@@ -2367,6 +2372,12 @@ export const MUSICDIYSPOTSPHL = [
     summary: "“New DIY venue in South Philly“ Started March 2024 with a Star Wars Costume May the 4th show.",
     insta: "https://www.instagram.com/thecafphilly/",
   },
+  {
+    title: "Bond Villain",
+    summary: "Long running North Philly warehouse venue. Dreampop, post-punk, reggae, techno, analog VJ's, and more. Food, drinks, karaoke, dodgeball, and good vibes. No longer throws regular shows, but still has annual Halloween shows.",
+    insta: "https://www.instagram.com/bond.villain/",
+    suggestedFollow: "Insta",
+  },  
 ];
 
 export const MUSICDIYSPOTSSC = [

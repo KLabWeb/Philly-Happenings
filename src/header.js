@@ -47,7 +47,7 @@ export const Header = props => {
         <a href="#music-bluegrass">Music: Bluegrass</a>
         <a href="#music-classical">Music: Classical</a>
         <br/>
-        <a href="#music-diy-coll-phl">Music: DIY Collectives, Show Listings, & Labels</a>
+        <a href="#music-diy-coll-phl">Music: DIY Collectives, Listings, Booking, & Labels</a>
         <a href="#music-diy-gen-phl">Music: DIY General</a>
         <a href="#music-diy-spots-phl">Music: DIY Spots</a>
         <br/>
