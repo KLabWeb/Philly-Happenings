@@ -28,6 +28,7 @@ export const Updates = () => {
               <li><a href="https://www.instagram.com/tabernaclephilly" target="_blank" rel="noreferrer">DIY Spot: The Tabernacle</a></li>  
           </ul>
         </p>
+        <p>On a larger update, the <a href="#mid-page">Intermission</a> section now no longer contains random videos from the net and instead includes only local philly videos. Check it out for some local music and film.</p>
       </div>
     </div>
   )
