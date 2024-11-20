@@ -44,6 +44,10 @@ export const BYMONTH = [
     events: ["Early: Mad Poets Festival", "Mid: Philadelphia Film Festival", "End: Exhumed Films 24 Hour Horror-thon", "End: Halloween Hikes and Hayrides in Fairmount Park"]
   },
   {
+    period: "September",
+    events: ["Mid: Running Down the Walls"]
+  },
+  {
     period: "November",
     events: ["Early: Philadelphia Asian American Film Festival"]
   },
@@ -68,7 +72,7 @@ export const BYWEEK = [
   },
   {
     period: "First Fri",
-    events: ["8:30pm: The Late(ish) Poetry Show - PhilaMOCA"]
+    events: ["6:00pm: Philly 2600 Meetup - Iffy Books", "8:30pm: The Late(ish) Poetry Show - PhilaMOCA"]
   },
   {
     period: "First Sat",
@@ -95,12 +99,24 @@ export const BYWEEK = [
     events: ["10am to 12pm: Restoration Volunteer Workday - Fairmount Park"]
   },
   {
+    period: "Last Mon",
+    events: ["6:30pm: Philly ABC Political Prisoner Letter Writing - Iffy Books"]
+  },
+  {
     period: "Last Thurs",
     events: ["9pm: The Gathering (Hip Hop, Breaking, Popping, Graff) - The Rotunda (since 1996!)"]
   },
   {
     period: "Last Sat",
     events: ["10am to 12:30am: Philly Free Market - Malcom X Park"]
+  },
+  {
+    period: "Every Other Weds",
+    events: ["2pm to 4pm: Volunteer Zine Folding Session   - Iffy Books"]
+  },
+  {
+    period: "Every Other Sun",
+    events: ["4pm to 5:30pm: Philly Socialists Reading Group - Iffy Books"]
   },
   {
     period: "Varying",
@@ -115,27 +131,31 @@ export const BYWEEK = [
 export const BYDAY = [
   {
     period: "Mon",
-    events: ["3pm to 5pm: WRC Community Fridge Food Share - LAVA Space", "6pm to 9pm: Philadelphia Boardgame Nights - Glory Beer Bar"]
+    events: ["11am to 1pm: Homies Helping Homies Food Distro - 2144 Cross Street","3pm to 5pm: WRC Community Fridge Food Share - LAVA Space", "6pm to 9pm: Philadelphia Boardgame Nights - Glory Beer Bar", "6:30pm to 8:30pm: Books Through Bars (attend orientation first) - 4722 Baltimore Ave"]
   },
   {
     period: "Tues",
-    events: ["6pm to 9pm: Philadelphia Boardgame Nights - The Ladder", "6:30pm to 9pm: Bike Church (open shop) - Neighborhood Bike Works"]
+    events: ["5pm: The Writing Room - Iffy Books", "6pm to 9pm: Philadelphia Boardgame Nights - The Ladder", "6:30pm to 9pm: Bike Church (open shop) - Neighborhood Bike Works"]
   },
   {
     period: "Weds",
-    events: ["4pm to 9pm: Philly Social Adventures Happy Hour - Varies"]
+    events: ["1:30pm to 3:30pm: South Philly Punks With Lunch - Broad/Snyder", "4pm to 9pm: Philly Social Adventures Happy Hour - Varies"]
   },
   {
     period: "Thurs",
-    events: ["3pm: Food Distro - LAVA Space", "6:30pm to 9pm: Bike Church (open shop) - Neighborhood Bike Works", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
+    events: ["3pm: Food Distro - LAVA Space", "6:30pm to 8:30pm: Books Through Bars - (attend orientation first) - 4722 Baltimore Ave", "6:30pm to 9pm: Bike Church (open shop) - Neighborhood Bike Works", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
   },
   {
     period: "Fri",
-    events: ["8am: South Philly Food Not Bombs Grocery Distro - Mifflin Sqaure Park", "12pm to 4pm: Library Hours - LAVA Space", "4:30pm: W Philly Food Not Bombs Hot Meal - Malcom X Park", "5pm: Food Not Bombs Solidary Grocery Distro - 60th and Market El Stop", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
+    events: ["8am: South Philly Food Not Bombs Grocery Distro - Mifflin Sqaure Park", "12pm to 4pm: Library Hours - LAVA Space", "1:30pm to 3:30pm: South Philly Punks With Lunch - Mifflin Square Park", "4:30pm: W Philly Food Not Bombs Hot Meal - Malcom X Park", "5pm: Food Not Bombs Solidary Grocery Distro - 60th and Market El Stop", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
   },
   {
     period: "Sat",
     events: ["3pm: South Philly Food Not Bombs Hot Meal - Mifflin Sqaure Park", "10am: Wild Foodies of Philly Foraging Hike - Varies", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
+  },
+  {
+    period: "Sun",
+    events: ["1:30pm to 3:30pm: South Philly Punks With Lunch - Broad/Snyder"]
   },
   {
     period: "Weekends",
