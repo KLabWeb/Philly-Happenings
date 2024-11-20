@@ -1,38 +1,34 @@
 export const ANARCHISTPHILLY = [
   {
     title: "Philly Anti-Capitalist",
-    summary: "Philly Anti-authoritarian News since 2014. Post events, also. Nice list of Philly local groups and resources.",
+    summary: "Philly Anti-authoritarian News since 2014. Post events, also. Maintains a nice list of Philly local groups and resources.",
     mainLink: "https://phlanticap.noblogs.org/",
     subLink: "https://phlanticap.noblogs.org/homies/",
     suggestedFollow: "Check site weekly"
   },
   {
     title: "Lancaster Avenue Autonomous Space",
-    summary: "“A community center for radical media and organizing located in the Belmont neighborhood of West Philadelphia.” Bi-monthly free market, food distro, food share, hoagie distro, workshops, rooftop shows, zine/book library, art, peoples’ fridge.",
+    summary: "“A community center for radical media and organizing located in the Belmont neighborhood of West Philadelphia.” Monthly free market, food distro, food share, SRA hoagie distro, workshops, movie nights, rooftop shows, zine/book library, art, WRC community fridge.",
     mainLink: "https://lavazone.org/",
-    twitter: "https://twitter.com/lavaspacephl",
     insta: "https://www.instagram.com/lavaspacephl",
-    suggestedFollow: "Insta (more updated)"
+    suggestedFollow: "Insta"
   },
   {
     title: "West Philadelphia Food Not Bombs",
     summary: "Hot meals Fridays 4:30pm at Malcolm X Park. Food pickup for cook 8-9am (drivers needed).",
-    facebook: "https://www.facebook.com/groups/westphillyfnb/",
     insta: "https://www.instagram.com/foodnotbombswestphilly/",
-    suggestedFollow: "Insta (more updated)",
   },
   {
     title: "South Philadelphia Food Not Bombs",
     summary: "“Saturdays Hot Meals @ 3pm. Fridays Fresh Produce @ 8am. Mifflin Square Park (Ritner and 5th).“ Very active. Food pickup drivers needed.",
     facebook: "https://www.facebook.com/groups/184708858232748/",
-    suggestedFollow: "None (social media not updated but this FnB is very active, despite)",
   },
   {
     title: "Food Not Bombs Solidarity",
     summary: "“FNB Solidarity chapter serving the West Philly Community. 5pm Fridays food distro @ 60th and Market El Stop.“ Also distros to Community Frig at 52/Sansom, St. Columba Mens Shelter, and Nizeh Morris Trans Home,",
     facebook: "https://www.facebook.com/FoodNotBombsSolidarity/",
     insta: "https://www.instagram.com/fnbsolidarity",
-    suggestedFollow: "Insta (more updated)",
+    suggestedFollow: "Facebook (more updated)",
   },
   {
     title: "North Philly Food Not Bombs",
