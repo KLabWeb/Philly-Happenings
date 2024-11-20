@@ -127,23 +127,19 @@ export const BYDAY = [
   },
   {
     period: "Thurs",
-    events: ["3pm: Food Distro - LAVA Space", "6:30pm to 9pm: Bike Church (open shop) - Neighborhood Bike Works"]
+    events: ["3pm: Food Distro - LAVA Space", "6:30pm to 9pm: Bike Church (open shop) - Neighborhood Bike Works", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
   },
   {
     period: "Fri",
-    events: ["12pm to 4pm: Library Hours - LAVA Space", "4:30pm: W Philly Food Not Bombs - Malcom X Park", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
+    events: ["8am: South Philly Food Not Bombs Grocery Distro - Mifflin Sqaure Park", "12pm to 4pm: Library Hours - LAVA Space", "4:30pm: W Philly Food Not Bombs Hot Meal - Malcom X Park", "5pm: Food Not Bombs Solidary Grocery Distro - 60th and Market El Stop", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
   },
   {
     period: "Sat",
-    events: ["10am to 4pm: South Philly Food Not Bombs - Cook (People's Kitchen) & Serve (Mifflin Sqaure Park)", "10am: Wild Foodies of Philly - Foraging Hike", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
-  },
-  {
-    period: "Sun",
-    events: ["10am to 11am: Fairmount Park Conservancy - Yoga in the Park"]
+    events: ["3pm: South Philly Food Not Bombs Hot Meal - Mifflin Sqaure Park", "10am: Wild Foodies of Philly Foraging Hike - Varies", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
   },
   {
     period: "Weekends",
-    events: ["8pm: DIY Shows at Over 40 Active Philly Spots - Shows", "9am: BATONA Hiking Club of Philadelphia - Hike", "10am: New Jersey Mycological Association - Foray"]
+    events: ["9am: BATONA Hiking Club of Philadelphia - Varies", "10am: New Jersey Mycological Association Forays - Varies"]
   },
   {
     period: "Multiple Days",

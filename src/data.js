@@ -16,14 +16,14 @@ export const ANARCHISTPHILLY = [
   },
   {
     title: "West Philadelphia Food Not Bombs",
-    summary: "Serve Fridays 4:30pm at Malcolm X Park. Cook at [ask a punk] at 3:00pm. Food pickup for cook 8-9am (drivers needed).",
+    summary: "Hot meals Fridays 4:30pm at Malcolm X Park. Food pickup for cook 8-9am (drivers needed).",
     facebook: "https://www.facebook.com/groups/westphillyfnb/",
     insta: "https://www.instagram.com/foodnotbombswestphilly/",
     suggestedFollow: "Insta (more updated)",
   },
   {
     title: "South Philadelphia Food Not Bombs",
-    summary: "“Saturdays Hot Meals @ 3pm. Fridays Fresh Produce @ 8am. Mifflin Square Park (Ritner and 5th).“ Very active.",
+    summary: "“Saturdays Hot Meals @ 3pm. Fridays Fresh Produce @ 8am. Mifflin Square Park (Ritner and 5th).“ Very active. Food pickup drivers needed.",
     facebook: "https://www.facebook.com/groups/184708858232748/",
     insta: "https://www.instagram.com/southphillyfoodnotbombs/",
     suggestedFollow: "None (social media not updated but this FnB is very active, despite)",
@@ -1080,7 +1080,7 @@ export const GREENGARDENS = [
   },
   {
     title: "The People’s Kitchen",
-    summary: "“A collaborative of chefs, students, and community members growing and cooking free, delicious meals in Philly.” Works with Grounded in Philly for food source. S Philly Food Not Bombs kitchen. Free hot meals, outside the kitchen, every day, 3:00pm.",
+    summary: "“A collaborative of chefs, students, and community members growing and cooking free, delicious meals in Philly.” Works with Grounded in Philly for food source. Kitchen for various rad groups. Free hot meals, outside the kitchen, every day, 3:00pm.",
     mainLink: "https://www.peopleskitchenphilly.com/",
     facebook: "https://www.facebook.com/profile.php?id=100090422833314",
     insta: "https://www.instagram.com/peopleskitchenphilly",
