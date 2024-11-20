@@ -4,158 +4,142 @@ export const BYMONTH = [
     events: ["All: Mushroom and Berry Foraging"],
   },
   {
-    period: "March",
-    events: ["End: Philly Theater Week"]
+    period: "Maarch",
+    events: ["Early: Media Film Festival"]
   },
   {
     period: "April",
-    events: ["Early: Media Film Festival", "Early: Lancaster Zine Fest", "Early: Shofuso Cherry Blossom Festival", "End: Book Corner Spring Book Sale"]
+    events: ["Early: Philly Theater Week", "Early: Lancaster Zine Fest", "Early: Shofuso Cherry Blossom Festival"]
   },
   {
     period: "May",
-    events: ["Early: West Philly Zine Fest", "End: Philadelphia Latino Film Festival", "End: Hang Free Spring"]
+    events: ["Mid: Fan Expo Philadelphia", "End: Philadelphia Latino Film Festival"]
   },
   {
     period: "Summer",
-    events: ["All: Berry Foraging", "All: Movies on the Block", "All: Cinema in the Cemetery", "Mid: Anarchist Skill Share"]
+    events: ["All: Berry Foraging", "All: Movies on the Block", "All: Cinema in the Cemetery", "Mid: Anarchist Skill Share", "Mid: Big Picture Film Fest"]
   },
   {
     period: "June",
-    events: ["Early: West Philly Porchfest", "Early: Fan Expo Philadelphia", "Early: Philadelphia Independent Film Festival", "End: Big Picture Film Fest", "End: Midsommar"]
+    events: ["Early: West Philly Porchfest", "Early: Philadelphia Independent Film Festival", "End: Midsommar"]
   },
   {
     period: "July",
-    events: ["Mid: Book Corner Summer Book Sale", "Mid: Blobfest", "End: Otakon (DC)"]
+    events: ["Mid: Blobfest"]
   },
   {
     period: "August",
-    events: ["Early: BlackStar Film Festival", "HippoCamp (Conference for Creative Nonfiction Writers)", "Philly Naked Bike Ride", "Community Gardens Day"]
+    events: ["Early: Otakon (DC)", "Early: BlackStar Film Festival", "Mid: HippoCamp (Conference for Creative Nonfiction Writers)", "End: Philly Naked Bike Ride", "End: Anime NYC"]
   },
   {
     period: "Fall",
-    events: ["Early & Mid: Mushroom Foraging"]
+    events: ["All: Mushroom Foraging (where's the rain???)"]
   },
   {
     period: "September",
-    events: ["Early: Hang Free Summer", "Mid: NYC Anarchist Bookfair", "End: Philadelphia Unnamed Film Festival", "End: 20/20 Photo Festival", "All: Philadelphia Fringe Festival"]
+    events: ["All: Philadelphia Fringe Festival", "Mid: 20/20 Photo Festival", "Mid: NYC Anarchist Book Fair", "End: Philadelphia Unnamed Film Festival"]
   },
   {
     period: "October",
-    events: ["Early: Mad Poets Festival", "Early: Media Fright Fest Fall", "Mid: ecoWURD Environmental Justice Summit", "Mid: Book Corner Fall Book Sale", "End: Philadelphia Film Festival", "End: Exhumed Films 24 Hour Horror-thon", "End: Halloween Hikes and Hayrides in Fairmount Park", "End: Philly Zine Fest"]
+    events: ["Early: Mad Poets Festival", "Mid: Philadelphia Film Festival", "End: Exhumed Films 24 Hour Horror-thon", "End: Halloween Hikes and Hayrides in Fairmount Park"]
   },
   {
     period: "November",
-    events: ["Early: Philadelphia Asian American Film Festival", "End: Anime NYC"]
+    events: ["Early: Philadelphia Asian American Film Festival"]
   },
   {
     period: "December",
-    events: ["Early: Philly Zine Fest", "Early: Krampus Fest & Night Market", "Mid: Santa Lucia & Market + Julbord Dinner", "Mid: Fishtown Freeze Weekend"]
+    events: ["Early: Krampus Fest & Night Market", "Mid: Santa Lucia & Market + Julbord Dinner", "Mid: Fishtown Freeze Weekend"]
   }
 ];
 
 export const BYWEEK = [
   {
     period: "First Mon",
-    events: ["7:30pm: Philadelphia Psychotronic Film Society – Film (PhilaMOCA)"]
+    events: ["7:30pm: Philadelphia Psychotronic Film Society - PhilaMOCA"]
   },
   {
     period: "First Tues",
-    events: ["slightly after sunset: Fairmount Park Conservancy – Stargazing at Lemon Hill"]
+    events: ["Sunset: Stargazing at Lemon Hill - Fairmount Park Conservancy"]
   },
   {
     period: "First Weds",
-    events: ["7pm to 9pm: The Mad Poets Society – First Wednesdays"]
+    events: ["7pm to 9pm: Mad Poets Society First Weds - Wallingford Community Arts Center"]
   },
   {
     period: "First Fri",
-    events: ["8:30pm: The Late(ish) Poetry Show – Poem Readings (PhilaMOCA)"]
+    events: ["8:30pm: The Late(ish) Poetry Show - PhilaMOCA"]
   },
   {
     period: "First Sat",
-    events: ["10am: Fair Amount Food Forest – Monthly Work Party"]
-  },
-  {
-    period: "First Weekend",
-    events: ["10am: Philadelphia Mycology Club – Cobb’s Creek Cleanup"]
+    events: ["10am: Monthly Work Party - Fair Amount Food Forest","3pm to 6pm: Bike Church (open shop) - Neighborhood Bike Works"]
   },
   {
     period: "Second Weds",
-    events: ["7pm to 9pm: The Mad Poets Society – Critique Circle"]
+    events: ["7pm to 9pm: Mad Poets Societs Critique Circle - Wallingford Community Arts Center"]
   },
   {
     period: "Second Thurs",
-    events: ["8pm: The Bright Bulb Screening Series – Film (The Rotunda)", "9pm to 1am: Sanctorium Philly – Gothic Dance Party"]
+    events: ["8pm: The Bright Bulb Film Screening Series - The Rotunda"]
   },
   {
     period: "Second Sat",
-    events: ["5pm: Philadelphia Animation Society – Meeting (FU Church)"]
-  },
-  {
-    period: "Mid Month",
-    events: ["9pm: Full Moon Bike Ride – Ride (Art Museum)"]
+    events: ["9am to 12pm: LAVA Space: Really Really Free Market", "5pm to 9pm: Philadelphia Animation Society - FU Church"]
   },
   {
     period: "Third Mon",
-    events: ["7:30pm: Philadelphia Psychotronic Film Society – Film (PhilaMOCA)"]
-  },
-  {
-    period: "Third Fri",
-    events: ["8pm: Night Cycle – Ride (Varies)"]
+    events: ["7:30pm: Philadelphia Psychotronic Film Society - PhilaMOCA"]
   },
   {
     period: "Third Sat",
-    events: ["10am to 12pm: Fairmount Park - Restoration Volunteer Workday"]
-  },
-  {
-    period: "Last Mon",
-    events: ["8pm: Horror Movie Mondays – Film (Underground Arts)"]
-  },
-  {
-    period: "Last Tues",
-    events: ["3pm to 7pm: Lancaster Avenue Autonomous Space – Library Hours"]
+    events: ["10am to 12pm: Restoration Volunteer Workday - Fairmount Park"]
   },
   {
     period: "Last Thurs",
-    events: ["9pm: The Gathering - Hip Hop, Breaking, Popping, Graff (The Rotunda, since 1996)"]
+    events: ["9pm: The Gathering (Hip Hop, Breaking, Popping, Graff) - The Rotunda (since 1996!)"]
   },
   {
     period: "Last Sat",
-    events: ["10am to 12:30am: Philly Free Market - Free Market (Malcom X Park)"]
+    events: ["10am to 12:30am: Philly Free Market - Malcom X Park"]
   },
   {
     period: "Varying",
-    events: ["varying: The Secret Cinema – Arthouse film showings"]
+    events: ["The Secret Cinema - Varies", "Night Cycle - Varies"]
+  },  
+  {
+    period: "On the Full Moon",
+    events: ["9pm: Full Moon Bike Ride - Art Museum"]
   },
 ];
 
 export const BYDAY = [
   {
     period: "Mon",
-    events: ["3pm to 5pm: Lancaster Avenue Autonomous Space – Food Share", "5pm to 8pm: Philadelphia Boardgame Nights – Game Night (Bourse Hall)"]
+    events: ["3pm to 5pm: WRC Community Fridge Food Share - LAVA Space", "6pm to 9pm: Philadelphia Boardgame Nights - Glory Beer Bar"]
   },
   {
     period: "Tues",
-    events: ["6:30pm: Neighborhood Bike Works – Bike Church (open shop)", "6pm to 9pm: Philadelphia Boardgame Nights – Game Night (The Ladder)"]
+    events: ["6pm to 9pm: Philadelphia Boardgame Nights - The Ladder", "6:30pm to 9pm: Bike Church (open shop) - Neighborhood Bike Works"]
   },
   {
     period: "Weds",
-    events: ["5pm to 9pm: Philly Social Adventures Happy Hour", "5pm to 9:30pm O.R.C.A. Open Hours"]
+    events: ["4pm to 9pm: Philly Social Adventures Happy Hour - Varies"]
   },
   {
     period: "Thurs",
-    events: ["3pm to 4pm: Lancaster Avenue Autonomous Space – Food Distro"]
+    events: ["3pm: Food Distro - LAVA Space", "6:30pm to 9pm: Bike Church (open shop) - Neighborhood Bike Works"]
   },
   {
     period: "Fri",
-    events: ["8pm: DIY Shows at Over 40 Active Philly Spots - Shows", "3pm to 6pm: W Philly Food Not Bombs – Cook (Ahimsa House) & Serve (Malcom X)", "6:30pm: Neighborhood Bike Works – Bike Church (open shop)"]
+    events: ["12pm to 4pm: Library Hours - LAVA Space", "4:30pm: W Philly Food Not Bombs - Malcom X Park", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
   },
   {
     period: "Sat",
-    events: ["9am to 12pm: Lancaster Avenue Autonomous Space – Really Really Free Market", "10am to 4pm: South Philly Food Not Bombs - Cook (People's Kitchen) & Serve (Mifflin Sqaure Park)", "10am: Wild Foodies of Philly – Foraging Hike"]
+    events: ["10am to 4pm: South Philly Food Not Bombs - Cook (People's Kitchen) & Serve (Mifflin Sqaure Park)", "10am: Wild Foodies of Philly - Foraging Hike", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
   },
   {
     period: "Sun",
-    events: ["10am to 11am: Fairmount Park Conservancy – Yoga in the Park"]
+    events: ["10am to 11am: Fairmount Park Conservancy - Yoga in the Park"]
   },
   {
     period: "Weekends",
@@ -163,6 +147,6 @@ export const BYDAY = [
   },
   {
     period: "Multiple Days",
-    events: ["4pm to 9pm: Chibi Cafe – Various Events", "Varying: Hiking Around Philly – Hikes"]
+    events: ["4pm to 9pm: Chibi Cafe - Various Events", "Varying: Hiking Around Philly - Hikes"]
   }
 ];
