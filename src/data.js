@@ -25,7 +25,6 @@ export const ANARCHISTPHILLY = [
     title: "South Philadelphia Food Not Bombs",
     summary: "“Saturdays Hot Meals @ 3pm. Fridays Fresh Produce @ 8am. Mifflin Square Park (Ritner and 5th).“ Very active. Food pickup drivers needed.",
     facebook: "https://www.facebook.com/groups/184708858232748/",
-    insta: "https://www.instagram.com/southphillyfoodnotbombs/",
     suggestedFollow: "None (social media not updated but this FnB is very active, despite)",
   },
   {
