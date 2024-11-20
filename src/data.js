@@ -866,6 +866,14 @@ export const FILMHORROR = [
     suggestedFollow: "Visit the house...if you dare",
   },
   {
+    title: "Baby Goblin Productions",
+    summary: "“Baby Goblin Productions is a an independent film production company started by Dorian Vasquez in September, 2022. After filming countless comedy and horror sketches, it was time to do something bigger. We are happy to report that 'Porch Pirate,' our first feature length project has officially wrapped!!“",
+    mainLink: "https://babygoblinproductions.com",
+    facebook: "https://www.facebook.com/BabyGoblinProductions",
+    insta: "https://www.instagram.com/babygoblinproductions",
+    suggestedFollow: "Insta",
+  },
+  {
     title: "See also, 'Theaters' section below, as most of these theaters also show regular horror."
   },
 ];

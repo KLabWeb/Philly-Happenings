@@ -244,6 +244,18 @@ video {
   max-height: 60vh;
 }
 
+.updates h4 {
+  font-size: 1.3em;
+  color: rgb(255, 255, 0);
+}
+
+.updates ul {
+  display: flex;
+  flex-flow: column;
+  text-align: left;
+  color: rgb(255, 255, 0);
+}
+
 .localInfo {
   color: rgb(255, 255, 0);
   font-size: 1.4em;
