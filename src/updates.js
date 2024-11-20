@@ -10,6 +10,17 @@ export const Updates = () => {
         <p>Additions:</p>
         <ul>
           <li><a href="https://www.instagram.com/babygoblinproductions" target="_blank" rel="noreferrer">Horror: Baby Goblin Productions</a></li>
+          <li>Expansion of "Events by [Dates]" Sections</li>
+        </ul>
+        <p>Removed (No Longer Active):</p>
+        <ul>
+          <li><a href="https://www.facebook.com/rwthphilly/" target="_blank" rel="noreferrer">Rolling with the Homos</a></li>
+          <li><a href="https://phillyantifa.org/" target="_blank" rel="noreferrer">Philly Antifa</a></li>
+        </ul>
+        <p>Verification:</p>
+        <ul>
+          <li>Verified "still active" for all "Anarchist, Rad, & Adjacent" entries & their socials. Some socials updated or removed.</li>
+          <li>Verification of existing "Events by [Dates]" entries still accurate.</li>
         </ul>
 
 
