@@ -1072,6 +1072,15 @@ export const GENERAL = [
     twitter: "https://twitter.com/HiddenCityPhila",
     suggestedFollow: "Check their site for cool articles",
   },
+  {
+    title: "GrimGrimGrim",
+    summary: "Another recognizable Philly artist, GrimGrimGrim has made countless posters for local hardcore, metal, etc. bands, and also creates t-shirts, prints, bumper stickers, hats, and more. Art often features Grim and monsterous versions of Philly icons, like Gritty, Phillie Phanatic, WaWa, and Cheesteaks.",
+    mainLink: "https://www.grimgrimgrim.com",
+    facebook: "https://www.facebook.com/GRIM6GRIM6GRIM6",
+    insta: "https://www.instagram.com/grimgrimgrim215",
+    twitter: "",
+    suggestedFollow: "FB or Insta + check out his shop",
+  },
 ];
 
 export const GREENGARDENS = [

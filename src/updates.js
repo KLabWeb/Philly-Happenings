@@ -6,6 +6,12 @@ export const Updates = () => {
     <div key={Math.random()} className="updates">
       <h1 id="updates" className="category">Recent Updates</h1>
       <div className="updatesCard">
+        <h4>12/14/2024</h4>
+        <p>Addition:</p>
+        <ul>
+          <li><a href="https://www.instagram.com/grimgrimgrim215" target="_blank" rel="noreferrer">General: GrimGrimGrim</a></li>
+        </ul>
+
         <h4>11/20/2024</h4>
         <p>Additions:</p>
         <ul>
