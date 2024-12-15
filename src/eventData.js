@@ -4,7 +4,7 @@ export const BYMONTH = [
     events: ["All: Mushroom and Berry Foraging"],
   },
   {
-    period: "Maarch",
+    period: "March",
     events: ["Early: Media Film Festival"]
   },
   {
@@ -13,7 +13,7 @@ export const BYMONTH = [
   },
   {
     period: "May",
-    events: ["Mid: Fan Expo Philadelphia", "End: Philadelphia Latino Film Festival"]
+    events: ["Mid: Fan Expo Philadelphia", "Mid: Kensington Derby & Arts Fest", "End: Philadelphia Latino Film Festival"]
   },
   {
     period: "Summer",
@@ -53,7 +53,7 @@ export const BYMONTH = [
   },
   {
     period: "December",
-    events: ["Early: Krampus Fest & Night Market", "Mid: Santa Lucia & Market + Julbord Dinner", "Mid: Fishtown Freeze Weekend"]
+    events: ["Early: Krampus Fest & Night Market", "Mid: Santa Lucia & Market + Julbord Dinner", "Early: BSides Philly", "Mid: Fishtown Freeze Weekend"]
   }
 ];
 
@@ -80,7 +80,7 @@ export const BYWEEK = [
   },
   {
     period: "Second Weds",
-    events: ["7pm to 9pm: Mad Poets Societs Critique Circle - Wallingford Community Arts Center"]
+    events: ["7pm to 9pm: Mad Poets Society Critique Circle - Wallingford Community Arts Center"]
   },
   {
     period: "Second Thurs",
@@ -108,7 +108,7 @@ export const BYWEEK = [
   },
   {
     period: "Last Sat",
-    events: ["10am to 12:30am: Philly Free Market - Malcom X Park"]
+    events: ["10am to 12:30am: Philly Free Market - Malcolm X Park"]
   },
   {
     period: "Every Other Weds",
@@ -147,11 +147,11 @@ export const BYDAY = [
   },
   {
     period: "Fri",
-    events: ["8am: South Philly Food Not Bombs Grocery Distro - Mifflin Sqaure Park", "12pm to 4pm: Library Hours - LAVA Space", "1:30pm to 3:30pm: South Philly Punks With Lunch - Mifflin Square Park", "4:30pm: W Philly Food Not Bombs Hot Meal - Malcom X Park", "5pm: Food Not Bombs Solidary Grocery Distro - 60th and Market El Stop", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
+    events: ["8am: South Philly Food Not Bombs Grocery Distro - Mifflin Square Park", "12pm to 4pm: Library Hours - LAVA Space", "1:30pm to 3:30pm: South Philly Punks With Lunch - Mifflin Square Park", "4:30pm: W Philly Food Not Bombs Hot Meal - Malcolm X Park", "5pm: Food Not Bombs Solidary Grocery Distro - 60th and Market El Stop", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
   },
   {
     period: "Sat",
-    events: ["3pm: South Philly Food Not Bombs Hot Meal - Mifflin Sqaure Park", "10am: Wild Foodies of Philly Foraging Hike - Varies", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
+    events: ["3pm: South Philly Food Not Bombs Hot Meal - Mifflin Square Park", "10am: Wild Foodies of Philly Foraging Hike - Varies", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
   },
   {
     period: "Sun",

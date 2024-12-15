@@ -8,7 +8,7 @@ export const ANARCHISTPHILLY = [
   },
   {
     title: "Lancaster Avenue Autonomous Space",
-    summary: "“A community center for radical media and organizing located in the Belmont neighborhood of West Philadelphia.” Monthly free market, food distro, food share, SRA hoagie distro, workshops, movie nights, rooftop shows, zine/book library, art, WRC community fridge.",
+    summary: "“A community center for radical media and organizing located in the Belmont neighborhood of West Philadelphia.” Radical zine/book library and social center. 20 years in 2025! Monthly free market, food distro, food share, SRA hoagie distro, workshops, movie nights, rooftop shows, WRC community fridge, etc..",
     mainLink: "https://lavazone.org/",
     insta: "https://www.instagram.com/lavaspacephl",
     suggestedFollow: "Insta"
@@ -230,6 +230,13 @@ export const ANARCHISTPHILLY = [
     facebook: "https://www.facebook.com/homies.helping.homies.phl",
     insta: "https://www.instagram.com/homies.helping.homies",
     suggestedFollow: "Insta or FB",
+  },
+  {
+    title: "BSides Philadelphia",
+    summary: "“BSidesPhilly 2024 is Philadelphia’s premier cybersecurity conference, bringing together security professionals, hackers, researchers, and enthusiasts.“ First weekend of Dec, in last couple years.",
+    mainLink: "https://bsidesphilly.org/",
+    insta: "https://www.instagram.com/bsidesphilly",
+    suggestedFollow: "Check for annual event date in early winter",
   },
   {
     title: "It's Going Down: Upcoming Events",
@@ -538,6 +545,11 @@ export const CLOSED = [
     twitter: "https://x.com/phillyantifa",
     suggestedFollow: "Twitter",
   },
+  {
+    title: "Goo Lagoon",
+    summary: "“North Philly House Show Venue. Started Nov 2023. Hardcore, hardcore punk, screamo, emo, psychedelic, etc.“ Closed Sept. 2024 'due to internal conflicts.'",
+    insta: "https://www.instagram.com/goolagoon.phl/",
+  },
 ]
 
 export const CYCLING = [
@@ -618,7 +630,7 @@ export const CYCLING = [
   },
   {
     title: "Kensington Derby and Arts Festival",
-    summary: "“The Kensington Derby and Arts Fest celebrates the East Kensington neighborhood in Philadelphia, with art, food, music, drinks, and a parade of homemade human-powered sculptures.“ Includes Kinetic Sculpture Derby: DIY constructed human-powered vehicles of all sorts run a 3-mile obstacle laden course through Fishtown and East Kensington, with a final mud pit obstacle at race end.",
+    summary: "“The Kensington Derby and Arts Fest celebrates the East Kensington neighborhood in Philadelphia, with art, food, music, drinks, and a parade of homemade human-powered sculptures.“ Includes Kinetic Sculpture Derby: DIY constructed human-powered vehicles of all sorts run a 3-mile obstacle laden course through Fishtown and East Kensington, with a final mud pit obstacle at race end. Usually second weekend in May.",
     mainLink: "https://www.kensingtonkineticarts.org/",
     suggestedFollow: "n/a",
   },
@@ -963,8 +975,8 @@ export const FILMINDIE = [
     suggestedFollow: "Check site calendar monthly",
   },
   {
-    title: "Hiatus: Lightbox Film Center",
-    summary: "On hiatus due to sudden closure of University of Arts, where they hosted their films...Film classics, foreign, indie, and arthouse. Run a lot of film series, often by director. Greats of cinema (ex. Godard, Kurosawa), as well as arthouse (ex. 'The Draughtsman's Contract' restoration).",
+    title: "Lightbox Film Center",
+    summary: "Film classics, foreign, indie, and arthouse. Run a lot of film series, often by director. Greats of cinema (ex. Godard, Kurosawa), as well as arthouse (ex. 'The Draughtsman's Contract' restoration). Now showing at Bok Auditorium.",
     mainLink: "https://lightboxfilmcenter.org/",
     facebook: "https://www.facebook.com/LightboxFilmCenter",
     insta: "https://www.instagram.com/lightboxfilmcenter/",
@@ -1074,7 +1086,7 @@ export const GENERAL = [
   },
   {
     title: "GrimGrimGrim",
-    summary: "Another recognizable Philly artist, GrimGrimGrim has made countless posters for local hardcore, metal, etc. bands, and also creates t-shirts, prints, bumper stickers, hats, and more. Art often features Grim and monsterous versions of Philly icons, like Gritty, Phillie Phanatic, WaWa, and Cheesteaks.",
+    summary: "Another recognizable Philly artist, GrimGrimGrim has made many posters for local hardcore, metal, etc. bands, and also creates t-shirts, prints, bumper stickers, hats, and more. Art often features grimkvlt versions of Philly icons, like Gritty, Phillie Phanatic, WaWa, and Cheesteak.",
     mainLink: "https://www.grimgrimgrim.com",
     facebook: "https://www.facebook.com/GRIM6GRIM6GRIM6",
     insta: "https://www.instagram.com/grimgrimgrim215",
@@ -1486,6 +1498,14 @@ export const LITERATURE = [
     insta: "https://www.instagram.com/philly.print.consortium/",
     suggestedFollow: "Check fair site in early spring for annual date",
   },
+  {
+    title: "The Soapbox",
+    summary: "“The Soapbox is a nonprofit community print shop, book and zine making center, and library of 3,500 rare handmade publications.“ Throws zine fests, holds workshops (ex. screen printing 101), etc..",
+    mainLink: "https://www.phillysoapbox.org/",
+    facebook: "https://www.facebook.com/phillysoapbox",
+    insta: "https://www.instagram.com/phillysoapbox/",
+    suggestedFollow: "Site calendar",
+  },
 ];
 
 export const MUSICABOVEPHILLY = [
@@ -1495,18 +1515,46 @@ export const MUSICABOVEPHILLY = [
     insta: "https://www.instagram.com/cousindannyslounge/",
   },
   {
+    title: "Ortlieb's",
+    summary: "North Philly dive bar and restaurant. Local bands, DJs, karaoke Tuesdays, dance parties.",
+    mainLink: "https://ortliebsphilly.com/",
+    facebook: "https://www.facebook.com/OrtliebsPhilly/",
+    insta: "https://www.instagram.com/ortliebsphilly/",
+  },
+  {
+    title: "Underground Arts",
+    summary: "“From experimental theater to drag fashion shows, and plenty of concerts. A home for visual artists, UA houses installations by Philly locals, among many others.” Weds night open mics. Monthly Horror Movie Mondays. Punk, hardcore, indie, metal, emo, dance parties, hip hop, stand up, art shows.",
+    mainLink: "https://undergroundarts.org/",
+    facebook: "https://www.facebook.com/UndergroundArtsPhilly/",
+    insta: "https://www.instagram.com/undrgroundarts/",
+  },
+  {
+    title: "Kung Fu Necktie",
+    summary: "Small 140 capacity music venue. Garage rock, punk, folk punk, ska, noise rock, goth, hardcore, crossover, emo, synth-pop. Big name and local bands.",
+    mainLink: "https://kungfunecktie.com/",
+    facebook: "https://www.facebook.com/kungfunecktie/",
+    insta: "https://www.instagram.com/kungfunecktie_bar/",
+  },
+  {
+    title: "MilkBoy",
+    summary: "Bar and restaurant with an area for shows in the back. Local and non-local bands. South street location also does open mic, video game nights, etc..",
+    mainLink: "https://milkboyphilly.com/",
+    facebook: "https://www.facebook.com/MilkBoyPhilly/",
+    insta: "https://www.instagram.com/milkboyphilly/",
+  },
+  {
+    title: "Silk City",
+    summary: "Super old school diner and bar with big area outdoors. Shows, a couple times a week, sometimes metal.",
+    mainLink: "https://www.silkcityphilly.com/",
+    facebook: "https://www.facebook.com/silkcityphilly/",
+    insta: "https://www.instagram.com/silkcitydiner",
+  },
+  {
     title: "The Rotunda",
     summary: "“We are a live performing arts and a multi-cultural sober space designed to fit the needs of Philly curators and creatives.” Shows, but also poetry, dance events, film, speakers, workshops, etc.",
     mainLink: "https://therotunda.org/ ",
     facebook: "https://www.facebook.com/therotundaphilly ",
     insta: "https://www.instagram.com/the_rotunda_philly/",
-  },
-  {
-    title: "Bar XIII Delaware",
-    summary: "“We are Delaware’s Home for Unique entertainment, Strange people and Live Music”. 40 mins out of Philly. Gothy place with punk, metal, industrial, etc. shows, burlesque, karaoke, sexy bingo, comedy nights. Home of Asylum 13, a “weekly 21+ kinky dark alternative dance party“.",
-    mainLink: "http://barxiii.com/",
-    facebook: "https://www.facebook.com/BarXIIIDelaware",
-    insta: "https://www.instagram.com/barxiiidelaware/",
   },
   {
     title: "Dawson Street Pub",
@@ -1523,26 +1571,12 @@ export const MUSICABOVEPHILLY = [
     insta: "https://www.instagram.com/dolphinphilly",
   },
   {
-    title: "MilkBoy",
-    summary: "Bar and restaurant with an area for shows in the back. Local and non-local bands. South street location also does open mic, video game nights, etc..",
-    mainLink: "https://milkboyphilly.com/",
-    facebook: "https://www.facebook.com/MilkBoyPhilly/",
-    insta: "https://www.instagram.com/milkboyphilly/",
-  },
-  {
     title: "The Fire",
     summary: "Female-owned “grass roots rock club” dive bar and show venue. Mostly hardcore & punk. Some metal, goth, indie. ",
     mainLink: "https://www.firephilly.com/",
     subLink: "",
     facebook: "https://www.facebook.com/thefirephilly/",
     insta: "https://www.instagram.com/firephilly/",
-  },
-  {
-    title: "Underground Arts",
-    summary: "“From experimental theater to drag fashion shows, and plenty of concerts. A home for visual artists, UA houses installations by Philly locals, among many others.” Weds night open mics. Monthly Horror Movie Mondays. Punk, hardcore, indie, metal, emo, dance parties, hip hop, stand up, art shows.",
-    mainLink: "https://undergroundarts.org/",
-    facebook: "https://www.facebook.com/UndergroundArtsPhilly/",
-    insta: "https://www.instagram.com/undrgroundarts/",
   },
   {
     title: "Century",
@@ -1572,25 +1606,11 @@ export const MUSICABOVEPHILLY = [
     insta: "https://www.instagram.com/uniontransfer/",
   },
   {
-    title: "Kung Fu Necktie",
-    summary: "Small 140 capacity music venue. Garage rock, punk, folk punk, ska, noise rock, goth, hardcore, crossover, emo, synth-pop. Big name and local bands.",
-    mainLink: "https://kungfunecktie.com/",
-    facebook: "https://www.facebook.com/kungfunecktie/",
-    insta: "https://www.instagram.com/kungfunecktie_bar/",
-  },
-  {
     title: "The Pharmacy",
     summary: "Coffee shop and gallery with shows. Indie, punk, hardcore, metal, electronic.",
     mainLink: "https://www.thepharmacyphilly.org/",
     facebook: "https://www.facebook.com/thepharmacycoffee/",
     insta: "https://www.instagram.com/thepharmacycoffee/",
-  },
-  {
-    title: "Silk City",
-    summary: "Super old school diner and bar with big area outdoors. Shows, a couple times a week, sometimes metal.",
-    mainLink: "https://www.silkcityphilly.com/",
-    facebook: "https://www.facebook.com/silkcityphilly/",
-    insta: "https://www.instagram.com/silkcitydiner",
   },
   {
     title: "Ukie Club",
@@ -1603,13 +1623,6 @@ export const MUSICABOVEPHILLY = [
     summary: "First Unitarian Church of Philadelphia. Semi-frequent punk, hardcore, other, shows. Also home of the Philadelphia Animation Society. Located in a busy spot in Center City so ride a bike to avoid paying for expensive parking.",
     mainLink: "https://philauu.org/",
     subLink: "https://www.songkick.com/venues/10848-first-unitarian-church",
-  },
-  {
-    title: "Ortlieb's",
-    summary: "North Philly dive bar and restaurant. Local bands, DJs, karaoke Tuesdays, dance parties.",
-    mainLink: "https://ortliebsphilly.com/",
-    facebook: "https://www.facebook.com/OrtliebsPhilly/",
-    insta: "https://www.instagram.com/ortliebsphilly/",
   },
   {
     title: "Ray’s Happy Birthday Bar",
@@ -1707,6 +1720,13 @@ export const MUSICABOVEPHILLY = [
     mainLink: "https://www.saintvitusbar.com/",
     facebook: "https://www.facebook.com/saintvitusbar",
     insta: "https://www.instagram.com/saintvitusbar",
+  },
+  {
+    title: "Bar XIII Delaware",
+    summary: "“We are Delaware’s Home for Unique entertainment, Strange people and Live Music”. 40 mins out of Philly. Gothy place with punk, metal, industrial, etc. shows, burlesque, karaoke, sexy bingo, comedy nights. Home of Asylum 13, a “weekly 21+ kinky dark alternative dance party“.",
+    mainLink: "http://barxiii.com/",
+    facebook: "https://www.facebook.com/BarXIIIDelaware",
+    insta: "https://www.instagram.com/barxiiidelaware/",
   },
 ];
 
@@ -2067,14 +2087,6 @@ export const MUSICDIYGENPHL = [
     insta: "https://www.instagram.com/breakfreefest/",
     suggestedFollow: "Check insta in mid spring for ann. date.",
   },
-  {
-    title: "The Soapbox",
-    summary: "“The Soapbox is a nonprofit community print shop, book and zine making center, and library of 3,500 rare handmade publications.“ Throws zine fests, holds workshops (ex. screen printing 101), etc..",
-    mainLink: "https://www.phillysoapbox.org/",
-    facebook: "https://www.facebook.com/phillysoapbox",
-    insta: "https://www.instagram.com/phillysoapbox/",
-    suggestedFollow: "Site calendar",
-  },
 ];
 
 export const MUSICDIYSPOTSPHL = [
@@ -2348,11 +2360,6 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/minimart.phl/",
   },
   {
-    title: "Goo Lagoon",
-    summary: "“North Philly House Show Venue. Started Nov 2023. Hardcore, hardcore punk, screamo, emo, psychedelic, etc.“",
-    insta: "https://www.instagram.com/goolagoon.phl/",
-  },
-  {
     title: "The Zapp Factory",
     summary: "“Underground Philly Music & Art Studio. ⚡️Home of The Zapp Test⚡️. A hub for creatives and artistic communities.“ Psychedelic rock, reggae, mathcore, etc.",
     insta: "https://www.instagram.com/zappfactory/",
@@ -2397,7 +2404,6 @@ export const MUSICDIYSPOTSPHL = [
     title: "Bond Villain",
     summary: "Long running North Philly warehouse venue. Dreampop, post-punk, reggae, techno, analog VJ's, and more. Food, drinks, karaoke, dodgeball, and good vibes. No longer throws regular shows, but still has annual Halloween shows.",
     insta: "https://www.instagram.com/bond.villain/",
-    suggestedFollow: "Insta",
   },  
 ];
 

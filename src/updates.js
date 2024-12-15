@@ -7,9 +7,18 @@ export const Updates = () => {
       <h1 id="updates" className="category">Recent Updates</h1>
       <div className="updatesCard">
         <h4>12/14/2024</h4>
-        <p>Addition:</p>
+        <p>Additions:</p>
         <ul>
           <li><a href="https://www.instagram.com/grimgrimgrim215" target="_blank" rel="noreferrer">General: GrimGrimGrim</a></li>
+          <li><a href="https://bsidesphilly.org/" target="_blank" rel="noreferrer">Anarchist, Rad, & Adjacent: Bsides Philly</a></li>
+        </ul>
+        <p>Closed Space:</p>
+        <ul>
+          <li><a href="https://www.instagram.com/goolagoon.phl/" target="_blank" rel="noreferrer">DIY Spots: Goo Lagoon</a></li>
+        </ul>
+        <p>Update:</p>
+        <ul>
+          <li><a href="https://lightboxfilmcenter.org/" target="_blank" rel="noreferrer">Indie/Arthouse Theater: Lightbox Film Center</a> <b>is back</b> following losing its old U of Arts home, now showing at Bok Auditorium.</li>
         </ul>
 
         <h4>11/20/2024</h4>
@@ -23,11 +32,11 @@ export const Updates = () => {
           <li><a href="https://www.facebook.com/rwthphilly/" target="_blank" rel="noreferrer">Rolling with the Homos</a></li>
           <li><a href="https://phillyantifa.org/" target="_blank" rel="noreferrer">Philly Antifa</a></li>
         </ul>
-        <p>Verification:</p>
+        {/* <p>Verification:</p>
         <ul>
           <li>Verified "still active" for all "Anarchist, Rad, & Adjacent" entries & their socials. Some socials updated or removed.</li>
           <li>Verification of existing "Events by [Dates]" entries still accurate.</li>
-        </ul>
+        </ul> */}
 
 
         <h4>11/19/2024</h4>
