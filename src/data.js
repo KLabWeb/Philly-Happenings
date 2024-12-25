@@ -116,7 +116,7 @@ export const ANARCHISTPHILLY = [
   },
   {
     title: "Hudson Valley Earth First!",
-    summary: "Hosted National EF! Rody (RRR) July 2-9, 2024 in so-called northeastern Pennsylvania. Also hosted EF! RRR in 2018 in so-called Ohio. Not very active online, but active on the ground, where it counts.",
+    summary: "Hosted National EF! Rody (RRR) July 2-9, 2024 in so-called northeastern Pennsylvania. Also hosted EF! RRR in 2018 in so-called Ohio. Not very active online, but active on the ground.",
     mainLink: "https://earthfirstjournal.news/",
   },
   {
