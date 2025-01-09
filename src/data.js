@@ -1881,6 +1881,14 @@ export const MUSICDIYCOLLECTIVESPHL = [
     insta: "https://www.instagram.com/_drexeldragons_den/",
   },
   {
+    title: "Relapse Records",
+    summary: "Located in Upper Darby, PA and started in a Colorado basement. Grindcore, crust punk, death metal, hardcore, sludge metal, black metal, folk metal, and more, with local bands such as Devil Master and Baroness, and other noteable worldwide bands, like, Zouo, Wolves in the Throne Room, G.I.S.M., Iron Reagan, Chris Connelly, and Merzbow. PA is truly blessed to house this label. Check them out!",
+    insta: "https://www.instagram.com/relapserecords",
+    facebook: "https://www.facebook.com/RelapseRecords/",
+    mainLink: "https://www.relapse.com/",
+    subLink: "https://relapserecords.bandcamp.com/",
+  },
+  {
     title: "Jersey Show Scene",
     summary: "“Masterlist of jerseys music scene. notaflof - Woman ran @gabbyice_.“ A New Jersey DIY show listing account, posting weekly DIY show lists, similar to the style of House Show Philly.",
     insta: "https://www.instagram.com/jerseyshowscene/",

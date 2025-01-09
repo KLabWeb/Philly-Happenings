@@ -6,6 +6,12 @@ export const Updates = () => {
     <div key={Math.random()} className="updates">
       <h1 id="updates" className="category">Recent Updates</h1>
       <div className="updatesCard">
+        <h4>01/09/2025</h4>
+        <p>Addition:</p>
+        <ul>
+          <li><a href="https://relapserecords.bandcamp.com/" target="_blank" rel="noreferrer">Label: Relapse Records</a></li>
+        </ul>
+        
         <h4>12/14/2024</h4>
         <p>Additions:</p>
         <ul>
