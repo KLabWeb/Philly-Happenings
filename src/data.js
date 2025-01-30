@@ -249,7 +249,7 @@ export const ANARCHISTPHILLY = [
 export const ANIMEPHILLY = [
   {
     title: "Philadelphia Animation Society",
-    summary: "Monthly in-person meetings at FU church, 5pm to 10pm, every 2nd Saturday of the month. 41 years and running!!! Needs new members! Please attend!",
+    summary: "Monthly in-person meetings at FU church, 5pm to 10pm, every 2nd Saturday of the month. 42 years and running!!! Needs new members! Please attend!",
     facebook: "https://www.facebook.com/PhiladelphiaAnimationSociety",
     suggestedFollow: "Facebook",
   },
@@ -265,30 +265,14 @@ export const ANIMEPHILLY = [
     mainLink: "https://fanexpohq.com/fanexpophiladelphia/",
     facebook: "https://www.facebook.com/FANEXPOPhiladelphia",
     insta: "https://www.instagram.com/fanexpophiladelphia/",
-    suggestedFollow: "Check site for con date and early bird ticket sales date at start of Nov",
-  },
-  {
-    title: "Puchicon",
-    summary: "“Anime, Gaming, Comics Convention run by a Latina mom with ADHD.” Small con, about 1,500 attendees. Spring con in NJ and fall con in the Poconos. Hosts pop-up anime events, also.",
-    mainLink: "https://www.puchicon.com/",
-    facebook: "https://www.facebook.com/puchicon",
-    insta: "https://www.instagram.com/puchicon/",
-    suggestedFollow: "Check FB occasionally, for local events and con dates",
+    suggestedFollow: "Check site for con date and early bird ticket sales date at start of spring",
   },
   {
     title: "Philly Otaku",
-    summary: "Philly otaku group throwing events, meetups, etc.. Small conventions, sit and draws, cosplay photoshoots, dance parties, most often at Cherry Street Pier. OtakuCon @ Cherry Street Pier, mid spring, annually",
+    summary: "Group of otaku in Philly who throw events, host meetups, etc.. Small conventions, sit and draws, cosplay photoshoots, dance parties, most often at Cherry Street Pier. OtakuCon @ Cherry Street Pier, mid spring, annually",
     facebook: "https://www.facebook.com/phillyotaku",
     insta: "https://www.instagram.com/phillyotaku",
     suggestedFollow: "Insta",
-  },
-  {
-    title: "J1-Con",
-    summary: "“Anime & Gaming Expo. Are you a fan of animation, cosplay, gaming (tabletop, card and console), artists, vendors, panels, and live music? You’ve come to the right convention! 13 YEARS! Longest running black owned anime convention in the USA!“ Usually first weekend of November. A few thousand attendees, generally.",
-    mainLink: "https://j1con.com/",
-    facebook: "https://www.facebook.com/j1con/",
-    insta: "https://www.instagram.com/j1con/",
-    suggestedFollow: "Check site early fall for annual con date.",
   },
   {
     title: "Chibi Café",
@@ -296,16 +280,31 @@ export const ANIMEPHILLY = [
     mainLink: "https://www.chibicafeco.com/",
     facebook: "https://www.facebook.com/chibicafeco",
     insta: "https://www.instagram.com/chibi_cafe_co/",
-    suggestedFollow: "Check FB once a month for calendar",
+    suggestedFollow: "Check site once a month for calendar",
+  },
+  {
+    title: "J1-Con",
+    summary: "“Anime & Gaming Expo. Are you a fan of animation, cosplay, gaming (tabletop, card and console), artists, vendors, panels, and live music? You’ve come to the right convention! 13 YEARS! Longest running black owned anime convention in the USA!“ Usually first weekend of November. A few thousand attendees, generally.",
+    facebook: "https://www.facebook.com/j1con/",
+    insta: "https://www.instagram.com/j1con/",
+    suggestedFollow: "Check site early fall for annual con date",
   },
   {
     title: "Anime NYC",
-    summary: "NYC Convention, usually in November. Huge attendance, with 60k people in 2023, makign it one of the largest cons in America. Newer con (only since 2017), but still had 20k at first con, too. Seems to have a lot of “new con” problems. Weekend badges sell out FAST.",
+    summary: "NYC Convention each year in late summer. Huge attendance, with 100k people in 2024, making it one of the largest cons in America. Newer con (only since 2017), but still had 20k at first con, too. Weekend badges sell out FAST.",
     mainLink: "https://animenyc.com/",
     subLink: "https://www.facebook.com/animenyc",
     facebook: "https://www.facebook.com/groups/animenycon/",
     insta: "https://www.instagram.com/animenyc/",
-    suggestedFollow: "Check events on unofficial FB bi-monthly. Check official FB in April for ticket sales dates.",
+    suggestedFollow: "Check site for annual con date at start of summer",
+  },
+  {
+    title: "Puchicon",
+    summary: "“Anime, Gaming, Comics Convention run by a Latina mom with ADHD.” Small con, a few 1-3k attendees. In October, annually, 2 hrs N of Philly, in Fort Lee, NJ.",
+    mainLink: "https://www.puchicon.com/",
+    facebook: "https://www.facebook.com/puchicon",
+    insta: "https://www.instagram.com/puchicon/",
+    suggestedFollow: "Check FB occasionally, for local events and con dates",
   },
   {
     title: "Otakon",
@@ -313,7 +312,7 @@ export const ANIMEPHILLY = [
     mainLink: "https://www.otakon.com/",
     facebook: "https://www.facebook.com/Otakon",
     insta: "https://www.instagram.com/otakonpics/",
-    suggestedFollow: "Check site in late Nov year prior for badge sales date.",
+    suggestedFollow: "Check site mid spring for badge sales date",
   },
 ];
 
@@ -555,14 +554,14 @@ export const CLOSED = [
 export const CYCLING = [
   {
     title: "Cycle Scene PHL",
-    summary: "General Philly bike group. Good for finding events, especially usual ride dates for Night Cyle, Full Moon Bike Ride, etc.",
+    summary: "General Philly bike punk group. Good for finding rides, especially ride dates for upcoming Night Cyle, Full Moon Bike Ride, Bike Party, and NW Night rides",
     facebook: "https://www.facebook.com/groups/cyclescenephl",
     insta: "https://www.instagram.com/cyclescenephl/",
-    suggestedFollow: "Insta (more updated with less group member flood posting)",
+    suggestedFollow: "Insta (more updated)",
   },
   {
     title: "The Trellis",
-    summary: "“This site began in June 2023 and aims to document and elevate Philly biking culture.“ Blog. Posts on rides, news, routes, local cycling teams. Maintains a nice calendar of local rides.",
+    summary: "“This site began in June 2023 and aims to document and elevate Philly biking culture.“ Blog. Posts on rides, news, routes, local cycling teams. Maintains a nice calendar of local rides recurring and annual rides.",
     mainLink: "https://www.thetrellisphilly.com/",
     facebook: "https://www.facebook.com/thetrellisphilly/",
     insta: "https://www.instagram.com/thetrellisphilly/",
@@ -586,6 +585,7 @@ export const CYCLING = [
     summary: "“Ride bikes! make friends! hop on! Monthly thematic slow cruisin' rides meet at the art museum and make frequent party breaks!”",
     facebook: "https://www.facebook.com/philliebikeparte/",
     insta: "https://www.instagram.com/phillybikeparty/",
+    suggestedFollow: "Insta or FB"
   },
   {
     title: "Northwest Night Rides",
@@ -595,8 +595,10 @@ export const CYCLING = [
   },
   {
     title: "Bicycle Club of Philadelphia",
-    summary: "Non-profit that hosts group bike rides and allows others to post rides. Usually 10 to 25 miles. Multiple rides per day. In-the-city and local scenic rides.",
+    summary: "Non-profit that hosts group bike rides and allows others to post rides. Usually 10 to 25 miles. Often multiple rides per day. In-the-city and local scenic rides.",
     mainLink: "https://phillybikeclub.org/bcpdo/ride/calendar",
+    facebook: "https://www.facebook.com/groups/7137952857",
+    insta: "https://www.instagram.com/bicycleclubphl",
     suggestedFollow: "Site calendar check monthly",
   },
   {
@@ -611,18 +613,21 @@ export const CYCLING = [
     title: "Bicycle Coalition of Greater Philadelphia",
     summary: "Bike streets and trails in Philly, regional bike map, Philly and regional cycling programs, local cycling resources, bike news.",
     mainLink: "https://bicyclecoalition.org/",
-    suggestedFollow: "n/a",
+    facebook: "https://www.facebook.com/bicycle.coalition/",
+    insta: "https://www.instagram.com/bicyclecoalition",
+    suggestedFollow: "Insta or FB",
   },
   {
     title: "Philly Bike Action!",
     summary: "“Safe, protected bike lanes for Philly. We’re committed to the safety, dignity, and convenience of people who ride bicycles in Philadelphia. Visit our website to sign up for our newsletter and our Discord server.“ ",
     mainLink: "https://bikeaction.org/",
     insta: "https://www.instagram.com/phlbikeaction",
+    facebook: "https://www.facebook.com/p/Philly-Bike-Action-61556592972926/",
     suggestedFollow: "Insta",
   },
   {
     title: "Keystone Bicycle Co.",
-    summary: "“Keystone Bicycle Co. is a full-service bicycle shop serving a variety of cycling groups in Philadelphia, from adventure and distance cyclists to everyday commuters and casual riders. As a worker-owned cooperative, we practice democratic decision making, collective ownership, and community engagement. KBC aims to be a hub for cycling advocacy and inspiration in Philadelphia.“ Host events such as bike swaps, overnight bike camping trips, etc.",
+    summary: "“Keystone Bicycle Co. is a full-service bicycle shop serving a variety of cycling groups in Philadelphia. As a worker-owned cooperative, we practice democratic decision making, collective ownership, and community engagement. KBC aims to be a hub for cycling advocacy and inspiration in Philadelphia.“ Host events such as bike swaps, and overnight bike camping trips, as well as repair and wheel building classes",
     mainLink: "https://keystone.bike/",
     facebook: "https://www.facebook.com/keystone.bike/",
     insta: "https://www.instagram.com/keystone.bike/",
@@ -632,6 +637,8 @@ export const CYCLING = [
     title: "Kensington Derby and Arts Festival",
     summary: "“The Kensington Derby and Arts Fest celebrates the East Kensington neighborhood in Philadelphia, with art, food, music, drinks, and a parade of homemade human-powered sculptures.“ Includes Kinetic Sculpture Derby: DIY constructed human-powered vehicles of all sorts run a 3-mile obstacle laden course through Fishtown and East Kensington, with a final mud pit obstacle at race end. Usually second weekend in May.",
     mainLink: "https://www.kensingtonkineticarts.org/",
+    facebook: "https://www.facebook.com/kensingtonkineticarts",
+    insta: "https://www.instagram.com/kensingtonkineticarts",
     suggestedFollow: "n/a",
   },
   {

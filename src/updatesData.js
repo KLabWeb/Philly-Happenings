@@ -1,5 +1,21 @@
 export const UPDATES = [
     {
+        header: "01/30/2025",
+        categoryUpdateLists: [
+            { 
+                type: "Additions:",
+                updateList: [
+                    // {
+                    //     label: "Label: Confirmed Anime, ",
+                    // },
+                    {
+                        label: "Added missing social media links for Bicycle Club of Philadelphia, Bicycle Coalition of Greater Philadelphia, Philly Bike Action!, and Kensington Derby and Arts Festival."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         header: "01/09/2025",
         categoryUpdateLists: [
             { 
