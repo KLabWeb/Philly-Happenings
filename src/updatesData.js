@@ -2,14 +2,34 @@ export const UPDATES = [
     {
         header: "01/30/2025",
         categoryUpdateLists: [
-            { 
-                type: "Additions:",
-                updateList: [
+            // { 
+            //     type: "Additions:",
+            //     updateList: [
                     // {
-                    //     label: "Label: Confirmed Anime, ",
+                    //     label: "Label: VERIFIED Anime, Cycling, Film",
                     // },
+                    // {
+                    //     label: "Added some missing social media links"
+                    // },
+                    // {
+                    //     label: "Added some events to events-by-date calenders"
+                    // }
+            //     ]
+            // },
+            { 
+                type: "Removed (no longer exist):",
+                updateList: [
                     {
-                        label: "Added missing social media links for Bicycle Club of Philadelphia, Bicycle Coalition of Greater Philadelphia, Philly Bike Action!, and Kensington Derby and Arts Festival."
+                        label: "Philly Fun Guide Playing and Coming Soon Films List",
+                        href: "https://phillyfunguide.com/film",
+                    },
+                    {
+                        label: "Underground Arts Monthly Horror Movies",
+                        href: "https://undergroundarts.org/",
+                    },
+                    {
+                        label: "Media Fright Fest",
+                        href: "https://www.mediaartscouncil.org/",
                     }
                 ]
             }

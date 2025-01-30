@@ -1,11 +1,11 @@
 export const BYMONTH = [
   {
     period: "Spring",
-    events: ["All: Mushroom and Berry Foraging"],
+    events: ["All: Mushroom and Berry Foraging", "Mid: OtakuCon", "Late: Fan Expo Philadelphia"],
   },
   {
     period: "March",
-    events: ["Early: Media Film Festival"]
+    events: ["Late: Annual Ghoulastic Book Fair", "Late: Media Film Festival"]
   },
   {
     period: "April",
@@ -17,11 +17,11 @@ export const BYMONTH = [
   },
   {
     period: "Summer",
-    events: ["All: Berry Foraging", "All: Movies on the Block", "All: Cinema in the Cemetery", "Mid: Anarchist Skill Share", "Mid: Big Picture Film Fest"]
+    events: ["All: Berry Foraging", "All: Movies on the Block", "All: Cinema in the Cemetery", "Early: Philadelphia Independent Film Festival", "Mid: Anarchist Skill Share", "Mid: Big Picture Film Fest", "Late: Otakon"]
   },
   {
     period: "June",
-    events: ["Early: West Philly Porchfest", "Early: Philadelphia Independent Film Festival", "End: Midsommar"]
+    events: ["Early: West Philly Porchfest", "End: Midsommar"]
   },
   {
     period: "July",
@@ -33,15 +33,15 @@ export const BYMONTH = [
   },
   {
     period: "Fall",
-    events: ["All: Mushroom Foraging (where's the rain???)"]
+    events: ["All: Mushroom Foraging (where's the rain???)", "Late: J1-Con"]
   },
   {
     period: "September",
-    events: ["All: Philadelphia Fringe Festival", "Mid: 20/20 Photo Festival", "Mid: Running Down the Walls", "Mid: NYC Anarchist Book Fair", "End: Philadelphia Unnamed Film Festival"]
+    events: ["All: Philadelphia Fringe Festival", "Mid: 20/20 Photo Festival", "Mid: Running Down the Walls", "Mid: Market of the Macabre", "Mid: NYC Anarchist Book Fair", "End: Philadelphia Unnamed Film Festival"]
   },
   {
     period: "October",
-    events: ["Early: Mad Poets Festival", "Mid: Philadelphia Film Festival", "End: Exhumed Films 24 Hour Horror-thon", "End: Halloween Hikes and Hayrides in Fairmount Park"]
+    events: ["Early: Mad Poets Festival", "Early: Puchicon", "Mid: Philadelphia Film Festival", "End: Exhumed Films 24 Hour Horror-thon", "End: Halloween Hikes and Hayrides in Fairmount Park"]
   },
   {
     period: "November",
@@ -108,7 +108,7 @@ export const BYWEEK = [
   },
   {
     period: "Every Other Weds",
-    events: ["2pm to 4pm: Volunteer Zine Folding Session   - Iffy Books"]
+    events: ["2pm to 4pm: Volunteer Zine Folding Session - Iffy Books", "7pm: Northwest Night Rides"]
   },
   {
     period: "Every Other Sun",
@@ -116,7 +116,7 @@ export const BYWEEK = [
   },
   {
     period: "Varying",
-    events: ["The Secret Cinema - Varies", "Night Cycle - Varies"]
+    events: ["The Secret Cinema - Varies", "Night Cycle - Varies", "Bike Party - Varies"]
   },  
   {
     period: "On the Full Moon",
