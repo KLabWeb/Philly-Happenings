@@ -3,7 +3,7 @@ import "./App.css";
 
 export const HappeningNow = () => {
   return (
-    <div key={Math.random()} >
+    <div>
       <h1 id="happeningNow" className="category">Happening Now</h1>
       <div className="happeningNowCard">
           

@@ -2298,7 +2298,7 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "Our House",
-    summary: "”West Philly | NOT a Psy-op. Monthly Music. est. 2023.” Basement venue.",
+    summary: "”West Philly | NOT a Psy-op. Monthly Music. est. 2023.” Basement spot started spring 2023. Primal emo noises and post-hardcore cacophony, amongst other sounds.",
     insta: "https://www.instagram.com/ourhousephl/",
   },
   {
@@ -2336,11 +2336,6 @@ export const MUSICDIYSPOTSPHL = [
     title: "The Ankle Pit",
     summary: "“𝚚𝚞𝚎𝚎𝚛 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚜𝚑𝚘𝚠𝚌𝚊𝚜𝚎 𝚒𝚗 𝚠𝚎𝚜𝚝 𝚙𝚑𝚒𝚕𝚕𝚢, 𝚋𝚛𝚘𝚞𝚐𝚑𝚝 𝚝𝚘 𝚢𝚘𝚞 𝚋𝚢 𝚖𝚒𝚕𝚘 𝚗 𝚖𝚓. 𝚃𝚑𝚎𝚛𝚎𝚜 1 𝚌𝚊𝚝 𝚑𝚎𝚛𝚎, 𝚊𝚗𝚍 𝚠𝚎 𝚑𝚊𝚟𝚎 𝚑𝚟𝚊𝚌. 𝙳𝚒𝚍 𝚠𝚎 𝚖𝚎𝚗𝚝𝚒𝚘𝚗 𝚠𝚎'𝚛𝚎 𝚚𝚞𝚎𝚎𝚛“ NOTAFLOF. Started May 2023. Basement spot.",
     insta: "https://www.instagram.com/theanklepit/",
-  },
-  {
-    title: "Our House",
-    summary: "“West Philly | NOT a Psy-op. Monthly Music.“ Basement spot started spring 2023. Primal emo noises and post-hardcore cacophony, amongst other sounds.",
-    insta: "https://www.instagram.com/ourhousephl/",
   },
   {
     title: "The Garden House",

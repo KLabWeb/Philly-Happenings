@@ -37,7 +37,7 @@ export const VideoPlayer = () => {
   return (
     <>
       <h1 className="category" id="mid-page">Ah, a weary traveller. Welcome to the mid page. Come rest for a moment.</h1>
-      <div className="videoCard" key={Math.random()} >
+      <div className="videoCard">
         <div className="videoContainer">
             {showImg 
               ? <>

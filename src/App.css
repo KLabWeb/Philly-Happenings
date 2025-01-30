@@ -73,11 +73,35 @@ p {
   display: block;
 }
 
-.aboutCard a, .videoCard a, .updatesCard a {
+.aboutCard a, .videoCard a, .updatesCardContainer li > a {
   color: rgb(0, 255, 255);
   display: inline-block;
   font-size: 1.1em;
 }
+
+.aboutCard a, .videoCard a, .updatesCardContainer li > p {
+  font-size: 1.1em;
+  vertical-align: text-middle;
+}
+
+.updatesCardContainer li > * {
+  margin: .2em
+}
+
+.updatesCardContainer > p {
+  margin: 0
+}
+
+.updatesButton {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  color: rgb(61, 255, 61);
+  background-color: black;
+  font-size: 1em;
+  border-radius: 5px;
+  padding: .4em;
+}
+
 
 .noticeImage {
   margin-top: 20px;
@@ -101,7 +125,7 @@ p {
   display: none;
 }
 
-.card, .dateCard, .headerIndex, .forageCard, .aboutCard, .indexImageCard, .videoCard, .updatesCard {
+.card, .dateCard, .headerIndex, .forageCard, .aboutCard, .indexImageCard, .videoCard, .updatesCardContainer {
   padding: 0em 3em 1em 3em;
   max-width: 100%;
   margin: auto;
@@ -129,7 +153,7 @@ p {
     width: 70%;
   }
 
-  .aboutCard, .updatesCard {
+  .aboutCard, .updatesCardContainer {
     width: 50%;
     margin-bottom: 50px;
   }
@@ -185,12 +209,12 @@ p {
   font-size: 1.2em;
 }
 
-.card .suggestedFollow, .dateItem, .forageItem, .aboutCard p, .updatesCard p {
+.card .suggestedFollow, .dateItem, .forageItem, .aboutCard p, .updatesCardContainer p {
   color: rgb(255, 255, 0);
   margin-bottom: 2px;
 }
 
-.dateTitle, .dateItem, .forageItem, .aboutCard p, .updatesCard p {
+.dateTitle, .dateItem, .forageItem, .aboutCard p, .updatesCardContainer p {
   text-align: left;
 }
 
@@ -254,6 +278,7 @@ video {
   flex-flow: column;
   text-align: left;
   color: rgb(255, 255, 0);
+  margin: 0
 }
 
 .localInfo {
@@ -273,7 +298,7 @@ video {
   .CardContainer{
     width: 95%;
   }
-  .aboutCard, .updatesCard {
+  .aboutCard, .updatesCardContainer {
     margin-bottom: 50px;
   }
   .videoCard  {

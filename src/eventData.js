@@ -37,15 +37,11 @@ export const BYMONTH = [
   },
   {
     period: "September",
-    events: ["All: Philadelphia Fringe Festival", "Mid: 20/20 Photo Festival", "Mid: NYC Anarchist Book Fair", "End: Philadelphia Unnamed Film Festival"]
+    events: ["All: Philadelphia Fringe Festival", "Mid: 20/20 Photo Festival", "Mid: Running Down the Walls", "Mid: NYC Anarchist Book Fair", "End: Philadelphia Unnamed Film Festival"]
   },
   {
     period: "October",
     events: ["Early: Mad Poets Festival", "Mid: Philadelphia Film Festival", "End: Exhumed Films 24 Hour Horror-thon", "End: Halloween Hikes and Hayrides in Fairmount Park"]
-  },
-  {
-    period: "September",
-    events: ["Mid: Running Down the Walls"]
   },
   {
     period: "November",

@@ -3,7 +3,7 @@ import "./App.css";
 
 export const DetailCard = props => {
   return (
-    <div key={Math.random()} className="card">
+    <div className="card">
       {props.data.title && <h2 className="title">{props.data.title}</h2>}
       {props.data.summary && <p className="summary">{props.data.summary}</p>}
       {props.data.mainLink && <a className="link" target="_blank" rel="noreferrer" href={props.data.mainLink}>{props.data.mainLink}</a>}

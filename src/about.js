@@ -3,7 +3,7 @@ import "./App.css";
 
 export const About = () => {
   return (
-    <div key={Math.random()} >
+    <div>
       <h1 id="about" className="category">Site Info</h1>
       <div className="aboutCard">
         <p>A Yellow Pages for DIY, art, music, anarchist, and nature groups, spaces, and events in Philadelphia and the surrounding area. It gives a special focus to underground spaces, counter culture happenings, wild earth, and music.</p>

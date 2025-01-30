@@ -3,12 +3,12 @@ import "./App.css";
 
 export const ForagingByDateCard = props => {
   return (
-    <div key={Math.random()} className="forageCard">
+    <div className="forageCard">
       {props.data.type && <h2 className="forageTitle">{props.data.type}</h2>}
       <ul className="forageList">
-        {props.data.items.map(data => {
+        {props.data.items.map(forageName => {
             return (
-              <li key={Math.random()} className="forageItem">{data}</li>
+              <li key={forageName} className="forageItem">{forageName}</li>
             );
         })}
       </ul>

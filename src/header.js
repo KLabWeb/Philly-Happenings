@@ -1,12 +1,12 @@
 import React from "react";
 import "./App.css";
 import { About } from "./about";
-import Updates from "./updates";
+import { Updates } from "./updatesContainer";
 // import { Notices } from "./notices";
 
 export const Header = props => {
   return (
-    <div key={Math.random()} className="header">
+    <div className="header">
       <h1 className="pageTitle">Philly Happenings</h1>
 
       <About />
