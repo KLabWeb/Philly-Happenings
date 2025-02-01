@@ -2113,15 +2113,16 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/cambriaphl/",
   },
   {
-    title: "The Sanctuary",
-    summary: "W philly basement studio space. Hardcore, metal punk, thrash punk, black metal, death metal, noise, d-beat, etc.. Guttural grows and weeping guitars in the dungeon.",
-    insta: "https://www.instagram.com/the_sanctuary_phl",
-  },
-  {
     title: "The Snake Pit",
     summary: "Anarchist and punk run house venue. Lots of hardcore, crossover, etc. “Ask a ghoul.” Insta vanieshed, but till throwing shows.",
     subLink: "https://www.youtube.com/watch?v=ZX0YjeTEgbc",
     insta: "https://www.instagram.com/snakepit_philly/",
+  },
+  {
+    title: "The Sanctuary",
+    summary: "West Philly”.",
+    facebook: "https://www.facebook.com/tralfamadorezoo/",
+    insta: "https://www.instagram.com/tralfamadore.southphilly/",
   },
   {
     title: "The Meadow",
@@ -2160,7 +2161,7 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "The Firehouse",
-    summary: "N Philly. No social media account. Watch houseshowphilly for shows there, instead.",
+    summary: "N Philly venue. No social media account. Watch houseshowphilly for shows there, instead.",
   },
   {
     title: "Walmart Beach",
