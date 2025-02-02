@@ -2117,9 +2117,8 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "The Sanctuary",
-    summary: "West Philly”.",
+    summary: "West Philly studio in a basement. Hardcore, punk, death metal, black metal, metal punk, d-beat, punk n roll, thrash punk, raw punk, rock, dungeon synth, grindcore, crust punk, noise, etc.. Gutteral growls and weeping guitars in the dungeon.",
     facebook: "https://www.facebook.com/tralfamadorezoo/",
-    insta: "https://www.instagram.com/tralfamadore.southphilly/",
   },
   {
     title: "The Meadow",
