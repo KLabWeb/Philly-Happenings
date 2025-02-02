@@ -1,5 +1,23 @@
 export const UPDATES = [
     {
+        header: "02/01/2025",
+        categoryUpdateLists: [
+            { 
+                type: "Removed (no longer active):",
+                updateList: [
+                    {
+                        label: "Grounded in Philly",
+                        href: "https://groundedinphilly.org/",
+                    },
+                    {
+                        label: "Philadelphia Foraging Map",
+                        href: "https://www.opentreemap.org/phillytreemap/map/",
+                    },
+                ]
+            }
+        ]
+    },
+    {
         header: "01/30/2025",
         categoryUpdateLists: [
             // { 

@@ -576,6 +576,19 @@ export const CLOSED = [
     facebook: "https://www.facebook.com/HorrorHavenExpo",
     suggestedFollow: "Check FB early spring for annual date",
   },
+  {
+    title: "Grounded in Philly",
+    summary: "Large scale “use the laws to our advantage” guerilla gardening project. Has turned 30+ vacant lots in SW Philly into guerilla gardens. Based on a “How to Obtain Land Through Adverse Possession” model.",
+    mainLink: "https://groundedinphilly.org/",
+    subLink: "https://www.axios.com/local/philadelphia/2021/10/06/philadelphia-gardens-ben-miller-peoples-kitchen",
+    suggestedFollow: "Contact if want to crack a garden. No real “events” source, otherwise.",
+  },
+  {
+    title: "Philadelphia Foraging Map",
+    summary: "An interactive map with over 59k trees listed. Can filter by species, search by loction, and export search results.",
+    mainLink: "https://www.opentreemap.org/phillytreemap/map/",
+    suggestedFollow: "n/a",
+  },
 ]
 
 export const CYCLING = [
@@ -1002,13 +1015,13 @@ export const GENERAL = [
   },
   {
     title: "SEPTA Transit Map",
-    summary: "Official SEPTA transit map, in PDF form, making it useful for saving on a smartphone or printing, if not wanting to feed your data to Google Maps.",
+    summary: "Official SEPTA transit map, in PDF form, making it useful for saving on a smartphone or printing, if not wanting to feed your data to Google or Apple servers.",
     mainLink: "https://www5.septa.org/wp-content/uploads/travel/line-map-rr.pdf",
     suggestedFollow: "n/a",
   },
   {
     title: "Grays Ferry Skatepark",
-    summary: "Skatepark under bridge by Schuykill River, in between West and East Philly. Common gathering spot for punks and anarchists. Generator shows. Generator movies. Swap markets.",
+    summary: "Skatepark under Greys Ferry Bridge by Schuykill River, just before West Philly. Common gathering spot for punks and anarchists. Generator shows. Generator movies. Swap markets. Skateboarding.",
     facebook: "https://www.facebook.com/pages/Grays-Ferry-Skatepark/500800656683053",
   },
   {
@@ -1018,14 +1031,22 @@ export const GENERAL = [
   },
   {
     title: "FDR Skatepark",
-    summary: "Located beneath the overpass of I-95, this world-renowned skatepark was created by skaters, for skaters. The park has several regions, including the core park that lies under the aforementioned overpass, the neighboring and connecting pool section, a mini ramp, and a vert ramp. It is adorned with an ever-changing collection of tags and art that make for an engaging visual experience.",
+    summary: "Located beneath the overpass of I-95, this world-renowned skatepark was created by skaters, for skaters. The park has several regions, including the core park that lies under the aforementioned overpass, the neighboring and connecting pool section, a mini ramp, and a vert ramp. Adorned with an ever-changing collection of tags and art. Also, occassional wrastlin', shows, and other events.",
     mainLink: "https://www.fdrparkphilly.org/skatepark",
     facebook: "https://www.facebook.com/groups/FDRSKATEPARK/",
     insta: "https://www.instagram.com/fdrskatepark",
   },
   {
+    title: "Space 1026",
+    summary: "“Space 1026 has been a 18 year experiment and is two floors of a building at 11th and Arch. It is a network of dozens of artists who‘ve had studios at the Space, past and present. Space 1026 is a community – a creative community – not an institution.“",
+    mainLink: "https://space1026.com/",
+    facebook: "https://www.instagram.com/space1026/",
+    insta: "https://www.facebook.com/space1026/",
+    suggestedFollow: "Check their site calender monthly",
+  },
+  {
     title: "Cherry Blossom Festival",
-    summary: "April, annually. Horticulture Center in West Fairmount Park.",
+    summary: "April, annually. Horticulture Center in West Fairmount Park. A spring celebration of Japanese arts and culture organized by Japan America Society of Greater Philadelphia. Taiko Drum performances under the cherry blossom, and so forth.",
     mainLink: "https://japanphilly.org/programs/festivals/cherryblossom/",
     facebook: "https://www.facebook.com/Shofuso",
     insta: "https://www.instagram.com/phillysakura/",
@@ -1033,7 +1054,7 @@ export const GENERAL = [
   },
   {
     title: "Philly Social Adventures",
-    summary: "A group run by the same organizer who runs the Bourse Hall and Ladder 15 Game Nights. General nerd gatherings. A lot of regulars.",
+    summary: "A group run by the same guy who runs the Glory Beer Bar and Ladder 15 Game Nights. General nerd gatherings. A lot of regulars.",
     facebook: "https://www.facebook.com/groups/574330306077914/",
     suggestedFollow: "FB",
   },
@@ -1045,19 +1066,11 @@ export const GENERAL = [
   },
   {
     title: "Italian Market Festival",
-    summary: "Late spring, annually. “For seven city blocks, a celebration of culture, gastronomy, art and music. Featuring over 100 area vendors showcasing a range of cuisine and beverages. In addition to the food, the Festival features a wide range of music, services, souvenirs, jewelry, artists, and crafters.“ Greased pole climbing competition.f",
+    summary: "Late spring, annually. “For seven city blocks, a celebration of culture, gastronomy, art and music. Featuring over 100 area vendors showcasing a range of cuisine and beverages. In addition to the food, the Festival features a wide range of music, services, souvenirs, jewelry, artists, and crafters.“ Greased pole climbing competition.",
     mainLink: "https://italianmarketphilly.org",
     facebook: "https://www.facebook.com/italianmarketphilly/",
     insta: "https://www.instagram.com/italianmarketphilly/",
     suggestedFollow: "Check early spring for annual date",
-  },
-  {
-    title: "Space 1026",
-    summary: "“ASpace 1026 has been a 18 year experiment and is two floors of a building at 11th and Arch. It is a network of dozens of artists who‘ve had studios at the Space, past and present. Space 1026 is a community – a creative community – not an institution.“",
-    mainLink: "https://space1026.com/",
-    facebook: "https://www.instagram.com/space1026/",
-    insta: "https://www.facebook.com/space1026/",
-    suggestedFollow: "Check their site calender monthly",
   },
   {
     title: "Old City First Friday",
@@ -1106,15 +1119,8 @@ export const GENERAL = [
 
 export const GREENGARDENS = [
   {
-    title: "Grounded in Philly",
-    summary: "Large scale “use the laws to our advantage” guerilla gardening project. Has turned 30+ vacant lots in SW Philly into guerilla gardens. Based on a “How to Obtain Land Through Adverse Possession” model.",
-    mainLink: "https://groundedinphilly.org/",
-    subLink: "https://www.axios.com/local/philadelphia/2021/10/06/philadelphia-gardens-ben-miller-peoples-kitchen",
-    suggestedFollow: "Contact if want to crack a garden. No real “events” source, otherwise.",
-  },
-  {
     title: "The People’s Kitchen",
-    summary: "“A collaborative of chefs, students, and community members growing and cooking free, delicious meals in Philly.” Works with Grounded in Philly for food source. Kitchen for various rad groups. Free hot meals, outside the kitchen, every day, 3:00pm.",
+    summary: "“A collaborative of chefs, students, and community members growing and cooking free, delicious meals in Philly.” Kitchen for various rad groups. Free hot meals, outside the kitchen, every day, 3:00pm.",
     mainLink: "https://www.peopleskitchenphilly.com/",
     facebook: "https://www.facebook.com/profile.php?id=100090422833314",
     insta: "https://www.instagram.com/peopleskitchenphilly",
@@ -1126,7 +1132,8 @@ export const GREENGARDENS = [
     mainLink: "https://www.fairamountfoodforest.org/calendar.html",
     subLink: "https://www.fairamountfoodforest.org/resources.html",
     facebook: "https://www.facebook.com/FairAmountFoodForest/",
-    suggestedFollow: "Check site calendar monthly (FB not well updated)",
+    insta: "https://www.instagram.com/fairamountfoodforest",
+    suggestedFollow: "Insta + Check site calendar monthly",
   },
   {
     title: "Philadelphia Orchard Project",
@@ -1174,7 +1181,7 @@ export const GREENGARDENS = [
     title: "FarmerJawn",
     summary: "“A 128-acre working farm, building a model of regenerative organic food production by and for underserved communities. The largest Black-woman owned regenerative organic produce farm in America. Education is offered through on-farm and in-class school-based programming and adult agri-business training.“",
     mainLink: "https://www.farmerjawn.co/",
-    facebook: "https://www.facebook.com/farmerjawncsa",
+    facebook: "https://www.facebook.com/FarmerJawnPhilly",
     insta: "https://www.instagram.com/farmerjawn_",
     suggestedFollow: "Insta",
   },
@@ -1183,7 +1190,7 @@ export const GREENGARDENS = [
 export const GREENMARKETS = [
   {
     title: "Philadelphia + Surrounding Area Farmers’ Market List",
-    summary: "A list of 60+ Philadelphia + surrounding area farmers' markets",
+    summary: "A list of 60+ Philadelphia + surrounding area farmers' markets. From 2021, so may be a bit out of date.",
     mainLink: "https://www.thegreencities.com/food/2021-farmers-market-guide/",
     suggestedFollow: "n/a",
   },
@@ -1199,7 +1206,6 @@ export const GREENMARKETS = [
     mainLink: "https://mariposa.coop/",
     facebook: "https://www.facebook.com/MariposaCoop/",
     insta: "https://www.instagram.com/mariposacoop/",
-    suggestedFollow: "None (FB more updated, for ref)",
   },
   {
     title: "Weavers Way Food Coop",
@@ -1215,7 +1221,6 @@ export const GREENMARKETS = [
     mainLink: "https://www.southphillyfood.coop/",
     facebook: "https://www.facebook.com/SouthPhillyFoodCoop",
     insta: "https://www.instagram.com/spfoodcoop/",
-    suggestedFollow: "None",
   },
   {
     title: "Mycopolitan Mushroom CSA",
@@ -1223,15 +1228,13 @@ export const GREENMARKETS = [
     mainLink: "https://www.mycopolitan.com",
     facebook: "https://www.facebook.com/mycopolitan",
     insta: "https://www.instagram.com/mycopolitan/",
-    suggestedFollow: "None",
   },
   {
     title: "Sprouts Farmers Market",
-    summary: "National health foods store chain with a lot of produce. A ton of bulk food. Northeast Philly, Penn's Landing, and South Philly location opening soon.",
+    summary: "National health foods store chain with a lot of produce. Especially good for its tons of bulk food. Northeast Philly, Penn's Landing, and South Philly.",
     mainLink: "https://www.sprouts.com/",
     facebook: "https://www.facebook.com/SproutsFarmersMarket",
     insta: "https://www.instagram.com/sprouts/",
-    suggestedFollow: "None",
   },
   {
     title: "Reading Terminal Market",
@@ -1243,7 +1246,7 @@ export const GREENMARKETS = [
   },
   {
     title: "Italian Market",
-    summary: "Another big open air market with many street vendors running down 9th street in South Philly. Began late 1880’s. Tons of cheap produce. Old school.",
+    summary: "Another big open air market with many street vendors running down 9th street in South Philly. Began late 1880’s. Tons of cheap produce. Live fowl. Gnocchi. Mexican restaurants. Old school.",
     mainLink: "https://www.italianmarketphilly.org/",
     facebook: "https://www.facebook.com/italianmarketphilly/",
     insta: "https://www.instagram.com/italianmarketphilly/",
@@ -1286,12 +1289,6 @@ export const GREENFORAGINGGENERAL = [
     summary: "General foraging hikes and walks, often foraging for specific foods (ex. berries) . Multiple hikes and walks per week, in warm seasons. Some surrounding area hikes.",
     mainLink: "https://www.meetup.com/Wild-Foodies-of-Philly/",
     suggestedFollow: "meetup",
-  },
-  {
-    title: "Philadelphia Foraging Map",
-    summary: "An interactive map with over 59k trees listed. Can filter by species, search by loction, and export search results.",
-    mainLink: "https://www.opentreemap.org/phillytreemap/map/",
-    suggestedFollow: "n/a",
   },
   {
     title: "The Northeast Mycological Federation Samuel Ristich Foray",
