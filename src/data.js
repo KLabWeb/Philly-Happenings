@@ -2111,7 +2111,7 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "The Snake Pit",
-    summary: "Anarchist and punk run house venue. Lots of hardcore, crossover, etc. “Ask a ghoul.” Insta vanieshed, but till throwing shows.",
+    summary: "Anarchist and punk run house venue. Lots of hardcore, crossover, etc. “Ask a ghoul.” Insta vanished, but still throwing shows.",
     subLink: "https://www.youtube.com/watch?v=ZX0YjeTEgbc",
     insta: "https://www.instagram.com/snakepit_philly/",
   },
