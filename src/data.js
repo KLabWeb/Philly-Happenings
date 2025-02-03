@@ -420,11 +420,6 @@ export const CLOSED = [
     insta: "https://www.instagram.com/explore/tags/thetuskphilly",
   },
   {
-    title: "The Blood Bank",
-    summary: "“North Philly Basement Venue.” Started Sept ‘22. Mostly metal and tons of hardcore. Moved out of space spring 2024. A very sad loss.",
-    insta: "https://www.instagram.com/bloodbank.phl",
-  },
-  {
     title: "Fear and Loathing Philly",
     summary: "House venue. “West Philly. We love cats. Started Nov ‘22. Closed Feb '24.'",
     insta: "https://www.instagram.com/fearandloathingphilly/ ",
@@ -588,6 +583,11 @@ export const CLOSED = [
     summary: "An interactive map with over 59k trees listed. Can filter by species, search by loction, and export search results.",
     mainLink: "https://www.opentreemap.org/phillytreemap/map/",
     suggestedFollow: "n/a",
+  },
+  {
+    title: "The Blood Bank",
+    summary: "2022-2024. “North Philly Basement Venue.” Started Sept ‘22. Mostly metal and tons of hardcore. Moved out of space spring 2024. A very sad loss.",
+    insta: "https://www.instagram.com/bloodbank.phl",
   },
 ]
 
@@ -1898,6 +1898,11 @@ export const MUSICDIYCOLLECTIVESPHL = [
     title: "Jersey Show Scene",
     summary: "“Masterlist of jerseys music scene. notaflof - Woman ran @gabbyice_.“ A New Jersey DIY show listing account, posting weekly DIY show lists, similar to the style of House Show Philly.",
     insta: "https://www.instagram.com/jerseyshowscene/",
+  },
+  {
+    title: "Yarga Presents",
+    summary: "The Haus may be gone, but Yarga is still putting together shows at spots like Cousin Danny's, Ortlieb's, Foto Club, and DIY spots like Howl's Castle, The Pouch, and Orpheus' Garden.",
+    insta: "https://www.instagram.com/yargapresents/",
   },
   {
     title: "The Courtyard",

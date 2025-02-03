@@ -3,7 +3,7 @@ export const UPDATES = [
         header: "02/01/2025",
         categoryUpdateLists: [
             { 
-                type: "Removed (no longer active):",
+                type: "Removed (no longer active/closed):",
                 updateList: [
                     {
                         label: "Grounded in Philly",
@@ -12,6 +12,19 @@ export const UPDATES = [
                     {
                         label: "Philadelphia Foraging Map",
                         href: "https://www.opentreemap.org/phillytreemap/map/",
+                    },
+                    {
+                        label: "The Blood Bank",
+                        href: "https://www.instagram.com/bloodbank.phl",
+                    },
+                ]
+            },
+            { 
+                type: "Addition:",
+                updateList: [
+                    {
+                        label: "Yarga Presents",
+                        href: "https://www.instagram.com/yargapresents",
                     },
                 ]
             }
