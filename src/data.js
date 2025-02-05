@@ -318,6 +318,22 @@ export const ANIMEPHILLY = [
 
 export const CLOSED = [
   {
+    title: "House Show State College",
+    summary: "On indefinite hiatus starting August 2024. “state college diy shows, updated every wednesday, band interest form in linktree.” Run by the same folk as houseshowphilly, the Kissfit Collective.",
+    insta: "https://www.instagram.com/houseshowstatecollege/",
+  },
+  {
+    title: "Dragon's Den",
+    summary: "Insta vanished. “Account made to promote house shows around Drexel University and in Philly.” Show aggregator.",
+    insta: "https://www.instagram.com/_drexeldragons_den/",
+  },
+  {
+    title: "House Show Philly",
+    summary: "Vanished start of 'Nov 2024, seemingly due to being unable to dedicate time to run the Insta anymore. “Upcoming philly house show masterlist, woman owned (she/her), updated every wednesday.“ Run by Kissfit Collective. Also organizes shows. THE place for checking upcoming DIY shows. A great testament to how active Philly DIY is.",
+    insta: "https://www.instagram.com/houseshowphilly/",
+    subLink: "https://www.instagram.com/kissfitcollective/",
+  },
+  {
     title: "A-Space Anarchist Community Center ",
     summary: "Closed Winter 2023 (due to covid, then collective members moving away, now all Books Through Bars space). From when open: “The building that holds the A-Space is part the Life Center Association (LCA), a land trust. “4722” was the second house to be bought by the LCA in 1973. It holds 2 apartments, the A-Space, and Books Through Bars.”",
     mainLink: "https://phillyaspace.com",
@@ -1870,21 +1886,15 @@ export const MUSICCLASSICAL = [ {} ];
 
 export const MUSICDIYCOLLECTIVESPHL = [
   {
-    title: "House Show Philly",
-    summary: "“Upcoming philly house show masterlist, woman owned (she/her), updated every wednesday.“ Run by Kissfit Collective. Also organizes shows. THE place for checking upcoming DIY shows. A great testament to how active Philly DIY is.",
-    insta: "https://www.instagram.com/houseshowphilly/",
-    subLink: "https://www.instagram.com/kissfitcollective/",
+    title: "DIY Philly",
+    summary: "Spiritual sucessor to House Show Philly, which stopped posting in 'Nov 2024. A Philly DIY show masterlist for Fri & Sat house shows. Posts every Weds.",
+    insta: "https://www.instagram.com/diyphilly/",
   },
   {
     title: "Ratpie",
     summary: "“all things philly music scene related. interviews, film dumps, montages, artist showcases, + moreヽ(･ω･｡)ﾉ”",
     mainLink: "https://www.ratpiefriends.com/",
     insta: "https://www.instagram.com/ratpiefriends/",
-  },
-  {
-    title: "Dragon's Den",
-    summary: "“Account made to promote house shows around Drexel University and in Philly.” Show aggregator.",
-    insta: "https://www.instagram.com/_drexeldragons_den/",
   },
   {
     title: "Relapse Records",
@@ -2031,12 +2041,6 @@ export const MUSICDIYCOLLECTIVESPHL = [
     insta: "https://www.instagram.com/bornlosersrecords/",
   },
   {
-    title: "House Show State College",
-    summary: "“state college diy shows, updated every wednesday, band interest form in linktree.” Run by the same folk as houseshowphilly, the Kissfit Collective.",
-    insta: "https://www.instagram.com/houseshowstatecollege/",
-    subLink: "https://www.instagram.com/kissfitcollective/",
-  },
-  {
     title: "The Tabernacle",
     summary: "Books shows and makes flyers. Used to also be a N Philly house venue, but not longer throws shows at house.",
     insta: "https://www.instagram.com/tabernaclebooking/",
@@ -2053,7 +2057,7 @@ export const MUSICDIYGENPHL = [
     mainLink: "https://hate5six.com/",
     subLink: "https://www.youtube.com/user/hate5six/videos",
     facebook: "https://www.facebook.com/hate5six",
-    insta: "https://www.instagram.com/hate5six/",
+    insta: "https://www.instagram.com/hate5sixofficial/",
     suggestedFollow: "Check their youtube to find good local bands",
   },
   {
@@ -2157,6 +2161,19 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/themachinephilly",
   },
   {
+    title: "Luigi’s Mansion",
+    summary: "W Philly house venue. Dance parties, punk, indie, noise pop, etc. Lots of art rock, but metal and hardcore, too. “suffer in the basement...“",
+    subLink: "https://www.youtube.com/channel/UC5fxGTTkZwBkIygnNdx0hQA",
+    facebook: "https://www.facebook.com/LuigisMansionPHL",
+    insta: "https://www.instagram.com/luigismansionphl",
+  },
+  {
+    title: "Detour Philly",
+    summary: "“west philly house venue in west philly. we host cool bands and believe in being true to ourselves, beyond boundaries.” Started summer '21. No shows since Oct '22.",
+    twitter: "https://twitter.com/DetourPhilly",
+    insta: "https://www.instagram.com/DetourPhilly/",
+  },
+  {
     title: "The Backyard",
     summary: "An abando two story + attic building with a big backyard shows are thrown at. No social media or site.",
   },
@@ -2196,13 +2213,6 @@ export const MUSICDIYSPOTSPHL = [
     summary: "W Philly venue started summer '22'. “Hey everyone, we're a new house show spot in West Philly near Drexel. Our name is inspired by the Studio Ghibli film, 'Howl's Moving Castle.' We offer a space for local artists to perform. We host all kinds of shows!”",
     subLink: "https://www.youtube.com/channel/UCQXu8LCQUZqXA7lgc7Ocmbg",
     insta: "https://www.instagram.com/howls_castle_phila/",
-  },
-  {
-    title: "Luigi’s Mansion",
-    summary: "W Philly house venue. Dance parties, punk, indie, noise pop, etc. Lots of art rock, but metal and hardcore, too. “suffer in the basement...“",
-    subLink: "https://www.youtube.com/channel/UC5fxGTTkZwBkIygnNdx0hQA",
-    facebook: "https://www.facebook.com/LuigisMansionPHL",
-    insta: "https://www.instagram.com/luigismansionphl",
   },
   {
     title: "Legoland",
@@ -2321,12 +2331,6 @@ export const MUSICDIYSPOTSPHL = [
     title: "The Roof",
     summary: "”West Philly rooftop shows. The Roof is a west philly house venue featuring pristine views of the city coupled with some of the best music philly has to offer.” Started Spring 2023.",
     insta: "https://www.instagram.com/theroof.phl/",
-  },
-  {
-    title: "Detour Philly",
-    summary: "“west philly house venue in west philly. we host cool bands and believe in being true to ourselves, beyond boundaries.” Started summer '21. No shows since Oct '22.",
-    twitter: "https://twitter.com/DetourPhilly",
-    insta: "https://www.instagram.com/DetourPhilly/",
   },
   {
     title: "Cantaloupe Kingdom",
@@ -3049,16 +3053,60 @@ export const MUSICDIYWIP = [
     insta: "https://www.instagram.com/headroomphiladelphia/",
   },
   {
-    title: "Hidden City Philadelphia",
-    insta: "",
-  },
-  {
     title: "Penn Food and Wellness Collaborative farm",
     insta: "https://www.facebook.com/share/p/p4iyYwTc4TAEy2o4/",
   },
   {
     title: "Neighborhood Food Farms",
     insta: "https://www.facebook.com/share/p/BixDSBGKhLxqE8hE/",
+  },
+  {
+    title: "Creature Cave",
+    insta: "https://www.instagram.com/creaturecave.phl/",
+  },
+  {
+    title: "Pink House",
+    insta: "https://www.instagram.com/pink_house_philly/",
+  },
+  {
+    title: "Mouth House",
+    insta: "https://www.instagram.com/welcometomouthhouse/",
+  },
+  {
+    title: "Dance Off Productions",
+    insta: "https://www.instagram.com/dance_off_productions/",
+  },
+  {
+    title: "Big Chair",
+    insta: "https://www.instagram.com/showsfromthebigchair/",
+  },
+  {
+    title: "The Philly Goth Scene",
+    insta: "https://www.instagram.com/thephillygothscene/",
+  },
+  {
+    title: "hardcoretoday777",
+    insta: "https://www.instagram.com/hardcoretoday777/",
+  },
+  {
+    title: "",
+    insta: "",
+  },
+  {
+    title: "",
+    insta: "",
+  },
+  {
+    title: "",
+    insta: "",
+  },
+  {
+    title: "",
+    insta: "",
+  },
+  {
+    title: "",
+    insta: "",
   },
   {
     title: "",

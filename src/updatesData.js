@@ -1,5 +1,37 @@
 export const UPDATES = [
     {
+        header: "02/05/2025",
+        categoryUpdateLists: [
+            { 
+                type: "Additions:",
+                updateList: [
+                    {
+                        label: "DIY Philly",
+                        href: "https://www.instagram.com/diyphilly",
+                    },
+                ]
+            },
+            { 
+                type: "Removed (no longer active/dead):",
+                updateList: [
+                    {
+                        label: "House Show Philly",
+                        href: "https://www.instagram.com/houseshowphilly/",
+                    },
+                    {
+                        label: "House Show State College",
+                        href: "https://www.instagram.com/houseshowstatecollege/"
+                    },
+                    {
+                        label: "Dragon's Den",
+                        href: "https://www.instagram.com/_drexeldragons_den/",
+                    },
+
+                ]
+            },
+        ]
+    },
+    {
         header: "02/01/2025",
         categoryUpdateLists: [
             { 

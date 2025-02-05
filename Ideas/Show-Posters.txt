@@ -1,0 +1,6 @@
+1) Venue messages Philly-Happenings on instagram or via email. Must provide vouches or proof of venue to be approved "venue login"
+2) Site shares a one time key to venue that that allows them to create a single account login
+3) Venue creates an account, along with Venue Name, Venue Description, Venue photo, Venue Insta, etc.
+4) Venue logs in
+5) Venue creates a show post, using show upload form: date, band links (venue can edit or delete show post after posted)
+6) Shows page allows multiple displays including: by date, by venue, by genre
