@@ -22,14 +22,6 @@ export const UPDATES = [
                         href: "https://www.instagram.com/davekisspresents",
                     },
                     {
-                        label: "Vox Populi",
-                        href: "https://www.instagram.com/voxpopuligallery",
-                    },
-                    {
-                        label: "Tattooed Mom",
-                        href: "https://www.instagram.com/tmoms",
-                    },
-                    {
                         label: "The Coach Room",
                         href: "https://www.instagram.com/thecoachroomphilly/",
                     },
@@ -82,11 +74,59 @@ export const UPDATES = [
                 ]
             },
             { 
-                type: "Removed (no longer occurring)",
+                type: "Removed (closed / no longer active)",
                 updateList: [
+                    {
+                        label: "The Haven",
+                        href: "https://www.instagram.com/thehavenphilly/",
+                    },
                     {
                         label: "South Street Fest",
                         href: "https://www.instagram.com/southstreetphilly",
+                    },
+                    {
+                        label: "The Location",
+                        href: "https://www.instagram.com/thelocationphl/",
+                    },
+                    {
+                        label: "BBR Arts Loft",
+                        href: "https://www.instagram.com/bigbadradio"
+                    },
+                    {
+                        label: "The Mosh Pit",
+                        href: "https://www.instagram.com/themoshpit1837/"
+                    },
+                    {
+                        label: "Hustle Haus",
+                        href: "https://www.instagram.com/explore/tags/hustlehaus/"
+                    },
+                    {
+                        label: "RM Studio",
+                        href: "https://www.instagram.com/rmstudio.phl/"
+                    },
+                    {
+                        label: "Chapter House",
+                        href: "https://www.instagram.com/chapterhousephl/"
+                    },
+                    {
+                        label: "The G-Spot",
+                        href: "https://www.instagram.com/gspotphilly/"
+                    },
+                    {
+                        label: "Homesick",
+                        href: "https://www.instagram.com/homesickphl/"
+                    },
+                    {
+                        label: "Top Floor Arts",
+                        href: "https://www.instagram.com/topfloorarts_/"
+                    },
+                    {
+                        label: "The Junction",
+                        href: "https://www.instagram.com/junctionphl/"
+                    },
+                    {
+                        label: "God's Automatic Body & Spa",
+                        href: "https://www.instagram.com/gods.automatic.body/"
                     },
                 ]
             },
