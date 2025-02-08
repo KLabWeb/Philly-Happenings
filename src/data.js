@@ -1537,11 +1537,25 @@ export const MUSICABOVEPHILLY = [
     insta: "https://www.instagram.com/cousindannyslounge/",
   },
   {
+    title: "Century",
+    summary: "The main above ground spot for metal shows along with Cousin Danny's. Also, noise, post-punk, punk, hardcore, emo, shoegaze, etc.",
+    facebook: "https://www.facebook.com/centuryphila/",
+    insta: "https://www.instagram.com/centuryphila/",
+  },
+  
+  {
     title: "Ortlieb's",
     summary: "North Philly dive bar and restaurant. Local bands, DJs, karaoke Tuesdays, dance parties.",
     mainLink: "https://ortliebsphilly.com/",
     facebook: "https://www.facebook.com/OrtliebsPhilly/",
     insta: "https://www.instagram.com/ortliebsphilly/",
+  },
+  {
+    title: "Tattooed Mom",
+    summary: "Sticker and graff slathered walls punk rock bar on South Street with affordable vegan bar food and a mix of drinks. Pool tables. Lots of events; craft days, VHS Swaps, queer open mic, live readings, comedy shows, art marts, bingo, mixers, indie movie screenings, etc..",
+    mainLink: "https://www.tattooedmomphilly.com/",
+    insta: "https://www.instagram.com/tmoms/",
+    facebook: "https://www.facebook.com/tattooedmomphilly/",
   },
   {
     title: "Underground Arts",
@@ -1550,6 +1564,12 @@ export const MUSICABOVEPHILLY = [
     facebook: "https://www.facebook.com/UndergroundArtsPhilly/",
     insta: "https://www.instagram.com/undrgroundarts/",
   },
+  {
+    title: "FU Church",
+    summary: "First Unitarian Church of Philadelphia. Semi-frequent punk, hardcore, other, shows. Also home of the Philadelphia Animation Society. Located in a busy spot in Center City so ride a bike to avoid paying for expensive parking.",
+    subLink: "https://www.songkick.com/venues/10848-first-unitarian-church",
+  },
+
   {
     title: "Kung Fu Necktie",
     summary: "Small 140 capacity music venue. Garage rock, punk, folk punk, ska, noise rock, goth, hardcore, crossover, emo, synth-pop. Big name and local bands.",
@@ -1572,11 +1592,40 @@ export const MUSICABOVEPHILLY = [
     insta: "https://www.instagram.com/silkcitydiner",
   },
   {
+    title:"Warehouse on Watts",
+    summary: "Warehouse turned nightclub. “A series of club nights spanning genres, subcultures, and overall vibe.“",
+    mainLink: "https://wowphilly.com/",
+    facebook: "https://www.facebook.com/wowphilly/",
+    insta: "https://www.instagram.com/wowphilly/",
+  },
+  {
+    title: "The Fire",
+    summary: "Female-owned “grass roots rock club” dive bar and show venue. Mostly hardcore & punk. Some metal, goth, indie. ",
+    mainLink: "https://www.firephilly.com/",
+    subLink: "",
+    facebook: "https://www.facebook.com/thefirephilly/",
+    insta: "https://www.instagram.com/firephilly/",
+  },
+  {
+    title: "Bonk's Bar",
+    summary: "Port Richmond. Bar & crabhouse. Local bands, karaoke, car shows, bingo, Quizzo, Christmas toy drive. A solid place for delicious and reasonably priced seafood.",
+    mainLink: "https://bonksbar.com/",
+    insta: "https://www.instagram.com/bonksbarphl/",
+    facebook: "https://www.facebook.com/bonkscrabs",
+  },
+  {
     title: "The Rotunda",
     summary: "“We are a live performing arts and a multi-cultural sober space designed to fit the needs of Philly curators and creatives.” Shows, but also poetry, dance events, film, speakers, workshops, etc.",
     mainLink: "https://therotunda.org/ ",
     facebook: "https://www.facebook.com/therotundaphilly ",
     insta: "https://www.instagram.com/the_rotunda_philly/",
+  },
+  {
+    title: "Vox Populi",
+    summary: "“Founded in 1988, Vox Populi is a contemporary art space and artist collective. Rotating membership. Commitment to working collectively. Monthly exhibitions, gallery talks, performances, lectures, etc.“",
+    mainLink: "https://voxpopuligallery.squarespace.com/events",
+    facebook: "https://www.facebook.com/voxpopulisphere/",
+    insta: "https://www.instagram.com/voxpopuligallery/",
   },
   {
     title: "Dawson Street Pub",
@@ -1591,20 +1640,6 @@ export const MUSICABOVEPHILLY = [
     mainLink: "http://www.dolphinphilly.com/",
     facebook: "https://www.facebook.com/DolphinPhilly/",
     insta: "https://www.instagram.com/dolphinphilly",
-  },
-  {
-    title: "The Fire",
-    summary: "Female-owned “grass roots rock club” dive bar and show venue. Mostly hardcore & punk. Some metal, goth, indie. ",
-    mainLink: "https://www.firephilly.com/",
-    subLink: "",
-    facebook: "https://www.facebook.com/thefirephilly/",
-    insta: "https://www.instagram.com/firephilly/",
-  },
-  {
-    title: "Century",
-    summary: "The main above ground spot for metal shows along with Cousin Danny's. Also, noise, post-punk, punk, hardcore, emo, shoegaze, etc.",
-    facebook: "https://www.facebook.com/centuryphila/",
-    insta: "https://www.instagram.com/centuryphila/",
   },
   {
     title: "Franklin Music Hall",
@@ -1641,12 +1676,6 @@ export const MUSICABOVEPHILLY = [
     insta: "https://www.instagram.com/ukrainianleagueofphiladelphia",
   },
   {
-    title: "FU Church",
-    summary: "First Unitarian Church of Philadelphia. Semi-frequent punk, hardcore, other, shows. Also home of the Philadelphia Animation Society. Located in a busy spot in Center City so ride a bike to avoid paying for expensive parking.",
-    mainLink: "https://philauu.org/",
-    subLink: "https://www.songkick.com/venues/10848-first-unitarian-church",
-  },
-  {
     title: "Ray’s Happy Birthday Bar",
     summary: "“80-year-old 'everybody knows your name' neighborhood watering hole.” Iconic spot.",
     mainLink: "https://www.thehappybirthdaybar.com/",
@@ -1676,13 +1705,6 @@ export const MUSICABOVEPHILLY = [
     summary: "Dive bar about 45 mins away from Center City in Ardmore. Hosts a lot of local metal, harcore, and alt shows.",
     mainLink: "http://www.thenail1.com",
     facebook: "https://www.facebook.com/The-Rusty-Nail-199449793458045/",
-  },
-  {
-    title:"Warehouse on Watts",
-    summary: "Warehouse turned nightclub. “A series of club nights spanning genres, subcultures, and overall vibe.“",
-    mainLink: "https://wowphilly.com/",
-    facebook: "https://www.facebook.com/wowphilly/",
-    insta: "https://www.instagram.com/wowphilly/",
   },
   {
     title: "Khyber Pass Pub",
@@ -1721,13 +1743,6 @@ export const MUSICABOVEPHILLY = [
     summary: "Temple area Pizza, hoagie, and burger shop opened 2021. Host local bands. Phat slices.",
     mainLink: "http://www.phillystylepizza.net/",
     insta: "https://www.instagram.com/phillystyle_pizza/",
-  },
-  {
-    title: "Bonk's Bar",
-    summary: "Port Richmond. Bar & crabhouse. Local bands, karaoke, car shows, bingo, Quizzo, Christmas toy drive. A solid place for delicious and reasonably priced seafood.",
-    mainLink: "https://bonksbar.com/",
-    insta: "https://www.instagram.com/bonksbarphl/",
-    facebook: "https://www.facebook.com/bonkscrabs",
   },
   {
     title: "Black Cat Tavern",
@@ -1886,8 +1901,13 @@ export const MUSICCLASSICAL = [ {} ];
 
 export const MUSICDIYCOLLECTIVESPHL = [
   {
+    title: "Philly DIY Shows",
+    summary: "A philly DIY show masterlist. Posting shows and events since October 2023. No venue or band tags, no posting of shows by dates, just pure and simple DIY fliers, posted as recieved. “DM ME UR EVENT & SHOW POSTERS“",
+    insta: "https://www.instagram.com/philly_diy_music",
+  },
+  {
     title: "DIY Philly",
-    summary: "Spiritual sucessor to House Show Philly, which stopped posting in 'Nov 2024. A Philly DIY show masterlist for Fri & Sat house shows. Posts every Weds.",
+    summary: "Spiritual sucessor to House Show Philly, which stopped posting in 'Nov 2024. A Philly DIY show masterlist, shows for the coming weekend posted every Wednesday prior.",
     insta: "https://www.instagram.com/diyphilly/",
   },
   {
@@ -1895,6 +1915,24 @@ export const MUSICDIYCOLLECTIVESPHL = [
     summary: "“all things philly music scene related. interviews, film dumps, montages, artist showcases, + moreヽ(･ω･｡)ﾉ”",
     mainLink: "https://www.ratpiefriends.com/",
     insta: "https://www.instagram.com/ratpiefriends/",
+  },
+  {
+    title: "Dave Kiss Presents",
+    summary: "“Puttin' on choice shows in Philly since 2009. Check out the 👇full calendar👇“ Lot's of local and regional artists. Many different genres. Regular booker for Kung Fu Necktie and Silk City.",
+    mainLink: "https://davekisspresents.com/",
+    insta: "https://www.instagram.com/davekisspresents/",
+    facebook: "https://www.facebook.com/davekisspresents/"
+  },
+  {
+    title:"Philadelphia Psychedelic",
+    summary: "“Philadelphia’s psychedelic music / art community and collective. Partnered with The Philly Stoop. Producer of shows, art marts, music fests, zine fests, gallery nights, open mics since Dec' 2021. Psy rock, jam bands, jazz fusion, funk, math rock, indie rock, ",
+    insta: "https://www.instagram.com/philadelphiapsychedelic/",
+    facebook: "https://www.facebook.com/profile.php?id=100093599613313",
+  },
+  {
+    title: "Yarga Presents",
+    summary: "The Haus may be gone, but Yarga is still putting together shows at spots like Cousin Danny's, Ortlieb's, Foto Club, and DIY spots like Howl's Castle, The Pouch, and Orpheus' Garden.",
+    insta: "https://www.instagram.com/yargapresents/",
   },
   {
     title: "Relapse Records",
@@ -1908,11 +1946,6 @@ export const MUSICDIYCOLLECTIVESPHL = [
     title: "Jersey Show Scene",
     summary: "“Masterlist of jerseys music scene. notaflof - Woman ran @gabbyice_.“ A New Jersey DIY show listing account, posting weekly DIY show lists, similar to the style of House Show Philly.",
     insta: "https://www.instagram.com/jerseyshowscene/",
-  },
-  {
-    title: "Yarga Presents",
-    summary: "The Haus may be gone, but Yarga is still putting together shows at spots like Cousin Danny's, Ortlieb's, Foto Club, and DIY spots like Howl's Castle, The Pouch, and Orpheus' Garden.",
-    insta: "https://www.instagram.com/yargapresents/",
   },
   {
     title: "The Courtyard",
@@ -2174,6 +2207,11 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/DetourPhilly/",
   },
   {
+    title: "The Stoop",
+    summary: "North Philly warehouse spot. “hosting + booking Art Marts. DIY north philly block concerts.” Art marts hosted at various DIY venues, often The Mansion.",
+    insta: "https://www.instagram.com/philly.stoop/",
+  },
+  {
     title: "The Backyard",
     summary: "An abando two story + attic building with a big backyard shows are thrown at. No social media or site.",
   },
@@ -2199,9 +2237,9 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/p/CgCph7XL3Jm/",
   },
   {
-    title: "The Stoop",
-    summary: "North Philly warehouse spot. “hosting + booking Art Marts. DIY north philly block concerts.” Art marts hosted at various DIY venues, often The Mansion.",
-    insta: "https://www.instagram.com/philly.stoop/",
+    title:"Angies’s in West",
+    insta: "https://www.instagram.com/angieswestphilly", 
+    summary: "West Philly house venue. Indie rock, post-punk, noise rock, garage rock, punk, noise pop, hyperpop, breakcore, DnB, cybergrind, etc. Occassional benefit shows (ex. Palestine, trans mutual aid). Since July 2023",
   },
   {
     title: "Fumblin’ Perkins",
@@ -2674,10 +2712,6 @@ export const MUSICDIYWIP = [
     mainLink: "https://www.instagram.com/antiflowershowmovement/",
   },
   {
-    title:"Philadelphia Psychedelic",
-    mainLink: "https://www.instagram.com/philadelphiapsychedelic/",
-  },
-  {
     title:"Rising Tide Collective",
     mainLink: "https://www.instagram.com/risingtidephl/",
     summary: "not to be confused with Rising Tide, the originally Earth First! offshoot climate group"
@@ -2693,11 +2727,6 @@ export const MUSICDIYWIP = [
   {
     title:"Air Lock Philly",
     mainLink: "https://www.instagram.com/air_lock.phl/",
-  },
-  {
-    title:"Angies’s in West",
-    mainLink: "https://www.instagram.com/angieswestphilly/",
-    summary: "West Philly DIY music venue (f.k.a. Fieldy's), 2 shows a month, Friday & Saturday nights only, DM for address",
   },
   {
     title:"Cecil Skatepark",
@@ -2801,10 +2830,6 @@ export const MUSICDIYWIP = [
     insta: "https://www.instagram.com/thecoachroomphilly/",
   },
   {
-    title: "Dave Kiss Presents",
-    insta: "https://www.instagram.com/davekisspresents/",
-  },
-  {
     title: "Free Fringe Philly",
     insta: "https://www.instagram.com/freefringephilly/",
   },
@@ -2817,20 +2842,12 @@ export const MUSICDIYWIP = [
     insta: "https://www.instagram.com/penntreatypark/",
   },
   {
-    title: "Vox Populi",
-    insta: "https://www.instagram.com/voxpopuligallery/",
-  },
-  {
     title: "Flowerz Mag",
     insta: "https://www.instagram.com/flowerz_mag/",
   },
   {
     title: "Scorpion Cult",
     insta: "https://www.instagram.com/scorpion.cult/",
-  },
-  {
-    title: "Kiss Fit Collective",
-    insta: "https://www.instagram.com/kissfitcollective/",
   },
   {
     title: "Pink House",
@@ -2879,10 +2896,6 @@ export const MUSICDIYWIP = [
   {
     title: "The Philly Goth Scene",
     insta: "https://www.instagram.com/thephillygothscene/",
-  },
-  {
-    title: "Tattooed Mom",
-    insta: "https://www.instagram.com/tmoms/",
   },
   {
     title: "Moth House",
@@ -3090,33 +3103,60 @@ export const MUSICDIYWIP = [
   },
   {
     title: "",
+    insta: "https://www.instagram.com/refresh.phl/",
+  },
+  {
+    title: "",
+    insta: "https://www.instagram.com/phillymusicfest/",
+  },
+  {
+    title: "",
+    insta: "https://www.instagram.com/lustdustphl/",
+  },
+  {
+    title: "https://www.instagram.com/corridor_phl/",
     insta: "",
   },
   {
     title: "",
-    insta: "",
+    insta: "https://www.instagram.com/phunction.phl/",
   },
   {
     title: "",
-    insta: "",
+    insta: "https://www.instagram.com/the_allegory_philly/",
   },
   {
     title: "",
-    insta: "",
+    insta: "https://www.instagram.com/iceboxprojectspace/",
   },
   {
     title: "",
-    insta: "",
+    insta: "https://www.instagram.com/thelastarizona/",
   },
   {
     title: "",
-    insta: "",
+    insta: "https://www.instagram.com/houseofjenk/",
   },
   {
     title: "",
-    insta: "",
+    insta: "https://www.instagram.com/phillyjerseyscene/",
   },
-
+  {
+    title: "",
+    insta: "https://www.instagram.com/philadelphiapsychedelic/",
+  },
+  {
+    title: "",
+    insta: "https://www.instagram.com/phillyjerseyscene/",
+  },
+  {
+    title: "",
+    insta: "https://www.instagram.com/the.silver.age.hq/",
+  },
+  {
+    title: "",
+    insta: "https://www.instagram.com/minimart.phl/",
+  },
 ];
 
 export const OTHERWIP = [

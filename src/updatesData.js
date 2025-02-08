@@ -1,5 +1,39 @@
 export const UPDATES = [
     {
+        header: "02/08/2025",
+        categoryUpdateLists: [
+            { 
+                type: "Additions:",
+                updateList: [
+                    {
+                        label: "Philly DIY Shows",
+                        href: "https://www.instagram.com/philly_diy_music",
+                    },
+                    {
+                        label: "Philadelphia Psychedelic",
+                        href: "https://www.instagram.com/philadelphiapsychedelic",
+                    },
+                    {
+                        label: "Angies’s in West",
+                        href: "https://www.instagram.com/angieswestphilly",
+                    },
+                    {
+                        label: "Dave Kiss Presents",
+                        href: "https://www.instagram.com/davekisspresents",
+                    },
+                    {
+                        label: "Vox Populi",
+                        href: "https://www.instagram.com/voxpopuligallery",
+                    },
+                    {
+                        label: "Tattooed Mom",
+                        href: "https://www.instagram.com/tmoms",
+                    },
+                ]
+            },
+        ]
+    },
+    {
         header: "02/05/2025",
         categoryUpdateLists: [
             { 
