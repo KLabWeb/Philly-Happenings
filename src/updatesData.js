@@ -3,7 +3,7 @@ export const UPDATES = [
         header: "02/08/2025",
         categoryUpdateLists: [
             { 
-                type: "Additions:",
+                type: "Additions (DIY / Music):",
                 updateList: [
                     {
                         label: "Philly DIY Shows",
@@ -29,9 +29,68 @@ export const UPDATES = [
                         label: "Tattooed Mom",
                         href: "https://www.instagram.com/tmoms",
                     },
+                    {
+                        label: "The Coach Room",
+                        href: "https://www.instagram.com/thecoachroomphilly/",
+                    },
+                    {
+                        label: "Camp Punksylvannia",
+                        href: "https://www.instagram.com/camppunksylvania",
+                    },
+                    {
+                        label: "Moth House",
+                        href: "https://www.instagram.com/welcometomouthhouse/",
+                    },
+                    {
+                        label:"REFRESH",
+                        href: "https://www.instagram.com/refresh.phl",
+                    },
+                    {
+                        label: "The Silver Age HQ",
+                        href: "https://www.instagram.com/the.silver.age/",
+                    },
+                    {
+                        label: "The Rug Club",
+                        href: "https://www.instagram.com/rugclubphl/"
+                    }
                 ]
             },
-        ]
+            { 
+                type: "Additions (Above Ground Spots)",
+                updateList: [
+                    {
+                        label: "Vox Populi",
+                        href: "https://www.instagram.com/voxpopuligallery",
+                    },
+                    {
+                        label: "Tattooed Mom",
+                        href: "https://www.instagram.com/tmoms",
+                    },
+                    {
+                        label: "Johnny Brenda's",
+                        href: "https://www.instagram.com/johnnybrendas",
+                    }
+                ]
+            },
+            { 
+                type: "Additions (Green General)",
+                updateList: [
+                    {
+                        label: "Parade of Spirits",
+                        href: "https://www.facebook.com/paradeofspiritsll/",
+                    },
+                ]
+            },
+            { 
+                type: "Removed (no longer occurring)",
+                updateList: [
+                    {
+                        label: "South Street Fest",
+                        href: "https://www.instagram.com/southstreetphilly",
+                    },
+                ]
+            },
+        ],
     },
     {
         header: "02/05/2025",

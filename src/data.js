@@ -605,6 +605,12 @@ export const CLOSED = [
     summary: "2022-2024. “North Philly Basement Venue.” Started Sept ‘22. Mostly metal and tons of hardcore. Moved out of space spring 2024. A very sad loss.",
     insta: "https://www.instagram.com/bloodbank.phl",
   },
+  {
+    title: "South Street Fest",
+    summary: "As of 2024, no longer occurring...Mid spring, annually.“Spanning 2nd to 8th streets. Live music and performances, international food and drinks, crafts and vendors, Brauhaus Schmitz Manifest, framily friendly kid zones, free comics at Atomic City Comics.“",
+    insta: "https://www.instagram.com/southstreetphilly",
+    suggestedFollow: "Check annual date in early spring",
+  },
 ]
 
 export const CYCLING = [
@@ -1075,12 +1081,6 @@ export const GENERAL = [
     suggestedFollow: "FB",
   },
   {
-    title: "South Street Fest",
-    summary: "Mid spring, annually.“Spanning 2nd to 8th streets. Live music and performances, international food and drinks, crafts and vendors, Brauhaus Schmitz Manifest, framily friendly kid zones, free comics at Atomic City Comics.“",
-    insta: "https://www.instagram.com/southstreetphilly",
-    suggestedFollow: "Check annual date in early spring",
-  },
-  {
     title: "Italian Market Festival",
     summary: "Late spring, annually. “For seven city blocks, a celebration of culture, gastronomy, art and music. Featuring over 100 area vendors showcasing a range of cuisine and beverages. In addition to the food, the Festival features a wide range of music, services, souvenirs, jewelry, artists, and crafters.“ Greased pole climbing competition.",
     mainLink: "https://italianmarketphilly.org",
@@ -1350,6 +1350,12 @@ export const GREENGENERAL = [
     title: "Permaculture Philadelphia",
     summary: "General group for Philly permaculture events, resources, etc.",
     mainLink: "https://www.facebook.com/groups/permaculturephiladelphia/",
+  },
+  {
+    title:"Parade of Spirits",
+    summary: "An annual parade inspired by inspired by Krampuslauf, an honoring of Krampus. Full of complex and intricate costumes, masks, and witchy and earthy attire. A pagan celebration just around the winter solstice. 15th year in 2025. “Like being in a Miyazaki movie.“",
+    mainLink: "https://whyy.org/articles/krampus-brings-dark-winter-magic-to-northern-liberties/",
+    facebook: "https://www.facebook.com/paradeofspiritsll/",
   },
 ];
 
@@ -1628,6 +1634,13 @@ export const MUSICABOVEPHILLY = [
     insta: "https://www.instagram.com/voxpopuligallery/",
   },
   {
+    title: "Johnny Brenda's",
+    summary: "“Your favorite Fishtown spot for over 15 years. Local Beer. Good Eats. Craft Cocktails. Live music.“ Bar and restaurant. Live music of many genres on most Th-Sun, as well as some weekdays.",
+    mainLink: "https://johnnybrendas.com/",
+    facebook: "https://www.facebook.com/Johnny.Brendas",
+    insta: "https://www.instagram.com/johnnybrendas/",
+  },
+  {
     title: "Dawson Street Pub",
     summary: "Manayunk. Local bands.",
     mainLink: "http://www.dawsonstreetpub.com/",
@@ -1899,6 +1912,10 @@ export const MUSICBLUEGRASS = [
 
 export const MUSICCLASSICAL = [ {} ];
 
+export const MUSICFESTIVALS = [
+
+]; 
+
 export const MUSICDIYCOLLECTIVESPHL = [
   {
     title: "Philly DIY Shows",
@@ -2022,6 +2039,11 @@ export const MUSICDIYCOLLECTIVESPHL = [
     insta: "https://www.instagram.com/virtua94",
   },
   {
+    title: "REFRESH",
+    summary: "Philadelphia dance event series. Electronic shows, mostly at The 700, a Northern Liberties bar w/ upstairs loft dance area. Hyperpop, ambient, glitch, dance, techno, club, dream pop, etc.",
+    insta: "https://www.instagram.com/refresh.phl",
+  },
+  {
     title: "Tuna Collective",
     summary: "“Record label. up to no good. handmade in philly.” Musicians/bands play DIY venues.",
     subLink: "https://www.youtube.com/watch?v=0Lal5Ss_InM",
@@ -2105,7 +2127,7 @@ export const MUSICDIYGENPHL = [
     mainLink: "https://westphillyporchfest.com/",
     facebook: "https://www.facebook.com/westphillyporchfest",
     insta: "https://www.instagram.com/westphillyporchfest",
-    suggestedFollow: "Check site in early summer for annual date",
+    suggestedFollow: "",
   },
   {
     title: "Cherry-Veen Zine",
@@ -2123,6 +2145,14 @@ export const MUSICDIYGENPHL = [
     subLink: "https://open.spotify.com/playlist/1jkoqs2bZo3mY1RmY6VYG4",
     facebook: "https://www.facebook.com/globalrockunderground",
     insta: "https://www.instagram.com/globalrockunderground/",
+  },
+  {
+    title: "Camp Punksylvannia",
+    summary: "“PA’s ultimate punk rock summer camp experience.“ Camping music festival. 5th year in 2024. 3 days. 4 stages. 50 bands. Punk, folk punk, hardcore, hardcore, bluegrass, ska, etc. Bring a tent, but leave the bed bugs at home. June 20-22, 2025. Outisde of Pittsburgh",
+    mainLink: "https://www.camppunksylvania.com",
+    facebook: "https://www.facebook.com/CampPunksylvania",
+    insta: "https://www.instagram.com/camppunksylvania",
+    suggestedFollow: "Check site in early summer for annual date",
   },
   {
     title: "DoDIY",
@@ -2188,7 +2218,7 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "The Machine",
-    summary: "House venue and art collective. Very active.",
+    summary: "House venue and art collective. Since 2021. Very active, putting together consistent stream of DIY and above ground shows. A key promoter for local electronic shows.",
     facebook: "https://www.facebook.com/The-Machine-Philly-112637788082970/",
     twitter: "https://twitter.com/themachinephl",
     insta: "https://www.instagram.com/themachinephilly",
@@ -2210,6 +2240,16 @@ export const MUSICDIYSPOTSPHL = [
     title: "The Stoop",
     summary: "North Philly warehouse spot. “hosting + booking Art Marts. DIY north philly block concerts.” Art marts hosted at various DIY venues, often The Mansion.",
     insta: "https://www.instagram.com/philly.stoop/",
+  },
+  {
+    title: "The Coach Room",
+    summary: "Basement DIY spot,that also does rooftop shows. Indie rock, folk rock, psy rock, pop, rap, electronic, jazz, etc. Indie Sleaze Night, Spookyfest, Comedy Show. Est Oct' 2022.",
+    insta: "https://www.instagram.com/thecoachroomphilly/",
+  },
+  {
+    title: "Orpheus’ Garden",
+    summary: "“🌱 🌿 South Philly DIY HOUSE Venue 🍃☘️ POC / LGBT+ Ran EST. 2021” Basement venue.",
+    insta: "https://www.instagram.com/orpheus.garden/",
   },
   {
     title: "The Backyard",
@@ -2316,11 +2356,6 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/explore/tags/hustlehaus/",
   },
   {
-    title: "Orpheus’ Garden",
-    summary: "“South Philly House Venue. Women/LGBT Owned.” Basement venue. First show Sept ‘22.",
-    insta: "https://www.instagram.com/orpheus.garden/",
-  },
-  {
     title: "The Underworld",
     summary: "“just a couple of wet rats in charge of a philly diy house venue!!!” Basement venue. Somtimes uses show cover as donations for groups like Treehouse Books and Abortion Lib Fund of PA. First show Sept ‘22. Mixes it up, with things like art mart, masquerade ball, etc..",
     insta: "https://www.instagram.com/theunderworldphilly/",
@@ -2417,7 +2452,7 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "Mini Mart",
-    summary: "West Philly basement venue with a wide mix of music genres. In addition to shows, DIY Drag show, love market, plays. Started 2023.",
+    summary: "West philly house venue. Shows, art mart, DIY drag show extravaganza. Experimental, electronic, noise, rock, ambient, no wave, hardcore, hip hop, shoegaze, dance.",
     insta: "https://www.instagram.com/minimart.phl/",
   },
   {
@@ -2466,6 +2501,22 @@ export const MUSICDIYSPOTSPHL = [
     summary: "Long running North Philly warehouse venue. Dreampop, post-punk, reggae, techno, analog VJ's, and more. Food, drinks, karaoke, dodgeball, and good vibes. No longer throws regular shows, but still has annual Halloween shows.",
     insta: "https://www.instagram.com/bond.villain/",
   },  
+  {
+    title: "Moth House",
+    summary: "“Music experiences in South Philly. First Friday Function - March thru October.“ Singer songwriter, country, folk, folk punk, etc. Acoustic instruments.",
+    insta: "https://www.instagram.com/welcometomouthhouse/",
+  },
+  {
+    title: "The Silver Age HQ",
+    summary: "“The Silver Age is a group of movers and shakers and candlestickmakers. Our headquarters, or the Headquarters as we like to call it, is just as fun as a ball pit. Produces local music and DIY Fun House zine. Est Dec 2023. Nice mix of music genres.",
+    mainLink: "https://thesilverage.com/",
+    insta: "https://www.instagram.com/the.silver.age.hq/",
+  },
+  {
+    title: "The Rug Club",
+    summary: "Queer- and femme-run west philly house venue. Indie, singer-songwriter, folk, shoegaze, etc.. Multiple benefits for Palestine.",
+    insta: "https://www.instagram.com/rugclubphl/",
+  }
 ];
 
 export const MUSICDIYSPOTSSC = [
@@ -2708,25 +2759,13 @@ export const MUSICDIYWIP = [
     mainLink: "https://www.facebook.com/labyrinthproductions/events",
   },
   {
-    title:"anti flower show movement",
-    mainLink: "https://www.instagram.com/antiflowershowmovement/",
-  },
-  {
     title:"Rising Tide Collective",
     mainLink: "https://www.instagram.com/risingtidephl/",
     summary: "not to be confused with Rising Tide, the originally Earth First! offshoot climate group"
   },
   {
-    title:"Big Nation Movement",
-    mainLink: "https://www.instagram.com/bignationmovement/",
-  },
-  {
     title:"Planet Earth",
     mainLink: "https://www.instagram.com/p/CkLu18PJjNj/",
-  },
-  {
-    title:"Air Lock Philly",
-    mainLink: "https://www.instagram.com/air_lock.phl/",
   },
   {
     title:"Cecil Skatepark",
@@ -2793,10 +2832,6 @@ export const MUSICDIYWIP = [
     insta: "https://www.instagram.com/p/C2Nxuesp0mO/?img_index=2, https://www.instagram.com/p/C17sUm3JSks/?img_index=3",
   },
   {
-    title: "The Pink House",
-    insta: "https://www.instagram.com/p/CwSzGMlurR5/?img_index=8",
-  },
-  {
     title: "funhouse philadelphia",
     summary: "“diy comedy show hosted by lauren ellis. at “the tiny desk of south philly”“",
     insta: "https://www.instagram.com/funhousephl/",
@@ -2804,14 +2839,6 @@ export const MUSICDIYWIP = [
   {
     title: "Flux",
     insta: "https://www.instagram.com/drexelflux/",
-  },
-  {
-    title: "Collision",
-    insta: "https://www.instagram.com/collisionpgh/",
-  },
-  {
-    title: "Camp Punksylvania",
-    insta: "https://www.instagram.com/camppunksylvania/",
   },
   {
     title: "Bell Tower Music",
@@ -2824,10 +2851,6 @@ export const MUSICDIYWIP = [
   {
     title: "Stoop Sounds Philly",
     insta: "https://www.instagram.com/stoop_sounds/",
-  },
-  {
-    title: "The Coach Room",
-    insta: "https://www.instagram.com/thecoachroomphilly/",
   },
   {
     title: "Free Fringe Philly",
@@ -2878,14 +2901,6 @@ export const MUSICDIYWIP = [
     insta: "https://www.instagram.com/wilsonswar/",
   },
   {
-    title: "Refresh",
-    insta: "https://www.instagram.com/refresh.phl/",
-  },
-  {
-    title: "The Bungalow",
-    insta: "https://www.instagram.com/bungalowmusichouse/",
-  },
-  {
     title: "Death Sculpted Productions",
     insta: "https://www.instagram.com/deathsculptedpros/",
   },
@@ -2896,10 +2911,6 @@ export const MUSICDIYWIP = [
   {
     title: "The Philly Goth Scene",
     insta: "https://www.instagram.com/thephillygothscene/",
-  },
-  {
-    title: "Moth House",
-    insta: "https://www.instagram.com/welcometomouthhouse/",
   },
   {
     title: "The Groove",
@@ -2918,10 +2929,6 @@ export const MUSICDIYWIP = [
     insta: "https://www.instagram.com/grassstainsfestival/",
   },
   {
-    title: "Johnny Brenda's",
-    insta: "https://www.instagram.com/johnnybrendas/",
-  },
-  {
     title: "Emo Night Philly",
     insta: "https://www.instagram.com/emonightphilly/",
   },
@@ -2932,10 +2939,6 @@ export const MUSICDIYWIP = [
   {
     title: "The Rocker",
     insta: "https://www.instagram.com/therockershow/",
-  },
-  {
-    title: "Asylum Music Social Club",
-    insta: "https://www.instagram.com/asylummusicclub.psu/",
   },
   {
     title: "antiflowershowmovement",
@@ -3014,10 +3017,6 @@ export const MUSICDIYWIP = [
     insta: "https://www.instagram.com/p/Cwkx0m4Lmli/?img_index=1",
   },
   {
-    title: "Philly Trans Clothing Swap",
-    insta: "https://www.instagram.com/phillytswap/",
-  },
-  {
     title: "Launderette Records",
     insta: "https://www.instagram.com/launderette.records/",
   },
@@ -3036,10 +3035,6 @@ export const MUSICDIYWIP = [
   {
     title: "In•dex",
     insta: "https://www.instagram.com/index.0001/",
-  },
-  {
-    title: "The Silver Age",
-    insta: "https://www.instagram.com/p/C7vTTdLubME/",
   },
   {
     title: "Zembo Temple of Skate & Design",
@@ -3082,10 +3077,6 @@ export const MUSICDIYWIP = [
     insta: "https://www.instagram.com/pink_house_philly/",
   },
   {
-    title: "Mouth House",
-    insta: "https://www.instagram.com/welcometomouthhouse/",
-  },
-  {
     title: "Dance Off Productions",
     insta: "https://www.instagram.com/dance_off_productions/",
   },
@@ -3100,10 +3091,6 @@ export const MUSICDIYWIP = [
   {
     title: "hardcoretoday777",
     insta: "https://www.instagram.com/hardcoretoday777/",
-  },
-  {
-    title: "",
-    insta: "https://www.instagram.com/refresh.phl/",
   },
   {
     title: "",
@@ -3153,21 +3140,12 @@ export const MUSICDIYWIP = [
     title: "",
     insta: "https://www.instagram.com/the.silver.age.hq/",
   },
-  {
-    title: "",
-    insta: "https://www.instagram.com/minimart.phl/",
-  },
 ];
 
 export const OTHERWIP = [
   {
     title:"Berkman (Anti)School of Anarchy",
     mainLink: "https://berkmananarchy.noblogs.org/",
-  },
-  {
-    title:"Parade of Spirits",
-    mainLink: "https://www.explorenorthernliberties.org/event/parade-of-spirits/",
-    facebook: "https://www.facebook.com/paradeofspiritsll/",
   },
   {
     title:"Krampus Fest and Night Market",
@@ -3180,10 +3158,6 @@ export const OTHERWIP = [
   {
     title:"Santa Lucia & Christmas Market",
     mainLink: "https://www.americanswedish.org/events/lucia-christmas-market-2",
-  },
-  {
-    title:"The Mummers Parade",
-    mainLink: "https://www.phlvisitorcenter.com/Mummers",
   },
   {
     title:"Fishtown Freeze Weekend",
