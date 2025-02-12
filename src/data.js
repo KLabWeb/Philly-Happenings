@@ -3161,10 +3161,6 @@ export const OTHERWIP = [
     mainLink: "https://theresourceexchange.org/",
   },
   {
-    title:"Trans Art Market",
-    mainLink: "https://www.instagram.com/transartmart/",
-  },
-  {
     title: "The Mann",
     mainLink: "https://manncenter.org/events"
   },
@@ -3173,6 +3169,54 @@ export const OTHERWIP = [
     mainLink: "https://sourlandmountainfest.com/",
   }
 ];
+
+// {
+//   title: "Trans Art Market",
+//   summary: "“Philly art market exclusively highlighting Trans, Non-Binary and Gender Expansive Artists“",
+//   mainLink: "https://transartmart.weebly.com/",
+//   subLink: "",
+//   facebook: "https://www.facebook.com/transartmart",
+//   insta: "https://www.instagram.com/transartmart/",
+//   suggestedFollow: "",
+// },
+// {
+//   title: "",
+//   summary: "",
+//   mainLink: "",
+//   subLink: "",
+//   facebook: "",
+//   insta: "",
+//   suggestedFollow: "",
+// },
+// {
+//   title: "",
+//   summary: "",
+//   mainLink: "",
+//   subLink: "",
+//   facebook: "",
+//   insta: "",
+//   suggestedFollow: "",
+// },
+// {
+//   title: "",
+//   summary: "",
+//   mainLink: "",
+//   subLink: "",
+//   facebook: "",
+//   insta: "",
+//   suggestedFollow: "",
+// },
+// {
+//   title: "",
+//   summary: "",
+//   mainLink: "",
+//   subLink: "",
+//   facebook: "",
+//   insta: "",
+//   suggestedFollow: "",
+// },
+
+
 
 export const TEMP = [
   {

@@ -1,3 +1,9 @@
 # https://www.robotstxt.org/robotstxt.html
+
+# block all scrappers, including AI hosts
 User-agent: *
-Disallow:
+Disallow: /
+
+# set crawl delay to ungodly amount of time
+User-agent: *
+Crawl-delay: 1000000000000000
