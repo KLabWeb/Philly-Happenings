@@ -3,31 +3,67 @@ export const UPDATES = [
         header: "02/13/2025",
         categoryUpdateLists: [
             { 
-                type: "Additions (DIY / Music):",
+                type: "Additions (Music Promoters/Collectives):",
                 updateList: [
                     {
                         label: "A Bob Wilson Joint",
                         href: "https://www.instagram.com/wilsonswar",
                     },
                     {
-                        label: "Trans Art Market",
-                        href: "https://www.instagram.com/transartmart/",
+                        label: "Kulture Cru",
+                        href: "https://www.instagram.com/kulture_cru/",
+                    },             
+                    {
+                        label: "Big Chair",
+                        href: "https://www.instagram.com/showsfromthebigchair/"
                     },
                     {
+                        label: "Minimal Chaos Collective",
+                        href: "https://www.instagram.com/minimal_chaos_"
+                    }
+                ]
+            },
+            {
+                type: "Additions (Philly Show Aggregator):",
+                updateList: [  
+                    {
+                        label: "philly-shows.org",
+                        href: "https://www.philly-shows.org/"
+                    },
+                ]
+            },
+            {
+                type: "Additions (Spots):",
+                updateList: [
+                    {
                         label: "American Legion Post 2014",
+                    },
+                    {
+                        label: "Icebox Project Space",
+                        href: "https://www.instagram.com/iceboxprojectspace"
+                    },
+                ]
+            },
+            {
+                type: "Addition (General):",
+                updateList: [
+                    {
+                        label: "Trans Art Market",
+                        href: "https://www.instagram.com/transartmart/",
                     },
                     {
                         label: "Two Piece Fest",
                         href: "https://www.instagram.com/twopiecefest",
                     },
+                ]
+            },
+            {
+                type: "Addition (Bluegrass):",
+                updateList: [
                     {
-                        label: "Kulture Cru",
-                        href: "https://www.instagram.com/kulture_cru/",
-                    },             
-                    {
-                        label: "philly-shows.org",
-                        href: "https://www.philly-shows.org/"
-                    }       
+                        label: "The Sourland Mountain Festival",
+                        href: "https://www.instagram.com/sourlandmountainfest"
+                    },
                 ]
             }
         ]

@@ -9,7 +9,7 @@ export const BYMONTH = [
   },
   {
     period: "April",
-    events: ["Early: Philly Theater Week", "Early: Lancaster Zine Fest", "Early: Shofuso Cherry Blossom Festival"]
+    events: ["Early: Philly Theater Week", "Early: Lancaster Zine Fest", "Early: Shofuso Cherry Blossom Festival", "4/20: Minimal Chaos Collective Potluck & Park Party"]
   },
   {
     period: "May",

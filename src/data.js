@@ -310,6 +310,11 @@ export const ANIMEPHILLY = [
 
 export const CLOSED = [
   {
+    title: "The Secret Garden",
+    summary: "“coming Fall 2023 to Carlisle St.“ Basement spot. Had a single show in Sept 2023 and then was never seen again.",
+    insta: "https://www.instagram.com/secretgardenphl/",
+  },
+  {
     title: "House Show State College",
     summary: "On indefinite hiatus starting August 2024. “state college diy shows, updated every wednesday, band interest form in linktree.” Run by the same folk as houseshowphilly, the Kissfit Collective.",
     insta: "https://www.instagram.com/houseshowstatecollege/",
@@ -1626,11 +1631,22 @@ export const MUSICABOVEPHILLY = [
     insta: "https://www.instagram.com/undrgroundarts/",
   },
   {
+    title: "Bonk's Bar",
+    summary: "Port Richmond. Bar & crabhouse. Local bands, karaoke, car shows, bingo, Quizzo, Christmas toy drive. A solid place for reasonably priced seafood, too.",
+    mainLink: "https://bonksbar.com/",
+    insta: "https://www.instagram.com/bonksbarphl/",
+    facebook: "https://www.facebook.com/bonkscrabs",
+  },
+  {
     title: "FU Church",
-    summary: "First Unitarian Church of Philadelphia. Semi-frequent punk, hardcore, other, shows. Also home of the Philadelphia Animation Society. Located in a busy spot in Center City so ride a bike to avoid paying for expensive parking.",
+    summary: "First Unitarian Church of Philadelphia. Semi-frequent punk, hardcore, other, shows. Also home of the Philadelphia Animation Society. Located in a busy spot in Center City so ride a bike to avoid paying for expensive parking. Watch local promoters for shows.",
     subLink: "https://www.songkick.com/venues/10848-first-unitarian-church",
   },
-
+  {
+    title: "Ukie Club",
+    summary: "Ukrainian American Citizens' Association. Has a bar and hosts local shows, mostly hardcore, though also indie/art rock. Watch local promoters for shows.",
+    insta: "https://www.instagram.com/ukrainianleagueofphiladelphia",
+  },
   {
     title: "Kung Fu Necktie",
     summary: "Small 140 capacity music venue. Garage rock, punk, folk punk, ska, noise rock, goth, hardcore, crossover, emo, synth-pop. Big name and local bands.",
@@ -1666,13 +1682,6 @@ export const MUSICABOVEPHILLY = [
     subLink: "",
     facebook: "https://www.facebook.com/thefirephilly/",
     insta: "https://www.instagram.com/firephilly/",
-  },
-  {
-    title: "Bonk's Bar",
-    summary: "Port Richmond. Bar & crabhouse. Local bands, karaoke, car shows, bingo, Quizzo, Christmas toy drive. A solid place for delicious and reasonably priced seafood.",
-    mainLink: "https://bonksbar.com/",
-    insta: "https://www.instagram.com/bonksbarphl/",
-    facebook: "https://www.facebook.com/bonkscrabs",
   },
   {
     title: "The Rotunda",
@@ -1729,19 +1738,6 @@ export const MUSICABOVEPHILLY = [
     mainLink: "https://utphilly.com/",
     facebook: "https://www.facebook.com/UnionTransfer/",
     insta: "https://www.instagram.com/uniontransfer/",
-  },
-  {
-    title: "The Pharmacy",
-    summary: "Coffee shop and gallery with shows. Indie, punk, hardcore, metal, electronic.",
-    mainLink: "https://www.thepharmacyphilly.org/",
-    facebook: "https://www.facebook.com/thepharmacycoffee/",
-    insta: "https://www.instagram.com/thepharmacycoffee/",
-  },
-  {
-    title: "Ukie Club",
-    summary: "Ukrainian American Citizens' Association. Has a bar and hosts local shows, mostly hardcore, though also indie/art rock.",
-    facebook: "https://www.facebook.com/pages/The-Ukie-Club/106810005342200",
-    insta: "https://www.instagram.com/ukrainianleagueofphiladelphia",
   },
   {
     title: "Ray’s Happy Birthday Bar",
@@ -1813,6 +1809,20 @@ export const MUSICABOVEPHILLY = [
     mainLink: "http://www.blackcattavernphilly.com/",
     facebook: "https://www.facebook.com/BlackCatTavernPhilly/",
     insta: "https://www.instagram.com/blackcattavernphilly",
+  },
+  {
+    title: "The Pharmacy",
+    summary: "Coffee shop and gallery with shows. Indie, punk, hardcore, metal, electronic.",
+    mainLink: "https://www.thepharmacyphilly.org/",
+    facebook: "https://www.facebook.com/thepharmacycoffee/",
+    insta: "https://www.instagram.com/thepharmacycoffee/",
+  },
+  {
+    title: "Icebox Project Space",
+    summary: "“Our mission is to facilitate projects that are a betterment of the community and to push for social change. We look to artworks, performances, videos, movement, and sound that have a sense of urgency and relevance in and around Philadelphia.“",
+    mainLink: "https://www.iceboxprojectspace.com/",
+    facebook: "https://www.facebook.com/iceboxprojectspace/",
+    insta: "https://www.instagram.com/iceboxprojectspace",
   },
   {
     title: "Saint Vitus Bar",
@@ -1921,6 +1931,13 @@ export const MUSICBLUEGRASS = [
     insta: "https://www.instagram.com/intothepinesmusicfestival/",
   },
   {
+    title: "The Sourland Mountain Festival",
+    summary: "Every July. “The Sourland Mountain Festival brings the communities of the Central New Jersey region together and presents the best in musical talent, local food and drink, family fun - and a spectacular view. Proceeds from the Sourland Mountain Festival benefit the Sourland Conservancy. In Ringoes, NJ, 50 mins N of Philly. 20th year in 2025.",
+    mainLink: "https://sourlandmountainfest.com/",
+    facebook: "https://www.facebook.com/sourlandmountainfest/",
+    insta: "https://www.instagram.com/sourlandmountainfest",
+  },
+  {
     title: "Berks Fiddle Fest",
     summary: "“Bring your instruments the 3rd Sunday of each September for the biggest and best music festival.“ Fleetwood, PA (1.5 hrs out of Philly).",
     mainLink: "https://www.fleetwoodboro.com/fiddlefest/",
@@ -2017,6 +2034,12 @@ export const MUSICDIYCOLLECTIVESPHL = [
     summary: "The Haus may be gone, but Yarga is still putting together shows at spots like Cousin Danny's, Ortlieb's, Foto Club, and DIY spots like Howl's Castle, The Pouch, and Orpheus' Garden.",
     insta: "https://www.instagram.com/yargapresents/",
     facebook: "https://www.instagram.com/yargapresentsbackupaccount/"
+  },
+  {
+    title: "Big Chair",
+    summary: "“*creaks* Philadelphia based booking, reviews, and general music appreciation arts collective. Existent in various iterations for the better part of ten years.“ Mostly above ground, such as Ulana's, Vox Populi, PhilaMOCA, and Ortleib's, but also some DIY shows and collab w/ The Machine.",
+    mainLink: "https://www.bigchairphl.com/",
+    insta: "https://www.instagram.com/showsfromthebigchair/",
   },
   {
     title: "Jersey Show Scene",
@@ -2145,6 +2168,13 @@ export const MUSICDIYCOLLECTIVESPHL = [
     title: "Bread Box Booking",
     summary: "“Art Gallery, music venue, and event space” of summer 2023 turned DIY venue booking following space lease termination.",
     insta: "https://www.instagram.com/breadboxphilly/",
+  },
+  {
+    title: "Minimal Chaos Collective",
+    summary: "“Park Parties, Fire Jams, & Community Engagement.“ Philly Burner collective. Fire arts. Tight ropes. DJs. Ice skating. Host regular parties and annual 4/20 Potluck and Park Party.",
+    subLink: "https://www.eventbrite.com/o/minimal-chaos-collective-103077852261",
+    facebook: "https://www.facebook.com/MinimalChaosCollective",
+    insta: "https://www.instagram.com/minimal_chaos_"
   },
   {
     title: "Born Loser Records",
@@ -2893,14 +2923,6 @@ export const DATAWIP = [
     insta: "https://www.instagram.com/flowerz_mag/",
   },
   {
-    title: "Scorpion Cult",
-    insta: "https://www.instagram.com/scorpion.cult/",
-  },
-  {
-    title: "The Secret Garden",
-    insta: "https://www.instagram.com/secretgardenphl/",
-  },
-  {
     title: "Philly Music Fest",
     insta: "https://www.instagram.com/phillymusicfest/",
   },
@@ -2911,14 +2933,6 @@ export const DATAWIP = [
   {
     title: "hardcoretoday777",
     insta: "https://www.instagram.com/hardcoretoday777/",
-  },
-  {
-    title: "Big Chair",
-    insta: "https://www.instagram.com/showsfromthebigchair/",
-  },
-  {
-    title: "Philly XXX",
-    insta: "https://www.instagram.com/wilsonswar/",
   },
   {
     title: "Death Sculpted Productions",
@@ -3013,10 +3027,6 @@ export const DATAWIP = [
     insta: "https://www.instagram.com/bilgewaterproductions/",
   },
   {
-    title: "",
-    insta: "https://www.instagram.com/hematoid_dm/",
-  },
-  {
     title: "Limit.Nine",
     insta: "https://www.instagram.com/p/C1X2vOmJgev/?img_index=1",
   },
@@ -3077,20 +3087,13 @@ export const DATAWIP = [
     insta: "https://www.facebook.com/share/p/BixDSBGKhLxqE8hE/",
   },
   {
-    title: "Creature Cave",
-    insta: "https://www.instagram.com/creaturecave.phl/",
-  },
-  {
     title: "Pink House",
+    summary: "inactive?",
     insta: "https://www.instagram.com/pink_house_philly/",
   },
   {
     title: "Dance Off Productions",
     insta: "https://www.instagram.com/dance_off_productions/",
-  },
-  {
-    title: "Big Chair",
-    insta: "https://www.instagram.com/showsfromthebigchair/",
   },
   {
     title: "hardcoretoday777",
@@ -3102,6 +3105,7 @@ export const DATAWIP = [
   },
   {
     title: "",
+    summary: "inactive?",
     insta: "https://www.instagram.com/lustdustphl/",
   },
   {
@@ -3110,36 +3114,17 @@ export const DATAWIP = [
   },
   {
     title: "",
-    insta: "https://www.instagram.com/phunction.phl/",
-  },
-  {
-    title: "",
+    summary: "inactive?",
     insta: "https://www.instagram.com/the_allegory_philly/",
-  },
-  {
-    title: "",
-    insta: "https://www.instagram.com/iceboxprojectspace/",
   },
   {
     title: "",
     insta: "https://www.instagram.com/thelastarizona/",
   },
   {
-    title: "",
-    insta: "https://www.instagram.com/houseofjenk/",
-  },
-  {
-    title: "",
-    insta: "https://www.instagram.com/cyberia.wav/",
-  },
-  {
     title: "PhillyJerseyScene",
     summary: "“Reposting awesome local shows in philly + jersey (occasionally ny) 😛👽👾🛸💥🌈🪩💞“. One post per day that has shows. Since Oct 15th, 2024. Innactive?",
     insta: "https://www.instagram.com/phillyjerseyscene/"
-  },
-  {
-    title:"Berkman (Anti)School of Anarchy",
-    mainLink: "https://berkmananarchy.noblogs.org/",
   },
   {
     title:"Krampus Fest and Night Market",
@@ -3154,10 +3139,6 @@ export const DATAWIP = [
     mainLink: "https://www.americanswedish.org/events/lucia-christmas-market-2",
   },
   {
-    title:"Fishtown Freeze Weekend",
-    mainLink: "https://phillyfunguide.com/free/5th-annual-fishtown-freeze-weekend-december-9-10",
-  },
-  {
     title:"The Resource Exchange",
     mainLink: "https://theresourceexchange.org/",
   },
@@ -3166,23 +3147,13 @@ export const DATAWIP = [
     mainLink: "https://manncenter.org/events"
   },
   {
-    title: "Sourland Mountain Festival",
-    mainLink: "https://sourlandmountainfest.com/",
-  },
-  {
     title: "West Kensington Ministry"
-  },
-  {
-    title: "Rebel & Wolf Cafe"
   },
   {
     title: "Firehouse Warehouse"
   },
   {
     title: "The Fallser Club"
-  },
-  {
-    title: "Minimal Chaos Collective"
   },
   {
     title: "Minimal Chaos Collective Annul April 20 Potluck"
