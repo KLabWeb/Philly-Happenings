@@ -1,5 +1,38 @@
 export const UPDATES = [
     {
+        header: "02/13/2025",
+        categoryUpdateLists: [
+            { 
+                type: "Additions (DIY / Music):",
+                updateList: [
+                    {
+                        label: "A Bob Wilson Joint",
+                        href: "https://www.instagram.com/wilsonswar",
+                    },
+                    {
+                        label: "Trans Art Market",
+                        href: "https://www.instagram.com/transartmart/",
+                    },
+                    {
+                        label: "American Legion Post 2014",
+                    },
+                    {
+                        label: "Two Piece Fest",
+                        href: "https://www.instagram.com/twopiecefest",
+                    },
+                    {
+                        label: "Kulture Cru",
+                        href: "https://www.instagram.com/kulture_cru/",
+                    },             
+                    {
+                        label: "philly-shows.org",
+                        href: "https://www.philly-shows.org/"
+                    }       
+                ]
+            }
+        ]
+    },
+    {
         header: "02/08/2025",
         categoryUpdateLists: [
             { 

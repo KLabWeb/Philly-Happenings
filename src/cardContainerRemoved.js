@@ -87,15 +87,8 @@
                         );
                     })}
 
-                    <h1 id="music-diy-wip" className="category">Music: DIY Work in Progress</h1>
-                    {MUSICDIYWIP.map(data => {
-                        return (
-                          <DetailCard key={data.title} data={data}/>
-                        );
-                    })}
-
-                    <h1 id="other-wip" className="category">Other: Work in Progress</h1>
-                    {OTHERWIP.map(data => {
+                    <h1 id="main-wip" className="category">Work in Progress</h1>
+                    {DATAWIP.map(data => {
                         return (
                           <DetailCard key={data.title} data={data}/>
                         );

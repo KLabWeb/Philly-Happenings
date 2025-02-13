@@ -123,14 +123,6 @@ export const ANARCHISTPHILLY = [
     suggestedFollow: "Read online or check for print versions at Wooden Shoe Books",
   },
   {
-    title: "Punk Rock Flea Market",
-    summary: "“The Punk Rock Flea Market is the place to shop for awesome clothing, records, crafts, art, and most of all old punk junk! 200 vendors per day, different vendors each day.“ One market each season.",
-    mainLink: "https://www.phillyprfm.com",
-    facebook: "https://www.facebook.com/PhillyPRFM",
-    insta: "https://www.instagram.com/phillyprfm",
-    suggestedFollow: "Email newsletter. Join it on their site.",
-  },
-  {
     title: "South Philly Autonomous Cinema",
     summary: "Shows regular radical and queer cinema, at different venues and community spaces, usually once or twice a month. Started Dec, 2022. Also run Philm Club indie screenings newsletter.",
     mainLink: "https://cinemaphilly.com",
@@ -1988,11 +1980,31 @@ export const MUSICDIYCOLLECTIVESPHL = [
     insta: "https://www.instagram.com/diyphilly/",
   },
   {
+    title: "Philly-shows.org",
+    summary: "“philly-shows.org is a community resource that facilitates community in the local music scene. The website attempts to list all music and concert events in Philadelphia in one consolidated location. Run by two people in Philly.“ Presents shows, also. Submit a show!",
+    mainLink: "https://www.philly-shows.org/",
+    insta: "https://www.instagram.com/phillyshowsdotorg/",
+  },
+  {
+    title: "Philly Hardcore Shows",
+    summary: "Hardcore show promotion group ran by legendary Philly promoter Joe Hardcore. Shows mostly at underground adjacent locations (ex. Ukie Club, Underground Arts, FU Church). Instagram is almost 100% fliers, from Hardcore promoters all over Philly.",
+    mainLink: "https://www.philly-shows.com/",
+    subLink: "https://www.facebook.com/PhillyHardcoreShows/",
+    facebook: "https://www.facebook.com/Philly-Shows-Dot-Com-272843919423934/",
+    insta: "https://www.instagram.com/phillyhcshows",
+  },
+  {
     title: "Dave Kiss Presents",
     summary: "“Puttin' on choice shows in Philly since 2009. Check out the 👇full calendar👇“ Lot's of local and regional artists. Many different genres. Regular booker for Kung Fu Necktie and Silk City.",
     mainLink: "https://davekisspresents.com/",
     insta: "https://www.instagram.com/davekisspresents/",
     facebook: "https://www.facebook.com/davekisspresents/"
+  },
+  {
+    title: "A Bob Wilson Joint",
+    summary: "Legendary Philly hardcore show promoter and harcore musician Bob Wilson throwing shows in Philly almost 10 years. Regular promoter at spots like FU Church, Cousin Danny's, Ukie Club, Bonk's Bar, The Rotunda, and Underground Arts. Runs record label Rebirth Records",
+    mainLink: "https://rebirthrecords.bigcartel.com/",
+    insta: "https://www.instagram.com/wilsonswar",
   },
   {
     title:"Philadelphia Psychedelic",
@@ -2007,14 +2019,6 @@ export const MUSICDIYCOLLECTIVESPHL = [
     facebook: "https://www.instagram.com/yargapresentsbackupaccount/"
   },
   {
-    title: "Relapse Records",
-    summary: "Located in Upper Darby, PA and started in a Colorado basement. Grindcore, crust punk, death metal, hardcore, sludge metal, black metal, folk metal, and more, with local bands such as Devil Master and Baroness, and other noteable worldwide bands, like, Zouo, Wolves in the Throne Room, G.I.S.M., Iron Reagan, Chris Connelly, and Merzbow. PA is truly blessed to house this label. Check them out!",
-    insta: "https://www.instagram.com/relapserecords",
-    facebook: "https://www.facebook.com/RelapseRecords/",
-    mainLink: "https://www.relapse.com/",
-    subLink: "https://relapserecords.bandcamp.com/",
-  },
-  {
     title: "Jersey Show Scene",
     summary: "“Masterlist of jerseys music scene. notaflof - Woman ran @gabbyice_.“ A New Jersey DIY show listing account, posting weekly DIY show lists, similar to the style of House Show Philly.",
     insta: "https://www.instagram.com/jerseyshowscene/",
@@ -2023,14 +2027,6 @@ export const MUSICDIYCOLLECTIVESPHL = [
     title: "The Courtyard",
     summary: "“100% Unfiltered Underground. North Philly DIY Collective.” Throws electronic events, raves, flea markets, goth events with costume contents, food/drink, vendors. “Goth, Industrial, Tekno.” Warehouse events.",
     insta: "https://www.instagram.com/thecourtyardphl/",
-  },
-  {
-    title: "Philly-Shows.com",
-    summary: "Hardcore, etc. shows at underground adjacent locations (ex. Ukie Church, Underground arts). Instagram is almost 100% fliers.",
-    mainLink: "https://www.philly-shows.com/",
-    subLink: "https://www.facebook.com/PhillyHardcoreShows/",
-    facebook: "https://www.facebook.com/Philly-Shows-Dot-Com-272843919423934/",
-    insta: "https://www.instagram.com/phillyhcshows",
   },
   {
     title: "DIY Music Philly!",
@@ -2081,6 +2077,14 @@ export const MUSICDIYCOLLECTIVESPHL = [
     insta: "https://www.instagram.com/rubbish.records/",
   },
   {
+    title: "Relapse Records",
+    summary: "Located in Upper Darby, PA and started in a Colorado basement. Grindcore, crust punk, death metal, hardcore, sludge metal, black metal, folk metal, and more, with local bands such as Devil Master and Baroness, and other noteable worldwide bands, like, Zouo, Wolves in the Throne Room, G.I.S.M., Iron Reagan, Chris Connelly, and Merzbow. PA is truly blessed to house this label. Check them out!",
+    insta: "https://www.instagram.com/relapserecords",
+    facebook: "https://www.facebook.com/RelapseRecords/",
+    mainLink: "https://www.relapse.com/",
+    subLink: "https://relapserecords.bandcamp.com/",
+  },
+  {
     title: "Rat Milk Collective",
     summary: "“DIY punk, grind, thrash, fastcore, pv, death, etc. booking collective, Eastern PA, Est. 2011. DIY Tape Label, Est. 2015.” “punk / grind / thrash / fastcore / pv / death.” Show postings, mostly. Sometimes new albums, etc.",
     facebook: "https://www.facebook.com/ratmilkcollective/",
@@ -2105,11 +2109,11 @@ export const MUSICDIYCOLLECTIVESPHL = [
     insta: "https://www.instagram.com/tuna.collective/",
   },
   {
-    title: "Cosmic Art Studios",
-    summary: "“Creative Community Space in Pottstown, Pa.” (1 hr out of Philly). Tea bar. Dance events. Local markets. Lounge. Balcony with bar. Another event space on second floor. Art nights. Monthly “shindigs.” Local music. Yoga, sound healing, art classes, open mic, drum circles.",
-    mainLink: "https://www.cosmicarts.org/",
-    facebook: "https://www.facebook.com/cosmicartspa",
-    insta: "https://www.instagram.com/cosmic_art_studio/",
+    title: "Kulture Cru",
+    summary: "“👽Philly Rav3 3v3nts🎈 Intimate Vibes with BIG IMPACT and a close-knit, community-focused vibe. No commercialized corporate overload. Focus on underground talent.“ Underground raves, held everywhere from warehouses, to fields, to forests, to farmhouses.“",
+    mainLink: "https://kulturecrurecords.com/subkulturefest",
+    facebook: "https://www.facebook.com/p/Kulture-Cru-100089922739185/",
+    insta: "https://www.instagram.com/kulture_cru/",
   },
   {
     title: "Kame House",
@@ -2124,14 +2128,6 @@ export const MUSICDIYCOLLECTIVESPHL = [
     mainLink: "https://www.eclecticadivision.com/",
     facebook: "https://www.facebook.com/eclecticadivision",
     insta: "https://www.instagram.com/eclecticadivision/",
-  },
-  {
-    title: "WHIP Radio",
-    summary: "“Temple University’s student-run & student-minded radio station.”",
-    mainLink: "http://www.whipradiotu.com/",
-    subLink: "https://www.iheart.com/live/whip-radio-5254/",
-    facebook: "https://www.facebook.com/whipradiotu/",
-    insta: "https://www.instagram.com/whipradio/",
   },
   {
     title: "ROWTONE",
@@ -2161,6 +2157,21 @@ export const MUSICDIYCOLLECTIVESPHL = [
     title: "The Tabernacle",
     summary: "Books shows and makes flyers. Used to also be a N Philly house venue, but not longer throws shows at house.",
     insta: "https://www.instagram.com/tabernaclebooking/",
+  },
+  {
+    title: "WHIP Radio",
+    summary: "“Temple University’s student-run & student-minded radio station.”",
+    mainLink: "http://www.whipradiotu.com/",
+    subLink: "https://www.iheart.com/live/whip-radio-5254/",
+    facebook: "https://www.facebook.com/whipradiotu/",
+    insta: "https://www.instagram.com/whipradio/",
+  },
+  {
+    title: "Cosmic Art Studios",
+    summary: "“Creative Community Space in Pottstown, Pa.” (1 hr out of Philly). Tea bar. Dance events. Local markets. Lounge. Balcony with bar. Another event space on second floor. Art nights. Monthly “shindigs.” Local music. Yoga, sound healing, art classes, open mic, drum circles.",
+    mainLink: "https://www.cosmicarts.org/",
+    facebook: "https://www.facebook.com/cosmicartspa",
+    insta: "https://www.instagram.com/cosmic_art_studio/",
   },
 ];
 
@@ -2217,6 +2228,15 @@ export const MUSICDIYGENPHL = [
     suggestedFollow: "Check site in early summer for annual date",
   },
   {
+    title: "Two Piece Fest",
+    summary: "“A celebration of duos.“ Drums and guitar? Synth & Guitar? Keyboard and violin? Anything band goes, as long as they are a duo. 18 years and running in 2025. Diverse set of music genres.",
+    mainLink: "http://twopiecefest.com/",
+    subLink: "https://twopiecefest.bandcamp.com/",
+    facebook: "https://www.facebook.com/twopiecefest/",
+    insta: "https://www.instagram.com/twopiecefest",
+    suggestedFollow: "Check for ann. fest date mid winter."
+  },
+  {
     title: "DoDIY",
     summary: "“A catalog of DIY event spaces & organizers from around the world + resources on the DIY ethos. Since 2007.” Does monthly “site report” from some spot. A lot of PNW spots, but also Philly (about ½ as much as PNW).",
     mainLink: "http://www.dodiy.org/ ",
@@ -2235,6 +2255,22 @@ export const MUSICDIYGENPHL = [
     insta: "https://www.instagram.com/breakfreefest/",
     suggestedFollow: "Check insta in mid spring for ann. date.",
   },
+  {
+    title: "Punk Rock Flea Market",
+    summary: "“The Punk Rock Flea Market is the place to shop for awesome clothing, records, crafts, art, and most of all old punk junk! 200 vendors per day, different vendors each day.“ One market each season.",
+    mainLink: "https://www.phillyprfm.com",
+    facebook: "https://www.facebook.com/PhillyPRFM",
+    insta: "https://www.instagram.com/phillyprfm",
+    suggestedFollow: "Email newsletter. Join it on their site.",
+  },
+  {
+  title: "Trans Art Market",
+  summary: "“Philly art market exclusively highlighting Trans, Non-Binary and Gender Expansive Artists“ Since 2020, at various spots around the city. Some years occurs in spring and winter. Some years just in winter.",
+  mainLink: "https://transartmart.weebly.com/",
+  facebook: "https://www.facebook.com/transartmart",
+  insta: "https://www.instagram.com/transartmart/",
+  suggestedFollow: "Check Insta in late fall and and early spring for dates",
+},
 ];
 
 export const MUSICDIYSPOTSPHL = [
@@ -2430,6 +2466,10 @@ export const MUSICDIYSPOTSPHL = [
     summary: "Long running North Philly warehouse venue. Dreampop, post-punk, reggae, techno, analog VJ's, and more. Food, drinks, karaoke, dodgeball, and good vibes. Infrequent shows. Usually still has annual Halloween shows.",
     insta: "https://www.instagram.com/bond.villain/",
   },  
+  {
+    title: "American Legion Post 2014",
+    summary: "Located in Upper Darby, PA, 30 mins out of Center City. Hosts shows, mostly punk and harcore. No website for shows there, but a variety of Promoters, such as Bob Wilson Joint, have thrown shows there."
+  },
   {
     title: "The Caf",
     summary: "“New DIY venue in South Philly“ Started March 2024 with a Star Wars Costume May the 4th show.",
@@ -2724,7 +2764,7 @@ export const THEATER = [
   },
 ];
 
-export const MUSICDIYWIP = [
+export const DATAWIP = [
   {
     title:"DelCo Punk Shows!",
     mainLink: "https://www.facebook.com/groups/1077371709097656",
@@ -2857,10 +2897,6 @@ export const MUSICDIYWIP = [
     insta: "https://www.instagram.com/scorpion.cult/",
   },
   {
-    title: "Pink House",
-    insta: "https://www.instagram.com/pink_house_philly/",
-  },
-  {
     title: "The Secret Garden",
     insta: "https://www.instagram.com/secretgardenphl/",
   },
@@ -2891,10 +2927,6 @@ export const MUSICDIYWIP = [
   {
     title: "Harmonie Hall",
     insta: "https://www.instagram.com/harmoniehall_1891/",
-  },
-  {
-    title: "The Philly Goth Scene",
-    insta: "https://www.instagram.com/thephillygothscene/",
   },
   {
     title: "The Groove",
@@ -2931,10 +2963,6 @@ export const MUSICDIYWIP = [
   {
     title: "Zook Productions",
     insta: "https://www.instagram.com/zookproductions/",
-  },
-  {
-    title: "Kulture Cru",
-    insta: "https://www.instagram.com/kulture_cru/",
   },
   {
     title: "Toxic Femme",
@@ -3037,10 +3065,6 @@ export const MUSICDIYWIP = [
     insta: "https://rittenhousefilmworks.com/",
   },
   {
-    title: "Philly-shows.org",
-    insta: "https://www.instagram.com/phillyshowsdotorg/",
-  },
-  {
     title: "Headroom Studios",
     insta: "https://www.instagram.com/headroomphiladelphia/",
   },
@@ -3067,10 +3091,6 @@ export const MUSICDIYWIP = [
   {
     title: "Big Chair",
     insta: "https://www.instagram.com/showsfromthebigchair/",
-  },
-  {
-    title: "The Philly Goth Scene",
-    insta: "https://www.instagram.com/thephillygothscene/",
   },
   {
     title: "hardcoretoday777",
@@ -3110,22 +3130,6 @@ export const MUSICDIYWIP = [
   },
   {
     title: "",
-    insta: "https://www.instagram.com/phillyjerseyscene/",
-  },
-  {
-    title: "",
-    insta: "https://www.instagram.com/philadelphiapsychedelic/",
-  },
-  {
-    title: "",
-    insta: "https://www.instagram.com/phillyjerseyscene/",
-  },
-  {
-    title: "",
-    insta: "https://www.instagram.com/the.silver.age.hq/",
-  },
-  {
-    title: "",
     insta: "https://www.instagram.com/cyberia.wav/",
   },
   {
@@ -3133,9 +3137,6 @@ export const MUSICDIYWIP = [
     summary: "“Reposting awesome local shows in philly + jersey (occasionally ny) 😛👽👾🛸💥🌈🪩💞“. One post per day that has shows. Since Oct 15th, 2024. Innactive?",
     insta: "https://www.instagram.com/phillyjerseyscene/"
   },
-];
-
-export const OTHERWIP = [
   {
     title:"Berkman (Anti)School of Anarchy",
     mainLink: "https://berkmananarchy.noblogs.org/",
@@ -3167,56 +3168,26 @@ export const OTHERWIP = [
   {
     title: "Sourland Mountain Festival",
     mainLink: "https://sourlandmountainfest.com/",
+  },
+  {
+    title: "West Kensington Ministry"
+  },
+  {
+    title: "Rebel & Wolf Cafe"
+  },
+  {
+    title: "Firehouse Warehouse"
+  },
+  {
+    title: "The Fallser Club"
+  },
+  {
+    title: "Minimal Chaos Collective"
+  },
+  {
+    title: "Minimal Chaos Collective Annul April 20 Potluck"
   }
 ];
-
-// {
-//   title: "Trans Art Market",
-//   summary: "“Philly art market exclusively highlighting Trans, Non-Binary and Gender Expansive Artists“",
-//   mainLink: "https://transartmart.weebly.com/",
-//   subLink: "",
-//   facebook: "https://www.facebook.com/transartmart",
-//   insta: "https://www.instagram.com/transartmart/",
-//   suggestedFollow: "",
-// },
-// {
-//   title: "",
-//   summary: "",
-//   mainLink: "",
-//   subLink: "",
-//   facebook: "",
-//   insta: "",
-//   suggestedFollow: "",
-// },
-// {
-//   title: "",
-//   summary: "",
-//   mainLink: "",
-//   subLink: "",
-//   facebook: "",
-//   insta: "",
-//   suggestedFollow: "",
-// },
-// {
-//   title: "",
-//   summary: "",
-//   mainLink: "",
-//   subLink: "",
-//   facebook: "",
-//   insta: "",
-//   suggestedFollow: "",
-// },
-// {
-//   title: "",
-//   summary: "",
-//   mainLink: "",
-//   subLink: "",
-//   facebook: "",
-//   insta: "",
-//   suggestedFollow: "",
-// },
-
-
 
 export const TEMP = [
   {
