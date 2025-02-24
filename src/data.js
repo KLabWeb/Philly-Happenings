@@ -1638,6 +1638,12 @@ export const MUSICABOVEPHILLY = [
     facebook: "https://www.facebook.com/bonkscrabs",
   },
   {
+    title: "Nikki Lopez",
+    summary: "“Cocktail dive bar, hot dog nightclub.“ New Bar in South Philly where Dobb's used to be. Coming into Philly with a bang with a epic spring 2025 concert line up, bands/musicians including Days and Dayz (3 nights), Dead Boys, Green Jelly, Avengers, Joe Jack Talcum (Dead Milkmen), and other legends. Mixes it up with Cyberpunk Dance Parties, House music nights, Yarga Art Mart, and hot dog eating contests, and more. Cheer beers. Hot dogs.",
+    insta: "https://www.instagram.com/nikkilopezphilly",
+    facebook: "https://www.facebook.com/people/Nikki-Lopez-Philadelphia/61569813447077",
+  },
+  {
     title: "FU Church",
     summary: "First Unitarian Church of Philadelphia. Semi-frequent punk, hardcore, other, shows. Also home of the Philadelphia Animation Society. Located in a busy spot in Center City so ride a bike to avoid paying for expensive parking. Watch local promoters for shows.",
     subLink: "https://www.songkick.com/venues/10848-first-unitarian-church",

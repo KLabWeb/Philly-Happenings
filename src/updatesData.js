@@ -1,5 +1,19 @@
 export const UPDATES = [
     {
+        header: "02/24/2025",
+        categoryUpdateLists: [
+            { 
+                type: "Addition (S Street Bar & Music Jawn):",
+                updateList: [
+                    {
+                        label: "Nikki Lopez",
+                        href: "https://www.instagram.com/nikkilopezphilly",
+                    },
+                ]
+            },
+        ]
+    },
+    {
         header: "02/13/2025",
         categoryUpdateLists: [
             { 
