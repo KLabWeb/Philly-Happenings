@@ -1,14 +1,5 @@
 export const VIDEOSLOCALINFO = [
   {
-    "filename": "LOCAL_BAND_Zorn_Michief_Devils_Night_outdoor_local_10_30_2017_ewyG1lIOQOA",
-    "title": "Zorn - Mischief / Devil’s Night",
-    "category": "Band",
-    "mainLink": "https://zornphilly.bandcamp.com/music",
-    "mainLinkType": "Bandcamp",
-    "social": "https://www.instagram.com/zorn_philly/",
-    "videographer": "@dstarfreestar",  
-  },
-  {
     "filename": "LOCAL_BAND_DEVIL MASTER - Acid Black Mass (Official Music Video) i-pqnibwdKw",
     "title": "Devil Master - Acid Black Mass",
     "category": "Band",
@@ -57,14 +48,6 @@ export const VIDEOSLOCALINFO = [
     "mainLink": "https://necrosexual.bandcamp.com/music",
     "mainLinkType": "Bandcamp",
     "social": "https://www.instagram.com/thenecrosexual/",
-  },
-  {
-    "filename": "LOCAL_BAND_SPITER ＂Tortured Soul＂ [3Ej32k_F5Hk]",
-    "title": "Spiter - Tortured Soul",
-    "category": "Band",
-    "mainLink": "https://spiter.bandcamp.com/music",
-    "mainLinkType": "Bandcamp",
-    "social": "https://www.instagram.com/spiter666/",
   },
   {
     "filename": "LOCAL_BAND_Doused - Hybrid Moments [fr7TBfCNccM]",
@@ -161,5 +144,74 @@ export const VIDEOSLOCALINFO = [
     "mainLink": "https://babygoblinproductions.com",
     "mainLinkType": "Studio", 
     "social": "https://www.instagram.com/babygoblinproductions",
-  },    
+  }, 
+  {
+    "filename": "LOCAL_BAND_[hate5six] Zorn - February 24, 2024 [wX5DRoMBciw]",
+    "title": "Zorn @ FU Church 02/24/2024",
+    "category": "Band",
+    "mainLink": "https://zornphilly.bandcamp.com/music",
+    "mainLinkType": "Bandcamp",
+    "social": "https://www.instagram.com/zorn_philly/",
+    "videographer": "@hate5six",  
+  },
+  {
+    "filename": "LOCAL_BAND_SPITER , ＂LIVING NIGHTMARE＂ [XZi-L4nb_g0]",
+    "title": "Spiter - Living Nightmare",
+    "category": "Band",
+    "mainLink": "https://spiter.bandcamp.com/music",
+    "mainLinkType": "Bandcamp",
+    "social": "https://www.instagram.com/spiter666/",
+    "videographer": "@luthersmidfrightsnack",
+  },   
+  {
+    "filename": "LOCAL_BAND_Bogside Sniper Squadron - Live 2⧸9⧸24 [g_4wt87sVgo]",
+    "title": "Bogside Sniper Squadron",
+    "category": "Band",
+    "mainLink": "https://bogsidesnipersquadron.bandcamp.com/",
+    "mainLinkType": "Bandcamp",
+    "social": "https://www.instagram.com/batmagick/",
+    "videographer": "@orgasmedia"
+  },
+  {
+    "filename": "LOCAL_BAND_Cape of Bats [mwUEFO_DfQA]",
+    "title": "Cape of Bats Circa 2013 @ ???",
+    "category": "Band",
+    "mainLink": "https://capeofbats.bandcamp.com/music",
+    "mainLinkType": "Bandcamp",
+    "social": "https://www.instagram.com/batmagick",
+    "videographer": "@sydvysh729"
+  },
+  {
+    "filename": "LOCAL_BAND_Bán Sidhe Dogs - 04 To Some I Have Talked With By The Fire",
+    "title": "Bán Sidhe Dogs -  To Some I Have Talked With By The Fire",
+    "category": "Band",
+    "mainLink": "https://bansidhedogs.bandcamp.com/",
+    "mainLinkType": "Bandcamp",
+    "social": "https://www.instagram.com/batmagick",
+  },
+  {
+    "filename": "LOCAL_BAND_Unholy Altar  - Black Winds Of Nocturnal Dismay (Music Video) [CE3dalVRy5M]",
+    "title": "Unholy Altar- Black Winds Of Nocturnal Dismay",
+    "category": "Band",
+    "mainLink": "https://unholyaltar666.bandcamp.com/",
+    "mainLinkType": "Bandcamp",
+    "social": "https://www.instagram.com/unholy.altar",
+  },
+  {
+    "filename": "LOCAL_BAND_GLORIOUS DESCENT [jYJ3nvQniGc]",
+    "title": "Glorious Descent in The Meatlocker, July 2023",
+    "category": "Band",
+    "mainLink": "https://gloriousdescent.bandcamp.com/",
+    "mainLinkType": "Bandcamp",
+    "social": "https://www.instagram.com/batmagick",
+    "videographer": "@MEATLOCKERTV"
+  },
+  {
+    "filename": "LOCAL_BAND__Tin_Nanny 04 Sun On The Moon",
+    "title": "Tin Nanny - Sun On The Moon",
+    "category": "Band",
+    "mainLink": "https://tinnanny.bandcamp.com",
+    "mainLinkType": "Bandcamp",
+    "social": "https://www.instagram.com/tin_nanny",
+  }    
 ]
