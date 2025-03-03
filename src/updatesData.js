@@ -207,10 +207,6 @@ export const UPDATES = [
                         label: "The Junction",
                         href: "https://www.instagram.com/junctionphl/"
                     },
-                    {
-                        label: "God's Automatic Body & Spa",
-                        href: "https://www.instagram.com/gods.automatic.body/"
-                    },
                 ]
             },
         ],

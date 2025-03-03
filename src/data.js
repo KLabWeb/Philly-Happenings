@@ -665,12 +665,6 @@ export const CLOSED = [
     summary: "Basement venue started August 2023. Shows as well as dance parties. Student run and on hiatus during summer...Innactive since spring 2024.",
     insta: "https://www.instagram.com/junctionphl/",
   },
-  {
-    title: "God's Automatic Body & Spa",
-    summary: "“The mysteries of the universe unvieled through the creation of and sharing of art. DIY arts and events in west philly.“ Shows, DJs, dance parties, karaoke, line dancing, game shows, bingo, haircuts, Philly Black Workers Project, Palestinian Refugee, and other solidarity fundraising shows, Pee Wee's Gay House Costume Contenst. Started 2023. Innactive since Feb' 2024.",
-    mainLink: "https://gods.gay/",
-    insta: "https://www.instagram.com/gods.automatic.body/",
-  },
 ]
 
 export const CYCLING = [
@@ -2409,6 +2403,12 @@ export const MUSICDIYSPOTSPHL = [
     title: "The Kitchenette",
     summary: "House venue. First show March '22. “Smog Emissions Check Station. East falls unplugged monthly. Quiet sets for loud bands.“",
     insta: "https://www.instagram.com/kitchenette.phl/",
+  },
+  {
+    title: "God's Automatic Body & Spa",
+    summary: "“The mysteries of the universe unvieled through the creation of and sharing of art. DIY arts and events in west philly.“ Shows, DJs, dance parties, karaoke, line dancing, game shows, bingo, haircuts, Philly Black Workers Project, Palestinian Refugee, and other solidarity fundraising shows, Pee Wee's Gay House Costume Contenst. Started 2023.",
+    mainLink: "https://gods.gay/",
+    insta: "https://www.instagram.com/gods.automatic.body/",
   },
   {
     title: "The Underworld",
