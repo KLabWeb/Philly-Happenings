@@ -1976,7 +1976,7 @@ export const MUSICCLASSICAL = [ {} ];
 export const MUSICDIYCOLLECTIVESPHL = [
   {
     title: "House Show Philly",
-    summary: "“Upcoming philly house show masterlist, woman owned (she/her), updated every wednesday.“ Run by Kissfit Collective. Also organizes shows. THE place for checking upcoming DIY (and small above ground venue) shows. A great testament to how active Philly DIY is.",
+    summary: "“Upcoming philly house show masterlist, woman owned (she/her), updated every wednesday.“ Also organizes shows. THE place for checking upcoming DIY (and small above ground venue) shows. A great testament to how active Philly DIY is.",
     insta: "https://www.instagram.com/houseshowphilly/",
   },
   {
