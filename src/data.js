@@ -325,12 +325,6 @@ export const CLOSED = [
     insta: "https://www.instagram.com/_drexeldragons_den/",
   },
   {
-    title: "House Show Philly",
-    summary: "Vanished start of 'Nov 2024, seemingly due to being unable to dedicate time to run the Insta anymore. “Upcoming philly house show masterlist, woman owned (she/her), updated every wednesday.“ Run by Kissfit Collective. Also organizes shows. THE place for checking upcoming DIY shows. A great testament to how active Philly DIY is.",
-    insta: "https://www.instagram.com/houseshowphilly/",
-    subLink: "https://www.instagram.com/kissfitcollective/",
-  },
-  {
     title: "A-Space Anarchist Community Center ",
     summary: "Closed Winter 2023 (due to covid, then collective members moving away, now all Books Through Bars space). From when open: “The building that holds the A-Space is part the Life Center Association (LCA), a land trust. “4722” was the second house to be bought by the LCA in 1973. It holds 2 apartments, the A-Space, and Books Through Bars.”",
     mainLink: "https://phillyaspace.com",
@@ -1980,6 +1974,11 @@ export const MUSICBLUEGRASS = [
 export const MUSICCLASSICAL = [ {} ];
 
 export const MUSICDIYCOLLECTIVESPHL = [
+  {
+    title: "House Show Philly",
+    summary: "“Upcoming philly house show masterlist, woman owned (she/her), updated every wednesday.“ Run by Kissfit Collective. Also organizes shows. THE place for checking upcoming DIY shows. A great testament to how active Philly DIY is.",
+    insta: "https://www.instagram.com/houseshowphilly/",
+  },
   {
     title: "Ratpie",
     summary: "“all things philly music scene related. interviews, film dumps, montages, artist showcases, + moreヽ(･ω･｡)ﾉ”",

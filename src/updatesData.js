@@ -1,5 +1,19 @@
 export const UPDATES = [
     {
+        header: "04/05/2025",
+        categoryUpdateLists: [
+            { 
+                type: "Re-Addition:",
+                updateList: [
+                    {
+                        label: "House Show Philly (they're back!!!)",
+                        href: "https://www.instagram.com/houseshowphilly/",
+                    },
+                ]
+            },
+        ]
+    },
+    {
         header: "02/24/2025",
         categoryUpdateLists: [
             { 
