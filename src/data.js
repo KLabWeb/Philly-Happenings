@@ -3162,7 +3162,23 @@ export const DATAWIP = [
   },
   {
     title: "Minimal Chaos Collective Annul April 20 Potluck"
-  }
+  },
+  {
+    title: "Philly Gravel Club",
+    insta: "https://www.instagram.com/phillygravelclub",
+  },
+  {
+    title: "Coffee Outside Philadelphia",
+    insta: "https://www.instagram.com/coffeeoutsidephl",
+  },
+  {
+    title: "PAPERtrail Bike Cafe",
+    insta: "https://www.instagram.com/papertrailbikecafe",
+  },
+  {
+    title: "Papertrail Espresso Rides",
+    insta: "https://papertrailbikecafe.com/espresso-rides",
+  },
 ];
 
 export const TEMP = [
