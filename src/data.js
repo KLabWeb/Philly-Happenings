@@ -209,6 +209,15 @@ export const ANARCHISTPHILLY = [
     suggestedFollow: "Twitter (posts Philly rad news and events)",
   },
   {
+    title: "DuBois Robeson People’s Center (aka. Little Red Library)",
+    summary: "“We are a Marxist bookstore (buy and borrow) and community center in West Philly since 1986!“ Also, movie screenings, speakers, benefit shows, Philadelphia People’s World newspaper, etc.",
+    mainLink: "https://sites.google.com/view/duboisrobeson",
+    subLink: "https://www.instagram.com/little.red.library",
+    facebook: "https://www.facebook.com/p/DuBois-Robeson-Peoples-Center-100085462474398",
+    insta: "https://www.instagram.com/duboisrobesonpeoplescenter",
+    suggestedFollow: "Insta (FB not well updated)",
+  },
+  {
     title: "Viscera Print Goods and Ephemera",
     summary: "“Roving anarchist distro and bazaar now based in Philadelphia (formerly Providence, RI). Seller of anarchist print goods and ephemera – books, pamphlets, oddities and more.“ Also, book readings and zine discussions, documentaries, etc.. A new reading each month since 2017.",
     mainLink: "https://viscerapvd.wordpress.com",
@@ -704,6 +713,39 @@ export const CYCLING = [
     suggestedFollow: "Insta",
   },
   {
+    title: "Wednesday Night Rides",
+    summary: "“Philly social bike rides, Wednesday nights, every two weeks. Join us! Want to lead a ride?! Drop us a DM!“",
+    mainLink: "https://wednightrides.org/",
+    insta: "https://www.instagram.com/wednesdaynightrides",
+  },
+  {
+    title: "Philly Gravel Club",
+    summary: "Rides, shared experiences, storytelling, authentic connections. Après no drop gravel rides each Mon 5:45pm. Sunday Funday Gravel rides each Sun 10am. Rides meet at Gustine Rec Center.",
+    mainLink: "https://lnk.bio/phillygravelclub",
+    insta: "https://www.instagram.com/phillygravelclub",
+    facebook: "https://www.facebook.com/groups/109315698794968"
+  },
+  {
+    title: "Coffee Outside Philadelphia",
+    summary: "“Enjoy the outdoors with a cup of coffee and good company on the way to wherever you're headed! Coffee, company, and bike rides. Every Sunday from 9:30 to noonish at Lemon Hill 🍋 in the covered pavilion. Bring coffee, a brew kit, or just you!“",
+    mainLink: "https://coffeeoutsidephl.wixsite.com/home/",
+    insta: "https://www.instagram.com/coffeeoutsidephl",
+  },
+  {
+    title: "PAPERtrail Bike Cafe",
+    summary: "“Born in 2020, PAPERtrail Bike Cafe is located in “The Barn” at Historic Rittenhouse Town in the heart of The Wissahickon. Open Weds-Fri 9am-3pm, Sat-Sun 9am-1pm.“ Aside from cafe offerings, also bike/gear sales, bike repair, custom builds, and Espresso Rides.",
+    mainLink: "https://papertrailbikecafe.com",
+    insta: "https://www.instagram.com/papertrailbikecafe",
+    facebook: "https://www.facebook.com/papertrailbikecafe",
+  },
+  {
+    title: "PAPERtrail Espresso Rides",
+    summary: "Gravel Espresso (Weds) & Mountain Espresso (Sat) non-drop group rides meeting at PAPERtrail Bike Cafe. Ride through Wissahickon, leading back to PAPERtrail Bike Cafe for free espresso.",
+    mainLink: "https://papertrailbikecafe.com/espresso-rides",
+    insta: "https://www.instagram.com/papertrailbikecafe",
+    facebook: "https://www.facebook.com/papertrailbikecafe",
+  },
+  {
     title: "Bicycle Club of Philadelphia",
     summary: "Non-profit that hosts group bike rides and allows others to post rides. Usually 10 to 25 miles. Often multiple rides per day. In-the-city and local scenic rides.",
     mainLink: "https://phillybikeclub.org/bcpdo/ride/calendar",
@@ -1179,6 +1221,29 @@ export const GENERAL = [
     twitter: "",
     suggestedFollow: "FB or Insta + check out his shop",
   },
+  {
+    title: "Queen of the Park",
+    summary: "Annual women's skateboarding competion, fifth year in 2025. $1,000 first prize. Also includes Princess of the Park (13 & under event), vendors, bands, and booze.",
+    insta: "https://www.instagram.com/fdrskatepark",
+  },
+  {
+    title: "Drats",
+    summary: "“A sustainable clothing store specializing in 90s/Y2K/Modern/Vintage.“ Also does occassional shows and hosts photos exhibits.",
+    mainLink: "https://drattsss.com/",
+    insta: "https://www.instagram.com/drattsss",
+  },
+  {
+    title: "Liminal Space Studio",
+    summary: "“A Pole Society for the lifestyle pole dancer.“ Pole dancing & pole classes, variety perfomances, kink demos, goth nights, dark cabaret, folk punk.",
+    insta: "https://www.instagram.com/liminal.space.studio",
+  },
+  {
+    title: "Good Things Phl",
+    summary: "“GoodThings is a community platform that makes it easy to find and support all things small, local, and independent in Philadelphia.“ Find people, small businesses, things to do, and other stuff. Submit your event, small business, or person profile. Also runs a social club.",
+    mainLink: "https://www.goodthingsphl.com",
+    facebook: "https://www.facebook.com/goodthingsphl",
+    insta: "https://www.instagram.com/goodthingsphl",
+  },
 ];
 
 export const GREENGARDENS = [
@@ -1619,6 +1684,13 @@ export const MUSICABOVEPHILLY = [
     insta: "https://www.instagram.com/undrgroundarts/",
   },
   {
+    title: "Kung Fu Necktie",
+    summary: "Small 140 capacity music venue. Garage rock, punk, folk punk, ska, noise rock, goth, hardcore, crossover, emo, synth-pop. Big name and local bands.",
+    mainLink: "https://kungfunecktie.com/",
+    facebook: "https://www.facebook.com/kungfunecktie/",
+    insta: "https://www.instagram.com/kungfunecktie_bar/",
+  },
+  {
     title: "Bonk's Bar",
     summary: "Port Richmond. Bar & crabhouse. Local bands, karaoke, car shows, bingo, Quizzo, Christmas toy drive. A solid place for reasonably priced seafood, too.",
     mainLink: "https://bonksbar.com/",
@@ -1640,13 +1712,6 @@ export const MUSICABOVEPHILLY = [
     title: "Ukie Club",
     summary: "Ukrainian American Citizens' Association. Has a bar and hosts local shows, mostly hardcore, though also indie/art rock. Watch local promoters for shows.",
     insta: "https://www.instagram.com/ukrainianleagueofphiladelphia",
-  },
-  {
-    title: "Kung Fu Necktie",
-    summary: "Small 140 capacity music venue. Garage rock, punk, folk punk, ska, noise rock, goth, hardcore, crossover, emo, synth-pop. Big name and local bands.",
-    mainLink: "https://kungfunecktie.com/",
-    facebook: "https://www.facebook.com/kungfunecktie/",
-    insta: "https://www.instagram.com/kungfunecktie_bar/",
   },
   {
     title: "MilkBoy",
@@ -1679,10 +1744,10 @@ export const MUSICABOVEPHILLY = [
   },
   {
     title: "The Rotunda",
-    summary: "“We are a live performing arts and a multi-cultural sober space designed to fit the needs of Philly curators and creatives.” Shows, but also poetry, dance events, film, speakers, workshops, etc.",
+    summary: "“A live performing arts and a multi-cultural sober space designed to fit the needs of Philly curators and creatives.” Shows, but also poetry, dance events, film, speakers, workshops, etc.",
     mainLink: "https://therotunda.org/ ",
     facebook: "https://www.facebook.com/therotundaphilly ",
-    insta: "https://www.instagram.com/the_rotunda_philly/",
+    insta: "https://www.instagram.com/the_rotunda_philly",
   },
   {
     title: "Vox Populi",
@@ -1690,6 +1755,21 @@ export const MUSICABOVEPHILLY = [
     mainLink: "https://voxpopuligallery.squarespace.com/events",
     facebook: "https://www.facebook.com/voxpopulisphere/",
     insta: "https://www.instagram.com/voxpopuligallery/",
+  },
+  {
+    title: "The Fallser Club",
+    summary: "“A sustainable non-profit event space and music venue in the heart of East Falls.“ Decent sized space w/ two floors. Used to be a movie theater. Folk, jazz fusion, indie rock, rap, reggae, blues, funk, soul, classic rock, etc.. Plant sales, cosplay balls, story-telling, and other events.",
+    mainLink: "https://thefallserclub.com",
+    facebook: "https://www.facebook.com/TheFallserClub",
+    insta: "https://www.instagram.com/thefallserclub",
+  },
+  {
+    title: "Ruba Club",
+    summary: "“Northern Liberties 🎉Bi-Level Venue🎉 🎭Social Club🍻 🎟️Event Space🎟️ 🍸Speakeasy🍸“ Concerts, theater, cabaret, electronic. Two floors w/ two bars. Pool. Ping-pong. Physics themed infused cocktails. Since 1914.",
+    mainLink: "https://rubaclub.org",
+    facebook: "https://www.facebook.com/rubaclub",
+    insta: "https://www.instagram.com/rubaclub",
+    suggestedFollow: "",
   },
   {
     title: "Johnny Brenda's",
@@ -1817,6 +1897,13 @@ export const MUSICABOVEPHILLY = [
     mainLink: "https://www.iceboxprojectspace.com/",
     facebook: "https://www.facebook.com/iceboxprojectspace/",
     insta: "https://www.instagram.com/iceboxprojectspace",
+  },
+  {
+    title: "The 700",
+    summary: "“Laid-back corner bar, dance club, and sports bar. A hub of creativity and connection.“ Open mic, shows, kareoke, stand-up, dance parties. Northern Liberties'",
+    mainLink: "https://philly700.com",
+    facebook: "https://www.facebook.com/philly700",
+    insta: "https://www.instagram.com/the700_",
   },
   {
     title: "Saint Vitus Bar",
@@ -1976,7 +2063,7 @@ export const MUSICCLASSICAL = [ {} ];
 export const MUSICDIYCOLLECTIVESPHL = [
   {
     title: "House Show Philly",
-    summary: "“Upcoming philly house show masterlist, woman owned (she/her), updated every wednesday.“ Also organizes shows. THE place for checking upcoming DIY (and small above ground venue) shows. A great testament to how active Philly DIY is.",
+    summary: "“Upcoming philly diy show masterlist, woman owned (she/her), updated every wednesday.“ Also organizes shows. THE place for checking upcoming DIY (and small above ground venue) shows. A great testament to how active Philly DIY is.",
     insta: "https://www.instagram.com/houseshowphilly/",
   },
   {
@@ -2039,6 +2126,18 @@ export const MUSICDIYCOLLECTIVESPHL = [
     summary: "“*creaks* Philadelphia based booking, reviews, and general music appreciation arts collective. Existent in various iterations for the better part of ten years.“ Mostly above ground, such as Ulana's, Vox Populi, PhilaMOCA, and Ortleib's, but also some DIY shows and collab w/ The Machine.",
     mainLink: "https://www.bigchairphl.com/",
     insta: "https://www.instagram.com/showsfromthebigchair/",
+  },
+  {
+    title: "Death Sculpted Productions",
+    summary: "“Philly extreme metal booking, flyers, and promotion.“ One of Philly's biggest metal promoters and bookers, throwing shows for almost 10 years as of 2025.",
+    facebook: "https://www.facebook.com/deathsculptedpros",
+    insta: "https://www.instagram.com/deathsculptedpros",
+    suggestedFollow: "Insta (more updated than FB)",
+  },
+  {
+    title: "Sound Advice",
+    summary: "“Sound Advice is a weekly newsletter highlighting upcoming concerts and music-related events in the greater Philadelphia area. Expect 1-5 events of note (more or less) published weekly on Thursdays.“",
+    mainLink: "https://buttondown.com/soundadvicephl",
   },
   {
     title: "Jersey Show Scene",
@@ -2196,6 +2295,11 @@ export const MUSICDIYCOLLECTIVESPHL = [
     insta: "https://www.instagram.com/whipradio/",
   },
   {
+    title: "Soup Phl",
+    summary: "“stirrin’ together the creative community of phl into one soup…“ Show promoter that does a lot of electronic and rock. Warehouse shows, DIY venues, outdoor events, creative marts, ",
+    insta: "https://www.instagram.com/soup.phl/",
+  },
+  {
     title: "Cosmic Art Studios",
     summary: "“Creative Community Space in Pottstown, Pa.” (1 hr out of Philly). Tea bar. Dance events. Local markets. Lounge. Balcony with bar. Another event space on second floor. Art nights. Monthly “shindigs.” Local music. Yoga, sound healing, art classes, open mic, drum circles.",
     mainLink: "https://www.cosmicarts.org/",
@@ -2337,6 +2441,10 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/thepouchphl",
   },
   {
+    title: "The Vat",
+    summary: "A North Philly space that has been around for over 10 years, now. No social media, but watch local DIY show aggregators (ex. House Show Philly) for shows there.",
+  },
+  {
     title: "Tralfamadore",
     summary: "South Philly house venue. “Performance and Recording Space since 2015”.",
     insta: "https://www.instagram.com/tralfamadore.southphilly/",
@@ -2347,6 +2455,7 @@ export const MUSICDIYSPOTSPHL = [
     twitter: "https://twitter.com/themachinephl",
     insta: "https://www.instagram.com/themachinephilly",
   },
+  
   {
     title: "The Stoop",
     summary: "North Philly warehouse spot. “hosting + booking Art Marts. DIY north philly block concerts. women operated” Art marts hosted at various DIY venues. Partnered with Philadelphia Psychedelic and home to many psy shows.",
@@ -2416,7 +2525,7 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "The Snake Pit",
-    summary: "Anarchist and punk run house venue. Lots of hardcore, crossover, etc. “Ask a ghoul.” Insta vanished, but still throwing shows.",
+    summary: "Anarchist and punk run house venue. Lots of hardcore, crossover, etc. “Ask a ghoul.” Insta vanished, but still throwing shows. Watch local show aggregators (ex. House Show Philly) for shows.",
     subLink: "https://www.youtube.com/watch?v=ZX0YjeTEgbc",
     insta: "https://www.instagram.com/snakepit_philly/",
   },
@@ -2466,7 +2575,7 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/minimart.phl/",
   },
   {
-    title: "Moth House",
+    title: "Mouth House",
     summary: "“Music experiences in South Philly. First Friday Function - March thru October.“ Singer songwriter, country, folk, folk punk, etc. Acoustic instruments.",
     insta: "https://www.instagram.com/welcometomouthhouse/",
   },
@@ -2573,9 +2682,24 @@ export const MUSICDIYSPOTSPHL = [
   {
     title: "Big Farma",
     summary: "“West Philly House Venue!” Started summer 2022. Run by 4333 Collective.",
-    subLink: "https://www.instagram.com/4333collective/ ",
-    facebook: "https://www.facebook.com/4333collective/ ",
+    subLink: "https://www.instagram.com/4333collective ",
+    facebook: "https://www.facebook.com/4333collective ",
   },
+  {
+    title: "PJ's Playhouse",
+    summary: "North Philly basement venue started in April '25. First show was “a night of thrashing heavy metal annihilation (ask a metal maniac for address).“",
+    insta: "https://www.instagram.com/pjplayhouse_phl",
+  },
+  {
+    title: "The Space",
+    summary: "“An events space in Brewerytown with a capacity of 75.“ Shows, poetry & paint nights, jams, story-telling, black history month celebrations, pop-up shops, open mic, DJs, etc..",
+    insta: "https://www.instagram.com/thespace2832",
+  },
+  {
+    title: "The Garden",
+    summary: "“Philly house show venue off Diamond.“ Started late '24. Backyard shows. Temple spot. Electronic, indie, acoustic, rock, alt-country, barbeques.",
+    insta: "https://www.instagram.com/thegarden_philly",
+  }
 ];
 
 export const MUSICDIYSPOTSSC = [
@@ -2681,7 +2805,24 @@ export const MUSICHIPHOP = [
     facebook: "https://www.facebook.com/TheGathering215/",
     insta: "https://www.instagram.com/thegathering215/",
     suggestedFollow: "Insta"
-  }
+  },
+  {
+    title: "Urban Movement Arts",
+    summary: "”Dance, Fitness, Performances and a lot of wacky stuff in between. Hip Hop from hip hop people.” Dance classes such as house, hip hop, vogue, waacking, popping, breaking, and locking. Also throws battles.",
+    mainLink: "https://www.urbanmovementarts.com",
+    facebook: "https://www.facebook.com/urbanmovementarts",
+    insta: "https://www.instagram.com/urbanmovementarts",
+  },
+  {
+    title: "Step Outside: Art from the Underbelly",
+    summary: "”An immersive art exhibition highlighting the street art and graffiti culture of Philly, featuring over 75+ artists with hundreds of original works of art for sale and interactive installations.” Occured May '25 and was absolutely epic. Watch for more from them.",
+    insta: "https://www.instagram.com/stepoutsideshow",
+  },
+  {
+    title: "Temple Breakers",
+    summary: "”Temple University's ELITE breakdancing group. Established in 2010.” Open practice, classes, and battles.",
+    insta: "https://www.instagram.com/templebreakers",
+  },
 ];
 
 export const MUSICMETAL = [
@@ -2871,10 +3012,6 @@ export const DATAWIP = [
     suggestedFollow: "",
   },
   {
-    title: "The Vat",
-    insta: "https://www.instagram.com/p/C09tiSzJbNI/",
-  },
-  {
     title: "Cat Fight",
     insta: "https://www.instagram.com/p/CpAxxtfOlLQ/?img_index=3"
   },
@@ -2938,10 +3075,6 @@ export const DATAWIP = [
   {
     title: "hardcoretoday777",
     insta: "https://www.instagram.com/hardcoretoday777/",
-  },
-  {
-    title: "Death Sculpted Productions",
-    insta: "https://www.instagram.com/deathsculptedpros/",
   },
   {
     title: "Harmonie Hall",
@@ -3114,22 +3247,15 @@ export const DATAWIP = [
     insta: "https://www.instagram.com/lustdustphl/",
   },
   {
-    title: "https://www.instagram.com/corridor_phl/",
-    insta: "",
-  },
-  {
     title: "",
     summary: "inactive?",
     insta: "https://www.instagram.com/the_allegory_philly/",
   },
   {
-    title: "",
-    insta: "https://www.instagram.com/thelastarizona/",
-  },
-  {
     title: "PhillyJerseyScene",
     summary: "“Reposting awesome local shows in philly + jersey (occasionally ny) 😛👽👾🛸💥🌈🪩💞“. One post per day that has shows. Since Oct 15th, 2024. Innactive?",
-    insta: "https://www.instagram.com/phillyjerseyscene/"
+    insta: "https://www.instagram.com/phillyjerseyscene/",
+    note: "inactive since 01/07/2025?",
   },
   {
     title:"Krampus Fest and Night Market",
@@ -3158,27 +3284,16 @@ export const DATAWIP = [
     title: "Firehouse Warehouse"
   },
   {
-    title: "The Fallser Club"
+    title: "Broad Hall"
   },
   {
-    title: "Minimal Chaos Collective Annul April 20 Potluck"
+    title: "Fortress",
+    insta: "https://www.instagram.com/fortressphl/",
   },
   {
-    title: "Philly Gravel Club",
-    insta: "https://www.instagram.com/phillygravelclub",
-  },
-  {
-    title: "Coffee Outside Philadelphia",
-    insta: "https://www.instagram.com/coffeeoutsidephl",
-  },
-  {
-    title: "PAPERtrail Bike Cafe",
-    insta: "https://www.instagram.com/papertrailbikecafe",
-  },
-  {
-    title: "Papertrail Espresso Rides",
-    insta: "https://papertrailbikecafe.com/espresso-rides",
-  },
+    title: "Small Works Gallery",
+    insta: "https://www.instagram.com/smallworksphilly"
+  }
 ];
 
 export const TEMP = [

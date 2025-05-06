@@ -21,7 +21,7 @@ export const BYMONTH = [
   },
   {
     period: "June",
-    events: ["Early: West Philly Porchfest", "End: Midsommar"]
+    events: ["Early: West Philly Porchfest", "Early: Queen of the Park", "End: Midsommar"]
   },
   {
     period: "July",
@@ -108,7 +108,7 @@ export const BYWEEK = [
   },
   {
     period: "Every Other Weds",
-    events: ["2pm to 4pm: Volunteer Zine Folding Session - Iffy Books", "7pm: Northwest Night Rides"]
+    events: ["2pm to 4pm: Volunteer Zine Folding Session - Iffy Books", "7pm: Northwest Night Rides", "7:10pm: Wednesday Night Rides"]
   },
   {
     period: "Every Other Sun",
@@ -127,7 +127,7 @@ export const BYWEEK = [
 export const BYDAY = [
   {
     period: "Mon",
-    events: ["11am to 1pm: Homies Helping Homies Food Distro - 2144 Cross Street","3pm to 5pm: WRC Community Fridge Food Share - LAVA Space", "6pm to 9pm: Philadelphia Boardgame Nights - Glory Beer Bar", "6:30pm to 8:30pm: Books Through Bars (attend orientation first) - 4722 Baltimore Ave"]
+    events: ["11am to 1pm: Homies Helping Homies Food Distro - 2144 Cross Street","3pm to 5pm: WRC Community Fridge Food Share - LAVA Space", "6pm to 9pm: Philadelphia Boardgame Nights - Glory Beer Bar", "6pm: Philly Gravel Club Après Ride", "6:30pm to 8:30pm: Books Through Bars (attend orientation first) - 4722 Baltimore Ave"]
   },
   {
     period: "Tues",
@@ -135,7 +135,7 @@ export const BYDAY = [
   },
   {
     period: "Weds",
-    events: ["1:30pm to 3:30pm: South Philly Punks With Lunch - Broad/Snyder", "4pm to 9pm: Philly Social Adventures Happy Hour - Varies"]
+    events: ["1:30pm to 3:30pm: South Philly Punks With Lunch - Broad/Snyder", "4pm to 9pm: Philly Social Adventures Happy Hour - Varies", "6pm: PAPERtrail Gravel Espresso Ride (Mar-Oct)"]
   },
   {
     period: "Thurs",
@@ -147,11 +147,11 @@ export const BYDAY = [
   },
   {
     period: "Sat",
-    events: ["3pm: South Philly Food Not Bombs Hot Meal - Mifflin Square Park", "10am: Wild Foodies of Philly Foraging Hike - Varies", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
+    events: ["8am: PAPERtrail Mountain Espresso Ride", "3pm: South Philly Food Not Bombs Hot Meal - Mifflin Square Park", "10am: Wild Foodies of Philly Foraging Hike - Varies", "8pm-ish: DIY Shows - Over 50 Active Philly Spots"]
   },
   {
     period: "Sun",
-    events: ["1:30pm to 3:30pm: South Philly Punks With Lunch - Broad/Snyder"]
+    events: ["9:30am: Coffee Outside Philadelphia", "6pm: Philly Gravel Club Sunday Funday Ride", "1:30pm to 3:30pm: South Philly Punks With Lunch - Broad/Snyder"]
   },
   {
     period: "Weekends",
