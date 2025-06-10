@@ -1213,15 +1213,6 @@ export const GENERAL = [
     suggestedFollow: "Check their site for cool articles",
   },
   {
-    title: "GrimGrimGrim",
-    summary: "Another recognizable Philly artist, GrimGrimGrim has made many posters for local hardcore, metal, etc. bands, and also creates t-shirts, prints, bumper stickers, hats, and more. Art often features grimkvlt versions of Philly icons, like Gritty, Phillie Phanatic, WaWa, and Cheesteak.",
-    mainLink: "https://www.grimgrimgrim.com",
-    facebook: "https://www.facebook.com/GRIM6GRIM6GRIM6",
-    insta: "https://www.instagram.com/grimgrimgrim215",
-    twitter: "",
-    suggestedFollow: "FB or Insta + check out his shop",
-  },
-  {
     title: "Queen of the Park",
     summary: "Annual women's skateboarding competion, fifth year in 2025. $1,000 first prize. Also includes Princess of the Park (13 & under event), vendors, bands, and booze.",
     insta: "https://www.instagram.com/fdrskatepark",
