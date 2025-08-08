@@ -319,6 +319,32 @@ export const ANIMEPHILLY = [
 
 export const CLOSED = [
   {
+    title: "The Cabin",
+    summary: "A collaborative effort in making / sharing creative events: yard sales, themed events, art swaps, shows, zine fairs, etc. Used to be a house venue, The Cabin, which had its final show in Feb '22. Now doing show promotions as etc.",
+    insta: "https://www.instagram.com/thecabin.westphl/",
+  },
+  {
+    title: "Our House",
+    summary: "”West Philly | NOT a Psy-op. Monthly Music. est. 2023.” Basement spot started spring 2023. Primal emo noises and post-hardcore cacophony, amongst other sounds.",
+    insta: "https://www.instagram.com/ourhousephl/",
+  },
+  {
+    title: "The Underworld",
+    summary: "“just a couple of wet rats in charge of a philly diy house venue!!! Queer owned & operated.” Basement venue. Somtimes uses show cover as donations for groups like Treehouse Books and Abortion Lib Fund of PA. First show Sept ‘22. Mixes it up, with things like art mart, masquerade ball, etc..",
+    insta: "https://www.instagram.com/theunderworldphilly/",
+  },
+  {
+    title: "The Meadow",
+    summary: "W Philly House venue around since about 2017. “Inclusive artist collective, shop, record label & performance space in West Philly.”",
+    subLink: "https://www.youtube.com/channel/UChU2p8WGo1yJcsz9wPvCa2Q",
+    insta: "https://www.instagram.com/themeadowphl/",
+  },
+  {
+    title: "Over Yonder",
+    summary: "North Philly spot. “Smog Emissions Check Station. philly diy subterranean fun zone.“ Used to be Blacklight. Started in Oct’ 22, following Blacklight closure.",
+    insta: "https://www.instagram.com/overyonder.phl/",
+  },
+  {
     title: "The Secret Garden",
     summary: "“coming Fall 2023 to Carlisle St.“ Basement spot. Had a single show in Sept 2023 and then was never seen again.",
     insta: "https://www.instagram.com/secretgardenphl/",
@@ -2052,6 +2078,16 @@ export const MUSICBLUEGRASS = [
 export const MUSICCLASSICAL = [ {} ];
 
 export const MUSICDIYCOLLECTIVESPHL = [
+    {
+    title: "DIY Philly",
+    summary: "Spiritual sucessor to House Show Philly, which stopped posting in 'Nov 2024, then came back for a bit in early summer '25, but now is MIA again (as of early Aug '25). A Philly DIY show masterlist, shows for the coming weekend posted every Wednesday prior.",
+    insta: "https://www.instagram.com/diyphilly/",
+  },
+    {
+    title: "Philly DIY Shows",
+    summary: "A philly DIY show masterlist. Posting shows and events since October 2023. No venue or band tags, no posting of shows by dates, just pure and simple DIY fliers, posted as recieved. “DM ME UR EVENT & SHOW POSTERS“",
+    insta: "https://www.instagram.com/philly_diy_music",
+  },
   {
     title: "House Show Philly",
     summary: "“Upcoming philly diy show masterlist, woman owned (she/her), updated every wednesday.“ Also organizes shows. THE place for checking upcoming DIY (and small above ground venue) shows. A great testament to how active Philly DIY is.",
@@ -2062,16 +2098,6 @@ export const MUSICDIYCOLLECTIVESPHL = [
     summary: "“all things philly music scene related. interviews, film dumps, montages, artist showcases, + moreヽ(･ω･｡)ﾉ”",
     mainLink: "https://www.ratpiefriends.com/",
     insta: "https://www.instagram.com/ratpiefriends/",
-  },
-  {
-    title: "Philly DIY Shows",
-    summary: "A philly DIY show masterlist. Posting shows and events since October 2023. No venue or band tags, no posting of shows by dates, just pure and simple DIY fliers, posted as recieved. “DM ME UR EVENT & SHOW POSTERS“",
-    insta: "https://www.instagram.com/philly_diy_music",
-  },
-  {
-    title: "DIY Philly",
-    summary: "Spiritual sucessor to House Show Philly, which stopped posting in 'Nov 2024. A Philly DIY show masterlist, shows for the coming weekend posted every Wednesday prior.",
-    insta: "https://www.instagram.com/diyphilly/",
   },
   {
     title: "Philly-shows.org",
@@ -2113,6 +2139,11 @@ export const MUSICDIYCOLLECTIVESPHL = [
     facebook: "https://www.instagram.com/yargapresentsbackupaccount/"
   },
   {
+    title: "etc.",
+    summary: "A collaborative effort in making / sharing creative events: yard sales, themed events, art swaps, shows, zine fairs, etc. Used to be a house venue, The Cabin, which had its final show in Feb '22",
+    insta: "https://www.instagram.com/etc.phl/",
+  },
+  {
     title: "Big Chair",
     summary: "“*creaks* Philadelphia based booking, reviews, and general music appreciation arts collective. Existent in various iterations for the better part of ten years.“ Mostly above ground, such as Ulana's, Vox Populi, PhilaMOCA, and Ortleib's, but also some DIY shows and collab w/ The Machine.",
     mainLink: "https://www.bigchairphl.com/",
@@ -2139,6 +2170,11 @@ export const MUSICDIYCOLLECTIVESPHL = [
     title: "The Courtyard",
     summary: "“100% Unfiltered Underground. North Philly DIY Collective.” Throws electronic events, raves, flea markets, goth events with costume contents, food/drink, vendors. “Goth, Industrial, Tekno.” Warehouse events.",
     insta: "https://www.instagram.com/thecourtyardphl/",
+  },
+  {
+    title: "MoMA 2",
+    summary: "Show promoter and ex house venue (spring '23 to spring '25). Indie, post-rock, punk, hardcore, singer songwriter, grune, slowgaze, etc.",
+    insta: "https://www.instagram.com/moma2phl/",
   },
   {
     title: "DIY Music Philly!",
@@ -2409,12 +2445,6 @@ export const MUSICDIYSPOTSPHL = [
     facebook: "https://www.instagram.com/the_sanctuary_phl",
   },
   {
-    title: "The Meadow",
-    summary: "W Philly House venue around since about 2017. “Inclusive artist collective, shop, record label & performance space in West Philly.”",
-    subLink: "https://www.youtube.com/channel/UChU2p8WGo1yJcsz9wPvCa2Q",
-    insta: "https://www.instagram.com/themeadowphl/",
-  },
-  {
     title: "Luigi’s Mansion",
     summary: "W Philly house venue since 2019. Dance parties, punk, indie, noise pop, etc. Lots of art rock, but metal and hardcore, too. “suffer in the basement...“",
     subLink: "https://www.youtube.com/channel/UC5fxGTTkZwBkIygnNdx0hQA",
@@ -2423,7 +2453,7 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "Onion Transfer",
-    summary: "West Philly house venue. Formerly Lucky Aide, Couchtown, Hole Foods, Cosmos, etc.. “Multi purpose art empowerment space. Cease and desisted West Philly DIY venue, now legally distinct",
+    summary: "West Philly house venue. Formerly Union Transfer II, Lucky Aide, Couchtown, Hole Foods, Cosmos, etc.. “Multi purpose art empowerment space. Cease and desisted West Philly DIY venue, now legally distinct",
     insta: "https://www.instagram.com/onion.transfer/",
   },
   {
@@ -2472,11 +2502,6 @@ export const MUSICDIYSPOTSPHL = [
     mainLink: "https://www.youtube.com/watch?v=tPvTyEov2ZE",
   },
   {
-    title: "Over Yonder",
-    summary: "North Philly spot. “Smog Emissions Check Station. philly diy subterranean fun zone.“ Used to be Blacklight. Started in Oct’ 22, following Blacklight closure.",
-    insta: "https://www.instagram.com/overyonder.phl/",
-  },
-  {
     title:"Angies’s in West",
     insta: "https://www.instagram.com/angieswestphilly", 
     summary: "West Philly house venue. Indie rock, post-punk, noise rock, garage rock, punk, noise pop, hyperpop, breakcore, DnB, cybergrind, etc. Occassional benefit shows (ex. Palestine, trans mutual aid). Since July 2023",
@@ -2495,7 +2520,7 @@ export const MUSICDIYSPOTSPHL = [
 
   {
     title: "Hush House",
-    summary: "South Philly house venue w/ first show NYE 21. Can be a long time in between shows.",
+    summary: "South Philly house venue w/ first show NYE 21. Can be a long time in between shows (many months).",
     insta: "https://www.instagram.com/hushhousephilly",
   },
   {
@@ -2510,14 +2535,9 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/gods.automatic.body/",
   },
   {
-    title: "The Underworld",
-    summary: "“just a couple of wet rats in charge of a philly diy house venue!!! Queer owned & operated.” Basement venue. Somtimes uses show cover as donations for groups like Treehouse Books and Abortion Lib Fund of PA. First show Sept ‘22. Mixes it up, with things like art mart, masquerade ball, etc..",
-    insta: "https://www.instagram.com/theunderworldphilly/",
-  },
-  {
     title: "The Snake Pit",
-    summary: "Anarchist and punk run house venue. Lots of hardcore, crossover, etc. “Ask a ghoul.” Insta vanished, but still throwing shows. Watch local show aggregators (ex. House Show Philly) for shows.",
-    subLink: "https://www.youtube.com/watch?v=ZX0YjeTEgbc",
+    summary: "Anarchist and punk run house venue. “PUNK, METAL, & HARDCORE SINCE 2017 NO METALCORE NONSENSE. Ask a ghoul.” Insta vanished, but still throwing shows. Watch local show aggregators (ex. DIY Philly) for shows or look for paper fliers at expected music genre local shows at other venues/spots.",
+    subLink: "https://www.youtube.com/watch?v=8-MAPo5gylE&list=RD8-MAPo5gylE",
     insta: "https://www.instagram.com/snakepit_philly/",
   },
   {
@@ -2526,19 +2546,9 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/wvrmhole.philly/",
   },
   {
-    title: "Our House",
-    summary: "”West Philly | NOT a Psy-op. Monthly Music. est. 2023.” Basement spot started spring 2023. Primal emo noises and post-hardcore cacophony, amongst other sounds.",
-    insta: "https://www.instagram.com/ourhousephl/",
-  },
-  {
     title: "The Roof",
     summary: "”West Philly rooftop shows. The Roof is a west philly house venue featuring pristine views of the city coupled with some of the best music philly has to offer.” Started Spring 2023.",
     insta: "https://www.instagram.com/theroof.phl/",
-  },
-  {
-    title: "MoMA 2",
-    summary: "“south philly shows“ Started spring 2023. Indie, post-rock, punk, hardcore, singer songwriter, grune, slowgaze, etc.",
-    insta: "https://www.instagram.com/moma2phl/",
   },
   {
     title: "The Garden House",
@@ -2624,11 +2634,6 @@ export const MUSICDIYSPOTSPHL = [
     title: "Kinda Pink",
     summary: "“North Philly House Venue“ Opened Sept 2023. All types of genres, including rap. Jam sessions.",
     insta: "https://www.instagram.com/kindapink.phl/",
-  },
-  {
-    title: "The Cabin",
-    summary: "W Philly house venue. Home of etc. “We hope to be a collaborative effort in making / sharing creative events: yard sales, themed events, art swaps, shows, zine fairs, etc (get it?!), we are elated for this new era.“ Started in '22. ",
-    insta: "https://www.instagram.com/etc.phl/",
   },
   {
     title: "Neon Jungle",
@@ -3284,6 +3289,32 @@ export const DATAWIP = [
   {
     title: "Small Works Gallery",
     insta: "https://www.instagram.com/smallworksphilly"
+  },
+  {
+    title: "City Wide Event",
+    insta: "city_wide_evnt",
+  },
+  {
+    title: "Sazon Philly",
+    insta: "https://www.instagram.com/sazonpartyphl",
+  },
+  {
+    title: "Snipes Farm",
+    insta: "https://www.instagram.com/musicatsnipes",
+  },
+  {
+    title: "Annual Delco Horror Invasion Weekend",
+    mainLink: "https://www.simpletix.com/e/2nd-annual-delco-horror-haven-invasion-ven-tickets-221613"
+  },
+  {
+    title: "Bikeout Co",
+    insta: "https://www.instagram.com/bikeoutco/"
+  },
+  {
+    insta: "https://www.instagram.com/queerspacephilly/"
+  },
+  {
+    insta: "https://www.instagram.com/thedrunkenclamphl/"
   }
 ];
 

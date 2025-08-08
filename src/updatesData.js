@@ -1,125 +1,172 @@
 export const UPDATES = [
-    {
-        header: "05/06/2025",
-        categoryUpdateLists: [
-            { 
-                type: "Additions (Cycling):",
-                updateList: [
-                    {
-                        label: "Wednesday Night Rides",
-                        href: "https://www.instagram.com/wednesdaynightrides",
-                    },
-                    {
-                        label: "PAPERtrail Espresso Rides",
-                        href: "https://www.instagram.com/papertrailbikecafe",
-                    },
-                    {
-                        label: "Philly Gravel Club",
-                        href: "https://www.instagram.com/phillygravelclub",
-                      },
-                      {
-                        label: "Coffee Outside Philadelphia",
-                        href: "https://www.instagram.com/coffeeoutsidephl",
-                      },
-                      {
-                        label: "PAPERtrail Bike Cafe",
-                        href: "https://www.instagram.com/papertrailbikecafe",
-                      },
-                      
-                ],
+        {
+            header: "08/08/2025",
+            categoryUpdateLists: [
+                { 
+                    type: "Removed (Closed DIY):",
+                    updateList: [
+                        {
+                            label: "Our House",
+                            href: "https://www.instagram.com/ourhousephl/",
+                        },
+                        {
+                            label: "The Meadow",
+                            href: "https://www.instagram.com/themeadowphl/",
+                        },
+                        {
+                            label: "Over Yonder",
+                            href: "https://www.instagram.com/overyonder.phl/",
+                        },
+                        {
+                            label: "The Underworld",
+                            href: "https://www.instagram.com/theunderworldphilly/",
+                        },
+                        {
+                            label: "Our House",
+                            href: "https://www.instagram.com/ourhousephl/",
+                        },
+                        {
+                            label: "The Cabin",
+                            href: "https://www.instagram.com/thecabin.westphl/",
+                        },                       
+                    ],
+                },
+                {
+                    type: "Updated (DIY Spot --> Promoter and/or Collective):",
+                    updateList: [
+                        {
+                            label: "MoMA 2",
+                            href: "https://www.instagram.com/moma2phl/",
+                        },
+                        {
+                            label: "etc.",
+                            href: "https://www.instagram.com/etc.phl/",
+                        },
+                    ]
+                }
+            ]
             },
-            {
-                type: "Additions (Music (DIY Spots)):",
-                updateList: [
-                    {
-                        label: "PJ's Playhouse",
-                        href: "https://www.instagram.com/pjplayhouse_phl",
-                    },
-                    {
-                        label: "The Space",
-                        href: "https://www.instagram.com/thespace2832",
-                    },
-                    {
-                        label: "The Garden",
-                        href: "https://www.instagram.com/thegarden_philly",
-                    },
-                    {
-                        label: "The Vat",
-                    },
-                ]
-            },
-            {
-                type: "Additions Music (Above Ground Venues):",
-                updateList: [
-                    {
-                        label: "Ruba Club",
-                        href: "https://www.instagram.com/rubaclub"
-                    },
-                    {
-                        label: "The Fallser Club",
-                        href: "https://www.instagram.com/thefallserclub",
-                    },
-                    {
-                        label: "The 700",
-                        href: "https://www.instagram.com/the700_",
-                      },
-                ]
-            },
-            {
-                type: "Additions (Hip Hop):",
-                updateList: [
-                    {
-                        label: "Urban Movement Arts",
-                        href: "https://www.instagram.com/urbanmovementarts",
-                    },
-                    {
-                        label: "Temple Breakers",
-                        href: "https://www.instagram.com/templebreakers",
-                    },
-                    {
-                        label: "Step Outside: Art from the Underbelly",
-                        href: "https://www.instagram.com/stepoutsideshow",
-                    },
-                ]
-            },
-            {
-                type: "Additions (Mixed):",
-                updateList: [
-                    {
-                        label: "Sound Advice  (concert newsletter)",
-                        href: "https://buttondown.com/soundadvicephl",
-                    },
-                    {
-                        label: "Death Sculpted Productions  (metal booking/promo/fliers)",
-                        href: "https://www.instagram.com/deathsculptedpros",
-                    },
-                    {
-                        label: "Queen of the Park  (ann. women's skateboard comp)",
-                        href: "https://www.instagram.com/fdrskatepark",
-                    },
-                    {
-                        label: "DuBois Robeson People’s Center  (aka. Little Red Library)",
-                        href: "https://www.instagram.com/duboisrobesonpeoplescenter",
-                    },
-                    {
-                        label: "Soup Phl  (show promoter)",
-                        href: "https://www.instagram.com/soup.phl/",
-                    },
-                    {
-                        label: "Drats  (vintage clothes w/ occasional shows)",
-                        href: "https://www.instagram.com/papertrailbikecafe",
-                    },
-                    {
-                        label: "Liminal Space Studio  (pole dancing & event space)",
-                        href: "https://www.instagram.com/liminal.space.studio",
-                    },
-                    {
-                        label: "Good Things Phl  (philly events + small business listings)",
-                        href: "https://www.instagram.com/goodthingsphl",
-                    },
-                ]
-            },
-        ]
+        {
+            header: "05/06/2025",
+            categoryUpdateLists: [
+                { 
+                    type: "Additions (Cycling):",
+                    updateList: [
+                        {
+                            label: "Wednesday Night Rides",
+                            href: "https://www.instagram.com/wednesdaynightrides",
+                        },
+                        {
+                            label: "PAPERtrail Espresso Rides",
+                            href: "https://www.instagram.com/papertrailbikecafe",
+                        },
+                        {
+                            label: "Philly Gravel Club",
+                            href: "https://www.instagram.com/phillygravelclub",
+                        },
+                        {
+                            label: "Coffee Outside Philadelphia",
+                            href: "https://www.instagram.com/coffeeoutsidephl",
+                        },
+                        {
+                            label: "PAPERtrail Bike Cafe",
+                            href: "https://www.instagram.com/papertrailbikecafe",
+                        },
+                        
+                    ],
+                },
+                {
+                    type: "Additions (Music (DIY Spots)):",
+                    updateList: [
+                        {
+                            label: "PJ's Playhouse",
+                            href: "https://www.instagram.com/pjplayhouse_phl",
+                        },
+                        {
+                            label: "The Space",
+                            href: "https://www.instagram.com/thespace2832",
+                        },
+                        {
+                            label: "The Garden",
+                            href: "https://www.instagram.com/thegarden_philly",
+                        },
+                        {
+                            label: "The Vat",
+                        },
+                    ]
+                },
+                {
+                    type: "Additions Music (Above Ground Venues):",
+                    updateList: [
+                        {
+                            label: "Ruba Club",
+                            href: "https://www.instagram.com/rubaclub"
+                        },
+                        {
+                            label: "The Fallser Club",
+                            href: "https://www.instagram.com/thefallserclub",
+                        },
+                        {
+                            label: "The 700",
+                            href: "https://www.instagram.com/the700_",
+                        },
+                    ]
+                },
+                {
+                    type: "Additions (Hip Hop):",
+                    updateList: [
+                        {
+                            label: "Urban Movement Arts",
+                            href: "https://www.instagram.com/urbanmovementarts",
+                        },
+                        {
+                            label: "Temple Breakers",
+                            href: "https://www.instagram.com/templebreakers",
+                        },
+                        {
+                            label: "Step Outside: Art from the Underbelly",
+                            href: "https://www.instagram.com/stepoutsideshow",
+                        },
+                    ]
+                },
+                {
+                    type: "Additions (Mixed):",
+                    updateList: [
+                        {
+                            label: "Sound Advice  (concert newsletter)",
+                            href: "https://buttondown.com/soundadvicephl",
+                        },
+                        {
+                            label: "Death Sculpted Productions  (metal booking/promo/fliers)",
+                            href: "https://www.instagram.com/deathsculptedpros",
+                        },
+                        {
+                            label: "Queen of the Park  (ann. women's skateboard comp)",
+                            href: "https://www.instagram.com/fdrskatepark",
+                        },
+                        {
+                            label: "DuBois Robeson People’s Center  (aka. Little Red Library)",
+                            href: "https://www.instagram.com/duboisrobesonpeoplescenter",
+                        },
+                        {
+                            label: "Soup Phl  (show promoter)",
+                            href: "https://www.instagram.com/soup.phl/",
+                        },
+                        {
+                            label: "Drats  (vintage clothes w/ occasional shows)",
+                            href: "https://www.instagram.com/papertrailbikecafe",
+                        },
+                        {
+                            label: "Liminal Space Studio  (pole dancing & event space)",
+                            href: "https://www.instagram.com/liminal.space.studio",
+                        },
+                        {
+                            label: "Good Things Phl  (philly events + small business listings)",
+                            href: "https://www.instagram.com/goodthingsphl",
+                        },
+                    ]
+                },
+            ]
     },
     {
         header: "04/05/2025",
