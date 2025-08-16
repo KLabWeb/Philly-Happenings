@@ -1,5 +1,70 @@
 export const UPDATES = [
         {
+            header: "08/16/2025",
+            categoryUpdateLists: [
+                {
+                    type: "General:",
+                    updateList: [
+                        {
+                            label: "The Rocker Show",
+                            href: "https://www.instagram.com/therockershow",
+                        },
+                        {
+                            label: "Fright Factory",
+                            href: "https://www.instagram.com/frightfactory",
+                        },
+                        {
+                            label: "Philly Clown Slams",
+                            href: "https://www.instagram.com/phillyclownslams",
+                        },
+                        {
+                            label: "froggyhaus",
+                            href: "https://www.instagram.com/froggyhaus"
+                        }
+                    ]
+                },
+                {
+                    type: "DIY Music Venue",
+                    updateList: [
+                        {
+                            label: "Greenhaus",
+                            href: "https://www.instagram.com/greenhaus.phl",
+                        },
+                        {
+                            label: "The Meetinghouse",
+                            href: "https://www.instagram.com/meetinghouse.phl"
+                        }
+                    ]
+                },
+                {
+                    type: "Show Aggregator:",
+                    updateList: [
+                        {
+                            label: "Philly Ask A Punk (flyers.fan215)",
+                            href: "https://www.instagram.com/flyers.fan215",
+                        },
+                    ]
+                },
+                {
+                    type: "Show Bookers / Collectives:",
+                    updateList: [
+                        {
+                            label: "FM Philly",
+                            href: "https://www.instagram.com/fm.phl"
+                        },
+                        {
+                            label: "Paul Bunyan",
+                            href: "https://www.instagram.com/paulbunyanphl"
+                        },
+                        {
+                            label: "Fortress",
+                            href: "https://www.instagram.com/fortressphl",  
+                        }
+                    ]
+                },
+            ]
+        },
+        {
             header: "08/08/2025",
             categoryUpdateLists: [
                 { 

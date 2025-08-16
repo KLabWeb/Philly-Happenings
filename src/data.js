@@ -1261,6 +1261,31 @@ export const GENERAL = [
     facebook: "https://www.facebook.com/goodthingsphl",
     insta: "https://www.instagram.com/goodthingsphl",
   },
+  {
+    title: "The Rocker Show",
+    summary: "“The worst show on the internet. Packed to the brim with BLOOD, SWEAT, and BEERS for rockers who like rocking.“ Philly's Jackass, but more rocking.",
+    mainLink: "https://www.therockershow.com",
+    subLink: "https://www.youtube.com/@rockerproductions",
+    facebook: "https://www.facebook.com/therockershow",
+    insta: "https://www.instagram.com/therockershow",
+  },
+  {
+    title: "Fright Factory",
+    summary: "South Philly's spookiest factory, terrifying Philadelphians every weekend from the end of September to the end of October each year.",
+    mainLink: "https://www.frightfactory.net/",
+    facebook: "https://www.facebook.com/FrightFactoryPA",
+    insta: "https://www.instagram.com/frightfactory",
+  },
+  {
+    title: "Philly Clown Slams",
+    summary: "“Brief clown experiments by local clowns. Est. 2023. Infinitus est numerus stultorum. Sign up on our Google Docs to perform with us. Expect weird physical comedy, unhinged shit with bodies, and the kind of clowning that makes you question your life choices. Monthly Clown Slam at Studio 34 on rotating Thursday nights.“",
+    insta: "https://www.instagram.com/phillyclownslams/",
+  },
+  {
+    title: "froggyhaus",
+    summary: "Cool things in Philly poster via their weekly posts of 'cool things happening in Philly this week / weekend' posts on IG. Live music, cinema in the cemetary, art markets, seed swaps, film, and more.",
+    insta: "https://www.instagram.com/froggyhaus",
+  },
 ];
 
 export const GREENGARDENS = [
@@ -2078,15 +2103,22 @@ export const MUSICBLUEGRASS = [
 export const MUSICCLASSICAL = [ {} ];
 
 export const MUSICDIYCOLLECTIVESPHL = [
-    {
+  {
     title: "DIY Philly",
     summary: "Spiritual sucessor to House Show Philly, which stopped posting in 'Nov 2024, then came back for a bit in early summer '25, but now is MIA again (as of early Aug '25). A Philly DIY show masterlist, shows for the coming weekend posted every Wednesday prior.",
     insta: "https://www.instagram.com/diyphilly/",
   },
-    {
+  {
     title: "Philly DIY Shows",
     summary: "A philly DIY show masterlist. Posting shows and events since October 2023. No venue or band tags, no posting of shows by dates, just pure and simple DIY fliers, posted as recieved. “DM ME UR EVENT & SHOW POSTERS“",
     insta: "https://www.instagram.com/philly_diy_music",
+  },
+  {
+    title: "Philly Ask A Punk (flyers.fan215)",
+    summary: "Run a Philly punk/hardcore show aggregator IG, plus Philly Ask a Punk, a Philadelphia punk and hardcore show calander site. “Fuck the Zuck. IG sucks. In a funk? Ask punk!“",
+    mainLink: "https://philly.askapunk.net",
+    insta: "https://www.instagram.com/flyers.fan215/",
+    suggestedFollow: "",
   },
   {
     title: "House Show Philly",
@@ -2325,6 +2357,22 @@ export const MUSICDIYCOLLECTIVESPHL = [
     title: "Soup Phl",
     summary: "“stirrin’ together the creative community of phl into one soup…“ Show promoter that does a lot of electronic and rock. Warehouse shows, DIY venues, outdoor events, creative marts, ",
     insta: "https://www.instagram.com/soup.phl/",
+  },
+  {
+    title: "FM Philly",
+    summary: "Philly DIY show booker. Pop, folk, experimental rock, math-gaze, psych pop, post-punk, punk. Books above ground and DIY venues. Often collaborates with other show bookers.",
+    insta: "https://www.instagram.com/fm.phl",
+  },
+  {
+    title: "Paul Bunyan",
+    summary: "“Philly Folk Heroes est. 2025.“ Bookers of shows, including some larger names like Chad Hates George. Mostly book at Philly Style, but sometimes DIY spots, too, such as The Garden, The Meetinghouse, the river, Cat Park, etc.. Temple crew.",
+    insta: "https://www.instagram.com/paulbunyanphl",
+  },
+  {
+    title: "Fortress",
+    summary: "Philly show booker. Hardcore, emo, indie, punk, rock, post-hardcore, psy rock, thrash-pop, etc. Shows at everywhere from Philly Style, to Cecil Skatepark, to The Garden, and other DIY spots.",
+    subLink: "https://www.youtube.com/@fortress.records",
+    insta: "https://www.instagram.com/fortressphl",
   },
   {
     title: "Cosmic Art Studios",
@@ -2693,9 +2741,19 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "The Garden",
-    summary: "“Philly house show venue off Diamond.“ Started late '24. Backyard shows. Temple spot. Electronic, indie, acoustic, rock, alt-country, barbeques.",
+    summary: "“North Philly Backyard Venue.“ Started late '24. Backyard shows. Temple spot. Electronic, indie, acoustic, rock, alt-country, barbeques. Open to all performances.",
     insta: "https://www.instagram.com/thegarden_philly",
-  }
+  },
+  {
+    title: "The Meetinghouse",
+    summary: "“West philly outdoor low volume diy venue. Come out to the meetinghouse and celebrate each other and the power of music!“ Started May 2025. Backyard spot in the same area as Porchfest. Folk punk, indie rock, punk, alt rock, noise rock, mathrock, pop punk, folk, etc..",
+    insta: "https://www.instagram.com/meetinghouse.phl/",
+  },
+  {
+    title: "Greenhaus",
+    summary: "New Philly venue circa July 2025.  Basement spot in North Philly. Rock, pop, folk, singer-songwriter, post-punk, shoegaze. NOTAFLOF.",
+    insta: "https://www.instagram.com/greenhaus.phl/",
+  },
 ];
 
 export const MUSICDIYSPOTSSC = [
@@ -3099,10 +3157,6 @@ export const DATAWIP = [
   {
     title: "Goodstone Records",
     insta: "https://www.instagram.com/goodstonerecords/",
-  },
-  {
-    title: "The Rocker",
-    insta: "https://www.instagram.com/therockershow/",
   },
   {
     title: "antiflowershowmovement",
