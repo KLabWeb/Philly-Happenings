@@ -319,6 +319,11 @@ export const ANIMEPHILLY = [
 
 export const CLOSED = [
   {
+    title: "The Drunken Clam",
+    summary: "A very short lived college house DIY spot. First show April 2025, last show end of May 2025. Emo and metalcore amongst other genres. The o",
+    insta: "https://www.instagram.com/thedrunkenclamphl/"
+  },
+  {
     title: "The Cabin",
     summary: "A collaborative effort in making / sharing creative events: yard sales, themed events, art swaps, shows, zine fairs, etc. Used to be a house venue, The Cabin, which had its final show in Feb '22. Now doing show promotions as etc.",
     insta: "https://www.instagram.com/thecabin.westphl/",
@@ -3367,9 +3372,6 @@ export const DATAWIP = [
   {
     insta: "https://www.instagram.com/queerspacephilly/"
   },
-  {
-    insta: "https://www.instagram.com/thedrunkenclamphl/"
-  }
 ];
 
 export const TEMP = [
