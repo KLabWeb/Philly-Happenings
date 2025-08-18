@@ -33,7 +33,7 @@ export const BYMONTH = [
   },
   {
     period: "Fall",
-    events: ["All: Mushroom Foraging (where's the rain???)", "Late: J1-Con"]
+    events: ["All: Mushroom Foraging", "Late: J1-Con"]
   },
   {
     period: "September",
