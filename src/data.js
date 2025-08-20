@@ -2589,7 +2589,7 @@ export const MUSICDIYSPOTSPHL = [
   },
   {
     title: "The Snake Pit",
-    summary: "Anarchist and punk run house venue. “PUNK, METAL, & HARDCORE SINCE 2017 NO METALCORE NONSENSE. Ask a ghoul.” Insta vanished, but still throwing shows. Watch local show aggregators (ex. DIY Philly) for shows or look for paper fliers at expected music genre local shows at other venues/spots.",
+    summary: "“PUNK, METAL, & HARDCORE SINCE 2017 NO METALCORE NONSENSE. Ask a ghoul/corpse/rocker.” North Philly with garage shows. Home of The Rocker Show. Hardcore, noise, grindcore, d-beat, metal punk, death metal, etc..",
     subLink: "https://www.youtube.com/watch?v=8-MAPo5gylE&list=RD8-MAPo5gylE",
     insta: "https://www.instagram.com/snakepit_philly/",
   },
