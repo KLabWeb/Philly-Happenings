@@ -63,7 +63,7 @@ export const ANARCHISTPHILLY = [
     title: "West Philadelphia Food Not Bombs",
     summary: "Hot meals Fridays 4:30pm at Malcolm X Park. Food pickup for cook 8-9am (drivers needed).",
     insta: "https://www.instagram.com/foodnotbombswestphilly",
-    suggestedFollow: "None (social not updated)",
+    suggestedFollow: "Insta",
   },
   {
     title: "South Philadelphia Food Not Bombs",
@@ -75,7 +75,8 @@ export const ANARCHISTPHILLY = [
     title: "Food Not Bombs Solidarity",
     summary: "“FNB Solidarity chapter serving the West Philly Community. 5pm Fridays food distro @ 60th and Market El Stop.“ Also distros to Community Frig at 52/Sansom, St. Columba Mens Shelter, and Nizeh Morris Trans Home.",
     facebook: "https://www.facebook.com/FoodNotBombsSolidarity",
-    suggestedFollow: "Facebook",
+    insta: "https://www.instagram.com/fnbsolidarity",
+    suggestedFollow: "Insta (more often updated)",
   },
   {
     title: "North Philly Food Not Bombs",
@@ -89,7 +90,7 @@ export const ANARCHISTPHILLY = [
     mainLink: "https://punkswithlunch.com",
     facebook: "https://www.facebook.com/PunxisSupport",
     insta: "https://www.instagram.com/south.philly.punkswithlunch",
-    suggestedFollow: "Insta (more updated than FB)",
+    suggestedFollow: "Insta (FB not updated anymore)",
   },
   {
     title: "Homies Helping Homies",
@@ -113,7 +114,7 @@ export const ANARCHISTPHILLY = [
     mainLink: "https://westphillytools.org",
     facebook: "https://www.facebook.com/westphillytools",
     insta: "https://www.instagram.com/westphillytoollibrary",
-    suggestedFollow: "Site calendar monthly check and Insta (more updated)",
+    suggestedFollow: "Site calendar monthly check and Insta (FB seldom updated)",
   },
   {
     title: "Anathema",
@@ -127,7 +128,6 @@ export const ANARCHISTPHILLY = [
     summary: "Shows regular radical and queer cinema, at different venues and community spaces, usually once or twice a month. Started Dec, 2022. Also run Philm Club indie screenings newsletter.",
     mainLink: "https://cinemaphilly.com",
     insta: "https://www.instagram.com/cinema_philly",
-    twitter: "https://twitter.com/cinema_philly",
     suggestedFollow: "Insta",
   },
   {
@@ -153,8 +153,9 @@ export const ANARCHISTPHILLY = [
     title: "Running Down the Walls",
     summary: "“Since 1999, prisoners and supporters throughout North America have participated in the annual event known as Running Down the Walls. This is a non-competitive 5K run/jog/walk/roll to raise awareness and funds for political prisoners. Over the years, we have raised thousands of dollars and lots of awareness.“ September, anually.",
     mainLink: "https://www.abcf.net/rdtw",
-    twitter: "https://twitter.com/phillyabc",
-    suggestedFollow: "Watch Philly ABC Twitter for ann. date",
+    insta: "https://www.instagram.com/philly_abc",
+    facebook: "https://kolektiva.social/@phillyabc",
+    suggestedFollow: "Watch Philly ABC for ann. date",
   },
   {
     title: "Free Food & Meal Finder",
@@ -173,20 +174,6 @@ export const ANARCHISTPHILLY = [
     mainLink: "https://www.google.com/maps/d/viewer?mid=1c1X8gigZGPn1MhBXBEVYjX6oGgGKV3Xg",
   },
   {
-    title: "Firefly Action Medical",
-    summary: "“Philly street medics. Collective since 2014. Provide medical support at free health clinics, direct actions, activist camps, street protests, and disaster relief mobilizations.“ Give 20 hour street medic training courses.",
-    mainLink: "https://fireflyactionmedical.wordpress.com",
-    insta: "https://www.instagram.com/fireflyactionmedical",
-    suggestedFollow: "Insta (training courses book fast)"
-  },
-  {
-    title: "fragments.215",
-    summary: "The Philly branch of Spirit of May 28th, a radical faction working to keep the flames and passion of the 2020 uprisings still burning. Posts mostly related to ongoing anarchist struggles; Cop City, political prisoner support, local anarchist events, etc.",
-    mainLink: "https://www.sm28.org",
-    insta: "https://www.instagram.com/fragments.215",
-    suggestedFollow: "Insta",
-  },
-  {
     title: "Here & Now Zines",
     summary: "Used to be a zine distro, that would distro at events like Anarchist Skill Share, now an “Anarchist news media and happenings hype account.“ Posts on Philly anarchist news, film screenings, events, discussion groups, teach-ins, fundraisers, calls for action, solidarity vigals, local anarchist struggles, action report backs, etc.",
     insta: "https://www.instagram.com/hereandnowzines",
@@ -196,34 +183,23 @@ export const ANARCHISTPHILLY = [
     title: "Up Against the Law Legal Collective",
     summary: "“A Philadelphia based collective of volunteers who support activists by helping them know their rights, providing Legal Observers at protests, ensuring protesters don’t get lost in the legal system during actions, and connecting them with free legal support after actions.“ Arrest hotline: (484) 758-0338.",
     mainLink: "https://upagainstthelaw.org",
-    facebook: "https://www.facebook.com/UpAgainstTheLaw",
     insta: "https://www.instagram.com/upagainstthelaw",
-    twitter: "https://twitter.com/UpAgainstTheLaw",
-    suggestedFollow: "Twitter (most updated)"
+    suggestedFollow: "Insta"
   },
   {
     title: "Philly Anti-Repression Fund",
     summary: "“A resource for people facing state repression and for fighting against systemic oppression and exploitation. We support those the state criminalizes for activities performed that threaten to change the status quo.“ Bonds and legal fee assistance for political prisoners.",
     mainLink: "https://phillyantirepression.wordpress.com",
     twitter: "https://twitter.com/phlbailfund",
-    suggestedFollow: "Twitter (posts Philly rad news and events)",
+    suggestedFollow: "Twitter",
   },
   {
     title: "DuBois Robeson People’s Center (aka. Little Red Library)",
     summary: "“We are a Marxist bookstore (buy and borrow) and community center in West Philly since 1986!“ Also, movie screenings, speakers, benefit shows, Philadelphia People’s World newspaper, etc.",
     mainLink: "https://sites.google.com/view/duboisrobeson",
-    subLink: "https://www.instagram.com/little.red.library",
     facebook: "https://www.facebook.com/p/DuBois-Robeson-Peoples-Center-100085462474398",
     insta: "https://www.instagram.com/duboisrobesonpeoplescenter",
     suggestedFollow: "Insta (FB not well updated)",
-  },
-  {
-    title: "Viscera Print Goods and Ephemera",
-    summary: "“Roving anarchist distro and bazaar now based in Philadelphia (formerly Providence, RI). Seller of anarchist print goods and ephemera – books, pamphlets, oddities and more.“ Also, book readings and zine discussions, documentaries, etc.. A new reading each month since 2017.",
-    mainLink: "https://viscerapvd.wordpress.com",
-    subLink: "https://ni.hil.ist/@Viscera",
-    insta: "https://www.instagram.com/viscera_pvd",
-    suggestedFollow: "Mastadon or Twitter",
   },
   {
     title: "BSides Philadelphia",
@@ -231,6 +207,12 @@ export const ANARCHISTPHILLY = [
     mainLink: "https://bsidesphilly.org",
     insta: "https://www.instagram.com/bsidesphilly",
     suggestedFollow: "Check for annual event date in early winter",
+  },
+  {
+    title: "Re-Entry Community Farm",
+    summary: "A space for formerly incarcerated people to build community & find freedom through agriculture. 4991 W Girard Ave. Volunteer, learn to grow organic foods and herbs, find community, and harvest free produce. Nourishment for body and spirit.",
+    mainLink: "https://mcerleanmorgan.wordpress.com/",
+    insta: "https://www.instagram.com/reentrycommunityfarm",
   },
   {
     title: "NYC Anarchist Bookfair",
@@ -276,16 +258,9 @@ export const ANIMEPHILLY = [
     suggestedFollow: "Insta",
   },
   {
-    title: "Chibi Café",
-    summary: "1 hour N of Philly. “Chibi Café is founded by otakus for otakus! We carry a variety of activities from old school arcades and table top gaming, to a manga library.” Hosts events (ex. D&D night, drawing classes, board game nights, micro cons).",
-    mainLink: "https://www.chibicafeco.com",
-    facebook: "https://www.facebook.com/chibicafeco",
-    insta: "https://www.instagram.com/chibi_cafe_co",
-    suggestedFollow: "Check site once a month for calendar",
-  },
-  {
     title: "J1-Con",
     summary: "“Anime & Gaming Expo. Are you a fan of animation, cosplay, gaming (tabletop, card and console), artists, vendors, panels, and live music? You’ve come to the right convention! 13 YEARS! Longest running black owned anime convention in the USA!“ Usually first weekend of November. A few thousand attendees, generally.",
+    mainLink: "https://www.j1studios.com/j1con/",
     facebook: "https://www.facebook.com/j1con",
     insta: "https://www.instagram.com/j1con",
     suggestedFollow: "Check site early fall for annual con date",
@@ -300,11 +275,11 @@ export const ANIMEPHILLY = [
     suggestedFollow: "Check site for annual con date at start of summer",
   },
   {
-    title: "Puchicon",
-    summary: "“Anime, Gaming, Comics Convention run by a Latina mom with ADHD.” Small con, a few 1-3k attendees. In October, annually, 2 hrs N of Philly, in Fort Lee, NJ.",
-    mainLink: "https://www.puchicon.com",
-    facebook: "https://www.facebook.com/puchicon",
-    insta: "https://www.instagram.com/puchicon",
+    title: "NJ Neets (Puchicon)",
+    summary: "“Bringing the Community Back in Cosplay 🎉 Free events | 💖 Positivity | 🌈 Inclusivity.“ Runs Puchicon, “an Anime, Gaming, Comics Convention,” which is a small con, 1-3k attendees, in October, annually, 2 hrs N of Philly. Other events too, karaoke, tea parties, cosplay meetups, etc.",
+    facebook: "https://www.facebook.com/puchianimecon",
+    insta: "https://www.instagram.com/njneets",
+    twitter: "https://x.com/njneets",
     suggestedFollow: "Check FB occasionally, for local events and con dates",
   },
   {
@@ -318,6 +293,121 @@ export const ANIMEPHILLY = [
 ];
 
 export const CLOSED = [
+  {
+    title: "House Show Philly",
+    summary: "“Upcoming philly diy show masterlist, woman owned (she/her), updated every wednesday.“ Also organizes shows. THE place for checking upcoming DIY (and small above ground venue) shows. A great testament to how active Philly DIY is.",
+    insta: "https://www.instagram.com/houseshowphilly",
+  },
+  {
+    title: "Big Farma",
+    summary: "“West Philly House Venue!” Started summer 2022. Run by 4333 Collective.",
+    subLink: "https://www.instagram.com/4333collective",
+    facebook: "https://www.facebook.com/4333collective",
+  },
+  {
+    title: "Legoland",
+    summary: "North Philly house venue. Closed late summer ‘22 then reopened at new location. Dance events and house raves. Hip hop, also. Has thrown warehouse events too.",
+    insta: "https://www.instagram.com/legolandphl",
+  },
+  {
+    title: "The Ankle Pit",
+    summary: "“𝚚𝚞𝚎𝚎𝚛 focused showcase in west philly, brought to you by milo n mj. Theres 1 cat here, and we have hvac. Did we mention we're queer“ NOTAFLOF. Started May 2023. Basement spot.",
+    insta: "https://www.instagram.com/theanklepit/",
+  },
+  {
+    title: "Candy Jail",
+    summary: "East Kensington / Fishtown basement spot. *booking closed* / on smoke break 🚬 as of May 2024.",
+    insta: "https://www.instagram.com/candyjailphl/",
+  },
+  {
+    title: "Stupid Baby’s House",
+    summary: "“diy venue mantua phl. owned and operated by someone born yesterday.“ Booker, also. F.K.A The Psychedelic Jungle.",
+    insta: "https://www.instagram.com/stupidbabyphl/",
+  },
+  {
+    title: "Devil’s Garden.",
+    summary: "“a queer/trans/polyam led rooftop party & music venue in South Philly. Come dance, jam, grow, play & find community! BYOB”",
+    insta: "https://www.instagram.com/devilsgardenphilly/",
+  },
+  {
+    title:"Titus’ Funeral Home",
+    summary: "“south philly’s #1 gig-funeral-fish emporium.“ Flat venue. First show Dec '22, and only throws about one or two shows a year, so far. Innactive since spring 2024.",
+    insta: "https://www.instagram.com/titus.funeralhome/",
+  },
+  {
+    title: "Detour Philly",
+    summary: "“west philly house venue in west philly. we host cool bands and believe in being true to ourselves, beyond boundaries.” Started summer '21. Infrequent shows.",
+    insta: "https://www.instagram.com/DetourPhilly/",
+  },
+  {
+    title: "Neon Jungle",
+    summary: "Cecil Records basement venue. Successor of The Sink, which closed Aug ‘22. Innactive since spring 2024.",
+    insta: "https://www.instagram.com/neonjunglephilly/",
+  },
+  {
+    title: "Kinda Pink",
+    summary: "“North Philly House Venue“ Opened Sept 2023. All types of genres, including rap. Jam sessions.",
+    insta: "https://www.instagram.com/kindapink.phl/",
+  },
+  {
+    title: "The Shire",
+    summary: "“North Philly House Show Venue 🧙‍♂️ 🌳“ New venue stated April 2024.",
+    insta: "https://www.instagram.com/theshire.phl/",
+  },
+  {
+    title: "The Kensington Palace",
+    summary: "Warehouse loft venue with a decent amount of space. A lot of hardcore, punk, emo, screamo, shoegaze, post-hardcore, etc.",
+    insta: "https://www.instagram.com/the_palace_215/",
+  },
+  {
+    title: "Cantaloupe Kingdom",
+    summary: "“Welcome to South Philly's newest house venue. We are an inclusive no hate space catering to diy musicians! Formerly JHQ.” Basement venue started late Aug ‘22.",
+    insta: "https://www.instagram.com/cantaloupekingdom/",
+  },
+  {
+    title: "Hush House",
+    summary: "South Philly house venue w/ first show NYE 21. Can be a long time in between shows (many months).",
+    insta: "https://www.instagram.com/hushhousephilly",
+  },
+  {
+    title:"Angies’s in West",
+    insta: "https://www.instagram.com/angieswestphilly", 
+    summary: "West Philly house venue. Indie rock, post-punk, noise rock, garage rock, punk, noise pop, hyperpop, breakcore, DnB, cybergrind, etc. Occassional benefit shows (ex. Palestine, trans mutual aid). Since July 2023",
+  },
+  {
+    title: "The Sanctuary",
+    summary: "West Philly studio in a basement. Hardcore, punk, death metal, black metal, metal punk, d-beat, punk n roll, thrash punk, raw punk, rock, dungeon synth, grindcore, crust punk, noise, etc.. Gutteral growls and weeping guitars in the dungeon.",
+    facebook: "https://www.instagram.com/the_sanctuary_phl",
+  },
+  {
+    title: "Chibi Café",
+    summary: "1 hour N of Philly. “Chibi Café is founded by otakus for otakus! We carry a variety of activities from old school arcades and table top gaming, to a manga library.” Hosts events (ex. D&D night, drawing classes, board game nights, micro cons).",
+    mainLink: "https://www.chibicafeco.com",
+    facebook: "https://www.facebook.com/chibicafeco",
+    insta: "https://www.instagram.com/chibi_cafe_co",
+    suggestedFollow: "Check site once a month for calendar",
+  },
+  {
+    title: "Viscera Print Goods and Ephemera",
+    summary: "“Roving anarchist distro and bazaar now based in Philadelphia (formerly Providence, RI). Seller of anarchist print goods and ephemera – books, pamphlets, oddities and more.“ Also, book readings and zine discussions, documentaries, etc.. A new reading each month since 2017.",
+    mainLink: "https://viscerapvd.wordpress.com",
+    subLink: "https://ni.hil.ist/@Viscera",
+    insta: "https://www.instagram.com/viscera_pvd",
+    suggestedFollow: "Mastadon or Twitter",
+  },
+  {
+    title: "fragments.215",
+    summary: "The Philly branch of Spirit of May 28th, a radical faction working to keep the flames and passion of the 2020 uprisings still burning. Posts mostly related to ongoing anarchist struggles; Cop City, political prisoner support, local anarchist events, etc.",
+    insta: "https://www.instagram.com/fragments.215",
+    suggestedFollow: "Insta",
+  },
+  {
+    title: "Firefly Action Medical",
+    summary: "“Philly street medics. Collective since 2014. Provide medical support at free health clinics, direct actions, activist camps, street protests, and disaster relief mobilizations.“ Give 20 hour street medic training courses.",
+    mainLink: "https://fireflyactionmedical.wordpress.com",
+    insta: "https://www.instagram.com/fireflyactionmedical",
+    suggestedFollow: "Insta (training courses book fast)"
+  },
   {
     title: "The Drunken Clam",
     summary: "A very short lived college house DIY spot. First show April 2025, last show end of May 2025. Emo and metalcore amongst other genres. The o",
@@ -722,13 +812,14 @@ export const CYCLING = [
     summary: "Monthly rides, ~10 miles, at late evening to early night start, usually end of the month, often on a Friday. Ride route and end location vary. Rest & chill spot half-way, then ride to end point.",
     facebook: "https://www.facebook.com/phillybikeride",
     insta: "https://www.instagram.com/nightcycle_phl",
-    suggestedFollow: "FB (insta not often updated)",
+    suggestedFollow: "FB (more often updated)",
   },
   {
     title: "Philly Full Moon Bike Ride",
     summary: "“A monthly ride and evening of fun, debauchery, and cycling solidarity as we take in the city streets under the full moon.” Generally meets at art museum.",
     facebook: "https://www.facebook.com/groups/156618137847919",
-    suggestedFollow: "FB",
+    insta: "https://www.instagram.com/phillyfullmoonride/",
+    suggestedFollow: "FB (more often updated)",
   },
   {
     title: "Philly Bike Party",
@@ -1025,6 +1116,14 @@ export const FILMHORROR = [
     suggestedFollow: "Insta",
   },
   {
+    title: "Horror Invasion Weekend",
+    summary: "The start of spooky season along with PUFF (the best indie film fest in Philadelphia) each last weekend of September. The sucessor of Media Fright Fest. “Spend the WEEKEND celebrating everything horror, gothic, and macabre in Media, PA.“ Vendor market, film festival, and horror guests and speakers",
+    mainLink: "https://www.delcohorrorhaven.org",
+    facebook: "https://www.facebook.com/delcohorrorhaven",
+    insta: "https://www.instagram.com/delcohorrorhaven",
+    suggestedFollow: "FB (more updated)",
+  },
+  {
     title: "Philadelphia / suburbs Horror Fans UNITE!",
     summary: "FB group that is good for finding playing horror movies, festivals, etc..",
     mainLink: "https://www.facebook.com/groups/phillyhorror/",
@@ -1291,6 +1390,11 @@ export const GENERAL = [
     summary: "Cool things in Philly poster via their weekly posts of 'cool things happening in Philly this week / weekend' posts on IG. Live music, cinema in the cemetary, art markets, seed swaps, film, and more.",
     insta: "https://www.instagram.com/froggyhaus",
   },
+  {
+    title: "hall pass",
+    summary: "“hall pass is a 600-foot shared artist-powered, multidisciplinary project space at 319 N 11th St. Plays, films, stiching classes, sip & sketch, First Fridays, performance art, theater workshops, community art galleries & markets, live music, dance parties, burlesque, and more.”",
+    insta: "https://www.instagram.com/hallpasshallpasshallpass"
+  }
 ];
 
 export const GREENGARDENS = [
@@ -1698,7 +1802,7 @@ export const LITERATURE = [
 
 export const MUSICABOVEPHILLY = [
   {
-    title: "Cousin Danny’s Lounge",
+    title: "Cousin Danny's Lounge",
     summary: "“West Philly DIY.” A bar, but more DIY than bar. A two flat converted into a space. Lots of metal, hardcore, etc..",
     insta: "https://www.instagram.com/cousindannyslounge/",
   },
@@ -1708,7 +1812,6 @@ export const MUSICABOVEPHILLY = [
     facebook: "https://www.facebook.com/centuryphila/",
     insta: "https://www.instagram.com/centuryphila/",
   },
-  
   {
     title: "Ortlieb's",
     summary: "North Philly dive bar and restaurant. Local bands, DJs, karaoke Tuesdays, dance parties.",
@@ -1754,6 +1857,13 @@ export const MUSICABOVEPHILLY = [
     title: "FU Church",
     summary: "First Unitarian Church of Philadelphia. Semi-frequent punk, hardcore, other, shows. Also home of the Philadelphia Animation Society. Located in a busy spot in Center City so ride a bike to avoid paying for expensive parking. Watch local promoters for shows.",
     subLink: "https://www.songkick.com/venues/10848-first-unitarian-church",
+  },
+  {
+    title: "Khyber Pass Pub",
+    summary: "Pub at Penn's Landing that serves full meals, beer, and wine, with occasional local shows and electronic events.",
+    mainLink: "https://www.khyberpasspub.com/",
+    facebook: "https://www.facebook.com/KhyberPhilly",
+    insta: "https://www.instagram.com/khyberpasspub/",
   },
   {
     title: "Ukie Club",
@@ -1890,13 +2000,6 @@ export const MUSICABOVEPHILLY = [
     summary: "Dive bar about 45 mins away from Center City in Ardmore. Hosts a lot of local metal, harcore, and alt shows.",
     mainLink: "http://www.thenail1.com",
     facebook: "https://www.facebook.com/The-Rusty-Nail-199449793458045/",
-  },
-  {
-    title: "Khyber Pass Pub",
-    summary: "Pub at Penn's Landing that serves full meals, beer, and wine, with occasional local shows and electronic events.",
-    mainLink: "https://www.khyberpasspub.com/",
-    facebook: "https://www.facebook.com/KhyberPhilly",
-    insta: "https://www.instagram.com/khyberpasspub/",
   },
   {
     title: "Tin Can Bar",
@@ -2102,7 +2205,11 @@ export const MUSICBLUEGRASS = [
     insta: "https://www.instagram.com/gettysburgbluegrass/",
     suggestedFollow: "Check for dates in early spring and summer",
   },
-
+  {
+    title: "Snipes Farm",
+    summary: "Located 40 mins from Center City, Snipes Farm is sanctuary for deadheads. With bands like Friends of Jerry, Steal Your Face, Reality Check, and Riko and the Whaler Collective, Snipes is a prime place for music healing. Events often have multiple stages",
+    insta: "https://www.instagram.com/musicatsnipes",
+  },
 ];
 
 export const MUSICCLASSICAL = [ {} ];
@@ -2124,11 +2231,6 @@ export const MUSICDIYCOLLECTIVESPHL = [
     mainLink: "https://philly.askapunk.net",
     insta: "https://www.instagram.com/flyers.fan215/",
     suggestedFollow: "",
-  },
-  {
-    title: "House Show Philly",
-    summary: "“Upcoming philly diy show masterlist, woman owned (she/her), updated every wednesday.“ Also organizes shows. THE place for checking upcoming DIY (and small above ground venue) shows. A great testament to how active Philly DIY is.",
-    insta: "https://www.instagram.com/houseshowphilly/",
   },
   {
     title: "Ratpie",
@@ -2380,6 +2482,11 @@ export const MUSICDIYCOLLECTIVESPHL = [
     insta: "https://www.instagram.com/fortressphl",
   },
   {
+    title: "Zook Productions",
+    summary: "Zook Productions books DIY shows and shoots DIY shows (show photographer turned show organizer). His IG has a nice collection of shows at many now closed venues, like the Trash Heap, The Alley, and Our House. Books mostly grindcore, powerviolence, metalcore, deathcore, screamo, death, hardcore, emoviolence, and related.",
+    insta: "https://www.instagram.com/zookproductions/",
+  },
+  {
     title: "Cosmic Art Studios",
     summary: "“Creative Community Space in Pottstown, Pa.” (1 hr out of Philly). Tea bar. Dance events. Local markets. Lounge. Balcony with bar. Another event space on second floor. Art nights. Monthly “shindigs.” Local music. Yoga, sound healing, art classes, open mic, drum circles.",
     mainLink: "https://www.cosmicarts.org/",
@@ -2488,48 +2595,34 @@ export const MUSICDIYGENPHL = [
 
 export const MUSICDIYSPOTSPHL = [
   {
+    title: "The Pouch",
+    summary: "West Philly house venue. “Basement venue, down a flight of stairs.” Frequent shows, even in winter, and staple of the Philly DIY scene. 15 years in 2025!",
+    insta: "https://www.instagram.com/thepouchphl",
+  },
+  {
     title: "Cambria House",
     summary: "“DIY music space, art collective, & home to hundreds in Kensington since 2006.” Rare shows. A-Team.",
     insta: "https://www.instagram.com/cambriaphl/",
   },
   {
-    title: "The Sanctuary",
-    summary: "West Philly studio in a basement. Hardcore, punk, death metal, black metal, metal punk, d-beat, punk n roll, thrash punk, raw punk, rock, dungeon synth, grindcore, crust punk, noise, etc.. Gutteral growls and weeping guitars in the dungeon.",
-    facebook: "https://www.instagram.com/the_sanctuary_phl",
+    title: "Tralfamadore",
+    summary: "South Philly house venue. In August of 2015, Tralfamadore House was founded. This space serves as a recording [and show] space until an unknown time. Some say Tralfamadore House has no end, and that it only ends when the pursuit for community or pursuit of bliss dies in ones heart.",
+    insta: "https://www.instagram.com/tralfamadore.southphilly/",
   },
   {
     title: "Luigi’s Mansion",
     summary: "W Philly house venue since 2019. Dance parties, punk, indie, noise pop, etc. Lots of art rock, but metal and hardcore, too. “suffer in the basement...“",
-    subLink: "https://www.youtube.com/channel/UC5fxGTTkZwBkIygnNdx0hQA",
-    facebook: "https://www.facebook.com/LuigisMansionPHL",
     insta: "https://www.instagram.com/luigismansionphl",
-  },
-  {
-    title: "Onion Transfer",
-    summary: "West Philly house venue. Formerly Union Transfer II, Lucky Aide, Couchtown, Hole Foods, Cosmos, etc.. “Multi purpose art empowerment space. Cease and desisted West Philly DIY venue, now legally distinct",
-    insta: "https://www.instagram.com/onion.transfer/",
-  },
-  {
-    title: "The Pouch",
-    summary: "West Philly house venue. “Basement venue, down a flight of stairs.” Frequent shows, even in winter, and staple of the Philly DIY scene.",
-    insta: "https://www.instagram.com/thepouchphl",
   },
   {
     title: "The Vat",
     summary: "A North Philly space that has been around for over 10 years, now. No social media, but watch local DIY show aggregators (ex. House Show Philly) for shows there.",
   },
   {
-    title: "Tralfamadore",
-    summary: "South Philly house venue. “Performance and Recording Space since 2015”.",
-    insta: "https://www.instagram.com/tralfamadore.southphilly/",
-  },
-  {
     title: "The Machine",
     summary: "House venue and art collective. Since 2021. Very active, putting together consistent stream of DIY and above ground shows. A key promoter for local electronic shows.",
-    twitter: "https://twitter.com/themachinephl",
     insta: "https://www.instagram.com/themachinephilly",
   },
-  
   {
     title: "The Stoop",
     summary: "North Philly warehouse spot. “hosting + booking Art Marts. DIY north philly block concerts. women operated” Art marts hosted at various DIY venues. Partnered with Philadelphia Psychedelic and home to many psy shows.",
@@ -2555,11 +2648,6 @@ export const MUSICDIYSPOTSPHL = [
     mainLink: "https://www.youtube.com/watch?v=tPvTyEov2ZE",
   },
   {
-    title:"Angies’s in West",
-    insta: "https://www.instagram.com/angieswestphilly", 
-    summary: "West Philly house venue. Indie rock, post-punk, noise rock, garage rock, punk, noise pop, hyperpop, breakcore, DnB, cybergrind, etc. Occassional benefit shows (ex. Palestine, trans mutual aid). Since July 2023",
-  },
-  {
     title: "Fumblin’ Perkins’ Underpass",
     summary: "“Port Richmond's finiest.“ Accoustic, indie rock, psy rock, conscious hip-hop, math rock, synthwave, etc. First show March 2022.",
     insta: "https://www.instagram.com/fumblinperksphl/",
@@ -2569,12 +2657,6 @@ export const MUSICDIYSPOTSPHL = [
     summary: "W Philly venue started summer '22'. “Hey everyone, we're a new house show spot in West Philly near Drexel. Our name is inspired by the Studio Ghibli film, 'Howl's Moving Castle.' We offer a space for local artists to perform. We host all kinds of shows!”",
     subLink: "https://www.youtube.com/channel/UCQXu8LCQUZqXA7lgc7Ocmbg",
     insta: "https://www.instagram.com/howls_castle_phila/",
-  },
-
-  {
-    title: "Hush House",
-    summary: "South Philly house venue w/ first show NYE 21. Can be a long time in between shows (many months).",
-    insta: "https://www.instagram.com/hushhousephilly",
   },
   {
     title: "The Kitchenette",
@@ -2590,13 +2672,7 @@ export const MUSICDIYSPOTSPHL = [
   {
     title: "The Snake Pit",
     summary: "“PUNK, METAL, & HARDCORE SINCE 2017 NO METALCORE NONSENSE. Ask a ghoul/corpse/rocker.” North Philly with garage shows. Home of The Rocker Show. Hardcore, noise, grindcore, d-beat, metal punk, death metal, etc..",
-    subLink: "https://www.youtube.com/watch?v=8-MAPo5gylE&list=RD8-MAPo5gylE",
     insta: "https://www.instagram.com/snakepit_philly/",
-  },
-  {
-    title: "The Wvrmhole",
-    summary: "West Philly house venue. ”Music and Dance in Filthadelphia” Since Oct '22. Has thrown other events also, such as 'pop up club and kink party.'",
-    insta: "https://www.instagram.com/wvrmhole.philly/",
   },
   {
     title: "The Roof",
@@ -2609,22 +2685,12 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/tgh_philly/",
   },
   {
-    title: "Cantaloupe Kingdom",
-    summary: "“Welcome to South Philly's newest house venue. We are an inclusive no hate space catering to diy musicians! Formerly JHQ.” Basement venue started late Aug ‘22.",
-    insta: "https://www.instagram.com/cantaloupekingdom/",
-  },
-  {
-    title: "The Kensington Palace",
-    summary: "Warehouse loft venue with a decent amount of space. A lot of hardcore, punk, emo, screamo, shoegaze, post-hardcore, etc.",
-    insta: "https://www.instagram.com/the_palace_215/",
-  },
-  {
     title: "The Kennel",
     summary: "“trans-operated west philly diy venue, est. Feb 2024. Shows are monthly.“ Basement venue. Philly shitgaze, Philly basketballshots core, cybergrind, moemoe anime and vidya tracks, post-hardcore, screamo, noise, etc.",
     insta: "https://www.instagram.com/kennelphilly/",
   },
   {
-    title: "Mini Mart",
+    title: "MiniMart",
     summary: "West philly house venue. Shows, art mart, DIY drag show extravaganza. Experimental, electronic, noise, rock, ambient, no wave, hardcore, hip hop, shoegaze, dance.",
     insta: "https://www.instagram.com/minimart.phl/",
   },
@@ -2650,18 +2716,13 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/zappfactory/",
   },
   {
-    title: "LittleBigPlanet",
-    summary: "“a south philly basement venue hidden in plain sight. limited capacity special engagements. no cops, no terfs, no guns, no creeps.“ Est. Feb 2023.",
+    title: "Little Big Planet",
+    summary: "Previously, “a south philly basement venue hidden in plain sight,“ now a center city space, “located above The Hayes.“ limited capacity special engagements. no cops, no terfs, no guns, no creeps.“ Est. Feb 2023.",
     insta: "https://www.instagram.com/lbp.phl/",
   },
   {
-    title: "Nightmair and Percy’s",
-    summary: "“south philly folk venue. no zionists. no bigots. no bullshit. “ New venue started April 2024.",
-    insta: "https://www.instagram.com/nightmairandpercysphl/",
-  },
-  {
     title: "Bond Villain",
-    summary: "Long running North Philly warehouse venue. Dreampop, post-punk, reggae, techno, analog VJ's, and more. Food, drinks, karaoke, dodgeball, and good vibes. Infrequent shows. Usually still has annual Halloween shows.",
+    summary: "Long running North Philly warehouse venue. Dreampop, post-punk, reggae, techno, analog VJ's, and more. Food, drinks, karaoke, dodgeball, and good vibes. Infrequent shows. Annual Halloween shows.",
     insta: "https://www.instagram.com/bond.villain/",
   },  
   {
@@ -2674,65 +2735,9 @@ export const MUSICDIYSPOTSPHL = [
     insta: "https://www.instagram.com/thecafphilly/",
   },
   {
-    title: "The Shire",
-    summary: "“North Philly House Show Venue 🧙‍♂️ 🌳“ New venue stated April 2024.",
-    insta: "https://www.instagram.com/theshire.phl/",
-  },
-  {
     title: "The Litterbox",
-    summary: "“brewerytown house venue.“ New venue in 2024, first show in April, then another one in October.",
+    summary: "“brewerytown house venue“ on the Drexel campus. New venue in 2024, first show in April, then another one in October.",
     insta: "https://www.instagram.com/litterbox.phl/",
-  },
-  {
-    title: "Kinda Pink",
-    summary: "“North Philly House Venue“ Opened Sept 2023. All types of genres, including rap. Jam sessions.",
-    insta: "https://www.instagram.com/kindapink.phl/",
-  },
-  {
-    title: "Neon Jungle",
-    summary: "Cecil Records basement venue. Successor of The Sink, which closed Aug ‘22. Innactive since spring 2024.",
-    insta: "https://www.instagram.com/neonjunglephilly/",
-  },
-  {
-    title: "Detour Philly",
-    summary: "“west philly house venue in west philly. we host cool bands and believe in being true to ourselves, beyond boundaries.” Started summer '21. Infrequent shows.",
-    insta: "https://www.instagram.com/DetourPhilly/",
-  },
-  {
-    title:"Titus’ Funeral Home",
-    summary: "“south philly’s #1 gig-funeral-fish emporium.“ Flat venue. First show Dec '22, and only throws about one or two shows a year, so far. Innactive since spring 2024.",
-    insta: "https://www.instagram.com/titus.funeralhome/",
-  },
-  {
-    title: "Devil’s Garden.",
-    summary: "“a queer/trans/polyam led rooftop party & music venue in South Philly. Come dance, jam, grow, play & find community! BYOB”",
-    insta: "https://www.instagram.com/devilsgardenphilly/",
-  },
-  {
-    title: "Stupid Baby’s House",
-    summary: "“diy venue mantua phl. owned and operated by someone born yesterday.“ Booker, also. F.K.A The Psychedelic Jungle.",
-    insta: "https://www.instagram.com/stupidbabyphl/",
-  },
-  {
-    title: "Candy Jail",
-    summary: "East Kensington / Fishtown basement spot. *booking closed* / on smoke break 🚬 as of May 2024.",
-    insta: "https://www.instagram.com/candyjailphl/",
-  },
-  {
-    title: "The Ankle Pit",
-    summary: "“𝚚𝚞𝚎𝚎𝚛 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚜𝚑𝚘𝚠𝚌𝚊𝚜𝚎 𝚒𝚗 𝚠𝚎𝚜𝚝 𝚙𝚑𝚒𝚕𝚕𝚢, 𝚋𝚛𝚘𝚞𝚐𝚑𝚝 𝚝𝚘 𝚢𝚘𝚞 𝚋𝚢 𝚖𝚒𝚕𝚘 𝚗 𝚖𝚓. 𝚃𝚑𝚎𝚛𝚎𝚜 1 𝚌𝚊𝚝 𝚑𝚎𝚛𝚎, 𝚊𝚗𝚍 𝚠𝚎 𝚑𝚊𝚟𝚎 𝚑𝚟𝚊𝚌. 𝙳𝚒𝚍 𝚠𝚎 𝚖𝚎𝚗𝚝𝚒𝚘𝚗 𝚠𝚎'𝚛𝚎 𝚚𝚞𝚎𝚎𝚛“ NOTAFLOF. Started May 2023. Basement spot.",
-    insta: "https://www.instagram.com/theanklepit/",
-  },
-  {
-    title: "Legoland",
-    summary: "North Philly house venue. Closed late summer ‘22 then reopened at new location. Dance events and house raves. Hip hop, also. Has thrown warehouse events too.",
-    insta: "https://www.instagram.com/legolandphl",
-  },
-  {
-    title: "Big Farma",
-    summary: "“West Philly House Venue!” Started summer 2022. Run by 4333 Collective.",
-    subLink: "https://www.instagram.com/4333collective ",
-    facebook: "https://www.facebook.com/4333collective ",
   },
   {
     title: "PJ's Playhouse",
@@ -2758,6 +2763,46 @@ export const MUSICDIYSPOTSPHL = [
     title: "Greenhaus",
     summary: "New Philly venue circa July 2025.  Basement spot in North Philly. Rock, pop, folk, singer-songwriter, post-punk, shoegaze. NOTAFLOF.",
     insta: "https://www.instagram.com/greenhaus.phl/",
+  },
+  {
+    title: "Baba's Garden",
+    summary: "“✨🪴Magical backyard (and sometimes house) shows in West Philly🪴✨ DM for address -notaflof-“ Ethereal voices, fantastic fits, fire pits, and talented artists. Since July '23.",
+    insta: "https://www.instagram.com/babasmagicgarden/",
+  },
+  {
+    title: "Florida, Philadelphia",
+    summary:"A backyard spot run by show promoter Paul Bunyan Presents. Likes to mix it up a lot with everything from cowboy themed show, a backyard BBQ show, and even a community yard sale.",
+    insta: "https://www.instagram.com/paulbunyanphl/",
+  },
+  {
+    title: "Dead Birds",
+    summary: "A University City basement college venue opened in Sept 2025. Indie, shoegaze, post-punk, alternative, emo, slowcore, etc.",
+    insta: "https://www.instagram.com/deadbirdsphl"
+  },
+  {
+    title: "BOHEMIA",
+    summary: "“Bohemia is an artist’s dream. A house show unlike others that encourages and supports interdisciplinary acts of a wide variety. Come and share your gifts with a house full of Bohemians that will support you unconditionally. No frats, no crazy prices, just art.“ Started Fall 2025.",
+    insta: "https://www.instagram.com/bohemiaphilly/"
+  },
+  {
+    title: "The Silo",
+    summary: "College basement spot started Fall 2025. Emo, screamo, alt rock, folk, power metal, hardcore, post-hardcore, and more.",
+    insta: "https://www.instagram.com/thesilophl"
+  },
+  {
+    title: "Onion Transfer",
+    summary: "West Philly house venue. Formerly Union Transfer II, Lucky Aide, Couchtown, Hole Foods, Cosmos, etc.. “Multi purpose art empowerment space. Cease and desisted West Philly DIY venue, now legally distinct",
+    insta: "https://www.instagram.com/onion.transfer/",
+  },
+  {
+    title: "The Wvrmhole",
+    summary: "West Philly house venue. ”Music and Dance in Filthadelphia” Since Oct '22. Has thrown other events also, such as 'pop up club and kink party.'",
+    insta: "https://www.instagram.com/wvrmhole.philly/",
+  },
+  {
+    title: "Nightmair and Percy’s",
+    summary: "“south philly folk venue. no zionists. no bigots. no bullshit. “ New venue started April 2024.",
+    insta: "https://www.instagram.com/nightmairandpercysphl/",
   },
 ];
 
@@ -2881,6 +2926,13 @@ export const MUSICHIPHOP = [
     title: "Temple Breakers",
     summary: "”Temple University's ELITE breakdancing group. Established in 2010.” Open practice, classes, and battles.",
     insta: "https://www.instagram.com/templebreakers",
+  },
+  {
+    title: "Movemakers Philly",
+    summary: "”Movemakers Philly offers in-depth hip hop dance instruction and training for youth.” Classes included hip hop, breaking, locking, vogue, parkour, martial arts, and more.",
+    mainLink: "https://www.movemakersphilly.com",
+    facebook: "https://www.facebook.com/movemakersphilly",
+    insta: "https://www.instagram.com/movemakersphilly",
   },
 ];
 
@@ -3168,10 +3220,6 @@ export const DATAWIP = [
     insta: "https://www.instagram.com/antiflowershowmovement/",
   },
   {
-    title: "Zook Productions",
-    insta: "https://www.instagram.com/zookproductions/",
-  },
-  {
     title: "Toxic Femme",
     insta: "https://www.instagram.com/toxicfemme666/",
   },
@@ -3342,10 +3390,6 @@ export const DATAWIP = [
     title: "Broad Hall"
   },
   {
-    title: "Fortress",
-    insta: "https://www.instagram.com/fortressphl/",
-  },
-  {
     title: "Small Works Gallery",
     insta: "https://www.instagram.com/smallworksphilly"
   },
@@ -3358,20 +3402,18 @@ export const DATAWIP = [
     insta: "https://www.instagram.com/sazonpartyphl",
   },
   {
-    title: "Snipes Farm",
-    insta: "https://www.instagram.com/musicatsnipes",
-  },
-  {
-    title: "Annual Delco Horror Invasion Weekend",
-    mainLink: "https://www.simpletix.com/e/2nd-annual-delco-horror-haven-invasion-ven-tickets-221613"
-  },
-  {
     title: "Bikeout Co",
     insta: "https://www.instagram.com/bikeoutco/"
   },
   {
     insta: "https://www.instagram.com/queerspacephilly/"
   },
+  {
+    title: "The Met",
+  },
+  {
+    title: "Solar Myth",
+  }
 ];
 
 export const TEMP = [

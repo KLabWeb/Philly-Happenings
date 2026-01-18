@@ -1,5 +1,182 @@
 export const UPDATES = [
         {
+            header: "01/18/2026",
+            categoryUpdateLists: [
+                {
+                    type: "Bluegrass & Jam Band:",
+                    updateList: [
+                        {
+                            label: "Snipes Farm",
+                            href: "https://www.instagram.com/musicatsnipes",
+                        },
+                    ]
+                },
+                {
+                    type: "DIY Community & Art Space",
+                    updateList: [
+                        {
+                            label: "hall pass",
+                            href: "https://www.instagram.com/hallpasshallpasshallpass",
+                        },
+                    ]
+                },
+                {
+                    type: "DIY Music Spot",
+                    updateList: [
+                        {
+                            label: "The Silo",
+                            href: "https://www.instagram.com/thesilophl",
+                        },
+                        {
+                            label: "Florida, Philadelphia",
+                            href: "https://www.instagram.com/paulbunyanphl",
+                        },
+                        {
+                            label: "Baba's Garden",
+                            href: "https://www.instagram.com/babasmagicgarden",
+                        },
+                        {
+                            label: "BOHEMIA",
+                            href: "https://www.instagram.com/bohemiaphilly",
+                        },
+                        {
+                            label: "Dead Birds",
+                            href: "https://www.instagram.com/deadbirdsphl",
+                        }
+                    ]
+                },
+                {
+                    type: "Show Booker",
+                    updateList: [
+                        {
+                            label: "Zook Productions",
+                            href: "https://www.instagram.com/zookproductions",
+                        },
+                    ]
+                },
+                {
+                    type: "Horror Fest",
+                    updateList: [
+                        {
+                            label: "Horror Invasion Weekend",
+                            href: "https://www.instagram.com/delcohorrorhaven",
+                        },
+                    ]
+                },
+                {
+                    type: "Community Farming",
+                    updateList: [
+                        {
+                            label: "Re-Entry Community Farm",
+                            href: "https://www.instagram.com/reentrycommunityfarm",
+                        },
+                    ]
+                },
+                {
+                    type: "Hip Hop Dance",
+                    updateList: [
+                        {
+                            label: "Movemakers Philly",
+                            href: "https://www.instagram.com/movemakersphilly"
+                        }
+                    ]
+                },
+                {
+                    type: "Closed/Dead Spaces & Groups",
+                    updateList: [
+                        {
+                            label: "Firefly Action Medical",
+                            href: "https://www.instagram.com/fireflyactionmedical",
+                        },
+                        {
+                            label: "fragments.215",
+                            href: "https://www.instagram.com/fragments.215",
+                        },
+                        {
+                            label: "Viscera Print Goods and Ephemera",
+                            href: "https://www.instagram.com/viscera_pvd",
+                        },
+                        {
+                            label: "Chibi Café",
+                            href: "https://www.instagram.com/chibi_cafe_co",
+                        },
+                        {
+                            label: "The Sanctuary",
+                            href: "https://www.instagram.com/the_sanctuary_phl",
+                        },
+                        {
+                            label: "Angies’s in West",
+                            href: "https://www.instagram.com/angieswestphilly",
+                        },
+                        {
+                            label: "Hush House",
+                            href: "https://www.instagram.com/hushhousephilly",
+                        },
+                        {
+                            label: "Cantaloupe Kingdom",
+                            href: "https://www.instagram.com/cantaloupekingdom",
+                        },
+                        {
+                            label: "The Kensington Palace",
+                            href: "https://www.instagram.com/the_palace_215",
+                        },
+                        {
+                            label: "The Shire",
+                            href: "https://www.instagram.com/theshire.phl",
+                        },
+                        {
+                            label: "Kinda Pink",
+                            href: "https://www.instagram.com/kindapink.phl",
+                        },
+                        {
+                            label: "Neon Jungle",
+                            href: "https://www.instagram.com/neonjunglephilly",
+                        },
+                        {
+                            label: "Detour Philly",
+                            href: "https://www.instagram.com/DetourPhilly",
+                        },
+                        {
+                            label:"Titus’ Funeral Home",
+                            href: "https://www.instagram.com/titus.funeralhome",
+                        },
+                        {
+                            label: "Stupid Baby’s House",
+                            href: "https://www.instagram.com/stupidbabyphl",
+                        },
+                        {
+                            label: "Devil's Garden",
+                            href: "https://www.instagram.com/devilsgardenphilly",
+                        },
+                        {
+                            label: "Candy Jail",
+                            href: "https://www.instagram.com/candyjailphl/",
+                        },
+                        {
+                            label: "The Ankle Pit",
+                            href: "https://www.instagram.com/theanklepit",
+                        },
+                        {
+                            label: "House Show Philly",
+                            href: "https://www.instagram.com/houseshowphilly",
+                        },
+                        {
+                            label: "Legoland",
+                            href: "https://www.instagram.com/legolandphl",
+                        },
+                        {
+                            label: "Big Farma",
+                            href: "https://www.instagram.com/4333collective",
+                        },
+                        {
+                            label: "House Show Philly",
+                            href: "https://www.instagram.com/houseshowphilly",
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             header: "08/16/2025",
             categoryUpdateLists: [
                 {
