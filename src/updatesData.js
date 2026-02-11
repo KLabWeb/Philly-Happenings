@@ -1,5 +1,19 @@
 export const UPDATES = [
         {
+            header: "02/11/2026",
+            categoryUpdateLists: [
+                {
+                    type: "Closed Above Ground Music Venue:",
+                    updateList: [
+                        {
+                            label: "The Foto Club",
+                            href: "https://www.instagram.com/fotoclubofficial/",
+                        }
+                    ]
+                },
+            ]
+        },      
+        {
             header: "01/18/2026",
             categoryUpdateLists: [
                 {

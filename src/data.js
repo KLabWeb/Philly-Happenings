@@ -294,6 +294,13 @@ export const ANIMEPHILLY = [
 
 export const CLOSED = [
   {
+    title: "The Foto Club",
+    summary: "“A members only social club,” open Weds thru Sun 7pm-3am. Large open bar area, with food truck and fire pit in back, bar inside. Some public shows, mostly punk and hardcore. Some metal, emo.",
+    mainLink: "https://www.thefotoclub.com/",
+    facebook: "https://www.facebook.com/thefotoclubofficial/",
+    insta: "https://www.instagram.com/fotoclubofficial/",
+  },
+  {
     title: "House Show Philly",
     summary: "“Upcoming philly diy show masterlist, woman owned (she/her), updated every wednesday.“ Also organizes shows. THE place for checking upcoming DIY (and small above ground venue) shows. A great testament to how active Philly DIY is.",
     insta: "https://www.instagram.com/houseshowphilly",
@@ -1957,13 +1964,6 @@ export const MUSICABOVEPHILLY = [
     insta: "https://www.instagram.com/franklinmusichall",
   },
   {
-    title: "The Foto Club",
-    summary: "“A members only social club,” open Weds thru Sun 7pm-3am. Large open bar area, with food truck and fire pit in back, bar inside. Some public shows, mostly punk and hardcore. Some metal, emo.",
-    mainLink: "https://www.thefotoclub.com/",
-    facebook: "https://www.facebook.com/thefotoclubofficial/",
-    insta: "https://www.instagram.com/fotoclubofficial/",
-  },
-  {
     title: "Union Transfer",
     summary: "Larger small size venue. All types of music.",
     mainLink: "https://utphilly.com/",
@@ -2273,7 +2273,7 @@ export const MUSICDIYCOLLECTIVESPHL = [
   },
   {
     title: "Yarga Presents",
-    summary: "The Haus may be gone, but Yarga is still putting together shows at spots like Cousin Danny's, Ortlieb's, Foto Club, and DIY spots like Howl's Castle, The Pouch, and Orpheus' Garden.",
+    summary: "The Haus may be gone, but Yarga is still putting together shows at spots like Nikki Lopez, Cousin Danny's, Ortlieb's, and DIY spots like Howl's Castle, The Pouch, and Orpheus' Garden.",
     insta: "https://www.instagram.com/yargapresents/",
     facebook: "https://www.instagram.com/yargapresentsbackupaccount/"
   },
